@@ -129,6 +129,16 @@
       "first_seen": "2026-10-06",
       "pdf_downloaded": true,
       "statement_or_summary": "Summary"
+    },
+    "K262015": {
+      "applicant": "Elucid Bioimaging, Inc.",
+      "company": "elucid",
+      "decision_date": "2026-09-29",
+      "device_name": "Elucid FFR-IQ (B.1)",
+      "expects_pdf": true,
+      "first_seen": "2026-10-13",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
     }
   }
 }
