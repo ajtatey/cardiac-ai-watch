@@ -1795,25 +1795,25 @@
  "pubmed:42885787": {
   "first_seen": "2026-10-16T17:43:06+00:00",
   "path": "data/events/pubmed/pubmed_42885787.json",
-  "priority": null,
+  "priority": "P2",
   "source": "pubmed",
-  "status": "new",
+  "status": "triaged",
   "title": "Residual Cardiovascular Risk Beyond Coronary Physiology: Complementary Prognostic Value of Trimethylamine N-Oxide in Patients Undergoing Coronary Computed Tomog"
  },
  "pubmed:42886144": {
   "first_seen": "2026-10-16T17:43:06+00:00",
   "path": "data/events/pubmed/pubmed_42886144.json",
-  "priority": null,
+  "priority": "P2",
   "source": "pubmed",
-  "status": "new",
+  "status": "triaged",
   "title": "Coronary Visual Intelligence System (CorVIS) Guided Complex Percutaneous Coronary Intervention."
  },
  "pubmed:42886152": {
   "first_seen": "2026-10-16T17:43:06+00:00",
   "path": "data/events/pubmed/pubmed_42886152.json",
-  "priority": null,
+  "priority": "P3",
   "source": "pubmed",
-  "status": "new",
+  "status": "triaged",
   "title": "Left Ventricular Filling Pressure Classification by Electrocardiogram, Echocardiography, and Catheterization: Prognostic Implications."
  },
  "rss:0075e4b82f55c6ed": {

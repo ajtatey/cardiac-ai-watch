@@ -1,4 +1,5 @@
 {
+ "alerted_at": null,
  "category": "clinical",
  "collected_at": "2026-10-16T17:43:06+00:00",
  "extra": {
@@ -41,9 +42,25 @@
   "score": 16
  },
  "published": "2026-10-16",
+ "reported_in": null,
  "source": "pubmed",
- "status": "new",
+ "status": "triaged",
  "summary": "Journal of the American Heart Association. Shao B, Zhang R, Guo J, Li X, Liu GA, Liu F. Coronary computed tomography (CT) angiography with CT-derived fractional flow reserve (CT-FFR) enables noninvasive identification of flow-limiting coronary stenosis and is widely used for risk assessment. However, adverse cardiovascular events still occur in a subset of patients without functionally significant ischemia, suggesting that physiological assessment alone may not fully capture patient-level risk. We aimed to evaluate whether circulating trimethylamine N-oxide (TMAO), a gut microbiota-derived biomarker, provides complementary prognostic information. In this biobank-linked retrospective cohort study, 3978 patients undergoing clinically indicated coronary CT angiography with CT-FFR assessment were included. Serum TMAO concentrations were measured from cryopreserved samples obtained within ±30 days of imaging. Patients were stratified into high and low TMAO groups according to the receiver operating characteristic-derived threshold. The primary end point was major adverse cardiac and cerebrovascular events during a median follow-up of ∼3 years. Multivariable Cox models evaluated associations between TMAO and outcomes, and incremental prognostic value beyond clinical variables and CT-FFR was assessed. Event rates were similar across physiological strata (10.6% for CT-FFR ≤0.80 versus 10.0% for CT-FFR >0.80), indicating outcome heterogeneity beyond ischemia status. Higher TMAO levels were independently associated with major adverse cardiac and cerebrovascular events after adjustment for clinical covariates and CT-FFR (hazard ratio, 1.82 [95% CI, 1.44-2.31]; P<0.001). Addition of TMAO improved discrimination after bootstrap optimism correction (C-index 0.552-0.591). Among patients with preserved CT-FFR, elevated TMAO identified a subgroup with higher event rates, whereas patients with preserved CT-FFR and low TMAO had the most favorable prognosis. Physiological assessment and clinical outcomes are not synonymous in patients undergoing coronary CT angiography. Circulating TMAO provides complementary prognostic information and refines risk stratification, particularly among individuals without functionally significant ischemia. Integrating systemic biomarkers with coronary physiological assessment may improve individualized risk evaluation beyond imaging alone.",
  "title": "Residual Cardiovascular Risk Beyond Coronary Physiology: Complementary Prognostic Value of Trimethylamine N-Oxide in Patients Undergoing Coronary Computed Tomography Angiography With Computed Tomography-Derived Fractional Flow Reserve.",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "Retrospective biobank cohort of 3,978 patients undergoing CCTA with CT-FFR found event rates similar across CT-FFR strata (10.6% vs 10.0%). Serum TMAO added incremental prognostic information for MACCE beyond clinical variables and CT-FFR over ~3 years.",
+  "tags": [
+   "clinical",
+   "ct-ffr",
+   "ccta",
+   "prognosis"
+  ],
+  "triaged_at": "2026-10-16T17:52:24+00:00",
+  "triaged_by": "agent:claude-sonnet-5-5",
+  "why_it_matters": "Supports the argument that physiology alone (FFR-CT) leaves residual risk unexplained, which fits the case for plaque-based risk assessment such as AI-QCT as a complement."
+ },
  "url": "https://pubmed.ncbi.nlm.nih.gov/42885787/"
 }

@@ -1,4 +1,5 @@
 {
+ "alerted_at": null,
  "category": "clinical",
  "collected_at": "2026-10-16T17:43:06+00:00",
  "extra": {
@@ -39,9 +40,26 @@
   "score": 7
  },
  "published": "2026-10-16",
+ "reported_in": null,
  "source": "pubmed",
- "status": "new",
+ "status": "triaged",
  "summary": "JACC. Case reports. Wang D, Gao Q, Liu X, Tian J, Zhang Z, Li Y. Coronary computed tomography angiography (CCTA) is usually displayed in 2-dimensional planes with few fixed 3-dimensional (3D) views, which may limit appreciation of the spatial relationship between plaques and vessel. We describe initial clinical experience with CorVIS, an artificial intelligence-based coronary visualization system, in complex percutaneous coronary intervention (PCI). We present 3 cases-2 chronic total occlusions and 1 heavily calcified lesion-in which CorVIS provided freely rotatable 3D reconstructions with plaque characterization. In each case, the CorVIS corresponded to specific procedural decisions, including the chosen crossing approach and calcium-modification strategy. All 3 procedures were completed successfully. These cases suggest that artificial intelligence-based 3D CCTA reconstruction may complement conventional imaging for preprocedural planning of complex PCI. The efficacy of CorVIS in facilitating complex PCI remains to be verified in further prospective studies. In this initial case series, CorVIS delivered freely rotatable 3D CCTA reconstructions and plaque characterization, informing key procedural decisions for complex PCI.",
  "title": "Coronary Visual Intelligence System (CorVIS) Guided Complex Percutaneous Coronary Intervention.",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "JACC Case Reports describes three complex PCI cases (2 CTOs, 1 calcified lesion) planned with CorVIS, an AI-based 3D CCTA visualization system with plaque characterization. All procedures succeeded; the authors note prospective validation is needed.",
+  "tags": [
+   "clinical",
+   "ccta",
+   "plaque",
+   "pci-planning",
+   "competitor-tech"
+  ],
+  "triaged_at": "2026-10-16T17:52:24+00:00",
+  "triaged_by": "agent:claude-sonnet-5-5",
+  "why_it_matters": "Another AI CCTA plaque-visualization entrant targeting procedural planning rather than risk stratification; early anecdotal evidence only, but worth tracking as an adjacent competitor."
+ },
  "url": "https://pubmed.ncbi.nlm.nih.gov/42886144/"
 }
