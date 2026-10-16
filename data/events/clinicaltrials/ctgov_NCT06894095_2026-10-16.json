@@ -1,0 +1,34 @@
+{
+ "category": "trial",
+ "collected_at": "2026-10-16T13:14:53+00:00",
+ "extra": {
+  "conditions": [
+   "Cardiovascular Diseases",
+   "Multi-omics",
+   "Living Environments",
+   "Pulmonary-cardiovascular Imaging"
+  ],
+  "interventions": [],
+  "nct_id": "NCT06894095",
+  "new_registration": false,
+  "sponsor": "Jinling Hospital, China",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT06894095:2026-10-16",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "\\bheart\\b",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 4
+ },
+ "published": "2026-10-16",
+ "source": "clinicaltrials",
+ "status": "new",
+ "summary": "UPDATED — status RECRUITING. Sponsor: Jinling Hospital, China. Conditions: Cardiovascular Diseases, Multi-omics, Living Environments, Pulmonary-cardiovascular Imaging. Interventions: . Type OBSERVATIONAL, enrollment 50000. Start 2023-05-24, primary completion 2028-03-31. The DAILY project is a large-scale, multicenter, prospective initiative designed to establish a comprehensive bio-imaging database that integrates multidimensional data, including living environments, psychosocial and cognitive assessments, psychosocial and cognitive assessments, panvascular and body imaging (fundus, carotid artery, chest, abdomen, and heart), electrocardiograms, multi-omics profiles, clinical medication and surgical records, and health outcomes. Leveraging this extensive, multiscale dataset, the project aims to elucidate the intricate interplay between genetic biology and environmental factors in driving downstream biological alterations, thereby shaping lung and cardiovascular structural and functional phenotypes, and ultimately influencing the onset and progression of cardiovascular diseases (CVD). Through a systematic exploration and understanding of this complex network, the project seeks to identify critical intervention points and develop innovative strategies for the prevention and management of CVD.",
+ "title": "Dongzong Cardiovascular Bio-imaging Registry Study (NCT06894095)",
+ "url": "https://clinicaltrials.gov/study/NCT06894095"
+}

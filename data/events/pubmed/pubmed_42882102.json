@@ -1,0 +1,46 @@
+{
+ "category": "clinical",
+ "collected_at": "2026-10-16T13:14:53+00:00",
+ "extra": {
+  "affiliations": [
+   "Departments of Radiology and Cardiac Sciences, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary, Calgary, AB T2N 4Z6, Canada.",
+   "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, AB T2N 4Z6, Canada.",
+   "Departments of Radiology and Cardiac Sciences, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary, Calgary, AB T2N 4Z6, Canada.",
+   "Departments of Radiology and Cardiac Sciences, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary, Calgary, AB T2N 4Z6, Canada.",
+   "Departments of Radiology and Cardiac Sciences, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary, Calgary, AB T2N 4Z6, Canada."
+  ],
+  "authors": [
+   "Chunta A",
+   "Gilbert C",
+   "Labib D",
+   "Amakiri A",
+   "Feng Y",
+   "Alavi Fili A"
+  ],
+  "doi": "10.3390/jcm15197641",
+  "journal": "Journal of clinical medicine",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42882102",
+ "prefilter": {
+  "ai": [
+   "machine learning"
+  ],
+  "cardiac": [
+   "coronar",
+   "ccta",
+   "angina"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 7
+ },
+ "published": "2026-10-02",
+ "source": "pubmed",
+ "status": "new",
+ "summary": "Journal of clinical medicine. Chunta A, Gilbert C, Labib D, Amakiri A, Feng Y, Alavi Fili A. Background/Objectives: Coronary computed tomography angiography (CCTA) is recommended as a first-line test for suspected coronary artery disease. Many patients undergo invasive coronary angiography (ICA) after CCTA, and no prediction model exists to estimate the probability of this downstream testing. We aimed to develop and validate a parsimonious extreme gradient boosting (XGB) model for predicting ICA referral after CCTA. Methods: Adults undergoing a CCTA were identified at three Canadian centres. An XGB model was trained on 156 variables in the internal cohort (Calgary, n = 8823) and tested in an external cohort (Edmonton, n = 10,596). The full model and a reduced 15-variable model were compared using discrimination and calibration. Results: ICA referral occurred in 1161 (13.2%) internal and 1269 (12.0%) external patients. Internally, the reduced model matched the full model (AUC 0.698 vs. 0.701; p = 0.16) with equivalent calibration (Brier 0.1077 vs. 0.1076; slope 1.21 vs. 1.18). Externally, the full model retained a small but significant advantage (AUC 0.701 vs. 0.687; p < 0.001). Age, anginal nitrate use, and lowest HDL cholesterol were the strongest predictors. Conclusions: A 15-variable XGB model preserved most of the predictive performance of a 156-variable model for ICA referral after CCTA. Clinical use would require evidence that it improves patient selection for ICA.",
+ "title": "A Parsimonious Machine Learning Model for Predicting Invasive Coronary Angiography Referral After Coronary Computed Tomography Angiography: Development and Multicentre External Validation.",
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42882102/"
+}

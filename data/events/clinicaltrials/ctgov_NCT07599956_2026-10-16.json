@@ -1,0 +1,36 @@
+{
+ "category": "trial",
+ "collected_at": "2026-10-16T13:14:53+00:00",
+ "extra": {
+  "conditions": [
+   "Rheumatic Heart Disease"
+  ],
+  "interventions": [
+   "AI assisted echocardiography"
+  ],
+  "nct_id": "NCT07599956",
+  "new_registration": false,
+  "sponsor": "Children's Hospital Medical Center, Cincinnati",
+  "status": "NOT_YET_RECRUITING"
+ },
+ "id": "ctgov:NCT07599956:2026-10-16",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b"
+  ],
+  "cardiac": [
+   "\\bheart\\b",
+   "echocardiog"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 6
+ },
+ "published": "2026-10-16",
+ "source": "clinicaltrials",
+ "status": "new",
+ "summary": "UPDATED — status NOT_YET_RECRUITING. Sponsor: Children's Hospital Medical Center, Cincinnati. Conditions: Rheumatic Heart Disease. Interventions: AI assisted echocardiography. Type INTERVENTIONAL, enrollment 62. Start 2026-11, primary completion 2028-06. The main goal of this project is to see if RADAR (Rapid AI-assisted Detection and Analysis of Rheumatic heart disease), which is a machine and deep-learning AI model, can help make rheumatic heart disease (RHD) screening easier to expand. Specifically, the project will test whether RADAR can screen as accurately-or more accurately-than current methods, and whether it can be used effectively in different low-resource settings. The aim is to show that RADAR could be adopted and used widely around the world.",
+ "title": "Artificial Intelligence to Scale Early Rheumatic Heart Disease Detection (NCT07599956)",
+ "url": "https://clinicaltrials.gov/study/NCT07599956"
+}

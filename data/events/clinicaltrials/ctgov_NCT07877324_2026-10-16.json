@@ -1,0 +1,39 @@
+{
+ "category": "trial",
+ "collected_at": "2026-10-16T13:14:53+00:00",
+ "extra": {
+  "conditions": [
+   "Atheroscleroses",
+   "Inflammation"
+  ],
+  "interventions": [
+   "18F-AlF-NOTA-Folate PET"
+  ],
+  "nct_id": "NCT07877324",
+  "new_registration": true,
+  "sponsor": "Turku University Hospital",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT07877324:2026-10-16",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "coronar",
+   "\\bheart\\b",
+   "ct angiograph",
+   "plaque",
+   "atheroscler",
+   "myocard",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 14
+ },
+ "published": "2026-10-16",
+ "source": "clinicaltrials",
+ "status": "new",
+ "summary": "NEW REGISTRATION — status RECRUITING. Sponsor: Turku University Hospital. Conditions: Atheroscleroses, Inflammation. Interventions: 18F-AlF-NOTA-Folate PET. Type INTERVENTIONAL, enrollment 90. Start 2026-10-01, primary completion 2027-12. This study investigates inflammation in the blood vessels of people with coronary artery disease (CAD) or a recent myocardial infarction. Inflammation plays an important role in the development and progression of atherosclerosis, but there is currently no established clinical imaging method for detecting inflammation in atherosclerotic plaques throughout the body. The study uses a new PET imaging tracer called 18F-AlF-NOTA-Folate. The tracer is designed to bind to folate receptor beta (FR-β), a marker found on activated macrophages, which are immune cells involved in inflammation. The aim is to determine whether PET imaging with this tracer can detect and measure inflammation in atherosclerotic plaques. Approximately 90 patients will participate. One group will include patients with suspected or stable coronary artery disease who are undergoing coronary CT angiography and PET imaging as part of their clinical assessment. A second, smaller group will include patients who have recently had a myocardial infarction. Participants will undergo PET and CT imaging and provide blood samples. The imaging will examine the coronary arteries and other major arteries, including the carotid arteries, aorta and iliac arteries. The study will also investigate blood flow in the heart and other organs and examine the relationship between vascular inflammation, atherosclerotic plaque characteristics and markers of inflammation in the blood. The study is not testing a treatment for coronary artery disease. The folate tracer is administered only for imaging purposes. Participants will be followed through hospital and registry records for up to five years to investigate whether imaging findings are associated with later cardiovascular events. The study may provide new information about how inflammation is distributed in atherosclerosis and whether FR-β-targeted PET imaging could be useful for detecting and studying vascular inflammation in patients with cardiovascular disease.",
+ "title": "Vascular Inflammation in Atherosclerosis - Whole Body Molecular PET/CT Imaging Using Folate Receptor β (NCT07877324)",
+ "url": "https://clinicaltrials.gov/study/NCT07877324"
+}

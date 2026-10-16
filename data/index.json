@@ -29,11 +29,27 @@
   "status": "dropped",
   "title": "Deep Brain Stimulation Surgery for Focal Hand Dystonia (NCT02911103)"
  },
+ "ctgov:NCT02911103:2026-10-16": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT02911103_2026-10-16.json",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "new",
+  "title": "Deep Brain Stimulation Surgery for Focal Hand Dystonia (NCT02911103)"
+ },
  "ctgov:NCT06172296:2026-10-14": {
   "first_seen": "2026-10-16T02:46:03+00:00",
   "priority": null,
   "source": "clinicaltrials",
   "status": "dropped",
+  "title": "Dinutuximab With Chemotherapy, Surgery and Stem Cell Transplantation for the Treatment of Children With Newly Diagnosed High Risk Neuroblastoma (NCT06172296)"
+ },
+ "ctgov:NCT06172296:2026-10-16": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT06172296_2026-10-16.json",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "new",
   "title": "Dinutuximab With Chemotherapy, Surgery and Stem Cell Transplantation for the Treatment of Children With Newly Diagnosed High Risk Neuroblastoma (NCT06172296)"
  },
  "ctgov:NCT06462989:2026-10-13": {
@@ -60,6 +76,14 @@
   "status": "triaged",
   "title": "Speed-up the Diagnosis and Evaluation of anoMalous Coronary ARTery From the Aorta (NCT06705751)"
  },
+ "ctgov:NCT06894095:2026-10-16": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT06894095_2026-10-16.json",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "new",
+  "title": "Dongzong Cardiovascular Bio-imaging Registry Study (NCT06894095)"
+ },
  "ctgov:NCT07057466:2026-10-08": {
   "first_seen": "2026-10-16T02:46:03+00:00",
   "path": "data/events/clinicaltrials/ctgov_NCT07057466_2026-10-08.json",
@@ -75,6 +99,22 @@
   "source": "clinicaltrials",
   "status": "triaged",
   "title": "ProActive Athlete Heart Program: Proposal for Cardiac Risk Screening in Former High-Intensity Athletes (NCT07460583)"
+ },
+ "ctgov:NCT07531966:2026-10-16": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07531966_2026-10-16.json",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "new",
+  "title": "Vascular Complications After Kidney Transplantation (NCT07531966)"
+ },
+ "ctgov:NCT07599956:2026-10-16": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07599956_2026-10-16.json",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "new",
+  "title": "Artificial Intelligence to Scale Early Rheumatic Heart Disease Detection (NCT07599956)"
  },
  "ctgov:NCT07613294:2026-10-08": {
   "first_seen": "2026-10-16T02:46:03+00:00",
@@ -115,6 +155,22 @@
   "source": "clinicaltrials",
   "status": "triaged",
   "title": "Multimodality Assessment of Myocardial Reperfusion After Primary Percutaneous Coronary Intervention (NCT07876791)"
+ },
+ "ctgov:NCT07877324:2026-10-16": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07877324_2026-10-16.json",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "new",
+  "title": "Vascular Inflammation in Atherosclerosis - Whole Body Molecular PET/CT Imaging Using Folate Receptor β (NCT07877324)"
+ },
+ "ctgov:NCT07878325:2026-10-16": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07878325_2026-10-16.json",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "new",
+  "title": "Effects of a Specialized Diabetes and Heart Clinic and Detection of Unrecognized Heart Failure in People With Type 2 Diabetes and Cardiovascular Disease (NCT078"
  },
  "edgar:0001464521-26-000154": {
   "first_seen": "2026-10-16T02:46:04+00:00",
@@ -1723,6 +1779,22 @@
   "status": "triaged",
   "title": "AI and Deep Learning in Cardiovascular Imaging: From Risk Stratification to Precision Phenotyping."
  },
+ "pubmed:42882102": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/pubmed/pubmed_42882102.json",
+  "priority": null,
+  "source": "pubmed",
+  "status": "new",
+  "title": "A Parsimonious Machine Learning Model for Predicting Invasive Coronary Angiography Referral After Coronary Computed Tomography Angiography: Development and Mult"
+ },
+ "pubmed:42882311": {
+  "first_seen": "2026-10-16T13:14:53+00:00",
+  "path": "data/events/pubmed/pubmed_42882311.json",
+  "priority": null,
+  "source": "pubmed",
+  "status": "new",
+  "title": "Curriculum-Based Deep Learning for Automated Segmental Left Ventricular Hypertrophy Classification Using Short-Axis Echocardiography."
+ },
  "rss:0075e4b82f55c6ed": {
   "first_seen": "2026-10-16T02:46:07+00:00",
   "priority": null,
@@ -1758,6 +1830,20 @@
   "status": "dropped",
   "title": "J&J’s medtech business slows again in Q3"
  },
+ "rss:16b6204abb6cd3d9": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "BCRF Launches $100 Million Venture Program for Breast Cancer: NYSE Content Update"
+ },
+ "rss:16d95a8b29e17d94": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Westcove Advises Clinical Research of West Florida in its Partnership with Fengate Private Equity"
+ },
  "rss:199d3537fc83e27a": {
   "first_seen": "2026-10-16T02:46:05+00:00",
   "priority": null,
@@ -1773,12 +1859,26 @@
   "status": "triaged",
   "title": "ACC Webinar: AI in Clinical Practice: Cardiac MRI - American College of Cardiology"
  },
+ "rss:208b244ee49294c3": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "LEMME GOES BIG WITH BEST-SELLERS PURR AND SLEEP DEBUT AT SAM'S CLUB"
+ },
  "rss:23567d7a3272d7d8": {
   "first_seen": "2026-10-16T02:46:05+00:00",
   "priority": null,
   "source": "rss",
   "status": "dropped",
   "title": "CEM-guided biopsy effective for sampling suspicious breast findings"
+ },
+ "rss:253e4426bfc20c7e": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "MNA: Baystate Franklin Nurses Vote 100% to Ratify Contract, Securing Staffing Improvements, Health Insurance Protections and Competitive Wages"
  },
  "rss:256e447344d1a504": {
   "first_seen": "2026-10-16T02:46:07+00:00",
@@ -1808,6 +1908,13 @@
   "source": "rss",
   "status": "triaged",
   "title": "Heartflow CEO John Farquhar sells $1.93 million in stock - Investing.com"
+ },
+ "rss:29dfe4c0593424cb": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Health Care and Crude Led the Week While Tech Lost Its Grip"
  },
  "rss:2ac73381181d381b": {
   "first_seen": "2026-10-16T02:46:07+00:00",
@@ -1859,6 +1966,13 @@
   "status": "dropped",
   "title": "Meet the Minnies 2026 semifinalist candidates"
  },
+ "rss:3daf1e6a8ffd95e0": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "White Coat Web to Share Digital Marketing Insights with Independent Practice Owners at Two Texas Medical Conferences This October"
+ },
  "rss:3dda22e3ac9867ba": {
   "first_seen": "2026-10-16T02:46:07+00:00",
   "priority": null,
@@ -1866,12 +1980,26 @@
   "status": "dropped",
   "title": "Dr. Rod J. Rohrich Ranked Best Rhinoplasty Surgeon in the United States for Sixth Consecutive Year by Newsweek"
  },
+ "rss:445b8439b19de247": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Alliance of Wound Care Stakeholders Names Julie Rhodovi CEO to Lead Advocacy, Advance Wound Care Policy and Practice"
+ },
  "rss:4c251271df6ed003": {
   "first_seen": "2026-10-16T02:46:07+00:00",
   "priority": null,
   "source": "rss",
   "status": "dropped",
   "title": "Disrupting Health Insurance: Larry Hightower Opens the Healthcare Pricing Black Box"
+ },
+ "rss:53da6112080d5c21": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Crunch Franchise Expands in San Antonio, Texas with New Crunch 3.0 Gym"
  },
  "rss:5736e92b4ba98d30": {
   "first_seen": "2026-10-16T02:46:17+00:00",
@@ -1909,6 +2037,13 @@
   "source": "rss",
   "status": "triaged",
   "title": "Siemens Healthineers to stop selling general ultrasound systems"
+ },
+ "rss:689c26047392c257": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "U.S. Anesthesia Partners Celebrates World Anesthesia Day 2026"
  },
  "rss:6b938fca2bedb7a1": {
   "first_seen": "2026-10-16T02:46:06+00:00",
@@ -1988,6 +2123,20 @@
   "status": "dropped",
   "title": "Lu-177 PNT2002 before SBRT extends disease control in prostate cancer"
  },
+ "rss:a11a5ea6c326fce3": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "MiniMed Announces Board of Directors for its Next Chapter as an Independent Company"
+ },
+ "rss:a5b66cc47e136a5b": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Manhattan Physician Backs RunPractice to Help Wellness Practices Run Better"
+ },
  "rss:a689f282d3ef134e": {
   "first_seen": "2026-10-16T02:46:06+00:00",
   "priority": null,
@@ -2001,6 +2150,13 @@
   "source": "rss",
   "status": "dropped",
   "title": "Orthofix pays former executives $24M in damages"
+ },
+ "rss:b806833eb4f2e3d0": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Dr. Wee Joo Chng to Receive Asian Myeloma Network Distinguished Service Award at the 10th AMN Summit in Shanghai"
  },
  "rss:bc7b1337f59f6a69": {
   "first_seen": "2026-10-16T02:46:07+00:00",
@@ -2022,6 +2178,13 @@
   "source": "rss",
   "status": "dropped",
   "title": "QuidelOrtho Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)"
+ },
+ "rss:c8f80383fabeec79": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "EverGlade's Stephen Richardson and Laura (Powell) Grace Elected to BioMaP and MCDC Leadership Roles"
  },
  "rss:cb476e91192dba14": {
   "first_seen": "2026-10-16T02:46:05+00:00",
@@ -2045,6 +2208,13 @@
   "status": "dropped",
   "title": "Reveleer Names Digital Health Innovator Dr. Jean-Luc Neptune Chief Medical Officer"
  },
+ "rss:d4b16b8e35e9f3c3": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "In HelloNation, Expert Veterinarian Dr. Annie Bowes Shares How to Evaluate Pet Symptoms"
+ },
  "rss:d81877691cee1d89": {
   "first_seen": "2026-10-16T02:46:17+00:00",
   "path": "data/events/rss/rss_d81877691cee1d89.json",
@@ -2052,6 +2222,20 @@
   "source": "rss",
   "status": "triaged",
   "title": "HeartFlow Inc (HTFL) CEO John Farquhar Sells 38,900 Shares - GuruFocus"
+ },
+ "rss:e45cb2c669d44afe": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Seoul National University of Science and Technology Researchers Show How Smartphones Can Help Detect Lung Problems in Children"
+ },
+ "rss:e7fc9701b8910591": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Lingokids Just Launched Spanish and Portuguese: Why Families Will Love It"
  },
  "rss:e8c143c04a38f081": {
   "first_seen": "2026-10-16T02:46:06+00:00",
@@ -2076,6 +2260,20 @@
   "status": "triaged",
   "title": "Form 4 Heartflow Inc: John C.M. Farquhar (Director, CEO) For: 12 October - Investing.com Nigeria"
  },
+ "rss:ef56af4615453b5c": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Bala Enzyme® Hydration + Recovery Turmeric Drink Mix Expands National Reach with Target.com Launch"
+ },
+ "rss:efbe82cdaaa71c93": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "National Alliance of Healthcare Purchaser Coalitions Unveils Keynote Lineup for 2026 Annual Forum"
+ },
  "rss:f0be4b49b4f684dd": {
   "first_seen": "2026-10-16T02:46:05+00:00",
   "priority": null,
@@ -2089,6 +2287,20 @@
   "source": "rss",
   "status": "dropped",
   "title": "Harford Mutual Insurance Group Executive Vice President Jeff Rink Joins Upper Chesapeake Health Foundation Board"
+ },
+ "rss:f40223dcfb41b630": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Optometry Expert Dr. Kimberly Arnett Explains When a Prescription Change May Not Explain Blurry Vision in HelloNation"
+ },
+ "rss:f969a470f800d533": {
+  "first_seen": "2026-10-16T13:14:57+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "March of Dimes Honors Healthcare Innovator Joe Kiani at Annual Black Ties for Babies Gala in San Diego"
  },
  "rss:fa1803555f7e76b6": {
   "first_seen": "2026-10-16T02:46:07+00:00",

@@ -1,0 +1,47 @@
+{
+ "category": "clinical",
+ "collected_at": "2026-10-16T13:14:53+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Computer Science and Engineering, R.M.D Engineering College, RSM Nagar, Kavaraipettai 601206, India.",
+   "Department of Computer Science and Engineering, R.M.D Engineering College, RSM Nagar, Kavaraipettai 601206, India.",
+   "Department of Electrical and Electronics Engineering, R.V.S. College of Engineering, Dindigul 624005, India.",
+   "Department of Artificial Intelligence and Data Science, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai 600062, India."
+  ],
+  "authors": [
+   "Periyasamy R",
+   "Selvaraj S",
+   "Pitchaimuthu FAS",
+   "Lucas AE"
+  ],
+  "doi": "10.3390/diagnostics16193157",
+  "journal": "Diagnostics (Basel, Switzerland)",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42882311",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "deep learning",
+   "algorithm",
+   "automat",
+   "neural network"
+  ],
+  "cardiac": [
+   "myocard",
+   "echocardiog",
+   "ventric"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 11
+ },
+ "published": "2026-09-28",
+ "source": "pubmed",
+ "status": "new",
+ "summary": "Diagnostics (Basel, Switzerland). Periyasamy R, Selvaraj S, Pitchaimuthu FAS, Lucas AE. Background: Accurate detection and classification of segmental left ventricular hypertrophy (LVH) are challenging due to rib and reverberation artifacts in two-dimensional short-axis (2D-SAX) echocardiography view. These artifacts lead to ambiguity in the boundaries of the myocardial region. Existing artificial intelligence techniques focus on global LVH detection compared to segmental LVH classification. Methodology: To solve the abovementioned problem, a curriculum-based left ventricular hypertrophy deep learning (LVH-DL) framework is proposed for segmental LVH classification. The proposed framework was tested with 2000 images of segmental LVH, which consists of (a) apical-423, (b) basal-382, (c) mid-ventricular-349, (d) diffuse-453, and (e) normal-393. The curriculum-based deep learning model consists of proposed algorithms such as (i) preprocessing of Mountaineering-Team-Based Optimization Deep Denoised Convolutional Neural Network (MTBO-DnCNN) for removing artifacts and enhancing the boundaries, (ii) segmentation of modified active contour segmentation (MACS) algorithm accurately extracting the myocardium region from the background, and (iii) classification of curriculum-based ConvNeXt-V2 model classifying segmental LVH using inter-channel features such as valvular structures and chamber size from the segmented myocardial region. Results: The proposed LVH-DL framework achieves a classification accuracy of about (a) 96.5% for apical, (b) 95% for basal, (c) 95.8% for mid-ventricular, (d) 97.2% for diffuse, and (e) 95% for normal. Conclusions: Thus, Thus, the proposed LVH-DL framework acts as a decision support tool for early identification of segmental LVH.",
+ "title": "Curriculum-Based Deep Learning for Automated Segmental Left Ventricular Hypertrophy Classification Using Short-Axis Echocardiography.",
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42882311/"
+}

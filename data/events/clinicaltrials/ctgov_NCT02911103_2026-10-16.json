@@ -1,0 +1,35 @@
+{
+ "category": "trial",
+ "collected_at": "2026-10-16T13:14:53+00:00",
+ "extra": {
+  "conditions": [
+   "Dystonia",
+   "Focal Dystonia",
+   "Musician's Dystonia"
+  ],
+  "interventions": [
+   "DBS surgery",
+   "Medtronic Activa Rechargeable System"
+  ],
+  "nct_id": "NCT02911103",
+  "new_registration": false,
+  "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+  "status": "ACTIVE_NOT_RECRUITING"
+ },
+ "id": "ctgov:NCT02911103:2026-10-16",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "\\bheart\\b"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 2
+ },
+ "published": "2026-10-16",
+ "source": "clinicaltrials",
+ "status": "new",
+ "summary": "UPDATED — status ACTIVE_NOT_RECRUITING. Sponsor: National Institute of Neurological Disorders and Stroke (NINDS). Conditions: Dystonia, Focal Dystonia, Musician's Dystonia. Interventions: DBS surgery, Medtronic Activa Rechargeable System. Type INTERVENTIONAL, enrollment 5. Start 2018-01-17, primary completion 2029-02-02. Researchers want to test a procedure called deep brain simulation (DBS) to treat focal hand dystonia (FHD). A device called a neurostimulator is placed in the chest. It is attached to wires placed in brain areas that affect movement. Stimulating these areas can help block nerve signals that cause abnormal movements. Objectives: To test DBS as treatment for FHD. To learn about brain and nerve cell function in people with dystonia. Eligibility: People ages 18 and older with severe FHD who have tried botulinum toxin treatment at least twice Design: Participation lasts 5 years. Participants will be screened with: Medical history Physical exam Videotape of their dystonia Blood, urine, and heart tests Brain MRI scan Chest X-ray Neuropsychological tests: answering questions, doing simple actions, and taking memory and thinking tests. Hand movement tests Participants will have surgery: A frame fixes their head to the operating table. A small hole is made in the skull. Wires are inserted to record brain activity and stimulate the brain while they do simple tasks. The wires are removed and the DBS electrode is inserted into the hole. The neurostimulator is placed under the skin of the chest, with wires running to the electrode in the brain. They will have CT and MRI scans during surgery. Participants will recover in the hospital for about 1 week. The neurostimulator will be turned on 1 4 weeks after discharge. Participants will have regular visits until the study ends. Visits include: Checking symptoms and side effects MRI Movement, thinking, and memory tests If the neurostimulator s battery runs out, participants will have surgery to replace it.",
+ "title": "Deep Brain Stimulation Surgery for Focal Hand Dystonia (NCT02911103)",
+ "url": "https://clinicaltrials.gov/study/NCT02911103"
+}
