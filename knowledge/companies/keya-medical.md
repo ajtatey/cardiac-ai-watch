@@ -6,7 +6,7 @@ _Slug: `keya-medical`. Aliases: Keya Medical, DEEPVESSEL, Keya._
 _(agent-maintained: what they sell, who buys it, where they are strong or weak relative to Cleerly)_
 
 ## Products and cleared indications
-_(agent-maintained: one bullet per product, with the indication wording and predicate chain)_
+- **DEEPVESSEL Plaque** (K260497, 2026-06-04): web-based CCTA analysis for adults 22+ characterizing and quantifying plaque and stenosis, analyst-editable deep learning segmentation. Predicate Autoplaque 3.0 (K212758). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K260497
 
 ## Regulatory record (auto-generated)
 <!-- auto:fda:begin -->

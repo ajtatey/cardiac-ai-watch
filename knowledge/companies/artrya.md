@@ -6,7 +6,8 @@ _Slug: `artrya`. Aliases: Artrya, Salix Coronary, Salix Central._
 _(agent-maintained: what they sell, who buys it, where they are strong or weak relative to Cleerly)_
 
 ## Products and cleared indications
-_(agent-maintained: one bullet per product, with the indication wording and predicate chain)_
+- **Salix Coronary Plaque v1.0.0** (K251837, 2025-08-20): quantification and characterization of coronary plaque and stenosis on CCTA plus non-contrast calcium scoring. Predicates CaRi-Plaque (K242240) and Salix Central (K243038). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K251837
+- **Salix Central** (K243038, 2025-03-27, QIH): assessment of physician-identified plaques and stenosis on CCTA and calcium scoring. Predicate cvi42 Auto (K213998). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K243038
 
 ## Regulatory record (auto-generated)
 <!-- auto:fda:begin -->

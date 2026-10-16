@@ -6,7 +6,8 @@ _Slug: `elucid`. Aliases: Elucid, Elucid Bioimaging, PlaqueIQ, ElucidVivo, vascu
 _(agent-maintained: what they sell, who buys it, where they are strong or weak relative to Cleerly)_
 
 ## Products and cleared indications
-_(agent-maintained: one bullet per product, with the indication wording and predicate chain)_
+- **Elucid FFR-IQ (B.1)** (K262015, 2026-09-29, PJA): coronary physiological simulation software providing AI-computed FFR-CT from CCTA for clinically stable patients with suspected CAD, "to support the functional evaluation of CAD". Predicate HeartFlow FFRct (DEN130045). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K262015
+- **Elucid PlaqueIQ** (K261855, 2026-09-18, LLZ): semi-automated CT plaque identification and quantification. Predicate Autoplaque (K122429); reference device PlaqueIQ (K241524). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261855
 
 ## Regulatory record (auto-generated)
 <!-- auto:fda:begin -->
@@ -24,13 +25,15 @@ _(agent-maintained: one bullet per product, with the indication wording and pred
 _(agent-maintained: key studies with endpoints, sample size, and what they claim)_
 
 ## Reimbursement
-_(agent-maintained: codes used, payer coverage, CMS status)_
+- Reports broad CMS reimbursement of plaque analysis with PlaqueIQ under CPT 75577 from 2026. https://businesswire.com/news/home/20251203262228/en/Elucid-Gains-Broad-CMS-Reimbursement-of-Coronary-Plaque-Analysis-Using-PlaqueIQ
+- With FFR-IQ cleared, Elucid can now bill 75580 as well as 75577 (inference; no Elucid announcement yet). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K262015
 
 ## Business
 _(agent-maintained: financing, partnerships, leadership, hiring signals)_
 
 ## Timeline
-_(agent-maintained: dated bullets, newest first)_
+- 2026-09-29: FFR-IQ cleared (K262015, PJA), predicate HeartFlow FFRct. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K262015
+- 2026-09-18: New PlaqueIQ clearance (K261855). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261855
 
 ## Open questions
 _(agent-maintained)_

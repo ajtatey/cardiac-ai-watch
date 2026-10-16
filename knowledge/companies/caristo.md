@@ -6,7 +6,8 @@ _Slug: `caristo`. Aliases: Caristo, CaRi-Heart, CaRi-Plaque, CariCloud, fat atte
 _(agent-maintained: what they sell, who buys it, where they are strong or weak relative to Cleerly)_
 
 ## Products and cleared indications
-_(agent-maintained: one bullet per product, with the indication wording and predicate chain)_
+- **CaRi-Heart** (DEN250042, De Novo granted 2026-07-28): created product code SIU, "Predictive Indicator For Long-Term Cardiovascular Outcomes", regulation 21 CFR 870.2215. Decision summary not yet posted. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN250042
+- **CaRi-Plaque v1.0** (K242240, 2025-02-20, LLZ): web-based CCTA reading software for presence and extent of coronary plaque and stenosis. Predicate Autoplaque 3.0 (K212758); reference CaRiCloud (K200274). It is also the primary predicate for Artrya Salix Coronary Plaque. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K242240
 
 ## Regulatory record (auto-generated)
 <!-- auto:fda:begin -->
@@ -21,13 +22,13 @@ _(agent-maintained: one bullet per product, with the indication wording and pred
 _(agent-maintained: key studies with endpoints, sample size, and what they claim)_
 
 ## Reimbursement
-_(agent-maintained: codes used, payer coverage, CMS status)_
+- CMS finalized Medicare payment for CaRi-Plaque under CPT 75577 for 2026; Caristo cites $950.50 OPPS. https://www.auntminnie.com/clinical-news/ct/news/15772754/cms-finalizes-medicare-reimbursement-for-caristos-coronary-plaque-analysis
 
 ## Business
 _(agent-maintained: financing, partnerships, leadership, hiring signals)_
 
 ## Timeline
-_(agent-maintained: dated bullets, newest first)_
+- 2026-07-28: CaRi-Heart De Novo granted, new product code SIU. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN250042
 
 ## Open questions
 _(agent-maintained)_

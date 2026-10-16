@@ -6,7 +6,8 @@ _Slug: `heartflow`. Aliases: HeartFlow, Heartflow, FFRct, FFR-CT, HeartFlow Plaq
 _(agent-maintained: what they sell, who buys it, where they are strong or weak relative to Cleerly)_
 
 ## Products and cleared indications
-_(agent-maintained: one bullet per product, with the indication wording and predicate chain)_
+- **Heartflow Analysis** (K250902, 2025-07-18, PJA): AI-based analysis of CCTA for adults 22+ with suspected CAD providing anatomy, plaque localization and characterization, and FFRct, "to support the risk assessment and functional evaluation of CAD". Predicates Heartflow Analysis (K213857) and Autoplaque (K122429) for the plaque feature. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K250902
+- **FFRct** lineage: De Novo DEN130045 (2014) created product code PJA (21 CFR 870.1415), now the predicate for Elucid FFR-IQ (K262015). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN130045
 
 ## Regulatory record (auto-generated)
 <!-- auto:fda:begin -->
@@ -26,13 +27,15 @@ _(agent-maintained: one bullet per product, with the indication wording and pred
 _(agent-maintained: key studies with endpoints, sample size, and what they claim)_
 
 ## Reimbursement
-_(agent-maintained: codes used, payer coverage, CMS status)_
+- FFR-CT: Category I CPT 75580 since 2024-01-01, replacing 0501T-0504T; Heartflow-reported OPPS rate $1,017 (CY2025) under APC 5724. https://www.auntminnie.com/clinical-news/ct/article/15662727/new-cpt-code-issued-for-ffrct https://www.heartflow.com/wp-content/uploads/2025/02/cat-i-transition-for-payers.pdf
+- Plaque analysis: Category I CPT 75577 effective 2026-01-01. https://heartflow.com/newsroom/heartflow-announces-new-category-i-cpt-code
 
 ## Business
 _(agent-maintained: financing, partnerships, leadership, hiring signals)_
 
 ## Timeline
-_(agent-maintained: dated bullets, newest first)_
+- 2026-10-12/14: CEO John Farquhar sold 38,900 shares under a 10b5-1 plan (Form 144 / Form 4); routine. https://www.sec.gov/Archives/edgar/data/1464521/000146452126000154/xslF345X06/form4.xml
+- 2026-09-29: Elucid FFR-IQ cleared citing HeartFlow FFRct (DEN130045) as predicate, ending HeartFlow's sole-source position in PJA. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K262015
 
 ## Open questions
 _(agent-maintained)_

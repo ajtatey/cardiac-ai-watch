@@ -6,7 +6,7 @@ _Slug: `circle-cvi`. Aliases: Circle Cardiovascular, Circle CVI, cvi42, TruPlan.
 _(agent-maintained: what they sell, who buys it, where they are strong or weak relative to Cleerly)_
 
 ## Products and cleared indications
-_(agent-maintained: one bullet per product, with the indication wording and predicate chain)_
+- **cvi42 Coronary Plaque** (K251027, 2025-10-27, QIH): tools to determine presence and extent of coronary plaques and stenoses on cardiac CT. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K251027
 
 ## Regulatory record (auto-generated)
 <!-- auto:fda:begin -->

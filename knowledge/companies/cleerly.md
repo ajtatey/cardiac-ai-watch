@@ -6,7 +6,10 @@ _Slug: `cleerly`. Aliases: Cleerly, Cleerly Labs, Cleerly ISCHEMIA, Cleerly Plaq
 _(agent-maintained: what they sell, who buys it, where they are strong or weak relative to Cleerly)_
 
 ## Products and cleared indications
-_(agent-maintained: one bullet per product, with the indication wording and predicate chain)_
+- **Cleerly LABS v3.0** (K260588, 2026-07-29, LLZ/QIH): web-based tool for processing, analyzing and viewing cardiac CT to assess coronary anatomy in patients who have undergone CCTA for known or suspected CAD. Predicate Cleerly LABS v2.0 (K242338); change is a move to a modular architecture, indications "identical in purpose". https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K260588
+- **Cleerly Plaque v1.0** (K261210, 2026-07-29, QIH): module used with Cleerly LABS to identify, characterize and quantify coronary plaque on CCTA. Predicate Cleerly LABS v2.0 (K242338); adds updated AI/ML architectures. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261210
+- **Cleerly ISCHEMIA** (K231335, 2023-09-08, QXZ): ML decision-support add-on giving a binary Cleerly ISCHEMIA Index for likely ischemia; predicate EchoGo Heart Failure (K222463, QUO). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K231335
+- **Predicate role:** Cleerly Labs v2.0 (K202280) is the predicate for Siemens syngo.CT Coronary Cockpit (K253786). https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K253786
 
 ## Regulatory record (auto-generated)
 <!-- auto:fda:begin -->
@@ -24,13 +27,15 @@ _(agent-maintained: one bullet per product, with the indication wording and pred
 _(agent-maintained: key studies with endpoints, sample size, and what they claim)_
 
 ## Reimbursement
-_(agent-maintained: codes used, payer coverage, CMS status)_
+- Plaque analysis billed under Category I CPT 75577 (AI quantification and characterization of coronary plaque on CCTA), effective 2026-01-01; Category III code previously from 2021. Vendor-reported 2026 national averages about $1,012-1,021 (office/IDTF) and about $951 OPPS. https://www.auntminnie.com/clinical-news/ct/news/15772754/cms-finalizes-medicare-reimbursement-for-caristos-coronary-plaque-analysis https://businesswire.com/news/home/20251203262228/en/Elucid-Gains-Broad-CMS-Reimbursement-of-Coronary-Plaque-Analysis-Using-PlaqueIQ
+- Cleerly ISCHEMIA billing guidance references FFR-CT code 75580. https://cleerlyhealth.com/reimbursement-guidelines https://cardiovascularbusiness.com/topics/artificial-intelligence/cleerlys-ai-software-noninvasive-ffr-estimates-receives-category-1-cpt-code
 
 ## Business
 _(agent-maintained: financing, partnerships, leadership, hiring signals)_
 
 ## Timeline
-_(agent-maintained: dated bullets, newest first)_
+- 2026-07-29: Cleerly LABS v3.0 (K260588) and Cleerly Plaque v1.0 (K261210) cleared the same day, splitting plaque into a standalone module. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261210
+- 2026-06-25: Siemens syngo.CT Coronary Cockpit cleared citing Cleerly Labs v2.0 (K202280) as predicate. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K253786
 
 ## Open questions
 _(agent-maintained)_
