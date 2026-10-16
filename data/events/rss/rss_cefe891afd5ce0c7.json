@@ -1,0 +1,43 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:23+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "Radiology Business",
+  "query": "site:radiologybusiness.com cardiac AI"
+ },
+ "id": "rss:cefe891afd5ce0c7",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "philips"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-12",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "Philips ultrasound imaging systems recalled after 4 deaths &nbsp;&nbsp; Radiology Business",
+ "title": "Philips ultrasound imaging systems recalled after 4 deaths - Radiology Business",
+ "triage": {
+  "companies": [
+   "philips"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Philips Lumify ultrasound systems recalled after four deaths linked to a software issue delaying use without connectivity (Radiology Business).",
+  "tags": [
+   "safety",
+   "ultrasound",
+   "recall"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Not AI; logged for the Philips dossier."
+ },
+ "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWl9qV3ZBQjAxQmhIUFdRemRpQnpxNlhfakxQTGhPTFpTTUo1Wk84UWI4WlNEbExqR2ZDWDQ5UUl3TF9nWmlGb3BGdExpNnUteFp2NERGcVRZXy0tazB2WU53WTVsVXRDRk5HM0dab0NlYi1WSmRRTE9YVDZnMUVuU3hCQTFpMlJ4M05ZQzZfQk1iVFBhMW04WHdfdHVnSGI2V3l4Yng1a3Z4Y2kxdG5pQ3QtQkwtWFRUXzRTTmtHNmdjZEp2WTVTN1hSclZrS0Fx?oc=5"
+}

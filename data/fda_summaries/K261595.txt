@@ -1,0 +1,371 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+August 25, 2026 
+ 
+Ceevra, Inc. 
+Ken Koster ,CTO 
+465 California St. 
+7th Floor 
+San Francisco, CA 94104 
+ 
+ 
+Re:  K261595 
+Trade/Device Name: Ceevra Reveal 4 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  May 13, 2026 
+Received:  May 14, 2026 
+ 
+Dear Ken Koster: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+FDA's substantial equivalence determination also included the review and clearance of your Predetermined 
+Change Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not 
+required for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an 
+
+K261595 - Ken Koster Page 
+ 
+2 
+established PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new 
+premarket notification is required if there is a major change or modification in the intended use of a device, 
+or if there is a change or modification in a device that could significantly affect the safety or effectiveness of 
+the device, e.g., a significant change or modification in design, material, chemical composition, energy 
+source, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major 
+change or modification in the intended use of the device, or result in a change or modification in the device 
+that could significantly affect the safety or effectiveness of the device, then a new premarket notification 
+would be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit 
+such a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and 
+502(o) of the Act, respectively.  
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+K261595 - Ken Koster Page 
+ 
+3 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging Devices  and 
+Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+Ceevra, Inc., 510(k) Summary (K261595) 
+Page 1 
+510(k) Summary 
+1. General Inform ation
+510(k) Sponsor Ceevra, Inc. 
+Address 465 California St., 7th Floor 
+San Francisco CA 94104 
+Correspondence Person Ken Koster 
+CTO, Ceevra, Inc.   
+Contact Information Email: kkoster@ceevra.com 
+Phone: 415-305-5326 
+Date Prepared July 28, 2026 
+2. Subject Device
+Proprietary Name Ceevra Reveal 4 
+Common Name Reveal 4 
+Premarket Notification K261595 
+Classification Name Automated Radiological Image Processing Software 
+Regulation Number 21 CFR 892.2050 
+Product Code QIH 
+Regulatory Class II 
+3. Predicate Device
+Proprietary Name Ceevra Reveal 3+ 
+Common Name Reveal 3+ 
+Premarket Notification K243933 
+Classification Name Automated Radiological Image Processing Software 
+Regulation Number 21 CFR 892.2050 
+Product Code QIH 
+Regulatory Class II 
+K261595
+ 
+Ceevra, Inc., 510(k) Summary (K261595)                                                          
+Page 2 
+4. Device Description 
+Ceevra Reveal 4 (“Reveal 4”), manufactured by Ceevra, Inc. (the “Company”), is a software as a medical 
+device with two main functions: (1) it is used by Company personnel to generate three -dimensional (3D) 
+images from existing patient CT, MR, and PET imaging, and (2) it is used by clinicians to view and interact 
+with the 3D images during preoperative planning and intraoperatively. 
+Clinicians view 3D images via the Mobile Image Viewer software application which runs on compatible 
+mobile devices, and the Desktop Image Viewer software application which runs on compatible computers. 
+The 3D images may also be displayed on compatible external displays.  
+Reveal 4 includes features that enable clinicians to interact with the 3D images including rotating, zooming, 
+panning, selectively showing or hiding individual anatomical structures, and viewing measurements of or 
+between anatomical structures. 
+5. Intended Use 
+Ceevra Reveal 4  is intended as a medical imaging system that allows the processing, review, analysis, 
+communication and media interchange of multi-dimensional digital images acquired from CT, MR, or PET 
+imaging devices and that such processing may include the generation of preliminary segmentations of 
+normal anatomy using software that employs machine learning and other computer vision algorithms. It is 
+also intended as software for preoperative surgical planning, and as software for the intraoperative display 
+of the aforementioned multi-dimensional digital images. Ceevra Reveal 4 is designed for use by health care 
+professionals and is intended to assist the clinician who is responsible for making all final patient 
+management decisions.  
+The machine learning algorithms in use by Ceevra Reveal 4 are for use only for adult patients (22 and over). 
+Three-dimensional images for patients under the age of 22 or of unknown age will be generated without 
+the use of any machine learning algorithms. 
+6. Substantial Equivalence 
+As detailed in the following tables, the intended use and technological characteristics of the subject device 
+are substantially equivalent to the predicate device. The only difference in language between the statements 
+is in bold and underlined. 
+Table 6.1: Comparison of Intended Use Statements 
+Ceevra Reveal 4 
+Predicate Device:  
+Ceevra Reveal 3+ (K243933) 
+Ceevra Reveal 4 is intended as a medical imaging 
+system that allows the processing, review, analysis, 
+communication and media interchange of multi -
+dimensional digital images acquired from CT, MR , or 
+Ceevra Reveal 3+ is intended as a medical imaging 
+system that allows the processing, review, analysis, 
+communication and media interchange of multi -
+dimensional digital images acquired from CT or MR 
+ 
+Ceevra, Inc., 510(k) Summary (K261595)                                                          
+Page 3 
+Ceevra Reveal 4 
+Predicate Device:  
+Ceevra Reveal 3+ (K243933) 
+PET imaging devices and that such processing may 
+include the generation of preliminary segmentations of 
+normal anatomy using software that employs machine 
+learning and other computer vision algorithms. It is also 
+intended as software for preoperative surgical  planning, 
+and as software for the intraoperative display of the 
+aforementioned multi -dimensional digital images. 
+Ceevra Reveal 4  is designed for use by health care 
+professionals and is intended to assist the clinician who 
+is responsible for making all final patient management 
+decisions.  
+The machine learning algorithms in use by Ceevra 
+Reveal 4 are for use only for adult patients (22 and over). 
+Three-dimensional images for patients under the age of 
+22 or of unknown age will be generated without the use 
+of any machine learning algorithms. 
+ 
+imaging devices and that such processing may include 
+the generation of preliminary segmentations of normal 
+anatomy using software that employs machine learning 
+and other computer vision algorithms. It is also intended 
+as software for preoperative surgical planning, and as 
+software for the intraoperative display of the 
+aforementioned multi -dimensional digital images. 
+Ceevra Reveal 3+  is designed for use by health care 
+professionals and is intended to assist the clinician who 
+is responsible for making all final patient management 
+decisions.  
+The machine learning algorithms in use by Ceevra 
+Reveal 3+ are for use only for adult patients (22 and 
+over). Three-dimensional images for patients under the 
+age of 22 or of unknown age will be generated without 
+the use of any machine learning algorithms. 
+ 
+Table 6.2: Comparison of Technological Characteristics 
+Feature/ 
+Function Ceevra Reveal 4 Ceevra Reveal 3+ (K243933) 
+Supported image Modalities CT, MR, and PET CT and MR 
+Intended users Healthcare Professionals Healthcare Professionals 
+Intended environment Healthcare facilities such as hospitals and clinics Healthcare facilities such as hospitals and clinics 
+Device Class Class II Class II 
+Image analysis features Interactive manipulation and 3D visualization Interactive manipulation and 3D visualization 
+Preoperative use Yes Yes 
+Intraoperative use Yes Yes 
+3D images used intraoperatively for 
+real-time guidance, navigation or 
+otherwise integrated with surgical 
+instruments 
+No No 
+Segmentation work performed by Internal Operators Internal Operators 
+ 
+Ceevra, Inc., 510(k) Summary (K261595)                                                          
+Page 4 
+Feature/ 
+Function Ceevra Reveal 4 Ceevra Reveal 3+ (K243933) 
+Built-in features for end-user to 
+compare CT/MR to device output No No 
+Quantitative measurements calculated 
+by device 
+Volume of structure, diameter of 
+structure, distance between two 
+points, SUV of structures from 
+PET imaging 
+Volume of structure, diameter of 
+structure, distance between two 
+points 
+Software generates semi-automated 
+segmentations of abnormal anatomy No No 
+Software generates semi-automated 
+segmentations of certain normal 
+anatomy 
+Yes Yes 
+Software can combine two input 3D 
+images into one merged 3D image Yes No 
+Anatomical areas and image 
+modalities for which machine learning 
+models generate semi-automated 
+segmentations normal anatomy 
+Kidney-related (CT and MR) 
+Lung-related (CT) 
+Prostate-related (MR) 
+Uterus-related (MR) 
+Abdominopelvic bone (CT) 
+Kidney-related (CT and MR) 
+Lung-related (CT) 
+Prostate-related (MR) 
+ 
+7. Performance Data 
+Safety and performance of Ceevra Reveal 4 has been evaluated and verified in accordance with software 
+specifications and applicable performance standards through software verification and validation testing. 
+Additionally, the software validation activities were performed in accordance with IEC 62304:2006/Amd 
+1: 2015 - Medical device software – Software life cycle processes, in addition to the FDA Guidance 
+documents, “Guidance for the Content of Premarket Submissions for Software Contained in Medical 
+Devices” and “Cybersecurity in Medical Devices: Quality System Considerations and Content of 
+Premarket Submissions.” 
+Six machine learning models are included in Reveal 4. These models were verified with datasets of actual 
+CT or MR imaging studies of patients. A total of 201 imaging studies were used to evaluate the device. No 
+dataset contained more than one imaging study from any particular patient. No imaging study used to verify 
+performance was used for training; independence of training and testing data were enforced at the level of 
+the scanning institution, namely, studies sourced from a specific institution were used for either training or 
+testing but could not be used for both. The data used in the device validation ensured diversity in patient 
+population and scanner manufacturers. Subgroup analysis was performed for patient age, patient sex, and 
+scanner manufacturers. For non-prostate related datasets, verification datasets included 41% female patients 
+and 59% male patients. Across all datasets, 44% of patients were under 60 years old, 25% were 60 to 70 
+years old, 27% were over 70 years old, and 4% were of unknown age. Scanner manufacturers included GE 
+ 
+Ceevra, Inc., 510(k) Summary (K261595)                                                          
+Page 5 
+Medical Systems, Siemens, Toshiba, Hitachi, and Philips Medical Systems. Ethnicity of patients in the 
+datasets was reasonably correlated to the overall US population. 
+Performance was verified by comparing segmentations generated by the machine learning models against 
+segmentations generated by medical professionals from the same imaging study. The performance of the 
+machine learning models, characterized by the Sørensen–Dice coefficient (DSC) or the Hausdorff distance 
+metric at the 95th percentile (HD -95), was as follows: prostate (from MR prostate imaging) 0.90 DSC; 
+bladder (from MR prostate imaging) 0.93 DSC; neurovascular bundles (from MR prostate imaging) 6.6 
+mm HD-95; kidney (from CT abdomen imaging) 0.92 DSC; kidney (from MR abdomen imaging) 0.89 
+DSC; artery (from CT abdomen imaging) 0.90 DSC; artery (from MR abdomen imaging) 0.87 DSC; vein 
+(from CT abdomen imaging) 0.88 DSC; vein (from MR abdomen imaging) 0.82 DSC;  pulmonary artery 
+(from CT chest imaging) 0.82 DSC; pulmonary vein (from CT chest imaging) 0.83 DSC, airways (from CT 
+chest imaging) 0.82 DSC; bronchopulmonary segments (from CT chest imaging) 0.86 DSC; uterus (from 
+female pelvic MR imaging) 0.90 DSC; bone (from CT abdominopelvic imaging) 0.93 DSC. 
+The accuracy of measurement features has been validated on phantom data and on datasets of actual CT, 
+MR, or PET imaging studies of patients, including CT and MR imaging studies processed with machine 
+learning models.   
+The accuracy of Standardized Uptake Value (SUV) measurements derived from PET imaging by Reveal 4 
+was verified using a validated phantom dataset and validation toolkit, which consists of synthetic DICOM 
+studies with known voxel values (including known SUVmax and SUVmean values for specified regions of 
+interest) and associated acceptance ranges for validation testing. The SUVmax and SUVmean values 
+derived from PET imaging by Reveal 4 were validated against these acceptance ranges. For the regions of 
+interest used for validation testing, the acceptance ranges varied between +/- 1.2% to +/- 5.6% for SUVMax 
+and +/- 1.3% to +/- 10.7% for SUVMean. 
+8. Predetermined Change Control Plan (PCCP) 
+The Predetermined Change Control Plan (PCCP) for Reveal 4 specifies modifications the Company may 
+make to iteratively improve the cleared device, together with the methodology used to develop, validate, 
+and implement those modifications. The PCCP authorize s two types of modifications without a new 
+premarket submission: (1) updates to the machine learning models that are part of Reveal 4, where the only 
+changes are re-training on new data or bounded changes to data pre-processing or post-processing; and (2) 
+introduction of machine learning model -based semi -automated segmentations for specified normal 
+anatomical structures not auto-segmented by machine learning models in the cleared version of the device. 
+Before any modification is released, the same performan ce evaluation methodology used to verify the 
+machine learning models in the cleared device is used to evaluate the modifications: performance is 
+characterized by comparing segmentations generated by the machine learning models against 
+segmentations generated by medical professionals from the same imaging study. The acceptance criteria 
+applied to each modification are specified in the PCCP. Users are informed of device modifications through 
+the Reveal 4 labeling, which is provided in electronic format, is accessed directly from the end-user device, 
+ 
+Ceevra, Inc., 510(k) Summary (K261595)                                                          
+Page 6 
+is updated to reflect each modification implemented under the PCCP, and always displays the most up-to-
+date information about the machine learning models. 
+9. Conclusion 
+Based on the intended use, indications for use, technological characteristics, and performance comparison 
+to the predicate device, the subject device is substantially equivalent to the predicate device. 
+ 

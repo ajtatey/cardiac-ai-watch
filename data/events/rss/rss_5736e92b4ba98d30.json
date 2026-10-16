@@ -1,0 +1,42 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:17+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "Stock Titan",
+  "query": "HeartFlow"
+ },
+ "id": "rss:5736e92b4ba98d30",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-14",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "Under a trading plan, Heartflow (HTFL) CEO sells 38,900 shares and retains 283,014 directly. &nbsp;&nbsp; Stock Titan",
+ "title": "Under a trading plan, Heartflow (HTFL) CEO sells 38,900 shares and retains 283,014 directly. - Stock Titan",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Stock Titan note on the completed HeartFlow CEO sale.",
+  "tags": [
+   "financial",
+   "insider-sale"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Duplicate coverage."
+ },
+ "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenhXTXd2ck9RbXY1MTV1ZVd3aFphWTVKM3FCUzlWTVMySGtPcl9NY3NscXRYOVBMMHAyVHBsYS1DWHg5YjJRdzlfZDZKQ1c4WUFwa1Z1R29XUEw1S0x4V1ZHLWZnYkxUQVpiMGN0M1N3YS1VUUVnWkotRUpfLTVlUHREOUFfem41ZnJBbDJWUjBfYjV5NEFWdjBZRE45ck4wdUxFOUFBc3ZRYXc?oc=5"
+}

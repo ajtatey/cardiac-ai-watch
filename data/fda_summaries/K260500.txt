@@ -1,0 +1,1147 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+July 21, 2026 
+ 
+ResolutionMD, Inc. 
+Sharon Cholowsky 
+Director Regulatory & Compliance 
+Suite 314, 1212 31 Ave. NE 
+Calgary, AB T2E 7S8 
+Canada 
+ 
+Re:  K260500 
+Trade/Device Name: ResolutionMD 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  June 19, 2026 
+Received:  June 22, 2026 
+ 
+Dear Sharon Cholowsky: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K260500 - Sharon Cholowsky Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+K260500 - Sharon Cholowsky Page 
+ 
+3 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director, Imaging Software Team 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+510(k) Summary 
+For 510(k) #: K260500 As per 21 CFR 807.92 
+Prepared on June 20, 2026 
+Contact Details 
+Applicant Name: ResolutionMD, Inc. 
+Applicant Address: Suite 314, 1212 31 Avenue NE Calgary AB T2E 7S8 Canada 
+Applicant Contact Telephone: 1-587-430-4591
+Applicant Contact: Sharon Cholowsky 
+Applicant Contact Email: regulatory@resolutionmd.com 
+Device Name 
+Device Trade Name: ResolutionMD 
+Common Name: Medical image management and processing system 
+Classification Name: System, Image Processing, Radiological 
+Regulation Number: 892.2050 
+Product Code: LLZ
+Predicate Devices 
+510(k) #: K161130 Device Name: ResolutionMD Product Code: LLZ 
+510(k) #: K172490 Device Name: eUnity Product Code: LLZ 
+Device Description Summary 
+The ResolutionMD product is an enterprise imaging viewer software solution which enables users to 
+access a centralized application running on a Linux or Windows server from an HTML5 web browser or 
+HTML5 browser on a mobile device.  The ResolutionMD application server interacts with a PACS or 
+vendor-neutral archive (VNA) to enable users to search and view DICOM and non-DICOM clinical 
+information.   
+ResolutionMD is a software application system which runs on general purpose computing hardware and 
+operating systems software.  It uses a client-server architecture whereby all processing takes place on 
+the server. There is no local client software to install or download; the software is installed on a server. 
+Indications for Use 
+The ResolutionMD solution is an enterprise imaging viewer that is used for the secure display, 
+multiplanar reformatting and 3D visualization of medical image data and reports. It also provides for 
+mobile access and real-time collaboration of clinical information. 
+The software is intended for use as a review and analysis tool by authorized healthcare professionals to 
+drive clinical management.  When interpreted by a physician, reviewed images may be used to aid in 
+diagnosis. When used on a mobile device, ResolutionMD is not intended to replace full radiology 
+workstations.  
+510(k) Summary - ResolutionMD Page 1 of 5  
+K260500
+ 
+ 
+ResolutionMD  displays  both  lossless  and  lossy  compressed  images.  For  lossy  images,  the  healthcare  
+professional
+ 
+must
+ 
+determine
+ 
+if
+ 
+the
+ 
+level
+ 
+of
+ 
+loss
+ 
+is
+ 
+acceptable
+ 
+for
+ 
+their
+ 
+purposes.
+ 
+Display
+ 
+monitors
+ 
+or
+ 
+mobile
+ 
+devices
+ 
+used
+ 
+for
+ 
+reading
+ 
+medical
+ 
+images
+ 
+for
+ 
+diagnostic
+ 
+purposes
+ 
+must
+ 
+comply
+ 
+with
+ 
+applicable
+ 
+regulatory
+ 
+clearances,
+ 
+technical
+ 
+specifications,
+ 
+and
+ 
+quality
+ 
+control
+ 
+requirements
+ 
+for
+ 
+their
+ 
+use
+ 
+and
+ 
+maintenance.
+ 
+For
+ 
+mammography,
+ 
+mobile
+ 
+devices
+ 
+do
+ 
+not
+ 
+comply
+ 
+with
+ 
+the
+ 
+minimum
+ 
+display
+ 
+requirements;
+ 
+therefore
+ 
+mobile
+ 
+device
+ 
+usage
+ 
+for
+ 
+mammography
+ 
+is
+ 
+for
+ 
+reference
+ 
+and
+ 
+referral
+ 
+only.
+ 
+Healthcare  institutions  may  want  to  provide  patients  access  to  their  clinical  information.  This  access  is  
+for
+ 
+non-diagnostic
+ 
+informational
+ 
+purposes
+ 
+only.
+ 
+Indications  for  Use  Comparison  
+The  subject  device  indications  for  use  (IFU)  statement  is  similar  to  the  predicate  device  statement.  
+Phrases
+ 
+relating
+ 
+to
+ 
+mammography
+ 
+diagnostic
+ 
+use
+ 
+were
+ 
+modified,
+ 
+thereby
+ 
+adding
+ 
+support
+ 
+for
+ 
+diagnostic
+ 
+use
+ 
+of
+ 
+mammographic
+ 
+images,
+ 
+including
+ 
+digital
+ 
+breast
+ 
+tomography
+ 
+images.
+ 
+Additionally,
+ 
+some
+ 
+existing
+ 
+phrases
+ 
+were
+ 
+slightly
+ 
+modified
+ 
+for
+ 
+further
+ 
+clarity
+ 
+or
+ 
+standardization
+ 
+of
+ 
+terms.
+ 
+The  differences  of  the  predicate  and  reference  IFU  statements  and  the  subject  device  IFU  statement  do  
+not
+ 
+present
+ 
+any
+ 
+new
+ 
+safety
+ 
+and
+ 
+effectiveness
+ 
+concerns
+ 
+because
+ 
+the
+ 
+new
+ 
+wording
+ 
+only
+ 
+adds
+ 
+further
+ 
+clarity
+ 
+and
+ 
+information
+ 
+to
+ 
+aid
+ 
+the
+ 
+healthcare
+ 
+professional
+ 
+and
+ 
+does
+ 
+not
+ 
+alter
+ 
+the
+ 
+clinical
+ 
+workflow
+ 
+of
+ 
+the
+ 
+device
+ 
+or
+ 
+how
+ 
+it
+ 
+will
+ 
+be
+ 
+used.
+ 
+ 
+ Subject  Device  Predicate  Device  Reference  Device  for  Mammo  Feature  ResolutionMD  (This  submission)  ResolutionMD  (K161130)  eUnity  (K172490)  Model  #  Model  #:  RESMD-D  Model  #:  RESMD-C  N/A  Class,  Product  Code  Class  2,  LLZ  Same  Same  Intended  Use  An  enterprise  imaging  viewer  that  is  used  for  the  secure  display,  multiplanar  reformatting  and  3D  visualization  of  medical  image  data  and  reports.  It  also  provides  for  mobile  access  and  real-time  collaboration  of  clinical  information.  It  is  to  be  used  as  a  review  and  analysis  tool  by  authorized  healthcare  professionals  to  drive  clinical  management.  Same  Same  Pres.  use  or  OTC  Prescription  use  Same  Same  Intended  Users  Healthcare  professionals  Same  Same  Mammography  support  Support  for  diagnostic  use  of  mammographic  (incl  digital  breast  tomography)  images  Support  for  non-diagnostic  use  of  mammographic  (incl  digital  breast  tomography)  images.  Same  as  subject  device  Mammo  mobile  use  Mobile  usage  for  mammography  is  for  reference  and  referral  only.  Same  Same  Indications  for  Use  Statement  The  ResolutionMD  solution  is  an  enterprise  imaging  viewer  that  is  used  for  the  secure  display,  multiplanar  reformatting  and  3D  visualization  of  medical  image  data  and  reports.  It  also  provides  for  mobile  access  and  real-time  collaboration  of  clinical  information .  ResolutionMD  software  is  an  enterprise  medical  image  viewer  used  with  off-the-shelf  servers,  web  browsers ,  and  specific  mobile  devices  for  the  2D  display,  Multi-planar  reformatting  and  3D  visualization  of  medical  image  data  eUnity  is  a  software  application  that  displays  medical  image  data  and  associated  clinical  reports  to  aid  in  diagnosis  for  healthcare  professionals.  It  performs  operations  relating  to  the  transfer,  storage,  display,  and  
+510(k)
+ 
+Summary
+ 
+-
+ 
+ResolutionMD
+ 
+Page
+ 
+2
+ 
+of
+ 
+5
+      
+ 
+
+ 
+ 
+ The  software  is  intended  for  use  as  a  review  and  analysis  tool  by  authorized  healthcare  professionals  to  drive  clinical  management.   When  interpreted  by  a  physician,  reviewed  images  may  be  used  to  aid  in  diagnosis.  When  used  on  a  mobile  device,  ResolutionMD  is  not  intended  to  replace  full  radiology  workstations.    ResolutionMD  displays  both  lossless  and  lossy  compressed  images.  For  lossy  images,  the  healthcare  professional  must  determine  if  the  level  of  loss  is  acceptable  for  their  purposes.  Display  monitors  or  mobile  devices  used  for  reading  medical  images  for  diagnostic  purposes  must  comply  with  applicable  regulatory  clearances,  technical  specifications,  and  quality  control  requirements  for  their  use  and  maintenance.  For  mammography,  mobile  devices  do  not  comply  with  the  minimum  display  requirements;  therefore  mobile  device  usage  for  mammography  is  for  reference  and  referral  only.    Healthcare  institutions  may  want  to  provide  patients  access  to  their  clinical  information.  This  access  is  for  non-diagnostic  informational  purposes  only.  and  reports.  It  provides  collaboration  and  integrated  secure  audio-video  communication ,  and  displays  DICOM  and  non-DICOM  medical  images  and  reports .   ResolutionMD  is  intended  for  use  as  a  diagnostic ,  review,  and  analysis  tool  by  trained  healthcare  professionals  to  drive  clinical  management.  When  interpreted  by  a  trained  physician,  reviewed  images  may  be  used  to  aid  in  diagnosis.  When  used  on  a  mobile  device,  ResolutionMD  is  not  intended  to  replace  full  radiology  workstations.    ResolutionMD  is  not  to  be  used  for  primary  mammography  diagnoses.  measurement  of  image  data.  eUnity  allows  users  to  perform  image  manipulations,  including  window/level,  rotation,  measurement  and  markup.  eUnity  provides  2D  display,  Multi-Planar  Reformatting  and  3D  visualization  of  medical  image  data,  and  mobile  access  to  images.   eUnity  displays  both  lossless  and  lossy  compressed  images.  For  lossy  images,  the  medical  professional  user  must  determine  if  the  level  of  loss  is  acceptable  for  their  purposes.  Display  monitors  or  mobile  devices  used  for  reading  medical  images  for  diagnostic  purposes  must  comply  with  applicable  regulatory  approvals  and  with  quality  control  requirements  for  their  use  and  maintenance.  For  Mobile  diagnostic  usage  only  when  a  full  workstation  is  not  available.   Mobile  usage  for  mammography  is  for  reference  and  referral  only.  
+Technological  Comparison  
+The  subject  device,  ResolutionMD  (model  #  RESMD-D),  is  a  modification  of  the  predicate  device,  
+ResolutionMD
+ 
+(model
+ 
+#
+ 
+RESMD-C),
+ 
+with
+ 
+improvements
+ 
+to
+ 
+various
+ 
+existing
+ 
+features,
+ 
+such
+ 
+as
+ 
+usability
+ 
+enhancements,
+ 
+performance
+ 
+improvements,
+ 
+integration
+ 
+improvements,
+ 
+updated
+ 
+software
+ 
+coding
+ 
+standards
+ 
+and
+ 
+supported
+ 
+software,
+ 
+etc.
+ 
+There
+ 
+were
+ 
+no
+ 
+changes
+ 
+to
+ 
+the
+ 
+client-server
+ 
+architecture,
+ 
+image
+ 
+display
+ 
+technology,
+ 
+reconstruction/projection
+ 
+algorithms,
+ 
+clinical
+ 
+workflow,
+ 
+mobile
+ 
+diagnostic
+ 
+use,
+ 
+etc.
+ 
+These  improvements  do  not  alter  the  fundamental  technology,  do  not  introduce  any  new  risks,  and  do  
+not
+ 
+affect
+ 
+the
+ 
+safety/
+ 
+effectiveness
+ 
+or
+ 
+the
+ 
+intended
+ 
+use
+ 
+of
+ 
+the
+ 
+device.
+ 
+No
+ 
+additional
+ 
+testing
+ 
+(outside
+ 
+of
+ 
+the
+ 
+standard
+ 
+verification
+ 
+and
+ 
+validation
+ 
+procedures)
+ 
+was
+ 
+needed
+ 
+to
+ 
+confirm
+ 
+the
+ 
+safety
+ 
+and
+ 
+effectiveness
+ 
+of
+ 
+these
+ 
+changes.
+ 
+ 
+ Subject  Device  Predicate  Device  Feature  ResolutionMD  (This  submission)  ResolutionMD  (K161130)  Model  #  Model  #:  RESMD-D  Model  #:  RESMD-C  Product  type  Stand-alone  software  device  (SaMD).  Does  not  include  AI/ML.  Same  
+510(k)
+ 
+Summary
+ 
+-
+ 
+ResolutionMD
+ 
+Page
+ 
+3
+ 
+of
+ 
+5
+      
+ 
+
+ 
+ 
+DICOM  modalities  support  CT,  MR,  CR,  DX,  ES,  KO,  NM,  OP,  PT,  SC,  US,  XA,  RF,  MG  IO,  XC,  SR,  RTIMAGE,  OPT,  ECG  CT,  MR,  CR,  DX,  ES,  KO,  NM,  OP,  PT,  SC,  US,  XA,  RF,  MG  Non-DICOM  support  JPG,  TIFF,  AVI,  MP4  and  other  non-DICOM  data  Same  Software  Architecture  Client/server.  No  user  installation  of  client.  Same  Server  platform  Microsoft  Windows  OS  or  Red  Hat  Linux  OS.  General  purpose  computing  hardware.  Same  Client  platform  -  Desktop/laptop  HTML5  web  browser  on  desktop  operating  systems.  HTML5  or  Flex  web  browser  on  desktop  operating  systems.  Client  platform  -  Mobile  device  HTML5  browser  on  iOS  and  Android  mobile  devices.  Optionally  using  a  shell  iOS/Android  app  that  uses  the  HTML5  client. Native  iOS  app  and  native  Android  app.  HTML5  browser  on  iOS  mobile  devices.  Mobile  diagnostic  use  Diagnostic  use  on  validated  iOS  and  Android  mobile  devices.  Mobile  usage  for  mammography  is  for  reference/referral  only.  Same  Secure  data  access  Data  maintained  on  server-side;  no  data  stored  on  client.  Encryption,  authentication,  audit  logs,  etc.  Same  Compression  Lossless  and  lossy  JPEG  image  compression.  Image  is  initially  displayed  with  no  compression  (100%  quality).  Interactive  slider  provides  ability  to  increase/decrease  quality.  Lossless  and  lossy  JPEG  image  compression.  Image  is  initially  displayed  at  80%  quality.  Interactive  slider  provides  ability  to  increase/decrease  quality.  Search  interface  Ability  to  search  for  patient  studies  in  PACS  and  archives  through  a  variety  of  configurable  methods,  based  on  several  criteria.  Also  can  visually  see  the  timeline  of  patient  imaging.  Ability  to  search  for  patient  studies  in  PACS  and  archives  through  a  variety  of  configurable  methods,  based  on  several  criteria.  2D  viewing  2D  image  viewer  displaying  DICOM  images,  reports,  and  non-DICOM  data.  Same  MIP,  MPR,  cMPR  viewing  MIP,  MPR,  and  curvedMPR  reconstructions  and  projections  Same  3D  viewing  3D  volume  rendering  Same  Metadata  display  Display  of  patient/study  information,  including  a  more  visible  patient  banner.  Optionally  toggle  display  off,  for  confidentiality.   Display  of  patient/study  information.  Optionally  toggle  display  off,  for  confidentiality.   Interactive  user  controls  Window/level,  rotate,  pan,  zoom,  presets,  reset,  hotkeys,  slice  scrolling,  3D  lens.  Same   Measurement  &  Markup  tools  Tools  include  freehand,  text,  point,  linear,  ROI,  volume,  angle,  calipers,  3D  segmentation,  ECG. Tools  include  freehand,  text,  point,  linear,  ROI,  volume,  angle,  calipers,  3D  segmentation.  Multi-study  layouts  Multi-study  intelligent  layouts  with  reference  lines  and  linked  scrolling.  Includes  multi-monitor  support.  Multi-study  intelligent  layouts  with  reference  lines  and  linked  scrolling.   
+Significant  findings  GSPS/CSPS,  key  image  objects  (KO),  and  KIN  display  and  navigation.   Same  Collaboration  Real-time  shared  image  viewing  session  with  other  invited  users,  including  a  text  chat.   Real-time  shared  image  viewing  session  with  other  invited  users,  including  an  audio-visual  component. Printing  and  sharing  Image/Report  printing  and  downloading;  DICOM  secondary  capture  Same  
+510(k)
+ 
+Summary
+ 
+-
+ 
+ResolutionMD
+ 
+Page
+ 
+4
+ 
+of
+ 
+5
+      
+ 
+
+ 
+ 
+Non-Clinical  and  Clinical  Tests  Summary  
+The  ResolutionMD  device  was  verified  at  the  unit,  integration,  and  system  levels,  including  feature  
+testing,
+ 
+regression
+ 
+testing,
+ 
+and
+ 
+deployment/upgrade
+ 
+testing,
+ 
+with
+ 
+both
+ 
+manual
+ 
+and
+ 
+automated
+ 
+testing
+ 
+across
+ 
+various
+ 
+configurations,
+ 
+browsers,
+ 
+monitors,
+ 
+and
+ 
+mobile
+ 
+devices.
+ 
+The
+ 
+testing
+ 
+included
+ 
+a
+ 
+number
+ 
+of
+ 
+different
+ 
+areas,
+ 
+including
+ 
+elements
+ 
+of
+ 
+safety,
+ 
+performance,
+ 
+security,
+ 
+and
+ 
+usability
+ 
+requirements.
+ 
+Validation
+ 
+testing
+ 
+was
+ 
+also
+ 
+completed
+ 
+by
+ 
+clinical
+ 
+experts
+ 
+and
+ 
+end
+ 
+users,
+ 
+based
+ 
+on
+ 
+various
+ 
+typical
+ 
+workflows,
+ 
+including
+ 
+mobile
+ 
+diagnostic
+ 
+use
+ 
+for
+ 
+image
+ 
+types
+ 
+other
+ 
+than
+ 
+mammography.
+ 
+ 
+Testing  for  mammography  diagnostic  use  demonstrated  that  ResolutionMD  maintained  appropriate  
+DICOM
+ 
+compliance,
+ 
+image
+ 
+rendering
+ 
+behavior,
+ 
+spatial
+ 
+resolution
+ 
+performance,
+ 
+and
+ 
+overall
+ 
+image
+ 
+quality
+ 
+for
+ 
+mammography
+ 
+and
+ 
+DBT
+ 
+usage
+ 
+when
+ 
+using
+ 
+appropriate
+ 
+viewing
+ 
+hardware.
+ 
+The  software  development  process  complies  with  IEC  62304  “Medical  Device  Software  –  Software  Life  
+Cycle”
+ 
+and
+ 
+IEC
+ 
+62366-1
+ 
+“Medical
+ 
+devices
+ 
+Usability
+ 
+Engineering”
+ 
+standards.
+ 
+The
+ 
+software
+ 
+design
+ 
+and
+ 
+testing
+ 
+complies
+ 
+with
+ 
+appropriate
+ 
+technical
+ 
+standards,
+ 
+such
+ 
+as
+ 
+the
+ 
+NEMA
+ 
+PS
+ 
+3.1
+ 
+–
+ 
+3.20
+ 
+DICOM
+ 
+standard,
+ 
+ISO
+ 
+10918-1
+ 
+JPEG
+ 
+standard,
+ 
+and
+ 
+Annex
+ 
+D
+ 
+Handheld
+ 
+Display
+ 
+Devices
+ 
+of
+ 
+IEC
+ 
+62563-1
+ 
+“Medical
+ 
+image
+ 
+display
+ 
+systems”
+ 
+standard.
+ 
+Verification  and  validation  testing  confirmed  the  device  meets  performance,  safety,  usability  and  security  
+requirements.
+ 
+The
+ 
+testing
+ 
+and
+ 
+results
+ 
+did
+ 
+not
+ 
+raise
+ 
+new
+ 
+questions
+ 
+of
+ 
+safety
+ 
+and
+ 
+effectiveness
+ 
+from
+ 
+those
+ 
+associated
+ 
+with
+ 
+the
+ 
+predicate
+ 
+device
+ 
+and
+ 
+demonstrated
+ 
+that
+ 
+the
+ 
+ResolutionMD
+ 
+device
+ 
+performs
+ 
+substantially
+ 
+equivalent
+ 
+to
+ 
+the
+ 
+predicate
+ 
+device.
+ 
+No  additional  clinical  studies  were  needed  to  support  the  changes  that  are  part  of  this  submission.  
+Ongoing
+ 
+clinical
+ 
+evidence
+ 
+for
+ 
+the
+ 
+device
+ 
+is
+ 
+regularly
+ 
+gathered
+ 
+through
+ 
+post-market
+ 
+surveillance,
+ 
+including
+ 
+literature
+ 
+review
+ 
+and
+ 
+data
+ 
+analysis,
+ 
+as
+ 
+well
+ 
+as
+ 
+an
+ 
+in-depth
+ 
+review
+ 
+of
+ 
+information
+ 
+through
+ 
+clinical
+ 
+evaluation.
+ 
+ 
+Conclusions  
+Based  on  the  above  considerations,  ResolutionMD,  Inc.  believes  that  the  ResolutionMD  software  is  
+substantially
+ 
+equivalent
+ 
+to
+ 
+the
+ 
+predicate
+ 
+device
+ 
+and
+ 
+is
+ 
+as
+ 
+safe
+ 
+and
+ 
+effective
+ 
+as
+ 
+the
+ 
+predicate
+ 
+for
+ 
+its
+ 
+intended
+ 
+use.
+ 
+510(k)
+ 
+Summary
+ 
+-
+ 
+ResolutionMD
+ 
+Page
+ 
+5
+ 
+of
+ 
+5
+      
+ 

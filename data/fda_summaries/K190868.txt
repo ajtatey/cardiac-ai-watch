@@ -1,0 +1,461 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 0 4 . 08  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+Cleerly Inc.         November 5, 2019 
+℅ John J. Smith, M.D., J.D. 
+Regulatory Counsel 
+Hogan Lovells US LLP 
+Columbia Square 
+555 Thirteenth Street, NW 
+WASHINGTON DC  20004  
+ 
+Re:  K190868 
+Trade/Device Name:  Cleerly Labs 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Picture archiving and communications system 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  October 9, 2019 
+Received:  October 9, 2019 
+ 
+Dear Dr. Smith: 
+ 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+
+K190868 – John J. Smith, M.D., J.D. Page 
+ 
+2 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for 
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+     For 
+Thalia T. Mills, Ph.D. 
+Director 
+Division of Radiological Health 
+OHT7: Office of In Vitro Diagnostics 
+    and Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+ 
+FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2020
+See PRA Statement below.
+510(k) Number (if known)
+K190868
+Device Name
+Cleerly Labs
+Indications for Use (Describe)
+Cleerly Labs is a web-based software application that is intended to be used by trained medical professionals as an 
+interactive tool for viewing and analyzing cardiac computed tomography (CT) data for determining the presence and 
+extent of coronary plaques and stenosis in patients who underwent Coronary Computed Tomography Angiography 
+(CCTA) for evaluation of CAD or suspected CAD. This software post processes CT images obtained using any Computed 
+Tomography (CT) scanner. The software provides tools for the measurement and visualization of coronary arteries. 
+ 
+The software is not intended to replace the skill and judgment of a qualified medical practitioner and should only be used 
+by people who have been appropriately trained in the software’s functions, capabilities and limitations. Users should be 
+aware that certain views make use of interpolated data. This is data that is created by the software based on the original 
+data set. Interpolated data may give the appearance of healthy tissue in situations where pathology that is near or smaller 
+than the scanning resolution may be present.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete  
+and review the collection of information. Send comments regarding this burden estimate or any other aspect  
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.”
+ 
+Cleerly Labs Traditional 510(k) Submission 
+Page 1 of 7 
+ 
+510(k) Summary 
+Cleerly Labs (K190868) 
+ 
+1. General Information 
+Table 1: Cleerly, Inc. Information 
+510(k) Sponsor Cleerly, Inc. 
+Address 101 Greenwich St, Suite 11C 
+New York, NY 10006 
+Phone/Fax # 646-362-4255 
+Contact Person Kimberly Elmore 
+Date Prepared October 9, 2019 
+ 
+2. Device Information 
+Table 2: Cleerly Labs Information 
+Trade Name Cleerly Labs (K190868) 
+Common Name System, Image Processing, Radiological 
+Regulation Number 21 CFR 892.2050 Picture Archiving And Communications 
+System 
+Classification Class II 
+Product Code LLZ 
+Predicate Device Autoplaque (K122429) 
+Reference Device SurePlaque (K043111) 
+ 
+3. Device Description 
+ 
+Cleerly Labs is a post -processing web -based software application that enables trained 
+medical professionals to analyze 2D/3D coronary images acquired from Computed 
+Tomography (CT) angiographic scans. The software is a post-processing tool that aids in 
+determining treatment paths for patients suspected to have coronary artery disease (CAD). 
+ 
+To aid in image analysis, tools are provided to users to navigate and manipulate images. 
+Manual and semi-automatic segmentation of the coronary artery images are possible using 
+editing tools, thus providing the user the flexibility to perform the coronary analysis. 
+ 
+The output of the software includes visual images of coronary arteries, distance and volume 
+measurements of the lumen wall, vessel wall, and plaque, re modeling index as well as 
+stenosis diameter and area. These measurements are based on user segmentation. 
+  
+ 
+Cleerly Labs Traditional 510(k) Submission 
+Page 2 of 7 
+ 
+ 
+4. Indications for Use 
+ 
+Cleerly Labs is a web -based software application that is intended to be used by trained 
+medical professionals as an interactive tool for viewing and analyzing cardiac computed 
+tomography (CT) data for determining the presence and extent of coronary plaques and 
+stenosis in patients who underwent Coronary Computed Tomography Angiography 
+(CCTA) for evaluation of CAD or suspected CAD. This software post processes CT images 
+obtained using any Computed Tomography (CT) scanner. The software provides tools for 
+the measurement and visualization of coronary arteries. 
+ 
+The software is not intended to replace the skill and judgment of a qualified medical 
+practitioner and should only be used by people who have been appropriately trained in the 
+software’s functions, capabilities and limitations. Users should be aware that certain views 
+make use of interpolated data. This is data that is created by the software based on the 
+original data set. Interpolated data may give the appearance of healthy tissue in situations 
+where pathology that is near or smaller than the scanning resolution may be present. 
+ 
+5. Software Functionality 
+ 
+Users of Cleerly Labs can edit the lumen and vessel walls of the suggested segmentation, 
+and demarcate stenosis and stents, to more efficiently perform coronary analysis. Users are 
+provided with image viewing tools to aid in their analysis. Plaque and stenosis 
+measurements are output based on the combination of fully user-editable segmentation and 
+user-placed demarcations of coronary artery characteristics.  
+ 
+6. Cybersecurity 
+ 
+Cleerly Labs has implemented security features for device and data protection. 
+Cybersecurity requirem ents, risk analysis, and mitigation was addressed in accordance 
+with FDA guidance, “Content of Premarket Submission for Management of Cybersecurity 
+in Medical Devices”. 
+  
+ 
+Cleerly Labs Traditional 510(k) Submission 
+Page 3 of 7 
+ 
+ 
+7. Comparison of Technological Characteristics to the Predicate Devices 
+ 
+Table 3: Device Features Comparison Table 
+Feature Subject Device: 
+Cleerly Labs (K190868) 
+Predicate Device: 
+Autoplaque (K122429) 
+Operating Requirements 
+Platform Client-Server Google 
+Chrome Application 
+Windows OS 
+Image Input DICOM 3.0 Compliant (or 
+higher) 
+DICOM 3.0 Compliant (or 
+higher) 
+Image Acquisition CT Images CT Images 
+Navigation Tools ● Window Width/Level 
+● Zoom 
+● Pan 
+● Rotation 
+● Tracker 
+● Window Width/Level 
+● Zoom 
+● Pan 
+● Rotation 
+● Tracker 
+Visualization / Edit 
+Tools 
+● Lumen Wall 
+● Vessel Wall 
+● Segment 
+● Stenosis 
+● Centerline 
+● Plaque 
+● Chronic Total Occlusion 
+(CTO) 
+● Stent 
+● Exclude 
+● Distance 
+● Lumen Wall 
+● Vessel Wall 
+● Segment 
+● Stenosis 
+● Centerline 
+● Plaque 
+● Exclude 
+● Distance 
+2D Imaging Yes Yes 
+3D Imaging Yes Yes 
+Multiplanar 
+Reformat (MPR) 
+Yes Yes 
+Segmentation of 
+region of interest 
+Manual and Semi-Automatic Manual and Semi-Automatic 
+ 
+Cleerly Labs Traditional 510(k) Submission 
+Page 4 of 7 
+ 
+Feature Subject Device: 
+Cleerly Labs (K190868) 
+Predicate Device: 
+Autoplaque (K122429) 
+Plaque 
+Composition 
+Overlay 
+User-Modifiable 
+Thresholds: 
+● Non-Calcified Plaque 
+(NCP) 
+● Calcified Plaque (CP) 
+● Low-Density Non-
+Calcified Plaque (LD-
+NCP) 
+User-Modifiable 
+Thresholds: 
+● Non-Calcified Plaque (NCP) 
+● Calcified Plaque (CP) 
+● Low-Density Non-Calcified 
+Plaque (LD-NCP) 
+Quantification 
+Hounsfield Unit 
+(HU) 
+Yes Yes 
+Distance 
+Measurements 
+● Vessel 
+● Lesion 
+● Length 
+● Vessel 
+● Lesion 
+● Length 
+Volumetric 
+Measurements 
+● Total Vessel 
+● Total Lumen 
+● Non-Calcified Plaque 
+(NCP) 
+● Low-Density Non- 
+Calcified Plaque (LD- 
+NCP) 
+● Calcified Plaque (CP) 
+● Total Plaque 
+● Total Vessel 
+● Non-Calcified Plaque (NCP) 
+● Low-Density Non-Calcified 
+Plaque (LD-NCP) 
+● Calcified Plaque (CP) 
+● Total Plaque 
+Remodeling Index Yes Yes 
+Stenosis ● % Area Stenosis 
+● % Diameter Stenosis 
+● % Area Stenosis 
+● % Diameter Stenosis 
+ 
+8. Performance Data 
+ 
+Software verification and validation activities were performed in accordance with the 
+standards identified in Table 4 below, in addition to the FDA Guidance documents, 
+“Guidance for the Content of Premarket Submissions for Software Contained in Medical 
+Devices” and “Content of Premarket Submission for Management of Cybersecurity in 
+Medical Devices.” 
+ 
+Cleerly Labs Traditional 510(k) Submission 
+Page 5 of 7 
+ 
+ 
+The software was considered as a “moderate” level of concern, since “a malfunction of, or 
+a latent design flaw in, the Software Device could lead to an erroneous diagnosis or a delay 
+in delivery of appropriate medical care that would likely lead to Minor Injury.” 
+ 
+During product development, potential hazards were controlled by a risk management plan 
+including activities of risk analysis, risk mitigation, verifi cation and risk-benefit analysis. 
+Verification, validation and usability testing data demonstrated that the device meets all of 
+its specification, including compliance with the following standards in Table 4. 
+ 
+Table 4: Standards applied to device development 
+Standards 
+No 
+Standard 
+Organization Title Version Date 
+PS 3.1-
+3.20 
+  
+  
+NEMA 
+Digital Imaging 
+And 
+Communications In 
+Medicine (DICOM) 
+Set 
+2016 06-27-2016 
+62304 
+  
+  
+ANSI/AAMI/ 
+IEC 
+Medical device 
+software - Software 
+life cycle processes  
+2006+AMD1:2015 
+Edition 1.1 06-26-2016 
+14971 ISO 
+Medical Devices - 
+Application Of Risk 
+Management To 
+Medical Devices 
+2007 
+Edition 2.0 03-01-2007 
+62366-1 
+ANSI AAMI 
+IEC 
+  
+  
+Medical Devices - 
+Part 1: Application 
+Of Usability 
+Engineering To 
+Medical Device 
+2015 
+Edition 1.1 02-24-2015 
+   
+Additionally, t he performance of the software was compared to ground truth results 
+produced by expert readers. Pearson Correlation Coefficients and Bland -Altman 
+Agreements between Cleerly Labs and expert reader results is reported Table 5. 
+  
+ 
+Cleerly Labs Traditional 510(k) Submission 
+Page 6 of 7 
+ 
+ 
+Table 5: Cleerly Labs Performance 
+Output Pearson Correlation 
+Coefficient 
+Bland-Altman Agreement 
+Lumen Volume 0.91 96% 
+Vessel Volume 0.93 97% 
+Total Plaque Volume 0.85 95% 
+Calcified Plaque Volume 0.94 95% 
+Non-Calcified Plaque 
+Volume 
+0.74 95% 
+Low-Density-Non-
+Calcified Plaque Volume 
+0.53 97% 
+ 
+Non-Clinical Testing:  
+Safety, performance, cybersecurity and usability of Cleerly Labs have been evaluated and 
+verified in accordance with software pre-defined specifications and applicable 
+performance standards through software verification and validation testing.  
+  
+• Verification and validation testing confirmed that the software requirements 
+fulfilled the pre-defined acceptance criteria.  
+• A Usability test was conducted with U.S. board certi fied radiologists and 
+technicians to ensure the clinical acceptability of the device.  
+• The machine learning algorithms were evaluated by comparing the output of the 
+software to that of the ground truth using multiple ground truthers.  
+• A side-by-side comparison testing was conducted to evaluate the simple rule-based 
+calculations as they compared to an already cleared device with a similar intended 
+use.  
+• A cybersecurity penetration testing was conducted to ensure that there were no 
+unidentified vulnerabilitie s and that the appropriate risk control measures were 
+implemented to protect from known vulnerabilities when the device is subject to a 
+source of threat.  
+  
+The non-clinical verification and validation test results established  that the device meets 
+its design requirements and intended use. During the development, potential hazards were 
+evaluated and controlled through risk management activities. The performance testing 
+demonstrates that the device meets all its specifications. 
+  
+Clinical Testing 
+No clinical testing was conducted to demonstrate safety or effectiveness as the device’s 
+non-clinical (bench) testing was sufficient to support the intended use of the device. 
+  
+ 
+Cleerly Labs Traditional 510(k) Submission 
+Page 7 of 7 
+ 
+9. Conclusion 
+Based on the information submitted in this premarket notification, and based on the 
+indications for use, technological characteristics and performance testing comparison to 
+the predicate, the Cleerly Lab s device raises no new questions of safety or effecti veness 
+and is substantially equivalent to the predicate in terms of safety, efficacy, and 
+performance. 
+ 

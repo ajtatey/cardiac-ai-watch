@@ -1,0 +1,584 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 0 4 . 03  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+May 23, 2019 
+ 
+Pie Medical Imaging B.V. 
+℅ Annemiek Bouts 
+Regulatory Affairs Coordinator 
+Philipsweg 1 
+6227 AJ Maastricht, Limburg 
+THE NETHERLANDS 
+ 
+Re:  K180019 
+Trade/Device Name:  CAAS Workstation 
+Regulation Number:  21 CFR 892.1600 
+Regulation Name:  Angiographic x-ray system 
+Regulatory Class:  Class II 
+Product Code:  QHA, LLZ 
+Dated:  March 28, 2018 
+Received:  April 2, 2018 
+ 
+Dear Annemiek Bouts: 
+ 
+This letter corrects our substantially equivalent letter of May 3, 2018.  
+ 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K180019 - Annemiek Bouts Page 
+ 
+2 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good 
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820) 
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if 
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice 
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn 
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and 
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website 
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone 
+(1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Thalia T. Mills, Ph.D. 
+Director 
+Division of Radiological Health 
+OHT7: Office of In Vitro Diagnostics 
+    and Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2020
+See PRA Statement below.
+510(k) Number (if known)
+K180019
+Device Name
+CAAS Workstation
+Indications for Use (Describe)
+CAAS Workstation features segmentation of cardiovascular structures, 3D reconstruction of vessel segments and catheter 
+path based on multiple angiographic images, measurement and reporting tools to facilitate the following use: 
+ 
+• Calculate the dimensions of cardiovascular structures; 
+• Quantify stenosis in coronary and peripheral vessels; 
+• Quantify the motion of the left and right ventricular wall;  
+• Perform density measurements; 
+• Determine C-arm position for optimal imaging of cardiovascular structures; 
+• Enhance stent visualization and measure stent dimensions; 
+• Quantify pressure drop in coronary vessels; 
+• Co-registration of angiographic X-Ray images with IVUS and OCT images. 
+ 
+CAAS Workstation is intended to be used by or under supervision of a cardiologist or radiologist.  
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete  
+and review the collection of information. Send comments regarding this burden estimate or any other aspect  
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.”
+510(k) Summary - K180019   
+ 
+Pie Medical Imaging BV Version 3.0 Page 1 of 5 
+510(k) Summary CAAS Workstation     Pie Medical Imaging BV 
+ 
+Submitter/Owner Name Pie Medical Imaging BV 
+Address Philipsweg 1, 6227 AJ Maastricht, The Netherlands 
+Phone Number +31 43 32 81 328 
+Fax Number +31 43 32 81 329 
+Contact Person Annemiek Bouts, Regulatory Affairs Coordinator 
+Email Address annemiek.bouts@pie.nl 
+Preparation Date 23-May-19 
+ 
+Trade Name CAAS Workstation 
+ 
+Common Name CAAS (Cardiovascular Angiographic Analysis System) 
+ 
+Classification Regulation Name: Angiographic X-ray System 
+ Regulation Class: Class II 
+ Regulation number: 21 CFR 892.1600 
+ Classification Product Code:  QHA 
+ Subsequent Product Code: LLZ 
+   
+Predicate Device CAAS Workstation (K151780, Angiographic X-ray System, 21 CFR 892.1600, IZI, LLZ) 
+ CAAS (K052988, Image Processing System, 21 CFR 892.2050, LLZ) 
+ 
+  
+Device Description 
+The CAAS Workstation is designed as a stand-alone software package to run on a PC with a Windows operating system. 
+It can read DICOM X-ray images from an directory, or received from the X-ray or PACS system. Intravascular images 
+(such as intravascular ultrasound (IVUS) and optical coherence tomography (OCT) in DICOM format can be read from a 
+directory, or received from the intravascular imaging console or PACS system. IVUS images can also be received real-
+time as a video stream from an intravascular imaging console via a DVI streamer. The CAAS Workstation product has a 
+moderate level of concern.  
+ 
+CAAS Workstation is composed out of the following analysis workflows: QCA, QCA3D, QVA, LVA, RVA, StentEnhancer 
+and IV-LINQ of the previously cleared predicate device CAAS Workstation (K151780) for calculating dimensions of 
+coronary and peripheral vessels and the left and right ventricles, quantification of stenosis, performing density 
+measurements, determination of optimal C-arm position for imaging of vessel segments and functionality to enhance 
+the visualization of a stent and to measure stent dimension. Semi-automatic contour detection forms the basis for the 
+analyses. Functionality to co-register X-ray angiographic images and intravascular imaging techniques (such as IVUS and 
+OCT) is added by means of the analysis module IV-LINQ. 
+ 
+In the newly added vFFR workflow the user can calculate the pressure drop and a vFFR value on coronary vessels. To 
+obtain these values for a specific lesion in a coronary vessel, the user has to start with a QCA3D detection using two 
+angiographic images. In each of these images a classic 2D coronary detection is performed after which a reconstruction 
+of the coronary segment is obtained in 3D space. Based on the 3D reconstruction and the user input of systolic and 
+diastolic aortic root blood pressure, the pressure drop and the vFFR values can be assessed. The functionality is based 
+on a combination of the QCA3D workflow available in predicate device CAAS Workstation (K151780) and technology 
+available in the predicate device CAAS (K052988).  
+ 
+Results can be displayed on the screen, printed or saved in a variety of formats to hard disk, network, PACS system or 
+CD. Results and clinical images with overlay can also be printed as a hardcopy and exported in various electronic 
+formats. The functionality is independent of the type of vendor acquisition equipment. 
+510(k) Summary - K180019   
+ 
+Pie Medical Imaging BV Version 3.0 Page 2 of 5 
+Intended Use  
+CAAS Workstation is a modular software product intended to be used by or under supervision of a cardiologist or 
+radiologist in order to aid in reading, co-registering and interpreting cardiovascular X-Ray images to support diagnoses 
+and for assistance during intervention of cardiovascular conditions.  
+ 
+Indications for Use  
+CAAS Workstation features segmentation of cardiovascular structures, 3D reconstruction of vessel segments and 
+catheter path based on multiple angiographic images, measurement and reporting tools to facilitate the following use: 
+ Calculate the dimensions of cardiovascular structures; 
+ Quantify stenosis in coronary and peripheral vessels; 
+ Quantify the motion of the left and right ventricular wall; 
+ Perform density measurements; 
+ Determine C-arm position for optimal imaging of cardiovascular structures; 
+ Enhance stent visualization and measure stent dimensions; 
+ Quantify pressure drop in coronary vessels; 
+ Co-registration of angiographic X-Ray images with IVUS and OCT images. 
+CAAS Workstation is intended to be used by or under supervision of a cardiologist or radiologist.  
+ 
+Substantial equivalence  
+A comparison of the technological characteristics of the predicate and subject device is given the table below.  
+ New Device Predicate Device Predicate Device 
+Device name CAAS Workstation CAAS Workstation CAAS 
+Manufacturer Pie Medical Imaging  Pie Medical Imaging Pie Medical Imaging 
+510(k) number K180019 K151780 K052988 
+Intended Use and Indications for Use 
+Intended use CAAS Workstation is a modular 
+software product intended to be 
+used by or under supervision of a 
+cardiologist or radiologist in order 
+to aid in reading, co-registering and 
+interpreting cardiovascular X-Ray 
+images to support in diagnoses and 
+for assistance during intervention 
+of cardiovascular conditions. 
+CAAS Workstation is a modular 
+software product intended to be 
+used by or under supervision of a 
+cardiologist or radiologist in order 
+to aid in reading, co-registering and 
+interpreting cardiovascular X-Ray 
+images to support in diagnoses and 
+for assistance during intervention 
+of cardiovascular conditions. 
+The intended use of CAAS is: 
+ Quantification of coronary artery 
+dimensions; 
+ Quantification of peripheral 
+arteries and aorta; 
+ Quantification of left and right 
+ventricles; 
+ Management of data resulting of 
+the quantitative analysis. 
+ 
+CAAS is used online or offline in 
+hospitals and offline for research 
+purposes. In hospitals, the software 
+will be used by cathlab personnel 
+under supervision of cardiologists 
+and radiologists. In research 
+institutes, the users are principal 
+investigators and other research 
+personnel operating under 
+supervision of cardiologists and 
+radiologists as well. 
+Indications for 
+use 
+CAAS Workstation features 
+segmentation of cardiovascular 
+structures, 3D reconstruction of 
+vessel segments based on multiple 
+angiographic images, measurement 
+and reporting tools to facilitate the 
+following use: 
+ Calculate the dimensions of 
+cardiovascular structures; 
+ Quantify stenosis in coronary and 
+peripheral vessels; 
+ Quantify the motion of the left 
+and right ventricular wall; 
+ Perform density measurements; 
+CAAS Workstation features 
+segmentation of cardiovascular 
+structures, 3D reconstruction of 
+vessel segments based on multiple 
+angiographic images, measurement 
+and reporting tools to facilitate the 
+following use: 
+ Calculate the dimensions of 
+cardiovascular structures; 
+ Quantify stenosis in coronary and 
+peripheral vessels; 
+ Quantify the motion of the left 
+and right ventricular wall; 
+ Perform density measurements; 
+CAL 
+Calculate the pixel size of the image 
+to be analysed. 
+ 
+MEAS 
+Perform basic length, angle and 
+density measurements. 
+ 
+QCA 
+Detect the contour of the coronary 
+vessel in the angiographic X-ray 
+image 
+- Calculate the dimensions of the 
+coronary artery segment. 
+510(k) Summary - K180019   
+ 
+Pie Medical Imaging BV Version 3.0 Page 3 of 5 
+ Determine C-arm position for 
+optimal imaging of cardiovascular 
+structures; 
+ Enhance stent visualization and 
+measure stent dimensions; 
+ Quantify pressure drop in 
+coronary vessels; 
+ Co-registration of angiographic X-
+Ray images with IVUS and OCT 
+images. 
+ 
+CAAS Workstation is intended to be 
+used by or under supervision of a 
+cardiologist or radiologist.  
+ Determine C-arm position for 
+optimal imaging of cardiovascular 
+structures; 
+ Enhance stent visualization and 
+measure stent dimensions; 
+ Co-registration of angiographic X-
+Ray images with IVUS and OCT 
+images. 
+ 
+CAAS Workstation is intended to be 
+used by or under supervision of a 
+cardiologist or radiologist. When 
+the results provided by CAAS 
+Workstation are used in a clinical 
+setting to support diagnoses and 
+for assistance during intervention 
+of cardiovascular conditions, the 
+results are explicitly not to be 
+regarded as the sole, irrefutable 
+basis for clinical decision making. 
+ 
+QVA 
+Detect the contour of the 
+peripheral vessel in the 
+angiographic X-ray image 
+- Calculate the dimensions of the 
+peripheral vessel segment. 
+ 
+LVA 
+Delineate the outline of the left 
+ventricular wall automatically 
+and/or manually in angiographic X-
+ray images – either monoplane or 
+biplane analysis; absolute 
+measurements of left ventricular 
+volumes; calculations of derived 
+parameters; quantification of the 
+motion of the left ventricular wall; 
+estimations of the dimensions of 
+the myocardial wall. 
+ 
+RVA 
+Delineate the outline of the right 
+ventricular wall semi-automatically 
+and/or manually in angiographic X-
+ray images – either monoplane or 
+biplane analysis; absolute 
+measurements of right ventricular 
+volumes based on several 
+established models for children and 
+adults; calculations of derived 
+parameters; quantification of the 
+motion of the right ventricular wall. 
+ 
+Technological Characteristics 
+Data type  X-Ray angiography in DICOM 
+format (vendor independent); 
+ IVUS and OCT data in DICOM 
+format (vendor independent); 
+ IVUS data as video stream 
+ 
+ X-Ray angiography in DICOM 
+format (vendor independent); 
+ IVUS and OCT data in DICOM 
+format (vendor independent;) 
+ IVUS data as video stream 
+ X-Ray angiography in DICOM 
+format (vendor independent); 
+ n/a 
+ 
+ n/a 
+Import of patient 
+data 
+ Manual through keyboard; 
+ Command line interface 
+ 
+ Manual through keyboard; 
+ Command line interface 
+ Manual through keyboard; 
+ Command line interface 
+Contour 
+definition 
+ Manual and semi-automatic 
+centreline definition based 
+contour detection of coronary 
+and peripheral vessels; 
+ Manual and semi-automatic left 
+ventricular contour definition; 
+ Manual right ventricular contour 
+definition; 
+ Manual stent contour definition; 
+ Contour correction and 
+restriction; 
+ Manual catheter path definition 
+ 
+ Manual and semi-automatic 
+centreline definition based 
+contour detection of coronary 
+and peripheral vessels; 
+ Manual and semi-automatic left 
+ventricular contour definition; 
+ Manual right ventricular contour 
+definition; 
+ Manual stent contour definition; 
+ Contour correction and 
+restriction; 
+ Manual catheter path definition 
+ Manual and semi-automatic 
+centreline definition based 
+contour detection of coronary 
+and peripheral vessels; 
+ Manual and semi-automatic left 
+ventricular contour definition; 
+ Manual right ventricular contour 
+definition; 
+ Manual stent contour definition; 
+ Contour correction and 
+restriction; 
+ Manual catheter path definition 
+ 
+Image display  2D X-ray image; 
+ 3D reconstruction based on 2 X-
+ray images; 
+ 2D intravascular image; 
+ Longitudinal intravascular 
+ 2D X-ray image; 
+ 3D reconstruction based on 2 X-
+ray images; 
+ 2D intravascular image; 
+ Longitudinal intravascular 
+ 2D X-ray image 
+ n/a 
+ 
+ n/a 
+ n/a 
+510(k) Summary - K180019   
+ 
+Pie Medical Imaging BV Version 3.0 Page 4 of 5 
+reconstruction reconstruction  
+Image 
+assessment 
+ Manual and automatic 
+calibration; 
+ Basic length, diameter, density 
+and angle measurements; 
+ Vessels and ventricle dimensions 
+(diameters, areas, volumes); 
+ Automatic and manual stenosis 
+assessment; 
+ Left and right ventricular wall 
+motion; 
+ Left ventricular myocardium 
+dimensions; 
+ Enhanced stent visualization; 
+ Stent dimensions; 
+ Pressure drop calculation in 
+coronary vessels; 
+ 
+ 
+ Providing common frame of 
+reference for IVUS and OCT data 
+with X-ray angiographic data 
+ Manual and automatic 
+calibration; 
+ Basic length, diameter, density 
+and angle measurements; 
+ Vessels and ventricle dimensions 
+(diameters, areas, volumes); 
+ Automatic and manual stenosis 
+assessment; 
+ Left and right ventricular wall 
+motion; 
+ Left ventricular myocardium 
+dimensions; 
+ Enhanced stent visualization; 
+ Stent dimensions; 
+ n/a 
+ 
+ 
+ 
+ Providing common frame of 
+reference for IVUS and OCT data 
+with X-ray angiographic data 
+ Manual and automatic 
+calibration; 
+ Basic length, diameter, density 
+and angle measurements; 
+ Vessels and ventricle dimensions 
+(diameters, areas, volumes); 
+ Automatic and manual stenosis 
+assessment; 
+ Left and right ventricular wall 
+motion; 
+ Left ventricular myocardium 
+dimensions; 
+ n/a 
+ n/a 
+ Pressure drop calculation in 
+coronary vessels (in stenotic flow 
+reserve and hemodynamic data 
+functionality); 
+ n/a 
+ 
+Storage of results  Printout; 
+ Images; 
+ XML; 
+ DICOM SC; 
+ PDF 
+ n/a 
+ 
+ Printout; 
+ Images; 
+ XML; 
+ DICOM SC; 
+ PDF 
+ n/a 
+ Printout; 
+ Images; 
+ XML; 
+ DICOM SC; 
+ n/a 
+ DICOM SR 
+Operating system  Windows  Windows  Windows 
+ 
+The basic features and technology of the new CAAS Workstation are the same in terms of intended use and indications 
+for use and have the same technological characteristics as the predicate devices CAAS Workstation (K151780) and CAAS 
+(K052988). The cardiovascular functions supported by the CAAS Workstation are a combination of functions provided 
+by the predicate devices K151780 and K052988. All software applications use the same types of data and operating 
+principles for the user and technology regarding data import, contour definition, image display and storage of results.   
+Performance Data  
+Verification and validation of the CAAS Workstation showed that the system requirements – derived from the intended 
+use and indications for use – as well as risk control measures were implemented correctly and that the device meets its 
+specifications including conformance to the following standards: 
+ 
+• ISO 14971:2007, Medical devices – Application of risk management to medical devices 
+• NEMA PS 3.1 – 3.20 (2016), Digital Imaging and Communication in Medicine (DICOM)  
+• IEC 62304 Ed 1.1, 2015-06, Medical device software – Software life cycle processes 
+• IEC 62336-1 Ed 1.0 2015-02, Medical devices - Application of usability engineering to medical devices 
+ 
+For each analysis workflow in CAAS Workstation a validation approach is created and the proper functioning of the 
+algorithms is validated.  
+ Equivalence in numerical results for the analysis workflows already available in predicate device K151780 was 
+demonstrated with regression testing.  
+ To demonstrate a proper integration of the functionality ‘quantification of pressure drop in coronary vessels’ 
+from predicate device K052988 into CAAS Workstation, a series of X-ray angiographic datasets with known 
+pressure drops were analysed and compared with K052988 and the new CAAS Workstation. The functionality 
+‘quantification of pressure drop in coronary vessels’ in the new CAAS Workstation is based on a 3D coronary 
+reconstruction out of 2 angiographic images. In the predicate device K052988, which uses a method based on a 
+single angiographic image, the results were generated for both the angiographic images as used for the 3D 
+reconstruction. The results for the pressure drop were compared and differences (mean and standard 
+deviation) of the calculated pressure drops with respect to known pressure drops of the used datasets were 
+510(k) Summary - K180019   
+ 
+Pie Medical Imaging BV Version 3.0 Page 5 of 5 
+calculated. A Pearson correlation between the known and calculated pressure drop values was also performed. 
+This demonstrated that the quantification of pressure drop in coronary vessels in the new CAAS Workstation is 
+improved compared to the predicate device K052988.   
+ 
+The verification and validation results demonstrate the safety and effectiveness of CAAS Workstation in relation to its 
+intended use and therefore CAAS Workstation can be considered as safe and effective as its predicate devices. 
+ 
+Conclusion  
+Based on the application of risk management and performance testing inherent to PMI’s QA system (compliant with 
+recognized standards as stated above) we conclude that CAAS Workstation is as safe and effective as its predicate 
+devices in terms of intended use, indications for use, technological characteristics, measurements and operating 
+environment and does not raise any new issues related to safety and effectiveness compared to the predicate devices. 

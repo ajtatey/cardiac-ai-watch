@@ -1,0 +1,70 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Medical Imaging Center, Shaanxi Provincial People's Hospital, Xi'an, China.",
+   "Lintong Rehabilitation and Convalescent Center of PLA Joint Logistic Support Force, Xi'an, China.",
+   "Medical Imaging Center, Shaanxi Provincial People's Hospital, Xi'an, China.",
+   "Shukun Beijing Technology Co., Ltd., Beijing, China.",
+   "Northwestern Polytechnical University, Xi'an, China."
+  ],
+  "authors": [
+   "Fan W",
+   "Wang HX",
+   "Zhang BH",
+   "Zheng C",
+   "Nie X",
+   "Liu Y"
+  ],
+  "doi": "10.3389/fcvm.2026.1943961",
+  "journal": "Frontiers in cardiovascular medicine",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42871045",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "coronar",
+   "ccta",
+   "ct angiograph",
+   "\\bffr",
+   "stenos",
+   "pericoronary",
+   "cardiovascular"
+  ],
+  "companies": [
+   "caristo"
+  ],
+  "keep": true,
+  "score": 19
+ },
+ "published": "2026-09-29",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Frontiers in cardiovascular medicine. Fan W, Wang HX, Zhang BH, Zheng C, Nie X, Liu Y. Pericoronary adipose tissue (PCAT) radiomics may complement coronary computed tomography angiography (CCTA)-based anatomical and physiological assessment. This study aimed to evaluate its incremental diagnostic value for identifying hemodynamically significant coronary stenosis. This retrospective study screened 21,438 consecutive patients and included 81 patients with 107 target vessels who underwent CCTA, invasive coronary angiography, and invasive fractional flow reserve (FFR) measurement within 30 days. Patients were allocated at the patient level to training and validation cohorts in a 7:3 ratio. A radiomics score (Radscore) was developed from lesion-specific PCAT features using training-only preprocessing and least absolute shrinkage and selection operator logistic regression. Models incorporating diameter stenosis (DS), CCTA-derived FFR (CT-FFR), fat attenuation index (FAI), and Radscore were evaluated against invasive FFR ≤0.80 using patient-cluster bootstrap inference. The training and validation cohorts comprised 57 and 24 patients with 75 and 32 vessels, respectively, without patient overlap. In validation, Radscore alone had an area under the receiver operating characteristic curve (AUC) of 0.684 (95% confidence interval [CI], 0.451-0.873). CT-FFR+ Radscore showed higher discrimination than CT-FFR alone (AUC, 0.879 vs. 0.762; difference, 0.117; 95% CI, 0.005-0.229; P = 0.041), as did DS+ Radscore vs. DS alone (AUC, 0.812 vs. 0.619; difference, 0.193; 95% CI, 0.018-0.367; P = 0.030). The FAI comparison was not significant (P = 0.238). At training-derived cutoffs, CT-FFR+ Radscore had lower sensitivity (50.0% vs. 78.6%) and negative predictive value (69.6% vs. 81.3%) but higher specificity (88.9% vs. 72.2%). Adding Radscore was associated with higher discrimination for CT-FFR and DS in internal validation but did not uniformly improve threshold-dependent classification. Independent external validation is warranted.",
+ "title": "Incremental diagnostic value of coronary CT angiography-derived pericoronary adipose tissue radiomics for identifying hemodynamically significant coronary stenosis.",
+ "triage": {
+  "companies": [
+   "caristo"
+  ],
+  "priority": "P2",
+  "relevance": 4,
+  "summary": "Retrospective study (screened 21,438 patients) showing CCTA-derived pericoronary adipose tissue radiomics adds diagnostic value for hemodynamically significant stenosis (Frontiers in Cardiovascular Medicine).",
+  "tags": [
+   "evidence",
+   "ccta",
+   "pericoronary",
+   "radiomics",
+   "physiology"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Supports the pericoronary inflammation thesis that Caristo's CaRi-Heart is built on."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42871045/"
+}

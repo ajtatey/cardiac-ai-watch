@@ -1,0 +1,629 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 18, 2026 
+ 
+AI Planning Logic, Inc. 
+℅ Jennifer Palinchik 
+Owner & CEO 
+Sagemar Medical, LLC 
+30628 Detroit Rd. 
+#254 
+Westlake, Ohio 44145 
+ 
+ 
+Re:  K261641 
+Trade/Device Name: Lower Limb AI (LLAI) 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  August 10, 2026 
+Received:  August 10, 2026 
+ 
+Dear Jennifer Palinchik: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K261641 - Jennifer Palinchik Page 
+ 
+2 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+K261641 - Jennifer Palinchik Page 
+ 
+3 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+Jessica Lamb, PhD 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+      510(k ) Summary - Lower Limb AI (LLAI) 
+Page 1 of 8 
+This
+ 510(k) Summary is being submitted in accordance with the requirements of 21 CFR 807.92 
+510
+(k) SUBMITTER: 
+AI Planning Logic, Inc. 
+1617 Ronne Drive 
+Santa Rosa, CA 95404 
+Primary Contact: 
+Philippe Ballaire, CEO 
+Alternate Contact: 
+Taman Upadhaya, PhD, CTO 
+Official Correspondent: 
+Jennifer Palinchik, Regulatory Consultant 
+(440) 935-3282
+Device Trade Name: 
+Common Name: 
+Lower Limb AI (LLAI) 
+Automated Radiological Image Processing Software 
+Device Classification Name: Medical Image Management and Processing System 
+Regulation Number: 21 CFR 892.2050 
+Regulatory Class: Class II 
+Product Code: QIH 
+Review Panel: Radiology 
+Primary Predicate: SMART Bun-Yo-Matic CT (K240642) 
+Reference Predicate: PeekMed Web (K252856) 
+Devi
+ce Description: 
+Lower Limb AI (LLAI) is a cloud-based Software as a Medical Device that processes lower-limb CT 
+imaging to support orthopedic preoperative planning. The device receives DICOM CT data, performs 
+automated bone segmentation using locked deep-learning models, identifies anatomical landmarks, 
+generates three-dimensional anatomical reconstructions, and computes quantitative alignment 
+measurements using deterministic mathematical algorithms. Outputs are presented to the clinician for 
+review, confirmation, and use in surgical planning. 
+The s
+cientific basis for the device includes convolutional neural network image segmentation using deep 
+learning-based segmentation algorithm, geometric modeling of bone surfaces, and established orthopedic 
+alignment principles. Mechanical and anatomical measurements are derived from three-dimensional 
+landmarks, vectors, planes, and joint-center calculations. The software provides automated pelvis, femur, 
+tibia, and ankle-region segmentation; hip, knee, and ankle landmark localization; deterministic angle 
+calculation; STL-based visualization; and repeatable outputs. 
+LLA
+I is a software-only device with no patient-contacting components and is accessed through a secure 
+web interface. Significant performance characteristics include: 
+• Automated segmentation of pelvis, femur, tibia, and ankle regions
+• Anatomical landmark localization for hip, knee, and ankle regions
+• Deterministic angle computation using landmarks, vectors, planes, and joint-center calculations
+for mechanical axis and related alignment parameters
+K261641
+      510(k) Summary - Lower Limb AI (LLAI) 
+Page 2 of 8 
+• STL-based anatomical visualization for preoperative assessment
+• Repeatable algorithmic outputs generated by locked software models and deterministic
+measurement calculations
+• Cloud-hosted processing with GPU-accelerated inference
+• Integrated cybersecurity controls for secure system access and data handling
+LLAI is designed to segment native lower-limb bony anatomy from CT image data and to identify 
+anatomical landmarks on the resulting bony structures. The device does not segment orthopedic implants 
+as device outputs. Implant-specific subgroup performance was not established as a separate validation 
+endpoint, and performance claims are limited to the evaluated input conditions. 
+For purposes of the device description and performance characterization, reconstruction parameters refer 
+to CT acquisition and reconstruction characteristics that may influence image appearance and spatial 
+sampling, including slice thickness, through-plane spacing, pixel spacing, reconstruction diameter or field 
+of view, tube voltage, scanner manufacturer/model, and reconstruction kernel where available. 
+The system is accessed through a secure web interface and does not modify, store, or transmit data 
+beyond the functions required for image processing and clinician review. All measurements and 
+visualizations generated by the device are advisory and are intended to assist, not replace, clinical 
+judgment. 
+Indications for Use: 
+The AI Planning Logic (AIPL) Lower Limb AI (LLAI) is software intended for use by orthopedic 
+healthcare professionals in the preoperative planning of knee osteotomy procedures. The device processes 
+CT images of the lower limb to provide: 
+• Automated segmentation and 3D reconstruction of bony anatomy
+• Quantitative measurement of lower limb alignment, including mechanical and anatomical axis
+angles
+• Visualization of anatomical structures and surgical planning outcomes in a virtual 3D
+environment
+T
+he software is intended to be used as an adjunctive tool to support clinical judgment and is not intended 
+to provide diagnostic information or to replace the surgeon’s decision-making process. 
+T
+echnological Characteristics: 
+LLAI uses deep-learning segmentation, deterministic geometric algorithms for angle measurement, and a 
+cloud-hosted inference pipeline. The technological characteristics are similar to the predicate devices, 
+which also use automated segmentation, 3D reconstruction, and measurement tools. Differences do not 
+raise new questions of safety or effectiveness. 
+P
+erformance Testing – Machine Learning Validation Summary 
+Performance testing was conducted to support the substantial equivalence determination for Lower Limb 
+AI (LLAI) and to characterize the performance of the device’s machine learning-derived outputs. Testing 
+evaluated segmentation performance, landmark localization, angle measurement, STL representation 
+fidelity, workflow operation, and performance across available imaging conditions and evaluated 
+subgroups. The clinical performance evaluation was retrospective and non-interventional and used de-
+       510(k) Summary - Lower Limb AI (LLAI) 
+ 
+Page 3 of 8 
+ 
+identified lower-limb CT image sets. The evaluation assessed device performance and workflow function; 
+patient outcomes, complication rates, and therapeutic benefit were outside the scope of the evaluation. 
+Training Dataset 
+Separate segmentation-model training datasets were maintained for the pelvis, knee, and ankle anatomical 
+regions. The pelvis model training dataset included 593 unique patients and 1,280 CT image volumes. 
+The knee model training dataset included 625 unique patients and 1,280 CT image volumes. The ankle 
+model training dataset included 667 unique patients and 1,280 CT image volumes. 
+ 
+A patient could contribute more than one CT volume; therefore, unique-patient counts and CT image-
+volume counts are reported separately and should not be aggregated across anatomical datasets. 
+ 
+Training images were acquired using CT scanners from multiple manufacturers, including GE, Siemens, 
+Toshiba, and Philips, with smaller contributions from other manufacturers were recorded. The 
+predominant tube voltage was 120 kVp, accounting for approximately 90.70% of the combined training 
+image volumes. 
+Training-data through-plane spacing and slice-thickness characteristics varied by anatomical model. For 
+the pelvis dataset, through-plane spacing ranged from 0.1 to 10.0 mm and slice thickness ranged from 0.5 
+to 10.0 mm. For the knee dataset, through-plane spacing ranged from 0.1 to 5.0 mm and slice thickness 
+ranged from 0.5 to 5.0 mm. For the ankle dataset, through-plane spacing ranged from 0.1 to 5.0 mm and 
+slice thickness ranged from 0.3 to 5.0 mm. 
+ 
+Although maximum spacing and slice-thickness values varied by dataset, most training volumes used 
+thinner image spacing. At least 98.2% of training volumes had through-plane spacing of 2.5 mm or less, 
+and at least 99.2% had through-plane spacing of 3.0 mm or less. At least 98.4% of training volumes had 
+slice thickness of 2.5 mm or less, and at least 99.4% had slice thickness of 3.0 mm or less. 
+ 
+Available training metadata indicated approximate age ranges of 11–71 years for the pelvis and knee 
+datasets and 11–75 years for the ankle dataset. Recorded sex/gender information was available at the 
+image-volume-record level. Male-associated image-volume records represented approximately 65% of 
+the pelvis dataset, 65% of the knee dataset, and 68% of the ankle dataset. Female-associated image-
+volume records represented approximately 33%, 33%, and 30%, respectively. Small proportions were 
+recorded as other, unknown, or anonymized. These distributions do not represent deduplicated unique-
+patient demographic distributions. 
+ 
+Race and ethnicity were not included in the supplied de-identified training metadata. The Dataset 
+Characterization Report provides the available training-data distributions for tube voltage, pixel spacing, 
+through-plane spacing, reconstruction diameter, scanner manufacturer and model, contributing 
+institutions, collection period, and other available imaging characteristics. Missing or unknown metadata 
+are identified within the applicable tables. The Supplementary Material Supporting Validation Report is 
+identified as the authoritative source for the training dataset patient and CT image-volume counts. 
+ 
+Validation Dataset 
+The clinical performance validation dataset included both internal validation and independent external 
+validation cohorts. 
+ 
+Validation cohort Unique patients Complete image sets 
+Internal validation 170 327 
+Independent external validation 63 116 
+       510(k) Summary - Lower Limb AI (LLAI) 
+ 
+Page 4 of 8 
+ 
+ 
+Demographic Characteristics 
+Available demographic information included age and recorded sex/gender at the image-set-record level. 
+Because deduplicated patient-level demographic data were not available for all records, patients 
+contributing multiple image sets may be represented more than once in demographic summaries. 
+ 
+Cohort Age information Recorded sex/gender Race and ethnicity 
+Internal validation 
+Available for 320 of 327 image 
+sets; approximately 17–69 
+years 
+Male 230; female 91; 
+other 3; unknown 3 
+Not included in 
+supplied de-identified 
+metadata 
+Independent 
+external validation 
+Available for 101 of 116 image 
+sets; approximately 9–71 years 
+Male 64; female 45; 
+other 3; unknown 4 
+Not included in 
+supplied de-identified 
+metadata 
+ 
+Race and ethnicity were not included in the supplied de-identified training or validation metadata. The 
+datasets were assembled from retrospective imaging records across multiple acquisition sites, and 
+available metadata were limited to the fields provided by the source datasets, including age, recorded 
+sex/gender, acquisition characteristics, scanner information, and selected imaging parameters. Because 
+race and ethnicity were unavailable, they were not used for subgroup analysis, and no conclusions are 
+made regarding performance across racial or ethnic groups. 
+ 
+Clinical Subgroups, Confounders, and Edge Cases 
+Subgroup analyses were performed according to output type. Segmentation performance was evaluated 
+across tube-voltage and BMI categories. Landmark-localization and angle-measurement performance 
+were evaluated across age, recorded sex/gender, and scanner-manufacturer categories. STL representation 
+performance was evaluated in aggregate because overall accuracy was consistently high and no subgroup-
+specific performance signal was identified. 
+ 
+No clinically significant subgroup-specific performance patterns were identified among the evaluated 
+subgroups. Several subgroup categories included limited case numbers, and BMI information was 
+unavailable for a substantial proportion of datasets. Accordingly, the subgroup analyses support 
+performance characterization for the evaluated data but do not establish equivalent performance across all 
+patient populations or acquisition conditions. 
+ 
+Reviewed edge cases included incomplete or zoomed anatomy, ankle-tip holes, unusual or distorted 
+anatomy, and connected femur or tibia. Cases outside intended input conditions were excluded from 
+applicable quantitative landmark and angle analyses and were separately reviewed for potential safety 
+impact.  
+ 
+Implants and Reconstruction Parameters 
+LLAI does not segment orthopedic implants as device outputs. The segmentation and landmark-
+localization algorithms are intended to identify native bony anatomy for lower-limb preoperative 
+planning. Implant-specific subgroup performance was not established as a separate validation endpoint. 
+As a result, performance claims are limited to the evaluated input conditions, and the 510(k) Summary 
+and labeling do not claim validated robustness across implants. 
+ 
+       510(k) Summary - Lower Limb AI (LLAI) 
+ 
+Page 5 of 8 
+ 
+For the device description and performance discussion, “reconstruction parameters” refer to CT 
+acquisition and reconstruction characteristics that may influence image appearance and spatial sampling, 
+including slice thickness, through-plane spacing, pixel spacing, reconstruction diameter or field of view, 
+tube voltage, scanner manufacturer/model, and reconstruction kernel where available. Performance claims 
+are limited to the patient populations, acquisition conditions, reconstruction characteristics, and input-
+quality characteristics represented in the training and validation datasets. 
+ 
+Imaging Equipment and Acquisition Characteristics 
+Validation datasets were collected from multiple clinical acquisition sites and included CT scanners from 
+multiple manufacturers. Internal-validation image sets were acquired using scanners from GE Medical 
+Systems, Siemens, Toshiba, Philips, and Canon Medical Systems. Independent external-validation image 
+sets were acquired using recorded scanner models from GE Medical Systems, Philips, Siemens 
+Healthineers, Siemens, and Toshiba. 
+ 
+Most validation image sets were acquired at 120 kVp. Across the internal and independent external 
+cohorts, excluding two internal image sets with missing or invalid tube-voltage metadata, 400 of 441 
+image sets, or 90.70%, were acquired at 120 kVp. 
+ 
+For internal validation, both through-plane spacing and slice thickness ranged from 0.3 to 2.5 mm. For 
+independent external validation, both ranged from 0.4 to 2.5 mm. Available metadata also characterized 
+pixel spacing, reconstruction diameter, scanner manufacturers and models, acquisition sites, and other 
+imaging characteristics. 
+ 
+Reference Standard and Truthing Process 
+Segmentation reference masks were generated through manual annotation in ITK-SNAP. Trained 
+annotators edited and refined the masks to remove irrelevant anatomical structures and establish 
+anatomically appropriate segmentation boundaries. Expert clinicians reviewed the resulting masks for 
+anatomical correctness and clinical validity but did not directly edit them. Any discrepancies identified 
+during clinical review were returned to the trained annotators for correction and subsequent re-review 
+before acceptance. 
+ 
+Qualified clinical experts established fixed reference-standard landmark coordinates using 3D CAD 
+software tools. Joint angles were calculated from those landmarks using independently verified angle-
+computation software. Reference-standard data were locked before comparison with AI outputs. 
+ 
+Independent external validation used triangulated comparison among AI Core outputs, a separate expert 
+orthopedic surgeon assessment, and the 3D CAD software tools derived reference standard. When 
+disagreement exceeded protocol-defined tolerance, additional expert review, consensus, or adjudication 
+was required before final disposition. 
+ 
+Independence of Test Data from Training Data 
+The production software and model versions were frozen, and validation datasets were locked before 
+validation testing. No patient, CT image volume, CT series, reconstructed volume, derived image, 
+segmentation mask, landmark annotation, or other data from the 116-case independent external validation 
+dataset were used for model training, model selection, checkpoint selection, hyperparameter tuning, 
+operating-threshold selection, acceptance-criterion development, or adaptation of the released models. 
+       510(k) Summary - Lower Limb AI (LLAI) 
+ 
+Page 6 of 8 
+ 
+De-identified patient identifiers, image-set identifiers, site records, and controlled dataset inventories were 
+reviewed to maintain separation between development data and independent external test data. No 
+retraining or model modification was performed in response to validation results. 
+ 
+Performance Testing Results 
+LLAI met the prespecified acceptance criteria for the evaluated outputs. 
+ 
+Output Test method 
+Acceptance criteria / 
+evaluation 
+framework 
+Results 
+Segmentation 
+Comparison with expert-
+verified reference masks 
+using Dice, Intersection 
+over Union, HD95, 
+precision, and recall 
+Dice ≥ 0.95; IoU ≥ 
+0.90; HD95 ≤ 3.5 
+mm; precision ≥ 0.90; 
+recall ≥ 0.90 
+All endpoints passed. Mean 
+Dice values ranged from 
+approximately 0.9916 to 0.9965 
+across anatomical regions and 
+validation cohorts. Mean HD95 
+values were below 1 mm. 
+Landmark 
+localization 
+Three-dimensional radial 
+distance between AI-
+generated, reference-
+standard, and expert 
+landmarks 
+Overall mean radial 
+error ≤ 7 mm; 
+standard deviation ≤ 5 
+mm; deviations 
+clinically reviewed; 
+no unresolved safety 
+concern 
+All landmark-localization 
+comparisons passed. Mean 
+radial error values ranged from 
+approximately 3.611 mm to 
+4.213 mm across reported 
+comparison groups. 
+Angle 
+measurement 
+Mean absolute error, 
+signed bias, standard 
+deviation, interquartile 
+range, confidence 
+intervals, Bland–Altman 
+analysis, expert-
+comparator agreement, 
+outlier review, and 
+residual-risk assessment 
+Protocol-defined 
+agreement 
+framework; 
+deterministic 
+computation verified; 
+deviations clinically 
+reviewed; no 
+unresolved safety 
+concern 
+Angle validation passed. 
+Greater variability was 
+observed for geometrically 
+sensitive measurements, and 
+users are instructed to review 
+and, where necessary, correct 
+underlying landmarks before 
+relying on derived 
+measurements. 
+STL 
+representation 
+Hausdorff distance, 
+average surface distance, 
+volume ratio, mesh-
+integrity review, and 
+clinical-acceptability 
+review 
+HD ≤ 2.5 mm; ASD ≤ 
+0.5 mm; volume ratio 
+≥ 0.95; valid mesh; 
+clinically acceptable 
+STL representation met 
+prespecified acceptance criteria, 
+supporting high-fidelity surface 
+reconstruction relative to 
+reference representations. 
+ 
+The validation evidence demonstrates that LLAI performs as intended for the evaluated lower-limb CT 
+imaging conditions and met the prespecified acceptance criteria for segmentation, landmark localization, 
+angle-measurement evaluation, and STL representation. The results support the device’s performance for 
+its intended use while recognizing limitations in available validation metadata and evaluated subgroups, 
+including unavailable race/ethnicity data, incomplete BMI data, and lack of implant-specific subgroup 
+validation. 
+ 
+Substantial Equivalence: 
+       510(k) Summary - Lower Limb AI (LLAI) 
+ 
+Page 7 of 8 
+ 
+The Indications for Use of the subject device and the predicate devices are similar. Differences do not 
+constitute a different intended use because all devices are intended to provide 3D models, measurements, 
+and pre-surgical planning information generated from CT input for orthopedic healthcare professionals. 
+ 
+The subject and predicate devices have similar technological characteristics. Differences in output format 
+and user interface do not introduce new questions of safety or effectiveness. 
+ 
+Performance testing demonstrates that the subject device performs as intended and meets its predefined 
+acceptance criteria. Prospective clinical outcome data were not required to support the substantial 
+equivalence determination. 
+Category Subject Device (LLAI) 
+Primary Predicate 
+(K240642 – SMART 
+Bun-Yo-Matic CT) 
+Reference 
+Predicate 
+(K252856 – 
+PeekMed Web) 
+Manufacturer AI Planning Logic, Inc. Disior Ltd PeekMed 
+Trade Name Lower Limb AI (LLAI) SMART Bun-Yo-Matic CT PeekMed Web 
+Input CT imaging (DICOM) of the lower limb CT imaging (DICOM) CT imaging (DICOM) 
+Image 
+Processing 
+Automated segmentation of bone 
+structures; anatomical landmark 
+detection; 3D reconstruction; 
+quantitative alignment measurements 
+Automated 
+segmentation of bone 
+structures; 3D 
+reconstruction; case 
+report generation 
+Automated 
+segmentation, 3D 
+reconstruction, and 
+orthopedic 
+planning tools 
+Output 
+Segmented bone models, anatomical 
+landmarks, 3D reconstructions, 
+quantitative alignment measurements 
+for pre-operative planning 
+3D model of patient 
+anatomy; surgical 
+instrument 
+parameters; case 
+report 
+3D models, 
+measurements, and 
+planning tools for 
+orthopedic 
+assessment 
+Measuring & 
+Planning 
+Deterministic geometric algorithms for 
+angle and alignment measurement; 
+supports orthopedic pre-operative 
+planning 
+Performs 
+measurements for 
+presurgical planning 
+Performs 
+measurements and 
+planning for 
+orthopedic 
+procedures 
+User Interface Web-based graphical user interface accessed through a standard browser Standalone application-based GUI Web-based GUI 
+Technological 
+Characteristics 
+Deep-learning segmentation ; cloud-
+hosted inference pipeline; 
+deterministic measurement algorithms 
+Automated 
+segmentation and 
+measurement 
+algorithms; 
+workstation-based 
+processing 
+Automated 
+segmentation and 
+measurement 
+algorithms; cloud-
+enabled workflow 
+Performance 
+Testing 
+Validation testing evaluated internal 
+and independent external CT image 
+sets. LLAI met prespecified 
+acceptance criteria for segmentation, 
+landmark localization, angle-
+Predicate meets 
+acceptance criteria of 
+95% model 
+conformance within 
+1.0 mm and 2° SD 
+Predicate 
+demonstrates 
+acceptable 
+segmentation and 
+       510(k) Summary - Lower Limb AI (LLAI) 
+ 
+Page 8 of 8 
+ 
+measurement evaluation, STL 
+representation, and workflow 
+performance under the evaluated 
+imaging conditions. Mean Dice values 
+ranged from approximately 0.9916 to 
+0.9965, and mean HD95 values were 
+below 1 mm. Performance claims are 
+limited to conditions represented in the 
+validation datasets, and implant-
+specific subgroup performance was 
+not established. 
+for angular 
+measurements 
+measurement 
+accuracy 
+ 
+Safety and Clinical Interpretation: 
+No clinically unsafe systematic output or unresolved device-related safety concern was identified during 
+validation. The evaluations were retrospective and non-interventional and were not designed to 
+demonstrate improved patient outcomes or reduced complication rates. Device outputs remain advisory 
+and must be reviewed by qualified users before use in planning. 
+ 
+Conclusion: 
+LLAI has the same intended use and similar technological characteristics as the predicate devices. 
+Differences in technological characteristics do not raise new questions of safety or effectiveness. Under 
+the evaluated conditions, performance testing demonstrated that LLAI performs as intended and meets its 
+predefined acceptance criteria. Based on the intended use, technological characteristics, and performance 
+testing, LLAI is substantially equivalent to the predicate and reference devices. 
+ 

@@ -1,0 +1,278 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 0 4 . 0 4 
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+Medis Medical Imaging Systems bv      May 30, 2019 
+℅ B. Goedhart, Ph.D. 
+VP Corporate R&D 
+Schuttersveld 9 
+Leiden,  2316 XG  
+THE NETHERLANDS 
+ 
+Re:  K182611 
+Trade/Device Name:  QANGIO XA 3D 
+Regulation Number:  21 CFR 892.1600 
+Regulation Name:  Angiographic x-ray system 
+Regulatory Class:  Class II 
+Product Code:  QHA, LLZ 
+Dated:  May 1, 2019 
+Received:  May 3, 2019 
+ 
+Dear Dr. Goedhart: 
+ 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+
+K182611 - B. Goedhart, Ph.D. Page 
+ 
+2 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for 
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+     For 
+Thalia T. Mills, Ph.D. 
+Director 
+Division of Radiological Health 
+OHT7: Office of In Vitro Diagnostics 
+    and Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+FORM FDA 3881 (7/17) Page  1   1 PSC Publishing Services (301) 443-6740        
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2020
+See PRA Statement below.
+510(k) Number  (if known)
+K182611
+Device Name
+QANGIO XA 3D
+Indications for Use  (Describe)
+QANGIO XA 3D is indicated for use in clinical settings where validated and reproducible quantified results are needed to 
+support the assessment of coronary vessels in X-ray angiographic images, for use on individual patients with coronary 
+artery disease.  
+ 
+When the quantified results provided by QAngio XA 3D are used in a clinical setting on X-ray images of an individual 
+patient. The results are only intended for use by the responsible clinicians.  
+Type of Use  (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete  
+and review the collection of information. Send comments regarding this burden estimate or any other aspect  
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.”
+K182611  FDA 510(k) Submission 
+QANGIO XA 3D  Document version: v5c0 
+Date: May 29, 2019 5-6  Status: FINAL 
+5. 510(k) Summary of Safety and Effectiveness 
+Submission in accordance with the requirements of 21 CFR Part 807.87(h).   
+Submitter : Medis medical imaging systems bv 
+Address  : Schuttersveld 9 
+  : 2316 XG Leiden 
+  : The Netherlands 
+Contact Person : B. Goedhart, PhD, Vice President R&D 
+Email  : bgoedhart@medis.nl 
+Telephone : +31 71 5241 700 
+Fax  : +31 71 521 5617 
+Prepared : May 29, 2019 
+Trade / Device Name : QANGIO XA 3D 
+Common Name : Radiological Image Processing Software 
+Regulatory Class : II 
+Regulation Description : Angiographic X-ray system 
+Regulation Number : 21 CFR 892.1600 
+Classification Product Code : QHA 
+Subsequent Product Code : LLZ 
+Predicate Device 
+x The Pie Medical: CAAS™ Workstation (K180019), Regulation Number : 21 CFR 892.1600.  
+ 
+Device Description   
+QANGIO XA 3D is the Medis software solution for the quantitative analysis of cardiac X-ray Angiography 
+(XA) studies. QANGIO XA 3D features: 
+x Acquisition guide and series selection guide: A visua lization method is provided to find suitable rotation 
+and angulation angles for a second XA image if the firs t XA image is selected (acq uisition guide). Another 
+visualization method is provided to support the selec tion of matching XA images in a completed patient 
+study (selection guide). Input: XA image. Output: XA image with required angulation compared to input 
+image. Method: Comparing angulation information from DICOM.  
+x Annotations and basic measurements: User tools are provided for basic textual annotations onto an XA 
+image, to perform a simple distance or area measuremen t in a 2D XA image, and to create snapshot images 
+of the screen. Input: XA image. Output: simple measurement results. Method: manual delineation.  
+x 2D and 3D QCA vessel detection: 2D vessel boundar ies are (automatically) detected of a user-selected 
+coronary vessel segment in an XA image. The 2D vessel boundaries from two XA images of the same 
+vessel under different angulation are used to reconstru ct a 3D model of the user-selected vessel segment. 
+Input: 2 XA images. Output: 3D model of targeted coronary vessel.  
+x 2D and 3D QCA vessel quantification: From the 3D mod el of the vessel segment, each ellipse is described 
+by its two diameters, which are stored as a minimum and maximum diameter. The total set of diameters is 
+called the “arterial diameter function”. From the arterial diameter function, a so-called “reference diameter” 
+function is calculated using a recursive method that fits a linear approximation through the diameters, 
+excluding the areas that are consider ed narrowed portions of the vessel segment. Analogue to 2D X-ray 
+angiographic analysis provided in our predicate device X-RAY VVA, all quantitative parameters provided 
+by QAngio XA 3D with respect to a lesion are ca lculated from these arterial and reference diameter 
+functions. By default the software will indicate the lesion with the most severe narrowing (minimal lumen 
+diameter / area), which is defined to be the narrowing with the largest percent of area-stenosis. Further, the 
+start and end point of the lesion will be provided, resulting in the calculation of the length of the lesion. 
+Other quantitative results derived from the diameter  functions are: maximum diameter / area, average 
+diameter over the lesion or the whole vessel segment.  
+K182611  FDA 510(k) Submission 
+QANGIO XA 3D  Document version: v5c0 
+Date: May 29, 2019 5-7  Status: FINAL 
+x QFR calculations: 
+o Quantitative Flow Ratio (QFR) analysis: The QFR value (ratio of the pressure drop) is calculated based 
+on computer calculations of the functional sign ificance of a coronary vessel narrowing. The 
+computation is based on computational fluid dynamics (CFD) principles applied to a 3D reconstruction 
+of the coronary vessel segment (as described above) and one of the flow models. Input: 3D model of 
+targeted coronary vessel and a flow model. Outp ut: QFR curve describing the QFR value at each 
+location along the centerline of the vessel segment.  From this QFR curve function the parameters 
+“Vessel QFR”, “Index QFR“, and “Lesion QFR”  can be derived. Two different flow models are 
+available:  
+o The so-called fixed flow model, which uses a fixed empiric hyperemic flow velocity, derived 
+from literature. Using this model will yield fQFR values.  
+o The contrast flow model, which models the hyperemic flow velocity derived from coronary 
+angiograms without pharmacologically induced hyperemia (i.e the contrast flow was 
+converted into the virtual hyperemic flow based on data derived from previous studies). Using 
+this model will yield so-called cQFR values.   
+o The agreement between the fQFR and cQFR model has been shown in a comparative study.    
+o The QFR value is validated against the FFR value in several validation studies. The WIFI II study, 
+FAVOR II Europe-Japan, FAVOR II China, QFR and Non Culprit lesions in STEMI Patients (and 
+many others). For FFR, only the value at a specific point along a coronary segment is known, i.e. at the 
+place of the pressure sensor, while the calculate d QFR curve describes its value along the entire 
+segment. For the comparison of FFR and QFR at a specific location, the QFR value is sampled from 
+the QFR curve at the location of the FFR wire. Since this sample is at a different position in each 
+analysis, it is admissible to see th is as a validation of the entire QFR curve. From the QFR curve, three 
+different QFR values are derived (i.e. samples of the QFR curve) and reported as output:   
+o The vessel QFR is the value at the end of the QFR curve;  
+o The index QFR is a caliper at a user-defined position in the QFR curve;   
+o The lesion QFR is 1 minus the QFR drop between the lesion markers;   
+x Single vessel report: A report is generated by the software that shows patient information, image acquisition 
+information (both obtained from the DICOM input), analysis results (vessel sizing and QFR value) and 
+snapshot images showing the vessel boundaries.  
+QANGIO XA 3D will be used by interventional cardiologists and researchers to obtain quantifications of lesions 
+in coronary vessels, to determine the functional significance of the individual or consecutive multiple lesions, 
+prior, during or after percutaneous coronary interven tion treatment. QANGIO XA 3D has been developed as a 
+standalone application to run on a Windows based opera ting system. The import of images and the export of 
+analysis results are via CD / DVD, a PACS or network environment. 
+Intended Use 
+QANGIO XA 3D is software intended to be used for performing calculations in X-ray angiographic images of 
+the coronary arteries. QANGIO XA 3D enables inter ventional cardiologists an d researchers to obtain 
+quantifications of one or more lesions in the analyzed  coronary vessel segment. In particular, QANGIO XA 3D 
+provides: 
+x Quantitative results of coronary vessel segments based on a 3D reconstructed model; 
+x Dimensions of the cardiovascular vessels and lesions; 
+x Quantification of the pressure drop in coronary vessels. 
+Indications for Use 
+QANGIO XA 3D is indicated for use in clinical settings  where validated and reproducible quantified results are 
+needed to support the assessment of coronary vessels in X-ray angiographic images, for use on individual 
+patients with coronary artery disease.  
+When the quantified results provided by QANGIO XA 3D are used in a clinical setting on X-ray images of an 
+individual patient, the results are only intended for use by the responsible clinicians. 
+ 
+Substantial Equivalence Information 
+The predicate device for QANGIO XA 3D is the CAAS™ Workstation.  
+K182611  FDA 510(k) Submission 
+QANGIO XA 3D  Document version: v5c0 
+Date: May 29, 2019 5-8  Status: FINAL 
+Especially this 2D vessel analysis (for the 2D XA project imaging) forms the basis for the 3D vessel analysis in 
+QANGIO XA 3D. This analysis produces a 3D model of a coronary vessel from two 2D vessels detected in 
+regular X-ray projection images. Similar functionality is provided by the CAAS™ Workstation  (where it is 
+called “QCA3D”). Further, QANGIO XA 3D provides visualization functionalities for 3D review of the model, 
+which are also supported by CAAS™ Workstation.  
+QANGIO XA 3D provides (see Intended Use descrip tion above) a quantification parameter called QFR 
+(Quantitative Flow Ratio), for which a similar parameter is also provided by the CAAS™ Workstation (where it 
+is called “vFFR”).  
+From the Intended Use comparison it is concluded that  the CAAS Workstation offers comparable (and more) 
+functionality to the QANGIO XA 3D device. The main functionality, being 3D vessel reconstruction and the 
+calculation of the pressure drop, are explicitly mentioned in the intended use and indications for use.  
+All functionality (including 3D vessel reconstruction and the calculation of the QFR pressure drop) is specified 
+in the QANGIO XA 3D system requirements. All requirem ents are tested and all resu lts of the tests performed 
+are summarized in the software test statement  and especially the requirements coverage matrix of QANGIO XA 
+3D proving traceability between requirements and tests successfully executed.  
+Extensive clinical evaluation has been performed based on  both scientific literature review and clinical studies 
+executed with the device. The quantified results provided by QANGIO XA 3D for the main functionality 
+(including 3D vessel reconstruction and the calculation of the QFR pressure drop) have all been validated, both 
+technically and clinically: 
+x 3D vessel reconstruction: The reconstruction of a 3D  model from the 2D vessel boundaries detected on two 
+XA images of the same vessel under different angulation have been validated clinically in studies using 
+QCA parameters and IVUS pullbacks in patients.  
+x Quantitative Flow Ratio (QFR) analysis: The calculation of the QFR value is both technically and clinically 
+validated. Estimates for precision of QFR are based on a strong body of evidence derived from multiple 
+prospective studies. Two of the multicenter studies (FAVOR II Europe-Japan and FAVOR II China) show 
+excellent results of true in-procedure QFR analyzed by end-users. In these prospective, observational, 
+investigator-initiated multi-center studies QFR was evaluated for feasibility and diagnostic performance and 
+agreement with pressure-wire derived fractional flow  reserve (FFR) as reference standard. QFR and FFR 
+were analyzed separately by different observers. The primary endpoints of sensitivity and specificity of 
+QFR were compared to two-dimensional QCA (2D-QCA) with FFR as reference standard.  
+Conclusions  
+QANGIO XA 3D has the same intended use as the predicate device.  
+QANGIO XA 3D complies with international process standards (ISO 13485, ISO 14971, IEC 62304, IEC 62366 
+and ISO 15223).  
+Testing, validation and clinical evaluation have produced results consistent with design input requirements. 
+QANGIO XA 3D is a software-only device for which there no applicable mandatory performance standards.  
+During the development, potential hazards were controlled by a risk management plan, including risk analysis, 
+risk mitigation, verification and evaluation. 
+Medis concludes that QANGIO XA 3D is a safe and ef fective medical device, and is at least as safe and 
+effective as its predicate devices. The use of QANGIO XA 3D does not change the intended use of X-ray 
+Angiography acquisition, nor does the use of this software result in any new potential hazards. 

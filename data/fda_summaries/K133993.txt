@@ -1,0 +1,262 @@
+M4AR 2 52014
+PIE MEDICAL - Y
+IMAGING
+510(k) Summary CAAS Workstation (GEN1632jvZ.0
+Submitter/Owner Name Pie Medical Imaging BV
+Address Pbilipsweg 1, 6227 AJ Maastricht, The Netherlands
+Phone Number -'31 43 32 81328
+Fax Number +31 4332 81 329
+Contact Per-son: Florie Daniels, Product Registration Coordinator
+Email Address Florie.Daniels~)pie.n1
+Preparation Date 24-Dec-2013
+Trade Name CAAS Workstation
+Common Name Cardiovascular Angiography Analysis System (CAAS)
+Classification Classification Name: Angiographic X-ray System
+Regulation Class: Class 11
+Regulation number: 21 CFR 892.1600
+Classification Product Code: IZI
+Subsequent Product Code: LLZ
+Predicate Devices CAAS (K052988)
+CAAS QxA3D (K 100292)
+IC-PRO System (K 110256)
+Device Description CAAS Workstation is designed as a stand-alone modular software product for
+viewing and quantification of X-ray angingraphic images intended to run on a PC
+with a Windows operating system. CAAS XWorkstation contains the analysis
+modules QCA, QCA3D, QVA, LVA, RVA and Stentfinhancer.
+The analysis modules QCA, QCA3D, QVA, LVA and RVA contain functionality
+of the previously cleared predicate devices CAAS (K052988) and CAAS QxA3D
+(K 100292) for calculating dimensions of coronary and peripheral vessels and the
+left and right ventricles, quantification of stenosis. performing density
+measurements and determination of optimal C-ann position for imaging of vessel
+segments. Semi-automnatic contour detection forms thle basis for thle analyses.
+Functionality to enhance the visualization of a stent and to measure steln
+dimension is added by means of the analysis module Stentanhancer. This
+functionality is based onl thle StentOptimizer module of tile IC-PRO System
+(K 10256).
+The quantitative results CAAS Workstation support diagnosis and intervention of
+cardiovascular conditions.
+The analysis results are available onl screen, and can be exported in various
+electronic formats.
+The functionality is independent of the type of vendor acquisition equipment.
+Intended Use CAAS Workstation is a modular software product intended to be used by or tinder
+supervision of a cardiologist or radiologist in order to aid in reading and
+interpreting cardiovascular X-Ray images to support diagnoses and for assistance
+during intervention of cardiovascular conditions.
+Pie Medical Imaging RV Non Confidential Page I of 3
+
+Indications for Use CAAS Workstation features segmentation of cardiovascular structures, 3D
+reconstruction of Vessel segments based on multiple angiographic images,
+measurement and reporting tools to facilitate the following use:
+- Calculate the dimensions of cardiovascular structures:
+- Quantify stenosis in coronary and peripheral vessels;
+- Quantify the motion of the left and right ventricular wall;
+- Perform density measurements;
+- Determine C-ann position for optimal imaging of cardiovascular structures;
+-Enhance stent visualization and measure stent dimensions.
+CN4S Workstation is intended to be used by or under supervision of a
+cardiologist or radiologist.When the results provided by CAAS Workstation are
+used in a clinical setting to support diagnoses and for assistance during
+intervention of cardiovascular conditions, the results are explicitly not to be
+regarded as the sole, irrefutable basis for clinical decision making.
+Technological A comparison of the technological characteristics of the predicate and subject
+Characteristics device is given the table below.
+Comparison
+Device name CAAS Workstation CAAS GAAS QxtA3D iC-PRO System
+Manufacturer Pie Medical Imaging Pie Medical Imaging Pie Medical Imaging Paicon
+5S1O(k) numne K052988 KI00292 Kii0256
+Data type .. X-Ray Angiography . X.Ray Angiography *. X-Ray Angiography . X-Ray Angiography
+data in DIcOM format datm in DICOM fonmat data in DICOM Ibiat data in DICOM ruat
+_____________ (veorndetdnl vnor independent) (vendor independent) (venCdor independern
+Import of Patient * Manual through * Manuat through. Manual through . Mantual Itirosgh
+Data keyboard keyboard keyboard keyboard
+Command tine * (onsanand tine C ..onad tine * Commntd tine
+interthee interface interface inlemlace
+Contour Manual aund sei . Manual and seni- * Mattuat and semi- * Manual slent contour
+Defin it ion autsrutitic centei ne aulmm ialic cenitreline a utoItic cecire dclInition
+definition based steiniti...n bas.l de~finition based * Contour couectiot
+contourde rcttin of contr detection of contura detection o1
+etoronary and coronary and Cibutly it.
+peripheral vesel peripheral vessel peripheal vessel
+* Matnual and semi- * Manual and setii- * Contir ~couetiom and
+automatic left automatic left restiction
+veoniclar contour vetictlar contotur
+definition definition
+* Manual right . Manual right
+venijeular contour venuicular contour
+definition definition
+* Manual anent contour * Contour coITMeelon and
+definition tetrCtto~n
+. Conttour correction and
+restieti oi
+Image Display . 2D X-Ray inage . 2D X-Ray itulage * 2D) X- Ray image . 2D X-Ray imtage
+* 3D cutrony vese 3D roincay and
+reconstruction Pphteral vessel
+.cL- l..store don
+iutage . Matnual and autontatie . Manual and aumi * Automatic calibration * Eniihncd stem
+Assessmenrt calibration calibration o Automtatie and inunual visualimaion
+* Basic length, diameter. * Basic length, diameter. stetisi assesment * Stern dimensions
+density and angle density and angle * 3D corontiy atid
+tu....are...ent otu..casiteiients PCripita] vessel
+* Vessels and ventricle * Vessels and ventricle reeonstruction
+dimensions (diamneters, dimensions (diamneters,
+aras, volumes) areas, volumnes)
+* Automatic and manual . Automtatic and manual
+snaseioi ssess' sent LurojniS S asess merit
+* 3D ctisary vessel * Lelt and ight
+eccmISttrucliom veItrniesmiarwll Initiomi
+* Leht and right - Left vetmiicular
+Pie Medical Imaging BV Non Confidential Page 2 of 3
+
+New Device ' Predicate Device Predactte Device Predicate Device
+Device nlame CAAS Workstalior, CAAS CAAS QxA3I) IC-PRO System
+Manufacturer Pie Medical Imaging Pie Medical Itmasging Pie Medical Imaging Paican
+5l10(k) numhtb K052988 K100292 K110256
+ven-icular wall notion mtyocardium
+. Le ft ven tico ir dim"ens ions
+mayocardliumn
+dimensions
+* Enhanced tentt
+visualizattion
+. Stent dimentsions
+Storage of . Prat intout. .tu Pintout . Pt nowt
+Results * I .ges . Images, . Images . Imtages
+. XM1. * XM L . XML 1
+* DICOM SC . DICOM SC . DICOM SC
+* PDF * DICOM SR * DICOM SR
+Opeinaig * Windows * Windows . Windows * windows
+system ________________ ______________ ________________ _______________
+All technological characteristics of the subject device are similar to the cleared
+predicate devices.
+Con formance Standards The device complies with the following conformance standards:
+* ISO 14971:2007, Medical devices - Application of risk management to
+medical devices
+* NEMA PS 3.1 - 3.20 (20!11), Digital Imaging and Communication in
+Medicine (DICOM) Set. (Radiology)
+* II-C 62304 First edition 2006105, Medical device soflware - Software life
+cycle processes
+Performance Data System requirements - derived from the intended use and indications for use - as
+well as risk control measures are verified by system testing.
+For each analysis module a validation approach is created and the proper
+functioning of the algorithms is validated.
+For analysis modules already implemented in earlier versions of GAAS
+regression testing is performed to verify equivalence in numerical results.
+The test results demonstrate safety and effectiveness of GAAS Workstation in
+relation to its intended itse and that CAAS Workstation is considered as safe and
+effective as the predicate devices.
+Substantial Equivalence The analysis modules QCA, QVA, LVA, RVA fin the previously cleared device
+CAAS' (K(052988) and the atnalysis module QCA3D its the previously cleared
+device 'GAAS QxA3DU (KI100292) are available in GAAS Workstation and are
+similar in terms of intended use atid indicationis for use and in finictonal ity.
+The analysis module 'StentEnhancer' has been added in GAAS Workstation and
+is similar in terms of intended use, indications for use and technology as the
+StentOptimizer module available in 'The IC-PRO System' (KI110256).
+Conclusion The testing reported in this 510(k) demonstrates that GAAS Workstation is
+substantially equivalent to a combination of the predicate devices in terms of
+intended use, indications for use, technological characteristics, measurements and
+operating environment. As such CAAS Workstation is considered as safe and
+effective as its predicate devices and performs as well as the predicate devices.
+Pte Medical Imiagiag BV Non Confidential Page 3 of 3
+
+K037t
+
+tDEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Drug Administration
+10903 New Hamrrpshire Avenue
+March 25, 2014
+Pie Medical Imaging, B.V.
+% Ms. Florie Daniels
+Regulatory Affairs Coordinator
+Philipsweg I
+Maastricht Limburg, 6227 AJ
+THE NETHERLANDS
+Re: Kl33993
+Trade/Device Name: CAAS Workstation
+Regulation Number: 21 CFR 892.1600
+Regulation Name: Angiographic x-ray system
+Regulatory Class: 11
+Product Code: IZI, LLZ
+Dated: December 24, 2013
+Received: December 26, 2013
+Dear Ms. Daniels:
+We have reviewed your Section 5 10(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug.
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class 11 (Special Controls) or class Ill (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 2 1, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act's requirements, including, but not limited to: registration and listing (21
+CFR Pant 807); labeling (21 CFR Pant 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CER 803); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2-Ms. Daniels
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Small Manufacturers, International and Consumer Assistance at its toll-
+free number (800) 638 2041 or (301) 796-7!0or at its lntemnet address
+littp)://www.fda.aov/Medical Devices/Resources rorYoti/lnidtistl'Y/deibatilt.htm. Also, please note
+the regulation entitled, "Misbranding by reference to premarket notification" (2 ICFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CER Pant 803), please go to
+ht://www.f'da,.ov/McdicaliDevices/Salbctv/Reportalrobleim/dctfault.him for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 796-7100 or at its Internet address
+http://www.fdla.t,,ov/MedicalDevices/ReSOuircesforYoti/Industrv/defaLult.lill.
+Sincerely yours,
+for
+Janine M. Morris
+Director, Division of Radiological Health
+Office oflIn Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+Enclosure
+
+51 0(k) Number (if known)
+K 133993
+Device Name
+CAAS Workstation
+Indications for Use (Describe)
+CAAS Workstation features segmentation of cardiovascular structures, 3D reconstruction of vessel segments based on
+multiple angiographic images, measurement and reporting tools to facilitate the following use:
+- Calculate the dimensions of cardiovascular structures;
+- Quantify stenosis in coronary and peripheral vessels;
+- Quantify the motion of the left and right ventricular wall;
+- Perform density measurements;
+- Determine C-arm position for optimal imaging or cardiovascular structures;
+- Enhance stent visualization and measure stent dimensions.
+CAAS Workstation is intended to be used by or under supervision of' a cardiologist or radiologist. When the results
+provided by CAAS Workstation are used in a clinical setting to support diagnoses and for assistance during intervention
+of cardiovascular conditions, the results are explicitly not to be regarded as the sole, irrefutable basis for clinical decision
+making.
+Type of Use (Select one or both, as applicable)
+D Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON A SEPARATE PAGE IF NEEDED.
+FOR FDA USE ONLY
+Concurrence of Center for Devices and Radiological Health (CDRH) (Signature)
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+'DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.'
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and re~iew the collection of information. Send comments regarding this burden estimate or any other aspectof this information collection. including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaII~fda.hhs.gov
+'An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number"
+FORM FDA 3881 (1114) Page I of I Fs*v0... ti .r

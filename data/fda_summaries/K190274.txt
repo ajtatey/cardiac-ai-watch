@@ -1,0 +1,474 @@
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue  D o c  I D #  0 4 0 1 7 . 0 4 . 0 6 
+Silver Spring, MD 20993  
+www.fda.gov 
+Tianjin Medis Medical Device Co., Ltd. 
+℅ Diana Hong 
+General Manager 
+Mid-Link Consulting Co., Ltd. 
+P.O. Box 120-119 
+Shanghai,  200120 Cn 
+Re:  K190274 
+Trade/Device Name: Endotracheal Tube 
+Regulation Number:  21 CFR 868.5730 
+Regulation Name:  Tracheal Tube 
+Regulatory Class:  Class II 
+Product Code:  BTR 
+Dated:  June 26, 2019 
+Received:  July 3, 2019 
+Dear Diana Hong: 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+July 30, 2019
+K190274 - Diana Hong Page 
+ 
+2 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for 
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+Todd Courtney 
+Assistant Director 
+DHT1C: Division of ENT, Sleep Disordered 
+    Breathing, Respiratory and 
+    Anesthesia Devices 
+OHT1: Office of Ophthalmic, Anesthesia, 
+    Respiratory, ENT and Dental Devices 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2020
+See PRA Statement below.
+510(k) Number (if known)
+Device Name
+Endotracheal Tube
+Indications for Use (Describe)
+The device is intended for airway management by oral intubation and aid in the removal of subglottic secretions.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete  
+and review the collection of information. Send comments regarding this burden estimate or any other aspect  
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.”
+K190274
+K190274 S001 E8 510(k) Summary 
+ 1 / 12 
+ 
+Exhibit #8 510(k) Summary 
+ 
+This 510(k) Summary is being submitted in accordance with requirements of Title 21, CFR Section 807.92.  
+ 
+The assigned 510(k) Number:  K190274  
+ 
+1. Date of Preparation: 07/12/2019 
+ 
+2. Sponsor Identification 
+ 
+Tianjin Medis Medical Device Co., Ltd. 
+No.15-A, Saida One Avenue, Xiqing Economic Development Area, Tianjin, P.R. China 
+ 
+Establishment Registration Number: 3004992992 
+ 
+Contact Person: Yongzhi Wu 
+Position: Quality Manager 
+Tel: +86-13920213115 
+Fax: +86-22-83988486 
+Email: wuyongzhi3115@126.com 
+ 
+3. Designated Submission Correspondent 
+ 
+Ms. Diana Hong (Primary Contact Person) 
+Ms. Ying Xu (Alternative Contact Person) 
+ 
+Mid-Link Consulting Co., Ltd 
+P.O. Box 120-119, Shanghai, 200120, China 
+ 
+Tel: +86-21-22815850,  
+Fax: 360-925-3199 
+Email: info@mid-link.net 
+ 
+K190274 S001 E8 510(k) Summary 
+ 2 / 12 
+ 
+4. Identification of Proposed Device 
+ 
+Trade Name: Endotracheal Tube 
+Common Name: Tracheal Tube 
+ 
+Regulatory Information 
+Classification Name: Tracheal Tube; 
+Classification: II; 
+Product Code: BTR 
+Regulation Number: 21 CFR 868.5730; 
+Review Panel: Anesthesiology; 
+ 
+Intended Use Statement: 
+ 
+The device is intended for airway management by oral intubation and aid in the removal of subglottic 
+secretions. 
+ 
+Device Description: 
+ 
+The proposed device, Endotracheal Tube is indicated for airway management and aid in the removal of 
+subglottic secretions. The proposed device is available in ETT -X32 and ETT -X22 two types, the 
+difference between these two types is that the ETT -X32 is provided with pressure indica tor which is 
+used to monitor intra-cuff pressure. Both two types are available in a series sizes from 6.0mm~9.0mm in 
+an increment of 0.5mm. The proposed device is intended for adult, provided in sterile and single use.  
+ 
+5. Identification of Predicate Devices 
+ 
+Predicate Device 1 
+510 (k) Number: K141939 
+Product Name: TELEFLEX ISIS™ HVT™ Tracheal Tube, Cuffed with Subglottic Secretion Suction 
+Port 
+ 
+Predicate Device 2 
+510 (k) Number: K160694 
+Product Name: Disposable Endotracheal Tube, Sterile 
+ 
+6. Non-Clinical Test Conclusion 
+ 
+Non clinical tests were conducted to verify that the proposed device met all design specifications. The 
+test provided in this submission include: 
+K190274 S001 E8 510(k) Summary 
+ 3 / 12 
+ 
+ 
+Physical, Mechanical and Chemical Tests performed on the proposed device include 
+Dimension Clause 5.2 of ISO 5361:2016 
+Material Clause 5.3 of ISO 5361:2016 
+Tracheal tube bevel Clause 5.4 of ISO 5361:2016 
+Tracheal tube cuffs Clause 5.5 of ISO 5361:2016 
+Inflating system for cuffs Clause 5.6 of ISO 5361:2016 
+Curvature of the tube Clause 5.7 of ISO 5361:2016 
+Radiopaque marker Clause 5.8 of ISO 5361:2016 
+Kink resistance Clause 5.9 of ISO 5361:2016 
+Conical connectors  Clause 5.1 of ISO 5356-1:2004 
+Gauging Clause 4.1 of ISO 594-1:1986 
+Liquid leakage Clause 4.2 of ISO 594-1:1986 
+Air leakage Clause 4.3 of ISO 594-1:1986 
+Separation force Clause 4.4 of ISO 594-1:1986 
+Stress cracking Clause 4.5 of ISO 594-1:1986 
+ 
+Sterile Barrier Packaging Testing performed on the proposed device include 
+Seal strength ASTM F88/F88-15 
+Dye penetration  ASTM F1929-15 
+ 
+Sterilization and Shelf Life Testing performed on the proposed device include 
+EO residue ISO 10993-7:2008 
+ECH residue ISO 10993-7:2008 
+Bacteria Endotoxin Limit USP <85> 
+Shelf Life Evaluation Physical, Mechanical , Chemical and  Package Tests 
+were performed on accelerated aging samples to verify 
+the claimed shelf life of the device  
+ 
+Biocompatibility Testing: 
+The patient -contact materials of the proposed device are identified and biocompatibility testing is 
+performed according to ISO 10993 standards.  The tes t items include Cytotoxicity, Sensitization, 
+Intracutaneous, Systemic Toxicity, Subchronic Systemic Toxicity, Bacterial Reverse Mutation, Gene 
+Mutation, Implantation and Pyrogen. 
+ 
+Simulated Transportation Testing 
+Simulated transportation test is performed per ASTM D 4169 on the final product and the test result can 
+demonstrate the device package can maintain its integrity during transportation.  
+ 
+Bond strength test  
+K190274 S001 E8 510(k) Summary 
+ 4 / 12 
+ 
+All joints for the proposed device are tested for its bond s trength and the test result can meet acceptance 
+criteria. 
+ 
+Air flow resistance test 
+Air flow resistance rest are conducted on the proposed device and equivalent device and the test result 
+have no significant difference between proposed device and equivalent device. 
+ 
+The test results demonstrated that the proposed device complies with the following standards: 
+ 
+ ISO 5361:2016 Anaesthetic and Respiratory Equipment-Tracheal Tubes and Connectors 
+ ISO 594-1:1986 Conical Fittings With a 6% (Luer) Taper for Syringes, Needles and Certain Other 
+Medical Equipment-Part 1: General Requirements 
+ ASTM D4169-16 Standard Practice for Performance Testing of Shipping Containers and Systems 
+ ASTM F88/F88M-15 Standard Test Method for Seal Strength of Flexible Barrier Materials 
+ ASTM F1929-15 Standard Test Method for Detecting Seal Leaks in Porous Medical Packaging by 
+Dye Penetration 
+ ISO 10993- 3:2014 Biological Evaluation of Medical Devices -Part 3: Tests for Genotoxicity, 
+Carcinogenicity and Reproductive Toxicity 
+ ISO 10993-5:2009 Biological Evaluation of Medical Devices-Part 5: Tests for in Vitro Cytotoxicity 
+ ISO 10993-6:2016 Biological Evaluation of Medical Devices --Part 6: Tests For Local Effects After 
+Implantation 
+ ISO 10993-10:2010 Biological Evaluation of Medical Devices-Part 10: Tests for Irritation and Skin 
+Sensitization 
+ ISO 10993-11:2017 Biological Evaluation of Medical Devices-Part 11: Tests for Systemic Toxicity 
+ ISO 10993-7:2008 Biological Evaluation of Medical Devices -Part 7: Ethylene Oxide Sterilization 
+Residuals 
+ USP 41-NF36:2017 <151> Pyrogen Test  
+ 
+7. Clinical Test Conclusion 
+ 
+No clinical study is included in this submission. 
+K190274 S001 E8 510(k) Summary 
+ 5 / 12 
+ 
+8. Substantially Equivalent (SE) Comparison 
+ 
+Table 1 Comparison of Technology Characteristics for ETT-X22 
+Item Proposed Device Predicate Device 1 
+K141939 Remark 
+Classification II II SE 
+Product Code BTR BTR SE 
+Regulation Number 21CFR 868.5730 21 CFR 868.5730 SE 
+Intended Use 
+The device is intended for airway 
+management by oral intubation 
+and aid in the removal of 
+subglottic secretions. 
+The Teleflex ISIS™ HVT™ Tracheal 
+Tube, Cuffed with Sub glottic Secretion 
+Suction Port is indicated for airway 
+management by oral intubation during 
+mechanical ventilation and anesthesia 
+including the capability to aid in the 
+removal of subglottic secretions 
+SE 
+Configuration 
+Connector 
+Inflating Tube 
+Check Valve (with pilot balloon) 
+Airway Tube 
+Cuff 
+Suction Tube 
+Suction Connector 
+Suction Cap 
+Connector 
+Main Tube 
+Inflation line 
+Pilot balloon 
+Bi-directional Valve 
+Cuff Balloon 
+Suction lumen Connector 
+Discussion 1 
+Materials 
+Polypropylene; 
+Polyvinyl chloride; 
+Acrylonitrile butadiene styrene; 
+Silicone gel 
+Polyvinyl chloride; Discussion 2 
+Size (mm) 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0mm 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0mm SE 
+Intended population Adult  Adult  SE 
+Anatomical Site Oral Oral SE 
+Single Use Single Use Single Use SE 
+Cuff inflamed diameter 20~27mm Unknown 
+Discussion 3 
+Tube length 285~330mm Unknown 
+Ink marks Yes Yes SE 
+Radiopaque markers Yes Yes SE 
+Murphy’s eye Yes Yes SE 
+Beveled tip Yes Yes SE 
+Patient contact duration Less than 30 days Less than 30 days SE 
+Packing material 60g French paper and polythylene terephthalate 10 individually packaged in either banana pack or Tyvek pouches per dispenser box Discussion 4 
+K190274 S001 E8 510(k) Summary 
+ 6 / 12 
+ 
+Shelf-life 5 years 12 months (extending to 60 months as data becomes available) 
+Label/labeling Conform with 21CFR Part 801 Conform with 21CFR Part 801 SE 
+Cytotoxicity No Cytotoxicity 
+Comply with ISO 10993 standards 
+requirements SE 
+Intracutaneous Irritation No Irritation 
+Skin Sensitization No Sensitization 
+Acute Toxicity No Systemic Toxicity 
+Subchronic Toxicity No Subchronic Toxicity 
+Bacterial Reverse Mutation Not induce backward mutation 
+Gene Mutation Test Non-mutagenic 
+Implantation Non-irritant to the subcutaneous 
+tissue 
+Pyrogen Test No pyrogen 
+Method Ethylene Oxide Ethylene Oxide SE 
+SAL 10-6 10-6 SE 
+ 
+Discussion 1 
+ 
+The components airway tube and suction tube are not listed by predicate device, however, these two tubes are 
+included in the main tube of predicate device and the function for these two components are same a s 
+predicate device. Therefore, the difference in components does not raise difference questions of safety or 
+effectiveness. 
+ 
+Discussion 2 
+ 
+The material of proposed device is different from predicate device.  However, the biocompatibility tests 
+have been conducted on the propos ed device and the test result can meet the requirements of ISO 10993 
+series standards. Therefore, this difference does not  raise difference questions of safety or effectiveness  
+between proposed device and predicate device. 
+ 
+Discussion 3 
+ 
+The cuff inflamed diameter and tube length for predicate device is unknown and the substantially equivalence 
+between proposed device and equivalent device cannot be determined. However, the performance test has 
+been conducted on the proposed device and the test result comply with related standards requirements. 
+Therefore, this difference does not  raise difference questions of safety or effectiveness  between proposed 
+device and predicate device. 
+ 
+Discussion 4 
+ 
+K190274 S001 E8 510(k) Summary 
+ 7 / 12 
+ 
+The packing materials and shelf life for proposed device are different from predicate device. The function o f 
+package is used to protected device from damaging during transportation, store. The simulated transportation 
+test and package integrity test has been conducted on the proposed device, the results can demonstrate that the 
+package is still integrity and th ere is no damage for device. In addition, the package integrity and device 
+performance after accelerated aging can demonstrate that the package of the proposed device can maintain the 
+sterility of the product during its claimed shelf life and the performan ce test result can meet the requirements 
+of related standards. Therefore, this difference does not  raise difference questions of safety or effectiveness  
+between proposed device and predicate device. 
+K190274                                          S001                                         E8 510(k) Su mmary 
+ 8 / 12 
+ 
+Table 2 Comparison of Technology Characteristics for ETT-X32 
+Item Proposed Device Predicate Device 1 
+K141939 
+Predicate Device 2 
+K160694 Remark 
+Classification II II II SE 
+Product Code BTR BTR BTR SE 
+Regulation Number 21CFR 868.5730 21 CFR 868.5730 21 CFR 868.5730 SE 
+Intended Use 
+The device is intended for airway 
+management by oral intubation and aid 
+in the removal of subglottic secretions. 
+The Teleflex ISIS™ HVT™ Tracheal 
+Tube, Cuffed with Subglottic Secretion 
+Suction Port is indicated for airway 
+management by oral intubation during 
+mechanical ventilation and anesthesia 
+including the capability to aid in the 
+removal of subglottic secretions 
+The sterile Disposable Endotracheal 
+Tube is intended for oral or nasal 
+intubation and for airway 
+management. SE 
+Configuration 
+Connector 
+Inflating Tube 
+Airway Tube 
+Cuff 
+Suction Tube 
+Suction Connector 
+Suction Cap 
+Pressure Indicator 
+Connector 
+Main Tube 
+Inflation line 
+Pilot balloon 
+Bi-directional Valve 
+Cuff Balloon 
+Suction lumen Connector 
+Connector 
+Inflation tube 
+Pilot balloon 
+Check Valve 
+Airway tube 
+Cuff 
+Accu CuffTM 
+ 
+Discussion 1 
+Size (mm) 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0mm 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0mm 
+Cuffed: in 0.5mm ID increments from 
+size 5.0 to 9.0 inclusi ve, totaling 10 
+sizes. 
+Discussion 2 
+Uncuffed: in 0.5mm ID increments 
+from size 3.0 to 9.5 inclusive, totaling 
+14 sizes. 
+K190274                                          S001                                         E8 510(k) Su mmary 
+ 9 / 12 
+ 
+Intended population Adult  Adult  Adult  SE 
+Anatomical Site Oral Oral Oral or Nasal Discussion 3 
+Single Use Single Use Single Use Single Use SE 
+Pressure range 20cm H2O≤P≤29cm H2O Not provided with pressure indicator 20cm H2O≤P≤29cm H2O 
+Discussion 4 Pressure measurement 
+accuracy 
++4cm H2O at 20cm H2O 
+-4 cm H2O at 29cm H2O Not provided with pressure indicator +4cm H2O at 20cm H2O -4 cm H2O at 29cm H2O 
+Cuff inflamed diameter 20~27mm Unknown 12~27mm 
+Discussion 5 Tube length 285~330mm Unknown Oral tube:165~330mm 
+Nasal tube: 290~400mm 
+Ink marks Yes Yes Yes SE 
+Radiopaque markers Yes Yes Yes SE 
+Murphy’s eye Yes Yes Yes SE 
+Beveled tip Yes Yes Yes SE 
+Patient contact duration Less than 30 days Less than 30 days Less than 30 days SE 
+Packing material 60g French paper and polythylene terephthalate 10 individually packaged in either banana pack or Tyvek pouches per dispenser box. PE/PET composite film and dialysis paper. Discussion 6 
+Shelf-life 5 years 12 months (extending to 60 months as data becomes available) 5 years 
+Material 
+Polypropylene; 
+Polyvinyl chloride; 
+Acrylonitrile butadiene styrene; 
+Silicone gel 
+Polyvinyl chloride; Polyvinyl chloride; Polypropylene Discussion 7 
+Label/labeling Conform with 21CFR Part 801 Conform with 21CFR Part 801 Conform with 21CFR Part 801 SE 
+Biocompatibility  
+Cytotoxicity No Cytotoxicity Comply with ISO 10993 standards 
+requirements 
+Comply with ISO 10993 standards 
+requirements SE Intracutaneous Irritation No Irritation 

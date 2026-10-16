@@ -1,0 +1,649 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 0 4 . 15  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+Caristo Diagnostics        May 21, 2020 
+℅ Mr. James Davis 
+Head of Quality and Regulatory Affairs 
+New Barclay House, 234 Botley Road 
+Oxford, Oxfordshire OX20HP  
+UNITED KINGDOM 
+ 
+Re:  K200274 
+Trade/Device Name:  CariCloud v1.0 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Picture archiving and communications system 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  May 1, 2020 
+Received:  May 4, 2020 
+ 
+Dear Mr. Davis: 
+ 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+
+K200274 – Mr. James Davis Page 
+ 
+2 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for 
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+           For 
+Thalia T. Mills, Ph.D. 
+Director 
+Division of Radiological Health 
+OHT7: Office of In Vitro Diagnostics 
+   and Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+
+CariCloud v1.0 510(k) Summary 
+Document Number: 335 
+Caristo Diagnostic Ltd © 2019 
+I. SUBMITTER        K200274
+Caristo Diagnostics
+New Barclay House
+234 Botley Road
+Oxford
+OX2 0HP
+Phone: +44 (0) 1865 950720
+Contact Person: James Davis
+Date Prepared: May 01, 2020
+II. DEVICE
+Name of Device: CariCloud v1.0
+Common or Usual Name: CariCloud
+Classification Name: Picture archiving and communications (21 CFR§ 892.2050)
+Regulatory Class: II
+Product Code: LLZ
+III. PREDICATE DEVICE
+TeraRecon iNtuition, K121916
+This predicate has not been subject to a design-related recall.
+IV. DEVICE DESCRIPTION
+CariCloud is an image processing prescription software device intended to be used to display, 
+manipulate and quantify previously acquired CT images.
+Datasets are downloaded from remote systems for clinical interpretation. Trained users will initiate and 
+oversee image analysis and intervene when necessary to correct processing errors. The outcome of 
+analysis will be used to create a summary report that includes qualitative and quantitative analysis. 
+  
+ CariCloud v1.0 510(k) Summary 
+ 
+Document Number: 335 
+ 
+                                                                         
+Caristo Diagnostic Ltd © 2019 
+INDICATIONS FOR USE 
+The Indications for use are as follows: 
+• CariCloud is a software device used by operators to evaluate attenuation in the coronary arteries 
+and surrounding tissue in CCTA images. 
+ 
+• CariCloud is to be used by trained operators. CariCloud analysis results are to be used by 
+Healthcare Professionals and may assist in diagnosis. 
+ 
+• CariCloud analysis results are indicated for use for all patients referred for CCTA imaging. 
+ 
+  
+  
+ CariCloud v1.0 510(k) Summary 
+ 
+Document Number: 335 
+ 
+                                                                         
+Caristo Diagnostic Ltd © 2019 
+V. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE 
+PREDICATE DEVICE 
+The following table compares CariCloud v1.0 to the predicate device with respect to indications for 
+use, principles of operation, technological characteristics, materials, and performance, forming the 
+basis for the determination of substantial equivalence.  
+ 
+Attribute CariCloud iNtuition Comparison 
+Manufacturer Caristo Diagnostics TeraRecon. INC Not Applicable 
+510(k) 
+Number K200274 K121916 Not Applicable 
+Product 
+Code LLZ LLZ Same 
+Regulation 
+Number 21 CFR 892.2050 21 CFR 892.2050 Same 
+Intended Use 
+/ Indications 
+for Use 
+  
+CariCloud is a software 
+device used by operators to 
+evaluate attenuation in 
+the coronary arteries and 
+surrounding tissue in CCTA 
+images. 
+ CariCloud is to be used by 
+trained operators. CariCloud 
+analysis results are to be 
+used by Healthcare 
+Professionals and may 
+assist in diagnosis. 
+ CariCloud analysis results 
+are indicated for use for all 
+patients referred for CCTA 
+imaging. 
+ 
+  
+  
+  
+ 
+ 
+  
+To receive, store, transmit, 
+post-process, display and 
+allow manipulation of reports 
+and medical images from 
+acquisition devices, including 
+optical or other non-DICOM 
+format images, DICOM 
+images with modality type XA, 
+US, CR, DR, SPECT, NM and 
+MG, and images from 
+volumetric medical scanning 
+devices such as EBT, CT, 
+PET or MRI. 
+To provide access to images 
+derived data and derived 
+images via client-server 
+software, web browser and 
+mobile technology. 
+ Visualization in 2D, 3D and 
+4D are supported for single or 
+multiple datasets, or 
+combinations thereof 
+ Tools are provided to define 
+and edit paths through 
+structures such as centerlines, 
+which may be used to analyze 
+cross-sections of structures, or 
+to provide flythrough 
+visualizations rendered along 
+such a centerline 
+  
+CariCloud and TeraRecon’s 
+iNtuition device can both be 
+used to evaluate attenuation 
+in the coronary arteries and 
+surrounding tissue in CT 
+images.  
+ CariCloud and 
+TeraRecon’s iNtuition 
+device differ in that iNtuition 
+has additional features and 
+supports use in evaluating 
+images from other 
+modalities and diagnostic 
+areas such as oncology and 
+neurology. 
+ The fact that TeraRecon’s 
+iNtuition device supports 
+additional modalities and 
+diagnostic areas does not 
+affect the safety and 
+effectiveness of CariCloud 
+because the additional 
+functionality offered by 
+iNtuition is unrelated to the 
+safety and effectiveness of 
+CCTA image analysis.   
+ 
+ 
+ 
+  
+ CariCloud v1.0 510(k) Summary 
+ 
+Document Number: 335 
+ 
+                                                                         
+Caristo Diagnostic Ltd © 2019 
+Attribute CariCloud iNtuition Comparison 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Segmentation of regions of 
+interest and quantitative 
+analysis tools are provided, for 
+images of vasculature, 
+pathology and morphology, 
+including distance, angle, 
+volume, histogram, ratios 
+thereof, and tracking of 
+quantities over time. 
+ A database is provided to 
+track and compare results 
+using published comparison 
+techniques such as RECIST 
+and WHO. 
+ Calcium scoring for 
+quantification of 
+atherosclerotic plaque is 
+supported. 
+ Support is provided for digital 
+image processing to derive 
+metadata or new images from 
+input  
+image sets, for internal use or 
+for forwarding to other devices 
+using the DICOM protocol. 
+ Image processing tools are 
+provided to extract metadata 
+to derive parametric images 
+from combinations of multiple 
+input images, such as 
+temporal phases, or images 
+co-located in space but 
+acquired with different imaging 
+parameters, such as different 
+MR pulse sequences,  
+or different CT image 
+parameters (e.g. dual energy). 
+ INtuition is designed for use 
+by healthcare professionals 
+and is intended to assist the 
+physician in diagnosis, who is 
+responsible for making all final 
+patient management 
+decisions. 
+  
+ 
+ 
+ 
+ 
+  
+ CariCloud v1.0 510(k) Summary 
+ 
+Document Number: 335 
+ 
+                                                                         
+Caristo Diagnostic Ltd © 2019 
+Attribute CariCloud iNtuition Comparison 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+Interpretation of 
+mammographic images or 
+digitized film screen images is 
+supported only when the 
+software is used without 
+compression and with an FDA-
+Approved monitor that offers 
+at least SMpixel resolution and 
+meets other technical 
+specifications reviewed and 
+accepted by the FDA. 
+ iNtuitionMOBlLE provides 
+wireless and portable access 
+to medical images. This device 
+is not intended to replace full 
+workstations and should be 
+used only when there is no 
+access to a workstation. Not 
+intended for diagnostic use 
+when used via a web browser 
+or 
+mobile device. 
+ iNtuition will be marketed as a 
+software only solution for the 
+end-user (with recommended 
+hardware requirements) or as 
+a complete workstation for the 
+end user (software package 
+with harware kit). 
+Technical Characteristics 
+ Data Type 
+- CT 
+- 3D Medical Image Review 
+- CT, MR, Nuc, PET, Angio, 
+US/Echo, SPECT, CR/DR 
+Review  
+- 2D, 3D, 4D Medical Image 
+review including cine play  
+CariCloud supports CT 
+review. This difference does 
+not affect the safety of the 
+device.  
+Input Patient 
+Data 
+- Manual through 
+keyboard/mouse 
+- Command line interface.  
+- Manual through 
+keyboard/mouse 
+- Command line interface  
+The same as the predicate 
+device.  
+Study list 
+functionality  - Search 
+- Importing 
+- Exporting 
+- Deleting 
+- Search  
+- Anonymization  
+CariCloud does not support 
+import, export, delete and 
+anonymization.  This 
+difference does not affect 
+the safety of the device.  
+  
+ CariCloud v1.0 510(k) Summary 
+ 
+Document Number: 335 
+ 
+                                                                         
+Caristo Diagnostic Ltd © 2019 
+Attribute CariCloud iNtuition Comparison 
+Centerline 
+Extraction 
+- Automatic and manual 
+centerlines 
+- Centerline edits and 
+refinements.  
+- Vessel Analysis 
+- Automatic and manual 
+segmentation of structures 
+- Segmentation editing 
+- Automatic and manual 
+centerlines 
+- Centerline edits and 
+refinements.  
+- Vessel Analysis 
+- Automatic and manual 
+segmentation of structures 
+- Segmentation editing  
+The same as the predicate 
+device.  
+Image 
+Assessment 
+- Linear (length, diameter), 
+distance and ROI 
+measurements  
+- Area measurements  
+- Volume measurements 
+including VOI and 
+thresholding 
+- Segmentation and analysis 
+of coronary artery tree 
+centerline  
+- Synchronized side-by- side 
+review  
+- Synchronized center of 
+rotation viewing  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Linear (length, diameter, 
+perimeter), distance pair, 
+angular and ROI 
+measurements  
+- Area measurements  
+- Volume measurements 
+including volumetric 
+histogram, VOI and TVA for 
+Time Volume Analysis for 
+heart chamber segmentation 
+and analysis  
+- C-arm angulation calculation  
+- Text and arrow annotations  
+- Anatomy ID (Landmark Label 
+Selection) 
+ 
+- Calcium scoring for 
+assessment of calcium in the 
+aortic root  
+- Calcium scoring for 
+assessment of calcium in the 
+coronary arteries  
+- Segmentation and analysis 
+of coronary artery tree 
+centerline  
+- Synchronized side-by- side 
+review  
+- Synchronized center of 
+rotation viewing  
+CariCloud supports a sub-
+set of the image 
+assessment tools that are in 
+the predicate device.  This 
+does not affect the safety of 
+the device.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ CariCloud v1.0 510(k) Summary 
+ 
+Document Number: 335 
+ 
+                                                                         
+Caristo Diagnostic Ltd © 2019 
+Attribute CariCloud iNtuition Comparison 
+- Findings workflow for 
+temporal correlative analysis 
+2D/3D Batch movie tool and 
+export 
+- 2D/3D Batch movie tool and 
+expor 
+Image 
+Assessment 
+Rendering 
+- MPR 
+- 3D triangulation  
+- Curved Planar Reformat 
+(CPR)  
+- Synchronized side-by- side 
+viewing  
+- Synchronized center of 
+rotation viewing  
+- Multi-Mask Display (multi-
+object display)  
+- Editing tools: free- hand 
+- 2D/3D Batch movie tool and 
+export 
+- MIP , MPR, MinIP ,  
+- Raysum (ThickMPR)  
+- 3D triangulation  
+- Perspective endoluminal 
+view  
+- Medial Axial Reformat (MAR)  
+- Curved Planar Reformat 
+(CPR)  
+- Double-oblique MIP and 
+MPR  
+- Image enhancement filters  
+- Synchronized side-by- side 
+viewing  
+- Synchronized center of 
+rotation viewing  
+- Cube View  
+CariCloud supports a sub-
+set of the image 
+assessment rendering tools 
+that are in the predicate 
+device.  This does not affect 
+the safety of the device.   
+  
+ CariCloud v1.0 510(k) Summary 
+ 
+Document Number: 335 
+ 
+                                                                         
+Caristo Diagnostic Ltd © 2019 
+Attribute CariCloud iNtuition Comparison 
+- Workflow templates  
+- Multi-Mask Display (multi-
+object display)  
+- User-defined measurement 
+protocols  
+- Editing tools: crop, cut, free- 
+hand  
+Storage of 
+results DICOM SC 
+- Structured reporting with xml, 
+text, xls output  
+- Word and html report  
+- DICOM SC  
+- Workflow scenes: restore  
+saved state  
+CariCloud supports a sub-
+set of the result storage 
+tools that are in the 
+predicate device.  This does 
+not affect the safety of the 
+device.  
+ 
+ 
+Conferencing 
+and 
+Collaboration 
+Not supported.   Conferencing and Collaboration Not supported. This does not affect the safety of the device.  
+Operating 
+System 
+Any operating system that 
+supports the Chrome 
+Browser.  
+ Microsoft Windows 
+CariCloud is supported on 
+the Chrome Browser. This 
+does not affect the safety of 
+the device.  
+The agreement in results, inter-operator variability and intra-operator variability attained using both the 
+new device and the predicate device was excellent.  
+CariCloud v1.0 does not raise any new questions of safety or effectiveness as compared to the predicate 
+device. 
+  
+  
+ CariCloud v1.0 510(k) Summary 
+ 
+Document Number: 335 
+ 
+                                                                         
+Caristo Diagnostic Ltd © 2019 
+VI. PERFORMANCE DATA 
+Software Verification and Validation Testing 
+Software verification and validation testing were conducted and documentation was provided as 
+recommended by FDA’s Guidance for Industry and FDA Staff: “Guidance for the content of Premarket 
+Submissions for Software Contained in Medical Devices.” The software level of concern for CariCloud 
+v1.0 is Moderate, as per FDA's guidance document "Guidance for the Content of Premarket 
+Submissions for Software Contained in Medical Devices". This device does not control a life 
+supporting or life-sustaining device, does not control the delivery of a potentially harmful energy, does 
+not control the delivery of treatment, does not provide diagnostic information, and does not provide 
+any vital signs monitoring. The hazard analysis identifies the potential software-related risks of using 
+the device, and the mitigations implemented. 
+ 
+Performance Testing 
+CariCloud v1.0 software has been developed and tested in accordance with the Caristo Diagnostics 
+Design Control processes and has been subject to extensive safety and performance testing. Non-
+clinical verification and validation testing has been performed to demonstrate that CariCloud v1.0 
+meets its design requirements and intended use. Software verification has been conducted at unit and 
+system integration levels. A risk analysis was performed to document the risks associated with the 
+use of the CariCloud v1.0 software product with all identified risks being mitigated. Cybersecurity and 
+data security testing has been conducted to verify that data and patient protected health information 
+security measures are included in the design of the software.  
+ 
+Based on the Verification and Validation testing that has been conducted, CariCloud v1.0 is 
+substantially equivalent to the predicate device.  
+ 
+  

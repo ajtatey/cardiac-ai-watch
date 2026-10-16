@@ -1,0 +1,64 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "AAOCA",
+   "ACAOS",
+   "Anomalous Aortic Origin of the Coronary Artery (AAOCA)",
+   "Anomalous Coronary Artery Arising From the Opposite Sinus",
+   "Anomalous Coronary Artery Origin",
+   "Anomalous Coronary Artery With Aortic Origin and Course Between the Great Arteries",
+   "Coronary Anomaly",
+   "Sudden Cardiac Death",
+   "Myocardial Ischemia",
+   "Myocardial Ischemia, Angina Pectoris"
+  ],
+  "interventions": [
+   "Autonomic response in AAOCA"
+  ],
+  "nct_id": "NCT06705751",
+  "new_registration": false,
+  "sponsor": "IRCCS Policlinico S. Donato",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT06705751:2026-10-13",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b",
+   "machine learning",
+   "automat"
+  ],
+  "cardiac": [
+   "coronar",
+   "cardiac",
+   "myocard",
+   "ischemi"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 12
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status RECRUITING. Sponsor: IRCCS Policlinico S. Donato. Conditions: AAOCA, ACAOS, Anomalous Aortic Origin of the Coronary Artery (AAOCA), Anomalous Coronary Artery Arising From the Opposite Sinus, Anomalous Coronary Artery Origin. Interventions: Autonomic response in AAOCA. Type INTERVENTIONAL, enrollment 38. Start 2024-09-12, primary completion 2027-02. Anomalous aortic origin of the coronary arteries (AAOCA) is a rare congenital disease and one of the leading causes of sudden cardiac deaths (SCD) in young athletes but also has a lethal presentation in adult age with myocardial infarction, even if not related to obstructive coronary arteries. Unfortunately, diagnostic imaging techniques, invasive assessment, and provocative stress tests have shown low sensitivity and specificity in detecting inducible ischemia, and a multimodality assessment is then necessary. Innovative tools have been developed in the medical field using computer-based simulation, 3-dimensional reconstruction, machine learning, and artificial intelligence (AI). With the application of such new technologies, we aim to fill the gap of knowledge and the diagnostic limitation regarding risk stratification for most subjects with AAOCA. This work seeks to enhance, fasten, and personalize the clinical diagnosis of AAOCA by integrating anatomical measurements, clinical data, and biomechanical patient-specific features. The SMART study will set a system to automatically segment and classify coronary arteries with AAOCA from computerized tomography angiography (CTA) by artificial intelligence (AI). Segmentation will feed a 3D model of the aortic root and coronary artery for biomechanical assessment through finite element analysis (FEA). This will allow us to assess the location of possible coronary artery compression under an effort condition. These in-silico results, the anatomical features measured by AI, and the clinical data will be integrated into a risk model to estimate the hazard risk of adverse events such as SCD or myocardial infarction. This workflow will be framed in an IT system to allow a web-based remote diagnostic service. Thanks to the proposed multidisciplinary approach, SMART aims to overcome the current diagnostic limitations related to the reduced ability of functional stress tests to detect ischemia. Potentially helping in patient-specific risk stratification, SMART is also thought to provide a way to get a first diagnostic indication about AAOCA being accessible from any hospital, fostering the diffusion of peripheral territorial support to the diagnosis and treatment of such rare disease.",
+ "title": "Speed-up the Diagnosis and Evaluation of anoMalous Coronary ARTery From the Aorta (NCT06705751)",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Italian study on anomalous coronary origin diagnosis updated.",
+  "tags": [
+   "trial",
+   "coronary-anomaly"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Peripheral."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT06705751"
+}

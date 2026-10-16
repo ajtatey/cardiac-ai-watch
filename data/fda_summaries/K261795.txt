@@ -1,0 +1,355 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 10, 2026     
+ 
+ 
+Omniscient Neurotechnology Pty, Ltd. 
+Arie Henkin 
+Chief Clinical Officer 
+Suite L1.108, 477 Pitt St. 
+Haymarket, NSW 2000 
+Australia 
+ 
+ 
+Re:  K261795 
+Trade/Device Name: Quicktome Software Suite 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH, LLZ 
+Dated:  August 6, 2026 
+Received:  August 7, 2026 
+ 
+ 
+Dear Arie Henkin: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+
+K261795 - Arie Henkin Page 
+ 
+2 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+K261795 - Arie Henkin Page 
+ 
+3 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Daniel M. Krainak, PhD 
+Assistant Director 
+DHT8C: Division of Radiological 
+    Imaging and Radiation Therapy Devices 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+Indications for Use
+Please type in the marketing application/submission number, if it is known. This 
+textbox will be left blank for original applications/submissions.
+Please provide the device trade name(s).
+ 
+Please provide your Indications for Use below.
+ 
+Please select the types of uses (select one or both, as 
+applicable).
+Prescription Use (21 CFR 801 Subpart D) 
+Over-The-Counter Use (21 CFR 801 Subpart C) 
+Please select the age group(s) for which the device(s) is 
+to be used.
+Neonates/Newborns (Birth to < 29 days old)
+Infants (29 days old to < 2 years old)
+Children (2 years old to < 12 years old)
+Adolescents (12 years old to < 22 years old)
+Adults (22 years old and greater)
+K261795 ?  
+?  
+Quicktome Software Suite
+?  
+Quicktome Software Suite is composed of a set of modules intended for display of medical images and 
+other healthcare data. It includes functions for image review, image manipulation, basic measurements, 
+planning, image fusion, 3D visualization (MPR reconstructions and 3D volume rendering) and display of 
+BOLD (blood oxygen level dependent) resting-state MRI scan studies. 
+Modules are available for image processing, atlas-assisted visualization and segmentation, resting state 
+analysis and visualization, automated and manual segmentation object creation, detection, and adjustment, 
+and target export creation and selection, where an output can be generated for use by a system capable of 
+reading DICOM image sets. 
+Quicktome is indicated for use in the processing of diffusion-weighted MRI sequences into 3D maps that 
+represent white-matter tracts based on constrained spherical deconvolution methods and for the use of said 
+maps to select and create exports. Quicktome can generate motor, language, and vision resting state fMRI 
+correlation maps using task-analogous seeds. Quicktome can be used in conjunction with other clinical 
+methods as an aid in visualization of deep brain structures, such as the subthalamic nuclei (STN), globus 
+pallidus interna (GPi) and ventralis intermediate nucleus (VIM). 
+Typical users of Quicktome are medical professionals, including but not limited to surgeons, clinicians, and 
+radiologists.
+?  
+?  
+.   
+.   
+510(k) #: K261795 
+Contact Details 
+Applicant Name 
+Applicant Address 
+51 O(k) Summary 
+I Omniscient Neurotechnology Pty Ltd 
+Prepared on: 2026-09-09 
+21 CFR 807.92(a)(1) 
+Suite L 1.108, 477 Pitt Street Haymarket NSW 2000 Australia 
+Applicant Contact Telephone ~I 4_1_6_5_0_09_9_8_5 ____________________ ~ 
+Applicant Contact 
+Applicant Contact Email 
+Device Name 
+Device Trade Name 
+Common Name 
+Classification Name 
+Regulation Number 
+Product Code(s) 
+I Mr. Arie Henkin 
+I arie.henkin@o8t.com 
+21 CFR 807.92(a)(2) 
+I Quicktome Software Suite 
+Medical image management and processing system 
+Automated Radiological Image Processing Software 
+1892.2050 
+I QIH, LLZ 
+Legally Marketed Predicate Devices 21 CFR 807.92(a)(3) 
+Predicate# Predicate Trade Name (Primary Predicate is listed first) Product Code 
+I K241083 11 SIS System 11 QIH 
+Device Description Summary 21 CFR 807.92(a)(4) 
+Quicktome is a software-only, cloud-deployed, image processing package which can be used to perform DICOM image viewing, image 
+processing, and analysis. 
+Quicktome can receive ("import") DICOM images from picture archiving and communication systems (PACS), acquired with magnetic 
+resonance imaging (MRI) or head computed tomography (CT). Image types including but not limited to Tl, T2, FLAIR, and FGATIR 
+images, and 4D sequences, including Diffusion Weighted Imaging (DWI) sequences and Resting State functional MRI (rs-fMRI) blood­
+oxygen-level-dependent (BOLD) datasets. Once received, Quicktome removes protected health information (PHI) and links the dataset 
+to an encryption key, which is then used to relink the data back to the patient when the data is exported to hospital PACS or other 
+DICOM device. 
+Quicktome is structured as a configurable base platform with optional Application Modules. The base platform supports DICOM image 
+viewing, image manipulation, basic measurement, multi-modality image fusion (including MRI-MRI and MRI-CT fusion), 3D visualization 
+(MPR reconstructions and 3D volume rendering), workflow-driven quality checks, and target export creation and selection. The 
+Application Modules extend the base platform with workflow-specific processing and visualization tools (e.g., tractography generation). 
+This submission module includes the ability to co-register a CT with the patient's MRI, automatically extract the geometry of an 
+implanted deep brain stimulation (DBS) lead from the CT, and present the lead model alongside registered deep-brain structures as an 
+adjunctive visualization aid. 
+The software provides a set of module-based workflows for a clinician to: 
+* Select (an) image(s) for planning and visualization, 
+* Validate image quality, 
+* Explore available anatomical regions (including deep-brain structures), network templates, tractography bundles, and parcels, 
+* Lreate, detect, select, and adJust segmentation obJects, including regions ot interest, 
+* Fuse multiple imaging modalities for combined visualization (for example, anatomical MRI with secondary MRI sequences, DWI, BOLD, 
+or CT), 
+* Display resting-state fMRI (BOLD) correlation maps using task-analogous seeds for Motor, Vision, and Language networks, 
+* Visualize an implanted DBS lead's position and orientation in a CT and against the patient MR data and processing, and 
+* Export black-and-white and color DICOMs for use in systems that can view DICOM images. 
+Selected processing steps - including skull stripping and atlas registration - are performed by locked machine-learning components. The 
+identity, training population, and lifecycle controls applicable to these components are described in an Al/ML Model Card. 
+Intended Use/Indications for Use 21 CFR 807.92(a)(5) 
+Quicktome Software Suite is composed of a set of modules intended for display of medical images and other healthcare data. It includes 
+functions for image review, image manipulation, basic measurements, planning, image fusion, 3D visualization (MPR reconstructions 
+and 3D volume rendering) and display of BOLD (blood oxygen level dependent) resting-state MRI scan studies. 
+Modules are available for image processing, atlas-assisted visualization and segmentation, resting state analysis and visualization, 
+automated and manual segmentation object creation, detection, and adjustment, and target export creation and selection, where an 
+output can be generated for use by a system capable of reading DICOM image sets. 
+Quicktome is indicated for use in the processing of diffusion-weighted MRI sequences into 3D maps that represent white-matter tracts 
+based on constrained spherical deconvolution methods and for the use of said maps to select and create exports. Quicktome can 
+generate motor, language, and vision resting state fMRI correlation maps using task-analogous seeds. Quicktome can be used in 
+conjunction with other clinical methods as an aid in visualization of deep brain structures, such as the subthalamic nuclei (STN), globus 
+pallid us interna (GPi) and ventral is intermediate nucleus (VIM). 
+Typical users of Quicktome are medical professionals, including but not limited to surgeons, clinicians, and radiologists. 
+Indications for Use Comparison 21 CFR 807.92(a)(5) 
+The subject device and the primary predicate share the same intended use: both are software-only, adjunctive image-processing, image­
+fusion, and visualization tools that aid medical professionals in the visualization and review of anatomical structures in neurological 
+procedures. Both devices are limited to providing adjunctive information to the clinician; neither performs diagnosis, actively guides 
+surgical lead placement, performs DBS programming, or models volume of tissue activated. 
+Two differences in scope exist between the subject and predicate. Each is a reduction in scope relative to the predicate: 
+1. Workflow scope. The primary predicate is indicated for pre-operative planning, intraoperative functional planning (with 3D output 
+usable by stereotactic image-guided surgery or other devices), and post-operative review. The subject device is limited to adjunctive 
+visualization and post-operative review of pre-operative MRI co-registered to post-operative CT. 
+2. Deep brain anatomical coverage. The primary predicate's atlas-assisted segmentation covers STN, GPe, GPi, and VIM. The subject 
+device covers STN, GPi, and VIM only; GPe is not included and no claim regarding GPe is made. 
+The differences are not critical to the intended use of the device, and they do not affect its safety and effectiveness when used as 
+labeled. The device is adjunctive and non-therapeutic; it does not itself diagnose, treat, or guide a surgical procedure, and its outputs are 
+returned to PACS in DICOM format for clinician review with no direct interface to surgical-navigation or DBS-programming systems. The 
+device is fully verified and validated for the targets and capabilities it does claim, therefore, these differences in Indications for Use do 
+not raise new or different questions of safety or effectiveness. 
+Technological Comparison 21 CFR 807.92(a)(6) 
+The subject device (Quicktome Software Suite) shares the same fundamental technological characteristics as the primary predicate 
+device (SIS System, K241083). Both are software-only, Class II (21 CFR 892.2050) medical devices cleared under product codes QIH and 
+LLZ, operate on off-the-shelf hardware, are DICOM-compliant, and provide only adjunctive information to clinicians. Neither device 
+applies energy to the patient or has any physical, electrical, mechanical, chemical, thermal, or radiation output, and biocompatibility and 
+sterility are not applicable to either. 
+In terms of core functionality, technology, and performance, both the subject device and the primary predicate: 
+1. Allow import and export of DICOM images to and from a hospital PACS; 
+2. Provide a graphical user interface for the visualization and review of medical images; 
+3. Ingest pre-operative MRI and post-operative CT and perform automated image fusion (co-registration) using rigid and deformable 
+registration methodologies; 
+4. Produce patient-specific anatomical overlays of deep brain structures, including STN, GPi, and VIM; 
+5. Automatically detect implanted DBS leads in post-operative CT and provide manual tools for adjustment of the lead model; 
+6. Are software-only, hardware-agnostic solutions that require no proprietary local installation or specialized hardware to perform their 
+intended medical function; 
+7. KequIre user authentIcatIon and logon; 
+8. Provide adjunctive information only- neither device performs surgical guidance, DBS programming, or VT A modeling. 
+The technological characteristics carried over from the predecessor Quicktome Software Suite clearance (K222359) are unchanged in the 
+subject device. These include DWI-based constrained-spherical-deconvolution (CSD) tractography, resting-state fMRI correlation 
+mapping for motor, language, and vision networks, cortical atlas-assisted visualization using a modified Glasser/HCP-MMP1 atlas, 
+network templates and tractography bundles, target export generation, the three-tier cloud architecture (browser-based Web Viewer, 
+on-premises Gateway for PACS integration and de-identification, and a cloud Processing Core), and two-factor user authentication. 
+These features are configurable per facility and were not modified for this submission; their equivalence was confirmed by comparison 
+testing against Quicktome (K222359). 
+Two technological differences are identified between the subject device and the primary predicate. Neither raises new or different 
+questions of safety or effectiveness, for the reasons summarized below; each was verified and validated and did not lead to any 
+additional questions of safety or effectiveness. 
+Difference 1: Segmentation algorithm 
+The predicate generates anatomical overlays using pre-trained deep-learning neural network models. The subject device generates 
+equivalent patient-specific overlays by deformably registering a locked, Omniscient-built atlas into each patient's MRI space. Both 
+approaches deliver the same output to the clinician: a patient-specific 3D anatomical overlay derived from a clinical MR acquisition, 
+displayed adjunctively, using a population-derived reference and producing locked, deterministic outputs at deployment. Algorithmic 
+verification against an independent atlas-derived reference standard (the AHEAD 7T atlas, precedented by reference device K253379) 
+demonstrated STN and GPi pass at acceptance criteria consistent with the primary predicate's 2.0 mm threshold. Clinician-based clinical 
+validation by three board-certified DBS-experienced neurosurgeons demonstrated STN, GPi, and VIM are acceptable using pre-defined 
+acceptance criteria. 
+Difference 2: Automated lead roll/ yaw (rotational orientation) detection 
+The predicate provides automated rotational-orientation (roll/ yaw) detection of directional DBS leads from post-operative CT. The 
+subject device performs automated lead segmentation and localization (position, length, diameter, and lead positions) but does not 
+output an automated estimate of rotational orientation. The summative evaluation conducted per IEC 62366-1 and FDA Human Factors 
+guidance with representative DBS-experienced neurosurgeons, passed with no critical use errors or use-related hazards traceable to the 
+absence of this feature, confirming that the intended adjunctive post-operative review workflow is performed acceptably without it. 
+Comparison to the primary predicate device, in conjunction with the design verification and validation activities described in this 
+submission, supports the substantial equivalence of the Quicktome Software Suite. The device performs as intended under the specified 
+conditions of use and does not raise new or different questions of safety or effectiveness when compared to the legally marketed 
+predicate device. 
+Non-Clinical and/or Clinical Tests Summary & Conclusions 21 CFR 807.92(b) 
+Substantial equivalence is supported by nonclinical software verification and validation testing, including bench performance testing 
+against independent reference standards and clinician-based clinical validation of the device's outputs. 
+The following FDA-recognized consensus standards were applied: 
+• IEC 62304 - Medical device software - Software life cycle processes; 
+• IEC 62366-1 - Application of usability engineering to medical devices; 
+• ISO 14971 - Application of risk management to medical devices; 
+• NEMA PS 3.1-3.20- Digital Imaging and Communications in Medicine (DICOM); 
+• TIR97 - Principles for medical device security- Postmarket risk management for device manufacturers; 
+• SW96 - Standard for medical device security- Security risk management for device manufacturers; 
+• TIR57 - Principles for medical device security- Risk management. 
+Comparative performance testing followed the methodology used by the primary predicate (K241083) where applicable. Established 
+reference methodologies were used where appropriate: the AHEAD ultra-high-field 7T atlas, an approach precedented by reference 
+device K253379, was used as an independent reference standard for STN and GPi segmentation testing. 
+The following testing was conducted: 
+• Skull stripping verification. 
+• Cortical anatomical region and atlas generation. Comparison to the previously cleared Quicktome Software Suite (K222359) confirmed 
+equivalence of the generated cortical anatomical regions. 
+• Tractography bundle generation. Comparison to the previously cleared Quicktome Software Suite (K222359) confirmed equivalence of 
+the generated tractography bundles. 
+• Deep structure segmentation (STN, GPi). A 7TT1 atlas was used to establish the segmentation reference standard. Prespecified 
+acceptance criteria (~ 90% of center-of-mass and mean symmetric surface distances~ 2.0 mm, consistent with the threshold cleared for 
+t e primary pre Icate, were met or an 1 1 atera y. 
+• CT-MRI co-registration. Acceptance criteria were aligned with the primary predicate methodology. 
+• CT lead extraction (lead segmentation and localization). Positional-error acceptance criteria (tip and centerline~ 1.5 mm) were 
+modeled on the predicate (K241083). 
+• Clinical validation of deep structure segmentation (STN, GPi, VIM). Algorithm-derived overlays were rated against the patient's 
+underlying MRI anatomy by three board-certified, DBS-experienced neurosurgeons. Prespecified acceptance criteria were met for all 
+three structures. 
+• Design validation and summative usability evaluation, conducted in accordance with IEC 62366-1 and FDA Human Factors guidance 
+with representative end users (DBS-experienced neurosurgeons). 
+All verification and validation activities required by the verification and validation plan were performed using a production-equivalent 
+deployment of the software. Each identified technological difference between the subject device and the primary predicate was verified 
+and validated and did not lead to any additional questions of safety or effectiveness. Risk management activities concluded that the 
+benefits of the device outweigh the residual risks. 
+No clinical tests were submitted to support this submission. 
+Based on the comparison of intended use and technological characteristics, the nonclinical testing summarized above, and the risk­
+management conclusions, Omniscient Neurotechnology concludes that the Quicktome Software Suite is substantially equivalent to the 
+predicate device, the SIS System (K241083). 
+The subject device has the same intended use as the primary predicate - image processing, image fusion, visualization, and adjunctive 
+review of deep brain structures (STN, GPi, VIM) in neurological procedures. The subject device and the predicate share the same product 
+codes (QIH, LLZ), the same regulation (21 CFR 892.2050), the same Class II classification, the same software-only modality on off-the-shelf 
+hardware, the same DICOM compatibility, the same adjunctive (non-therapeutic, non-navigational) role, and the same general 
+algorithmic approach to MRI-CT fusion, deep-structure overlay generation, and DBS lead identification from post-operative CT. 
+The bench performance testing demonstrated that the device's segmentation, co-registration, and lead-extraction outputs meet 
+prespecified acceptance criteria consistent with those cleared for the predicate, evaluated against independent reference standards. The 
+clinician-based clinical validation demonstrated that the device's anatomical overlays are rated as adequate for the intended use by 
+board-certified, DBS-experienced neurosurgeons. The summative usability evaluation confirmed that representative users perform the 
+intended adjunctive post-operative review workflow safely and effectively. 
+Taken together, the design verification and validation conducted support the conclusion that the Quicktome Software Suite performs as 
+intended under the specified conditions of use, and that it is at least as safe and as effective as, and performs as well as, the legally 
+marketed predicate device. The device does not raise new or different questions of safety or effectiveness when compared to the 
+predicate device and is therefore substantially equivalent. 

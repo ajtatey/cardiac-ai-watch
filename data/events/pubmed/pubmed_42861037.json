@@ -1,0 +1,70 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Radiology, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+   "Department of Radiology, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+   "Department of Radiology, The First Affiliated Hospital of Henan Medical University, Weihui, China.",
+   "Department of Radiology, State Key Laboratory of Complex Severe and Rare Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+   "Department of Radiology, The First Affiliated Hospital of Henan Medical University, Weihui, China."
+  ],
+  "authors": [
+   "Zou L",
+   "Xu K",
+   "Liu X",
+   "Xu C",
+   "Liu H",
+   "Li Y"
+  ],
+  "doi": "10.21037/qims-2026-1-0199",
+  "journal": "Quantitative imaging in medicine and surgery",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42861037",
+ "prefilter": {
+  "ai": [
+   "deep learning",
+   "algorithm",
+   "quantif"
+  ],
+  "cardiac": [
+   "coronar",
+   "cardiac",
+   "ccta",
+   "plaque",
+   "stenos"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 13
+ },
+ "published": "2026-09-11",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Quantitative imaging in medicine and surgery. Zou L, Xu K, Liu X, Xu C, Liu H, Li Y. In addition to stenosis evaluation, coronary computed tomography angiography (CCTA) also allows for noninvasive plaque quantification and characterization, which informs risk stratification and management strategies. This study aimed to compare a novel superresolution deep learning reconstruction (SR-DLR) technique with a conventional hybrid iterative reconstruction (HIR) method in quantifying CCTA-derived plaque and detecting high-risk plaque (HRP) characteristics. A total of 255 consecutive patients (mean age 63.7±9.6 years; 184 men and 71 women) who underwent clinically indicated CCTA for assessment of suspected or known coronary artery disease were prospectively enrolled. The HIR algorithm with the FC43 kernel and the SR-DLR algorithm with the cardiac kernel reconstructed the same raw CCTA data. Total plaque, calcified plaque, noncalcified plaque (NCP), and low-attenuation plaque (LAP) volumes were quantified. Moreover, the ability to detect HRP characteristics (LAP, spotty calcification, positive remodeling, and napkin-ring sign) was evaluated. Paired comparisons were made between the two reconstruction pipelines. Compared with the HIR pipeline, the SR-DLR pipeline obtained higher median volumes of total plaque {103.4 [interquartile range (IQR) 52.9-201.7] vs. 124.5 (IQR 66.8-236.2) mm3}, NCP [43.9 (IQR 20.1-87.7) vs. 56.4 (IQR 25.2-115.7) mm3], and LAP [0.1 (IQR 0-3.0) vs. 0.9 (IQR 0-8.7) mm3] (all P<0.001); meanwhile, calcified plaque volume did not differ significantly between the pipelines [44.8 (IQR 16.2-100.6) vs. 44.8 (IQR 17.3-98.2) mm3; P=0.87]. SR-DLR detected more LAPs than did HIR (91 vs. 67; P=0.01), but there were no detected differences in spotty calcification (63 vs. 56; P=0.33), positive remodeling (110 vs. 110; P>0.99), or napkin-ring sign (42 vs. 40, P=0.76). Compared with the HIR pipeline, the SR-DLR pipeline indicated higher total plaque, NCP, and LAP volumes, but no difference in calcified plaque volume was observed. Moreover, SR-DLR detected more LAPs than did HIR, while other HRP characteristics did not differ significantly. Further large-scale prospective studies including a reference standard are warranted to investigate the clinical impact of SR-DLR.",
+ "title": "Quantification of plaque and detection of high-risk plaque characteristics based on coronary computed tomography angiography: comparison between superresolution deep learning reconstruction and hybrid iterative reconstruction.",
+ "triage": {
+  "companies": [
+   "canon-medical"
+  ],
+  "priority": "P2",
+  "relevance": 4,
+  "summary": "Study comparing super-resolution deep learning reconstruction with hybrid iterative reconstruction for CCTA plaque quantification and high-risk plaque detection (QIMS).",
+  "tags": [
+   "evidence",
+   "ccta",
+   "plaque",
+   "reconstruction",
+   "scanner-vendor"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Reconstruction changes shift plaque volumes; AI plaque vendors need to know how SR-DLR affects their measurements and calibration."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42861037/"
+}

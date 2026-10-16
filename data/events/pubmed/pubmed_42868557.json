@@ -1,0 +1,64 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Harbor-UCLA Medical Center, Torrance, California, USA.",
+   "Lundquist Institute at Harbor-UCLA Medical Center, Torrance, California, USA.",
+   "Lundquist Institute at Harbor-UCLA Medical Center, Torrance, California, USA.",
+   "Lundquist Institute at Harbor-UCLA Medical Center, Torrance, California, USA."
+  ],
+  "authors": [
+   "Hoque A",
+   "Kinninger A",
+   "Roy SK",
+   "Budoff M"
+  ],
+  "doi": "10.1097/JOM.0000000000003906",
+  "journal": "Journal of occupational and environmental medicine",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42868557",
+ "prefilter": {
+  "ai": [
+   "\\bai\\b"
+  ],
+  "cardiac": [
+   "coronar",
+   "ccta",
+   "plaque",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 9
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Journal of occupational and environmental medicine. Hoque A, Kinninger A, Roy SK, Budoff M. To assess coronary plaque burden in Los Angeles Fire Department firefighters compared to matched control subjects. 302 LAFD subjects matched 1:1 with control subjects. Coronary artery calcium imaging, coronary computed tomography angiography, and AI-assisted quantitative plaque analysis compared coronary plaque burden between groups. 62 underwent follow-up CCTA. The LAFD cohort had significantly higher total plaque volume (138 vs 84 mm³), non-calcified plaque volume (108 vs 73 mm³), percent atheroma volume (3.5% vs 2.3%), and prevalence of low-density plaque (31% vs 19%), all p ≤ 0.01. In the serial-CCTA subset, annualized progression of total plaque volume, calcified plaque, and percent atheroma volume was significantly higher than NATURE-CT. These findings reveal an elevated burden and accelerated progression of coronary plaque in LAFD firefighters, emphasizing the need for comprehensive cardiovascular risk assessment and prevention strategies.",
+ "title": "Coronary Plaque Burden and Progression in Los Angeles Firefighters Versus Matched Controls: A Cohort Study.",
+ "triage": {
+  "companies": [
+   "cleerly"
+  ],
+  "priority": "P1",
+  "relevance": 5,
+  "summary": "Budoff's group (JOEM, 2026-10-13) compared coronary plaque burden and progression in 302 Los Angeles firefighters versus matched controls using CAC, CCTA and AI-assisted quantitative plaque analysis.",
+  "tags": [
+   "evidence",
+   "ccta",
+   "plaque",
+   "ai-qct",
+   "screening"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Occupational screening with AI quantitative plaque is a potential new market and evidence base. Check whether the analysis used Cleerly software; Budoff's group has published with Cleerly before."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42868557/"
+}

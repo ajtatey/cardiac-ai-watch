@@ -1,0 +1,65 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Cardiology, Hospital Israelita Albert Einstein, São Paulo, SP, Brazil.",
+   "Department of Echocardiography, Heart Institute (InCor), São Paulo University Medical School, São Paulo, SP, Brazil.",
+   "Department of Cardiology, Hospital Israelita Albert Einstein, São Paulo, SP, Brazil.",
+   "Department of Cardiology, Hospital Israelita Albert Einstein, São Paulo, SP, Brazil.",
+   "Department of Cardiology, Hospital Israelita Albert Einstein, São Paulo, SP, Brazil."
+  ],
+  "authors": [
+   "Vieira MLC",
+   "Rodrigues ACT",
+   "Daminello E",
+   "Reche A",
+   "de Almeida GP",
+   "Oliveira AJ"
+  ],
+  "doi": "10.21037/jtd-2026-1300",
+  "journal": "Journal of thoracic disease",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42865817",
+ "prefilter": {
+  "ai": [
+   "software",
+   "automat"
+  ],
+  "cardiac": [
+   "cardiac",
+   "echocardiog",
+   "valve"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 8
+ },
+ "published": "2026-08-20",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Journal of thoracic disease. Vieira MLC, Rodrigues ACT, Daminello E, Reche A, de Almeida GP, Oliveira AJ. There is a paucity of information concerning automatic mitral valve apparatus (MVA) analysis of patients with mitral valve prolapse (MVP). We aimed to study with an automatic three-dimensional (3D) transesophageal echocardiography (TEE)-dedicated software, patients with moderate and severe mitral regurgitation when compared to patients with no structural cardiac chamber alterations [patients with patent foramen ovale (PFO) who underwent TEE]. We employed TEE software dedicated to automatic analysis of 34 parameters of the MVA, comparing MVP patients with moderate and severe mitral regurgitation and patients with PFO without cardiac chamber structural alterations. Mitral valve effective regurgitant orifice (ERO) and regurgitant volume were correlated to automatic MVP parameters. Fifty-nine MVP patients and 43 PFO patients were analyzed. All MVP patients presented P2 MVP, 15 (25.4%) with both posterior and anterior prolapse. Twenty-seven automatic parameters (79%) were different concerning MVP and PFO patients (P<0.05): diameters, area, perimeter, height, angle, coaptation width, length, closure line length, and annulus. ERO was 0.43±0.11 cm2, and regurgitant volume was 62.9±14.9 mL/beat. Automatic analysis correlated to 75th percentile ERO MVP patients (ERO >0.48 cm2): posterior leaflet area (r=0.74, P=0.03); posterior leaflet length (r=0.73, P=0.03); tenting area (r=0.41, P=0.048). Automatic mitral valve parameters differed significantly between patients with MVP and those without structural cardiac chamber remodeling. In exploratory analysis, patients in the upper range of ERO values (≥75th percentile) showed patterns involving posterior leaflet geometry that were consistent with the associations observed in continuous-variable analysis. These findings support the potential role of automated 3D assessment in the anatomical characterization of MVP.",
+ "title": "Automatic transesophageal echocardiographic evaluation of patients with mitral valve prolapse: comparison with patients without structural cardiac chamber remodeling (an exploratory study).",
+ "triage": {
+  "companies": [
+   "philips"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Exploratory study of automatic 3D TEE mitral valve analysis in mitral valve prolapse.",
+  "tags": [
+   "evidence",
+   "echo",
+   "structural-heart"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Peripheral to CCTA."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42865817/"
+}

@@ -1,0 +1,563 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 07 . 0 4  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 15, 2024 
+ 
+ 
+Ultromics Limited 
+Jaco Jacobs 
+Chief Regulatory and Compliance Officer 
+4630 Kingsgate 
+Cascade Way, Oxford Business Park 
+Oxford, OX4 2SU 
+United Kingdom 
+ 
+Re:  K240860 
+Trade/Device Name: EchoGo Amyloidosis (1.0) 
+Regulation Number:  21 CFR 870.2200 
+Regulation Name:  Adjunctive Cardiovasular Status Indicator 
+Regulatory Class:  Class II 
+Product Code:  SDJ 
+Dated:  November 13, 2024 
+Received:  November 13, 2024 
+ 
+Dear Jaco Jacobs: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K240860 - Jaco Jacobs Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part 
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming 
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a 
+change requires premarket review, the QS regulation requires device manufacturers to review and approve 
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and 
+approvals in the device master record (21 CFR 820.181).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart 
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections 
+531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K240860 - Jaco Jacobs Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+LCDR Stephen Browning 
+Assistant Director 
+Division of Cardiac Electrophysiology,  
+    Diagnostics, and Monitoring Devices 
+Office of Cardiovascular Devices 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+Stephen C. Browning -S
+Food and Drug Administration 
+Indications for Use 
+Form Approved: 0MB No. 0910-0120 
+Expiration Date: 07/31/2026 
+See PRA Statement below. 
+I DEPARTMENT OF HEAL TH AND HUMAN SERVICES ����� 
+Submission Number (if known) 
+I K240860 
+Device Name 
+I EchoGo Amyloidosis (1.0) 
+Indications for Use (Describe) 
+EchoGo Amyloidosis 1.0 is an automated machine learning-based decision support system, 
+indicated as a screening tool for adult patients aged 65 years and over with heart failure undergoing 
+cardiovascular assessment using echocardiography. 
+When utilised by an interpreting physician, this device provides information alerting the physician for 
+referral to confirmatory investigations. 
+EchoGo Amyloidosis 1.0 is indicated in adult patients aged 65 years and over with heart failure. 
+Patient management decisions should not be made solely on the results of the EchoGo Amyloidosis 
+1.0 analysis. 
+Type of Use (Select one or both, as applicable) 
+IZ] Prescription Use (Part 21 CFR 801 Subpart D) D Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995. 
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.* 
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete 
+and review the collection of information. Send comments regarding this burden estimate or any other aspect 
+of this information collection, including suggestions for reducing this burden, to: 
+Department of Health and Human Services 
+Food and Drug Administration 
+Office of Chief Information Officer 
+Paperwork Reduction Act (PRA) Staff 
+PRAStaff@fda.hhs.gov 
+''.An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid 0MB number." 
+EchoGo Amyloidosis 1.0 510(K) SUMMARY
+Page 1 of 23
+K240860
+1 Submitter
+Company Ultromics Limited
+4630 Kingsgate Cascade Way, Oxford Business Park South, Oxford, 
+Oxfordshire, United Kingdom, OX4 2SU
+Contact Dr. Jaco Jacobs
+Date Prepared 15 Nov 2024
+2 Subject Device
+Product Trade Name EchoGo Amyloidosis
+Model Number 1.0
+510(k) K240860
+Manufacturer Ultromics Limited
+Medical Speciality Cardiology
+Regulation 21 CFR 870.2200 – Cardiovascular Monitoring Devices
+Product Code SDJ - Adjunctive Cardiac Amyloidosis Status Indicator
+Regulatory Class II
+EchoGo Amyloidosis is the product trade name and 1.0 is the model number. For the avoidance of 
+doubt, in this submission we combine the product trade name and model number and refer to the 
+subject device as EchoGo Amyloidosis 1.0.
+3 Predicate Device
+Predicate Device EchoGo Heart Failure
+510(k) K222463
+Manufacturer Ultromics Limited
+EchoGo Amyloidosis 1.0 510(K) SUMMARY
+Page 2 of 23
+K240860
+4 Device Description
+EchoGo Amyloidosis 1.0 takes a 2D echocardiogram of an apical four chamber (A4C) as its input 
+and reports as an output a binary classification decision suggestive of the presence or absence of 
+Cardiac Amyloidosis (CA).
+The binary classification decision is derived from an AI algorithm developed using a convolutional 
+neural network that was pre-trained on a large dataset of cases and controls.
+The A4C echocardiogram should be acquired without contrast and contain at least one full cardiac 
+cycle. Independent training, tune and test datasets were used for training and performance 
+assessment of the device. 
+EchoGo Amyloidosis 1.0 is fully automated without a graphical user interface. 
+The ultimate diagnostic decision remains the responsibility of the interpreting clinician using 
+patient presentation, medical history, and the results of available diagnostic tests, one of which 
+may be EchoGo Amyloidosis 1.0.
+EchoGo Amyloidosis 1.0 is a prescription only device.
+5 Comparison of Intended Use
+5.1 Indications for Use
+We discuss similarities and differences of the subject and predicate devices.
+5.1.1 Subject Device
+EchoGo Amyloidosis 1.0 is an automated machine learning-based decision support system, 
+indicated as a screening tool for adult patients aged 65 years and over with heart failure 
+undergoing cardiovascular assessment using echocardiography.
+When utilised by an interpreting physician, this device provides information alerting the physician 
+for referral to confirmatory investigations.
+EchoGo Amyloidosis 1.0 is indicated in adult populations over 65 years of age with heart failure. 
+Patient management decisions should not be made solely on the results of the EchoGo 
+Amyloidosis 1.0 analysis.
+5.1.2 Predicate Device
+EchoGo Heart Failure 1.0 is an automated machine learning-based decision support system, 
+indicated as a diagnostic aid for patients undergoing routine functional cardiovascular assessment 
+using echocardiography. When utilised by an interpreting clinician, this device provides information 
+that may be useful in detecting heart failure with preserved ejection fraction (HFpEF).EchoGo 
+Heart Failure 1.0 is indicated in adult populations over 25 years of age. Patient management 
+EchoGo Amyloidosis 1.0 510(K) SUMMARY
+Page 3 of 23
+K240860
+•
+decisions should not be made solely on the results of the EchoGo Heart Failure 1.0 analysis. 
+EchoGo Heart Failure 1.0 takes as input an apical 4-chamber view of the heart that has been 
+captured and assessed to have an ejection fraction ≥50%.
+6 Discussion
+Both subject and primary predicate devices are software-only devices and automated machine 
+learning-based decision support system, indicated for patients undergoing routine cardiovascular 
+assessment using echocardiography.
+Both subject and primary predicate are indicated to provide information that may be useful for 
+healthcare professionals in forming a diagnostic work up decisioning. The subject device is 
+intended to be used “as a screening tool for patients undergoing routine cardiovascular 
+assessment using echocardiography” and the primary predicate device is intended to be used “as 
+diagnostic aid for patients undergoing routine functional cardiovascular assessment”.
+Both subject and primary predicate are intended to provide information on the cardiovascular 
+state of patients. Both subject and primary predicate are used for “patients undergoing routine 
+cardiovascular assessment using echocardiography “.
+Both subject and primary predicate devices are indicated in adult populations. The subject device 
+”EchoGo Amyloidosis 1.0 is indicated in adult populations over 65 years of age” and the primary 
+predicate is indicated in adult populations over 25 years of age”.
+For both subject and primary predicate devices, the patient management decisions should not be 
+made solely on device recommendations.
+For purposes of substantial equivalence, the term intended use means the general purpose of the 
+device or its function and encompasses the indications for use. The term indications for use 
+describes the disease the device is intended to serve as a diagnostic aid including a description of 
+the patient population for which the device is intended. Both devices are intended as adjunctive 
+aids for cardiovascular states or conditions and both devices can be used on adult populations. It 
+follows that both devices have the same intended use of providing adjunctive information on the 
+cardiovascular condition of a patient.
+Ultromics believes that general controls and special controls of the predicate device are sufficient 
+to ensure the safety and effectiveness of the subject device.
+7 Technological Characteristics
+A full comparison of the technological characteristics of the subject and predicate devices 
+follows:
+Both devices takes as input a DICOM file consisting of an echocardiogram from medical 
+devices, such as Medical Ultrasound Equipment or Picture Archiving and Communication 
+System (PACS). Both devices therefore receive as input data that is the output of a 
+preceding medical device (e.g. Medical Ultrasound Equipment or PACS) .
+EchoGo Amyloidosis 1.0 510(K) SUMMARY
+Page 4 of 23
+K240860
+•
+•
+•
+•
+•
+•
+The output of both devices is based on an artificial intelligence (AI) model developed using a 
+convolutional neural network that produces a classification result.
+Both device reports a classification decision as suggestive or not suggestive of a specific 
+cardiac condition. Both devices are adjunctive cardiovascular status indicators.
+The subject device reports a classification decision as suggestive or not suggestive of the 
+presence of cardiac amyloidosis (CA), while the predicate device reports a classification 
+decision as suggestive or not suggestive of the presence of heart failure with preserved 
+ejection fraction (HFpEF).
+Both subject and primary predicate takes as input an apical 4-chamber view of the heart 
+that has been captured. The subject device takes as input an apical 4-chamber view of the 
+heart that has been captured, while the predicate device takes as input an apical 4-
+chamber view of the heart that has been captured and assessed to have an ejection fraction 
+≥50%.
+Subject device includes application programming interfaces for input and output for 
+interfacing with external applications and medical devices. This includes the DICOM network 
+interfaces that were also present in the predicate device.
+Subject device allows deployment options permitting functionality to be distributed and 
+replicated, ensuring the scalability, robustness and non-clinical performance of the device.
+The following table summarises technological characteristics.
+Characteristic Subject Device
+EchoGo Amyloidosis 1.0
+Predicate Device
+EchoGo Heart Failure
+(K222463)
+Regulation 21 CFR 870.2200 21 CFR 870.2200
+Generic Device Type Adjunctive cardiovascular status 
+indicator
+Adjunctive cardiovascular status 
+indicator
+SaMD Yes Yes
+EchoGo Amyloidosis 1.0 510(K) SUMMARY
+Page 5 of 23
+K240860
+Characteristic Subject Device
+EchoGo Amyloidosis 1.0
+Predicate Device
+EchoGo Heart Failure
+(K222463)
+Indications for Use EchoGo Amyloidosis 1.0 is an 
+automated machine learning-based 
+decision support system, indicated 
+as a screening tool for adult 
+patients over 65 years of age with 
+heart failure undergoing routine 
+cardiovascular assessment using 
+echocardiography.
+When utilised by an interpreting 
+physician, this device provides 
+information alerting the physician 
+for referral to confirmatory 
+investigations.
+EchoGo Amyloidosis 1.0 is indicated 
+in adult populations over 65 years 
+of age with heart failure. Patient 
+management decisions should not 
+be made solely on the results of 
+the EchoGo Amyloidosis 1.0 
+analysis.
+EchoGo Heart Failure 1.0 is an 
+automated machine learning-
+based decision support system, 
+indicated as a diagnostic aid for 
+patients undergoing routine 
+functional cardiovascular 
+assessment using 
+echocardiography.
+When utilised by an interpreting 
+clinician, this device provides 
+information that may be useful in 
+detecting heart failure with 
+preserved ejection fraction 
+(HFpEF).
+EchoGo Heart Failure 1.0 is 
+indicated in adult populations 
+over 25 years of age. Patient 
+management decisions should not 
+be made solely on the results of 
+the EchoGo Heart Failure 1.0 
+analysis.
+EchoGo Heart Failure 1.0 takes as 
+input an apical 4-chamber view of 
+the heart that has been captured 
+and assessed to have an ejection 
+fraction ≥50%.
+Population Adults over the age of 65 Adults over the age of 25
+Anatomical Site Cardiovascular Cardiovascular
+Users Interpreting clinician Interpreting clinician
+Machine Learning-
+Based Algorithm
+Yes Yes
+Operating platform Hosted on Ultromics’ platform or 
+on third party infrastructure.
+Hosted on Ultromics’ platform or 
+on third party infrastructure.
+Interoperability Interoperability testing conducted 
+with a device conformant with the 
+DICOM Standard (NEMA PS 3.1 - 
+3.20 2022d [Rec# 12-349])
+Interoperability testing conducted 
+with a device conformant with the 
+DICOM Standard (NEMA PS 3.1 - 
+3.20 2022d [Rec# 12-349])
+EchoGo Amyloidosis 1.0 510(K) SUMMARY
+Page 6 of 23
+K240860
+Characteristic Subject Device
+EchoGo Amyloidosis 1.0
+Predicate Device
+EchoGo Heart Failure
+(K222463)
+Software Complies with IEC 62304:2015 and 
+GPSV. Developed under an FDA 
+QSR and ISO 13485:2016 compliant 
+QMS incorporating risk 
+management per ISO 14971:2019. 
+Software verification and validation 
+testing conducted.
+Complies with IEC 62304:2015 and 
+GPSV. Developed under an FDA 
+QSR and ISO 13485:2016 compliant 
+QMS incorporating risk 
+management per ISO 14971:2019. 
+Software verification and 
+validation testing conducted.
+Risk Management In accordance with ISO 14971:2019 In accordance with ISO 14971:2019
+Cybersecurity Post-market Management of 
+Cybersecurity in Medical Devices.
+Content of Premarket Submissions 
+for Management of Cybersecurity in 
+Medical Devices.
+Cybersecurity for Networked 
+Medical Devices Containing Off-
+the-Shelf (OTS) Software:  
+Guidance for Industry.
+Post-market Management of 
+Cybersecurity in Medical Devices.
+Content of Premarket 
+Submissions for Management of 
+Cybersecurity in Medical Devices.
+Cybersecurity for Networked 
+Medical Devices Containing Off-
+the-Shelf (OTS) Software:  
+Guidance for Industry.
+Usability Complies with IEC 62366-1:2020 
+and general use of FDA guidance 
+documents on usability 
+engineering. Formative and 
+summative evaluations conducted 
+with clinicians specialising in 
+cardiology, with knowledge/
+experience in echocardiography 
+(N=18).
+Complies with IEC 62366-1:2020 
+and general use of FDA guidance 
+documents on usability 
+engineering. Formative and 
+summative evaluations conducted 
+with accredited cardiac 
+physiologists (N=2) and 
+cardiologists (N=5).
+Pre-clinical 
+Performance Testing
+No animal studies were conducted. No animal studies were 
+conducted.
+Bench Performance 
+Testing
+Technical validation, numerical 
+stability, and regression testing.
+Technical validation, numerical 
+stability, and regression testing.
+Clinical Performance 
+Testing
+Validated on a validation cohort 
+including 12 US sites and 3 
+International sites representative of 
+the intended use population. 
+Validated on a US cohort 
+population, comprising 8 
+independent clinical sites 
+representative of the intended use 
+population.
+Any technological differences between the subject and predicate devices raise no new concerns 
+with regards to safety and efficacy. In addition, Ultromics is of the view that general controls 
+EchoGo Amyloidosis 1.0 510(K) SUMMARY
+Page 7 of 23
+K240860
+1.
+2.
+3.
+alongside special controls introduced under the primary product code of the predicate are 
+sufficient to ensure safety and efficacy of the EchoGo Amyloidosis 1.0 device.
+8 Special Controls
+Special controls for regulation 21 CFR 870.2200 follows.
+Control Description Evidence
+1 Software description, verification, and validation based on comprehensive hazard 
+analysis:
+a Full characterization of technical 
+parameters of the software, including any 
+proprietary algorithm(s);
+A.22.1 ADP EchoGo Amyloidosis 1.0: 
+Algorithmic Design Plan
+A.22.2 ADS EchoGo Amyloidosis 1.0: 
+Algorithm Design Specification
+A.22.3 ADR EchoGo Amyloidosis 1.0: 
+Algorithmic Design Report
+A.7.1 EchoGo Amyloidosis 1.0 IFU: 
+Clinician Manual
+A.23.2 PTR EchoGo Amyloidosis 1.0: 
+Clinical Performance Testing Report
+b Description of the expected impact of all 
+applicable acquisition hardware 
+characteristics on performance and any 
+associated hardware specifications;
+c Specification of acceptable data quality 
+control measures
+d Mitigation of impact of user error or failure 
+of any components (data detection and 
+analysis, data display, and storage) on 
+accuracy of patient reports
+ 
+Data Validation for Prediction Safety
+Fault Tolerance (Component Failure)
+Prevention of Misreporting
+A.13.1 SDS EchoGo Amyloidosis 1.0: 
+Software Design Specification
+A.13.2 SDS Ultromics Image Processing 
+Library 2.0: Software Design 
+Specification
+A.13.3 SDS Ultromics Repository Library 
+2.0: Software Design Specification
+A.13.4 SDS Ultromics Dicom Library 2.0: 
+Software Design Specification
+A.13.5 SDS Ultromics Reporting Library 
+3.0: Software Design Specification
+A.11.2 SRS EchoGo Amyloidosis 1.0: 
+Software Requirement Specification
+EchoGo Amyloidosis 1.0 510(K) SUMMARY
+Page 8 of 23
+K240860
+Control Description Evidence
+2 Scientific justification for the validity of the 
+status indicator algorithm(s) must be 
+provided. Verification of algorithm 
+calculations and validation testing of the 
+algorithm using a data set separate from 
+the training data must demonstrate the 
+validity of modelling.
+ 
+A.22.1 ADP EchoGo Amyloidosis 1.0: 
+Algorithmic Design Plan
+A.22.2 ADS EchoGo Amyloidosis 1.0: 
+Algorithm Design Specification
+A.22.3 ADR EchoGo Amyloidosis 1.0: 
+Algorithmic Design Report
+A.7.1 EchoGo Amyloidosis 1.0 IFU: 
+Clinician Manual
+A.23.1 PTP EchoGo Amyloidosis 1.0: 
+Clinical Performance Testing Plan
+A.23.2 PTR EchoGo Amyloidosis 1.0: 
+Clinical Performance Testing Report
+3 Usability assessment must be provided to 
+demonstrate that risk of misinterpretation 
+of the status indicator is appropriately 
+mitigated.
+ 
+A.22.8.1 HFUEP EchoGo Amyloidosis 1.0: 
+Human Factors and Usability 
+Engineering Plan
+A.22.8.2 USER EchoGo Amyloidosis 1.0 : 
+Usability Engineering Report
+A.22.8.9 UATP EchoGo Amyloidosis 1.0: 
+User Acceptance Testing Plan
+A.22.8.11 UATR EchoGo Amyloidosis 1.0: 
+User Acceptance Testing Report
+4 Clinical data must be provided in support of the intended use and include the 
+following
+ 
+a Output measure(s) must be compared to an 
+acceptable reference method to 
+demonstrate that the output measure(s) 
+represent(s) the predictive measure(s) that 
+the device provides in an accurate and 
+reproducible manner.
+A.23.1 PTP EchoGo Amyloidosis 1.0: 
+Clinical Performance Testing Plan
+A.23.2 PTR EchoGo Amyloidosis 1.0: 
+Clinical Performance Testing Report
+b The data set must be representative of the 
+intended use population for the device. Any 
+selection criteria or limitations of the 
+samples must be fully described and 
+justified.
+c Agreement of the measure(s) with the 
+reference measure(s) must be assessed 
+across the full measurement range.

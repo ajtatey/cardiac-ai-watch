@@ -1,0 +1,44 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:06+00:00",
+ "extra": {
+  "feed": "MedTech Dive",
+  "publisher": "MedTech Dive",
+  "query": null
+ },
+ "id": "rss:5d8c0ff273bfc439",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "cardiovascular"
+  ],
+  "companies": [
+   "siemens"
+  ],
+  "keep": true,
+  "score": 7
+ },
+ "published": "2026-10-14",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "In a strategy shift, the company will invest in its procedural ultrasound business, supporting cardiovascular surgeries",
+ "title": "Siemens Healthineers to stop selling general ultrasound systems",
+ "triage": {
+  "companies": [
+   "siemens"
+  ],
+  "priority": "P3",
+  "relevance": 3,
+  "summary": "MedTech Dive coverage of the same Siemens ultrasound exit.",
+  "tags": [
+   "market",
+   "scanner-vendor"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Duplicate of the Cardiovascular Business item."
+ },
+ "url": "https://www.medtechdive.com/news/siemens-healthineers-to-stop-selling-general-ultrasound-systems/832976/"
+}

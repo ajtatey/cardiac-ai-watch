@@ -1,0 +1,54 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "Metabolic Disease",
+   "Obesity",
+   "Li-Fraumeni Syndrome",
+   "Cardiomyopathy",
+   "Atherosclerosis",
+   "Inflammatory Disease"
+  ],
+  "interventions": [
+   "NSR IDE-MRI: Research pulse sequences"
+  ],
+  "nct_id": "NCT01143454",
+  "new_registration": false,
+  "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT01143454:2026-10-13",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "\\bheart\\b",
+   "atheroscler",
+   "echocardiog",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 8
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status RECRUITING. Sponsor: National Heart, Lung, and Blood Institute (NHLBI). Conditions: Metabolic Disease, Obesity, Li-Fraumeni Syndrome, Cardiomyopathy, Atherosclerosis. Interventions: NSR IDE-MRI: Research pulse sequences. Type OBSERVATIONAL, enrollment 5000. Start 2010-07-21, primary completion None. Background: \\- Researchers are interested in studying individuals who have known or suspected metabolic, inflammatory or genetic diseases that may put them at a high risk for heart diseases or diseases of their blood vessels. Depending on the condition being studied, both affected and nonaffected individuals may be asked to provide blood and other samples and may undergo tests to evaluate the heart, blood vessels and lung function. The testing is tailored to the individual and/or condition being studied. Nonaffected individuals may include relatives of affected individuals and healthy nonrelated volunteers. Objectives: \\- To study individuals who have or are at risk for cardiovascular diseases, and in some cases their unaffected relatives and healthy volunteers. Eligibility: \\- Individuals between 1 and 100 years of age. Participants may be healthy volunteers, individuals with cardiovascular diseases, or unaffected relatives of individuals with cardiovascular diseases. Design: * Participants will have some or all of the following tests, as directed by the study researchers: * Photography of the face and full body * Body measurements * Radiography, including chest or limb x-rays * Metabolic stress testing to study heart and muscle function * Echocardiography to study heart function * Magnetic resonance imaging (MRI) studies, including cardiovascular MRI, angiography, and contrast MRI, to study heart function and performance * Computed tomography (CT) angiogram to obtain images of the heart and lungs * Positron emission tomography (PET) imaging to study possible fat infiltration of the heart * Six-minute walk test to study heart, lung, and muscle function and performance * Vascular ultrasound to study blood vessel walls * Blood, tissue, and other specimens will be collected for research and testing, and will be taken either as part of the clinical study or during surgical procedures. * Follow-up studies may be performed under separate research protocols.",
+ "title": "Characterization of Patients With Uncommon Presentations and/or Uncommon Diseases Associated With the Cardiovascular System (NCT01143454)",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 1,
+  "summary": "NHLBI observational study of uncommon cardiovascular presentations updated.",
+  "tags": [
+   "trial"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Routine update."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT01143454"
+}

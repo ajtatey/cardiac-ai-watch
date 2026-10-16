@@ -1,0 +1,605 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+July 24, 2026 
+ 
+Airs Medical, Inc. 
+Markus Cho 
+RA Manager 
+13-14f, Keungil Tower, 223, Teheran-Ro, Gangnam-Gu 
+Seoul, 06142 
+Republic Of Korea 
+ 
+Re:  K261349 
+Trade/Device Name: SwiftMR 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  June 3, 2026 
+Received:  June 3, 2026 
+ 
+Dear Markus Cho: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+
+K261349 - Markus Cho Page 
+ 
+2 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+K261349 - Markus Cho Page 
+ 
+3 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+for 
+Daniel M. Krainak, Ph.D. 
+Assistant Director 
+DHT8C: Division of Radiological 
+    Imaging and Radiation Therapy Devices 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+NINGZHI LI -S Digitally signed by NINGZHI LI -S
+
+510(k) Summary 
+Page 1 
+This 510(k) Summary of safety and effectiveness information is being submitted in accordance with 
+the requirements of 21 CFR 807.92. 
+I. SUBMITTER
+Mr. Markus Cho 
+RA Specialist 
+AIRS Medical Inc. 
+13-14F, Keungil Tower, 223, Teheran-ro, Gangnam-gu,
+Seoul, 06142, Republic of Korea
+Phone: +82-10-3974-4600
+FAX: +82-2-6280-3185
+Email: cho.markus@airsmed.com
+Date Prepared: May 21th, 2026 
+II. DEVICE
+Name of Device: SwiftMR 
+Common or Usual Name: Medical Image Management and Processing System 
+Classification Name: system, image processing, radiological (21 CFR 892.2050) 
+Regulatory Class: II  
+Product Code: QIH 
+III. PREDICATE DEVICE
+Predicate Device : SwiftMR – K253775 by AIRS Medical, Inc., Class II, CFR 
+892.2050, classification with product code QIH. 
+IV. DEVICE DESCRIPTION
+SwiftMR is software used as a Medical Device (SaMD) consisting of a software
+algorithm that enhances images taken by MRI scanners. The device only processes 
+DICOM images for the end user and is intended to be used by radiology technologists 
+in an imaging center, clinic, or hospital. 
+The device’s inputs are MRI images in DICOM format. The deep learning algorithm 
+produces enhanced images as outputs with reduced noise and increased sharpness 
+in DICOM format. The deep learning algorithm performs noise reduction with the 
+ability of adjusti ng the denoising level from level 0 to level 8, and sharpening filter 
+performs the sharpening function with the ability of adjusting the sharpness level from 
+level 0 to level 5.  
+SwiftMR provides an automatic image quality enhancement function for MR images 
+acquired in various environments. SwiftMR can only be used for professional 
+purposes and is not intended for use on mobile devices. 
+SwiftMR’s automation procedure is as follows: 
+- Receive MR images that are in DICOM format from PACS or from MRI
+- Image quality enhancement using Deep Learning model and sharpening filter
+- Transfer enhanced MR image as DICOM format to PACS or to MRI
+K261349
+ 
+ 
+510(k) Summary 
+ 
+ Page 2 
+SwiftMR supports input images reconstructed using both conventional vendor 
+reconstruction algorithms and vendor -implemented deep learning (DL) 
+reconstruction pipelines. These vendor DL -reconstructed images are treated as 
+standard DICOM images, and compatibility verification has confirmed that upstream 
+DL processing does not negatively affect SwiftMR performance, artifacts, or 
+anatomical fidelity. 
+Image Enhance deep leaning model can be applied to MR images with field strengths 
+of 0.25T, 0.31T, 0.4T, 0.55T, 0.6T, 1.5T, and 3.0T. SwiftMR is compatible with both 
+conventional vendor reconstruction methods and vendor-implemented deep learning 
+reconstruction pipelines.  
+At the same time, SwiftMR allows logged -in users to use its functions and view the 
+processing status. When logged in as the System Admin, the function is available to 
+control automation procedure and system change settings. On the User side, the 
+User can retrieve the results of image processing in the form of a worklist by login to 
+the user account. 
+The software provides three main functions, which are image processing , quality 
+check and progress monitoring. As part of the image processing functionality, the 
+software performs the following non-deep-learning processing of MR images: 
+- Diffusion-related processing: ADC, exponential ADC, calculated b -value, 
+fractional anisotropy (FA), FA color, tractography 
+- Perfusion-related processing: cerebral blood flow, cerebral blood volume, mean 
+transit time, time to peak 
+- Susceptibility-weighting imaging related processing: filtered phase, phase mask 
+weighting 
+- 3D-related processing: Maximum Intensity Projection (MIP), Minimum Intensity 
+Projection (minIP), Multi-Planar Reconstruction (MPR) 
+The software includes an MIP Auto -cutting feature that uses deep learning 
+segmentation of anatomical structures to facilitate automated removal/cropping of 
+non-target tissues during MIP generation. This functionality is intended to assist 
+clinicians; users  remain responsible for all final image review and patient -
+management decisions. 
+The software is intended to run automatically in the background so that it does not 
+interrupt the workflow of users. When the user executes MR scans as he/she usually 
+does, the newly acquired images are automatically uploaded to the server and 
+registered in the database (DB) for image processing. Once image processing is 
+complete, the images are sent to PACS or to MR device. 
+If the user wishes to monitor this automated workflow to check on the status of image 
+processing, he/she can check the main page of the client application or toast 
+messages will appear on the bottom right corner upon completion of each processing. 
+After using the software, they should log out for security reasons. 
+A settings menu is provided in the form of a user interface to enable the system admin 
+to modify software settings as required by the institution or respective user. 
+ 
+ 
+510(k) Summary 
+ 
+ Page 3 
+V. INDICATIONS FOR USE 
+SwiftMR is a stand -alone medical imaging software solution intended for the 
+acceptance, enhancement, processing, review, analysis, communication, and 
+transfer of MR images in DICOM format. The software may be used for the 
+enhancement of medical images, suc h as noise reduction and increased image 
+sharpness, as well as for image processing, such as segmentation to remove 
+background anatomy for Maximum Intensity Projection (MIP) visualization.  
+The device is designed for use by healthcare professionals and is intended to 
+assist clinicians, who remain responsible for making all final patient management    
+decisions. The device is not intended for use on mobile devices. 
+The available field strengths are as follows: 0.25T, 0.31T, 0.4T, 0.55T, 0.6T, 1.5T, 
+and 3.0T. 
+ 
+VI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE 
+DEVICES 
+The subject device and the predicate device are substantially equivalent in the 
+areas of general function, application, and intended use.   
+Any differences between the predicate and the subject device have no negative 
+impact on the device safety or efficacy and does not raise any new potential or 
+increased safety risks and is equivalent in performance to existing legally marketed 
+devices.  
+ 
+ 
+Item Subject Device (SwiftMR) Predicate Device  (SwiftMR (K253775))  Differences 
+Regulation 
+number / 
+Classification 
+21 CFR 892.2050 / Class 
+II 
+21 CFR 892.2050 / 
+Class II 
+Equivalent 
+Product code QIH QIH Equivalent  
+Indication for 
+use 
+SwiftMR is a stand-alone 
+medical imaging software 
+solution intended for the 
+acceptance, 
+enhancement, processing, 
+review, analysis, 
+communication, and 
+transfer of MR images in 
+DICOM format. The 
+software may be used for 
+the enhancement of 
+medical images, such as 
+noise reduction and 
+SwiftMR is a stand-
+alone medical imaging 
+software solution 
+intended for the 
+acceptance, 
+enhancement, 
+processing, review, 
+analysis, 
+communication, and 
+transfer of all body parts 
+MR images in DICOM 
+format. The software 
+may be used for the 
+Equivalent  
+The subject device is 
+substantially 
+equivalent to the 
+primary predicate, 
+SwiftMR (K253775), 
+as they share the 
+same intended use 
+and core technological 
+principles for MR 
+image processing. 
+ 
+ 
+ 
+510(k) Summary 
+ 
+ Page 4 
+increased image 
+sharpness, as well as for 
+image processing, such 
+as segmentation to 
+remove background 
+anatomy for Maximum 
+Intensity Projection (MIP) 
+visualization. 
+The device is designed for 
+use by healthcare 
+professionals and is 
+intended to assist 
+clinicians, who remain 
+responsible for making all 
+final patient management 
+decisions. The device is 
+not intended for use on 
+mobile devices. 
+  
+The available field 
+strengths are as follows: 
+0.25T, 0.31T, 0.4T, 0.55T, 
+0.6T, 1.5T, and 3.0T. 
+enhancement of medical 
+images, such as noise 
+reduction and increased 
+image sharpness for MR 
+images.  
+The device is designed 
+for use by healthcare 
+professionals and is 
+intended to assist 
+clinicians, who remain 
+responsible for making 
+all final patient 
+management    
+decisions. The device is 
+not intended for use on 
+mobile devices. 
+The available field 
+strengths are as follows: 
+0.25T, 0.31T, 0.4T, 
+0.55T, 0.6T, 1.5T, and 
+3.0T. 
+While the predicate 
+device focuses on 
+image enhancement 
+through noise 
+reduction and 
+sharpening, the 
+subject device 
+extends this logic to 
+include MIP Auto-
+cutting. This feature is 
+fundamentally aligned 
+with the predicate’s 
+established principle 
+of improving image 
+visualization; whereas 
+the predicate 
+improves quality at the 
+pixel level 
+(SNR/FWHM), the 
+MIP Auto-cutting 
+feature improves 
+visualization at the 
+structural level by 
+removing background 
+interference. 
+ 
+Since both the subject 
+device and the 
+predicate are intended 
+to enhance the 
+diagnostic quality of 
+MR images through 
+automated 
+processing—and 
+because the subject 
+device maintains the 
+exact same rigorous 
+performance criteria 
+as the cleared 
+predicate—no new 
+questions of safety or 
+effectiveness are 
+introduced. 
+Input data MR images in DICOM 
+format 
+MR images in DICOM 
+format 
+Equivalent 
+Output Enhanced / processed 
+MR images in DICOM  
+Enhanced MR images in 
+DICOM 
+Equivalent  
+Intended 
+users 
+Healthcare professionals; 
+final clinical responsibility 
+remains with clinician 
+Healthcare 
+professionals; final 
+clinical responsibility 
+remains with clinician 
+Equivalent 
+Intended 
+environment  
+Healthcare environment Healthcare environment Equivalent 
+ 
+ 
+510(k) Summary 
+ 
+ Page 5 
+Image 
+Enhancement 
+Noise reduction and 
+increased sharpness and 
+MIP Auto Cutting 
+Noise reduction, 
+increased sharpness 
+Equivalent 
+ 
+The subject device is 
+substantially 
+equivalent to the 
+predicate (K253775), 
+sharing the same 
+intended use and core 
+image enhancement 
+principles. While 
+maintaining identical 
+pixel-level 
+enhancement 
+(SNR/FWHM), the 
+subject device adds 
+MIP Auto-cutting to 
+improve structural 
+visualization by 
+removing background 
+interference. This 
+independent functional 
+module follows the 
+same rigorous 
+performance criteria 
+as the cleared 
+predicate and 
+introduces no new 
+questions of safety or 
+effectiveness 
+This submission is being made to obtain clearance for the addition of the MIP Auto Cutting 
+feature to the previously cleared device. 
+VII. PERFORMANCE DATA 
+SwiftMR, has been assessed and tested and has passed all predetermined testing 
+criteria. The Validation Test Plan was designed to evaluate output functions.  
+Validation testing indicated that as required by the risk analysis, designated 
+individuals performed all verification and validation activities and that the results 
+demonstrated that the predetermined acceptance criteria were met. 
+ 
+The following tests were conducted for SwiftMR: 
+1) Verification testing: Unit test, system test conducted. These tests passed.  
+2) Validation testing: Performance test was conducted using retrospective clinical 
+images for both noise reduction and sharpness increase functions. 
+A. For the noise reduction performance,  acceptance criteria were defined 
+that the average signal-to-noise ratio ( SNR) of  the SwiftMR -processed 
+image series is increased by 40% or more for at least 90% of the dataset 
+for level 1 with an incremental 1% increase per each level. This test 
+passed. 
+B. For the sharpness increase performance, acceptance criteria were 
+defined that the FWHM of a selected region of interest (ROI) is decreased 
+ 
+ 
+510(k) Summary 
+ 
+ Page 6 
+by 0.13% (deep learning model), 0.43% (filter level 1), 1.7% (filter level 2), 
+2.3% (filter level 3), 3.6% (filter level 4), 4.5% (filter level 5) or more for at 
+least 90% of the dataset. This test passed. 
+The validation dataset consists of data of the following conditions: 
+1. Manufacturer: SIEMENS, GE, PHILIPS , CANON , ESAOTE, FONAR, 
+FUJIFILM 
+2. Field Strength: 0.25T / 0.31T / 0.4T / 0.55T / 0.6T / 1.5T / 3.0T  
+3. Anatomical region: Body (breast, abdomen, and pelvis), Cardiac, Neuro 
+(head, neck, and spine), Musculoskeletal (shoulder, wrist, hip, knee, and ankle) 
+4. Protocol: T1, T2, T2*, FLAIR, PD, DWI, MRA  
+5. Demographics  
+- age: Adults (22~93 yrs, 91.1%), Pediatrics (0~21 yrs, 8.9%)  
+- gender: Male (48.4%), Female (41.2%), Other (10.4%) 
+6. Time reduction range for reduced scan time images: up to 50% 
+7. Image reconstruction: Conventional (81.2%), Deep Learning Reconstructed 
+(18.8%) 
+ 
+The training dataset for the Image Enhancement model was collected from 
+institutions in the Republic of Korea across three scanner manufacturers.  
+ 
+Image Enhancement Model — Training Dataset 
+Siemens (Total: 12,000 subjects) 
+Institution Cases 
+Seoul National University Hospital 10,000 
+Seoul Asan Hospital 500 
+Korea Medical Institute 1,500 
+Anatomical regions: Neuro (5,000), MSK (4,000), Body (3,000)  
+Age: 3–95 years 
+Gender: Male 50.2%, Female 49.8%  
+Pulse sequences — Neuro: T1, T2, T2*, FLAIR, DWI, MRA / MSK: T1, T2, T2*, 
+PD / Body: T1, T2, DWI 
+ 
+GE (Total :9,000 subjects) 
+Institution Cases 
+Human Medical Imaging 4,000 
+We Want Healthcare 4,000 
+Seoul National University Hospital 1,000 
+Anatomical regions: Neuro (5,500), MSK (3,000), Body (500)  
+Age: 11–93 years 
+Gender: Male 50.2%, Female 49.8%  
+Pulse sequences — Neuro: T1, T2, T2*, FLAIR, DWI, MRA / MSK: T1, T2, T2*, 
+PD / Body: T1, T2, DWI 
+Phillips (Total : 9,400 subjects) 
+Institution Cases 
+Yeson Hospital 4,000 
+Seoul National University Hospital 5,400 
+Anatomical regions: Neuro (4,900), MSK (2,500), Body (2,000)  
+Age: 15–67 years 
+ 
+ 
+510(k) Summary 
+ 
+ Page 7 
+Gender: Male 49.9%, Female 50.1%  
+Pulse sequences — Neuro: T1, T2, T2*, FLAIR, DWI, MRA / MSK: T1, T2, T2*, 
+PD / Body: T1, T2, DWI 
+ 
+To show that the performance of the device is not hindered by site variability, in 
+the validation dataset, we included data from sources not included in the training 
+dataset.  
+ 
+For the MIP Auto -Cutting function, performance was verified on retrospective 
+datasets of actual MR imaging studies of patients . A total of 78 imaging studies 
+were used to evaluate the device. No dataset contained more than one imaging 
+study from any particular patient. No imaging study used to verify performance was 
+used for training; independence of training and testing data were enforced at t he 
+level of the scanning institution, namely, studies sourced from a specific institution 
+were used for either training or testing but could not be used for both. The data 
+used in the device validation ensured diversity in patient population and scanner 
+manufacturers. Subgroup analysis was performed for patient age, patient sex, and 
+scanner manufacturers. Verification datasets included 54% female patients and 
+46% male patients. Across all datasets, 69.2% of patients were adults, 24.4% were 
+pediatric, and 6% were of unknown age. Scanner manufacturers included GE 
+Medical Systems, Siemens, Philips, Canon, Fonar, Fujifilm, ASG, and Esaote . 
+Ethnicity of patients in the datasets was reasonably correlated to the overall US 
+population. 
+Performance was verified by comparing segmentations generated by the machine 
+learning models against segmentations generated by medical professionals from 
+the same imaging study. The performance of the machine learning models, 
+characterized by the Sørensen–Dice coefficient (DSC) was as follows: Head 0.98 
+DSC; Neck 0.98 DSC and at least 90% of the cases demonstrated an HD-95 of ≤ 
+14mm. 
+ 
+MIP Auto-Cutting Model — Training Dataset 
+Vendor 
+Vendor Cases 
+Siemens 500 
+GE 500 
+Phillips 500 
+Institution (Total 1,500 subjects) 
+Institution Cases 
+Seoul National University Hospital 500 
+Yeson Hosptial 400 
+WeWant Healthcare 400 
+Human Medical Imaging 200 
+Anatomical regions: Head (750) and Neck (750) 
+Image Type: MR Angiography(1500) 
+ 
+ 
+510(k) Summary 
+ 
+ Page 8 
+Age: 3-92 years old 
+Gender: Male 54%, Female 46% 
+ 
+Ground truth segmentation masks for the MIP Auto-Cutting model were generated 
+by three board -certified radiologists in the United States. Annotation 
+disagreements were resolved through a consensus-based adjudication process. 
+ 
+Training data independence from the validation dataset was ensured at the 
+institution level; data sourced from a specific institution was used exclusively for 
+either training or validation. 
+ 
+The accuracy of measurement features has been validated on datasets of actual 
+MR imaging studies of patients. 
+ 
+Therefore, it was demonstrated that SwiftMR performance was shown to be 
+substantially equivalent to the predicate device. 
+ 
+ 
+VIX. CONCLUSION 
+The information presented in the 510(k) for SwiftMR contains adequate information, 
+data, and nonclinical test results to de monstrate substantial equivalence to the 
+predicate device. SwiftMR was shown to be substantially equivalent to the 
+predicate device in the areas of technical characteristics, general function, 
+application, and does not raise different questions of safety and effectiveness. 

@@ -1,0 +1,58 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "Atherosclerosis",
+   "Cardiovascular Diseases",
+   "Lipoprotein(a)"
+  ],
+  "interventions": [
+   "Lepodisiran",
+   "Placebo"
+  ],
+  "nct_id": "NCT07613294",
+  "new_registration": false,
+  "sponsor": "Eli Lilly and Company",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT07613294:2026-10-08",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "coronar",
+   "\\bheart\\b",
+   "ccta",
+   "plaque",
+   "atheroscler",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 12
+ },
+ "published": "2026-10-08",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status RECRUITING. Sponsor: Eli Lilly and Company. Conditions: Atherosclerosis, Cardiovascular Diseases, Lipoprotein(a). Interventions: Lepodisiran, Placebo. Type INTERVENTIONAL, enrollment 252. Start 2026-06-01, primary completion 2029-12. Lipoprotein(a), also known as Lp(a), is a protein that carries cholesterol and proteins in your blood. People with high Lp(a) have a higher risk for heart disease. The main purpose of the study is to investigate how lepodisiran, compared to a placebo, affects the amount and type of plaque in the heart's vessels using an imaging technology known as Coronary Computed Tomography Angiography (CCTA) in adults who have high levels of Lp(a). Participation will last about 120 weeks.",
+ "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk (NCT07613294)",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "Eli Lilly's lepodisiran coronary plaque trial (252 patients, elevated Lp(a)) updated on 2026-10-08; plaque change on imaging is the endpoint.",
+  "tags": [
+   "trial",
+   "ccta",
+   "plaque",
+   "pharma",
+   "lp(a)"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Pharma plaque-regression trials are the largest near-term demand driver for quantitative CCTA plaque analysis."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT07613294"
+}

@@ -1,0 +1,54 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "ST Elevation (STEMI) Myocardial Infarction",
+   "Microvascular Obstruction (MVO)"
+  ],
+  "interventions": [],
+  "nct_id": "NCT07876791",
+  "new_registration": true,
+  "sponsor": "Assiut University",
+  "status": "NOT_YET_RECRUITING"
+ },
+ "id": "ctgov:NCT07876791:2026-10-15",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b"
+  ],
+  "cardiac": [
+   "coronar",
+   "cardiac",
+   "\\bheart\\b",
+   "myocard",
+   "\\bcmr\\b"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 12
+ },
+ "published": "2026-10-15",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "NEW REGISTRATION — status NOT_YET_RECRUITING. Sponsor: Assiut University. Conditions: ST Elevation (STEMI) Myocardial Infarction, Microvascular Obstruction (MVO). Interventions: . Type OBSERVATIONAL, enrollment 90. Start 2026-10-01, primary completion 2028-10-01. This study aims to evaluate myocardial reperfusion in patients with ST-segment elevation myocardial infarction (STEMI) undergoing primary percutaneous coronary intervention (PCI). Although primary PCI successfully restores blood flow in the blocked coronary artery, some patients continue to have impaired blood flow within the small vessels of the heart muscle, a condition known as microvascular obstruction (MVO). This complication may be associated with greater myocardial injury and poorer clinical outcomes. The study will investigate whether artificial intelligence (AI)-derived electrocardiographic (ECG) features, coronary angiographic parameters, and cardiac magnetic resonance (CMR) findings can provide complementary information about myocardial reperfusion. Patients undergoing primary PCI will be assessed using ECG and angiographic findings, while CMR will be used to evaluate myocardial injury and microvascular obstruction. The main objective is to determine whether combining AI-derived ECG features and angiographic parameters can improve the prediction of CMR-detected microvascular obstruction after primary PCI. The findings may help identify patients at increased risk of impaired myocardial reperfusion and support future risk assessment strategies following STEMI.",
+ "title": "Multimodality Assessment of Myocardial Reperfusion After Primary Percutaneous Coronary Intervention (NCT07876791)",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "New Assiut University observational study of multimodality reperfusion assessment after primary PCI.",
+  "tags": [
+   "trial",
+   "cmr",
+   "stemi"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Peripheral."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT07876791"
+}

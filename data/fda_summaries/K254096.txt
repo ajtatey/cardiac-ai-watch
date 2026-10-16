@@ -1,0 +1,991 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                   July 23, 2026 
+ 
+ 
+ 
+Velmeni, Inc. 
+℅ Mini Suri 
+CEO 
+333 W. Maude Ave. 
+SUNNYVALE, CA 94085 
+ 
+ 
+Re:  K254096 
+Trade/Device Name: VELMENI for DENTISTS (V4D) 3D 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  June 18, 2026 
+Received:  June 22, 2026 
+ 
+ 
+Dear Mini Suri: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K254096 - Mini Suri Page 
+ 
+2 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+K254096 - Mini Suri Page 
+ 
+3 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+    
+     
+ 
+ 
+Lu Jiang, Ph.D. 
+Assistant Director 
+Diagnostic X-Ray Systems Team 
+DHT8B: Division of Radiological Imaging  
+ Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+Lu Jiang 
+DEPARTMENT OF HEAL TH AND HUMAN SERVICES 
+Food and Drug Administration 
+51 0(k) Number (if known) 
+K254096 
+Device Name 
+Indications for Use 
+VELMENI for DENTISTS (V4D) 3D 
+Indications for Use (Describe) 
+Form Approved: 0MB No. 0910-0120 
+Expiration Date: 07/31/2026 
+See PRA Statement below. 
+VELMENI for DENTISTS (V4D) 3D is radiological, automated, concurrent read, computer-assisted detection software 
+intended to assist in the clinical detection of anatomical structures (maxilla plus cranium, mandible, mandibular canal, 
+temporomandibular joint, maxillary sinus ,teeth ,airway) in CBCT radiographs of permanent teeth in patients 15 years of 
+age or older. This device provides additional information for licensed dental professionals in examining radiographs of 
+patients' teeth. The device is not intended as a substitute for a complete examination by the dental professional or their 
+clinical judgment that considers other relevant information from the patient's history or actual in-vivo clinical assessment. 
+Final diagnoses and patient treatment plan are the responsibility of the dental professional. 
+Type of Use (Select one or both, as applicable) 
+IZI Prescription Use (Part 21 CFR 801 Subpart D) D Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995. 
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.* 
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete 
+and review the collection of information. Send comments regarding this burden estimate or any other aspect 
+of this information collection, including suggestions for reducing this burden, to: 
+Department of Health and Human Services 
+Food and Drug Administration 
+Office of Chief Information Officer 
+Paperwork Reduction Act (PRA) Staff 
+PRAStaff@fda.hhs.gov 
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid 0MB number." 
+FORM FDA 3881 (8123) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF 
+VELMENI for DENTISTS (V4D) 3D 
+510(k) Summary 
+In accordance with 21 CFR 807.87(h) and 21 CFR 807.92, the following 510(k) Summary for 
+VELMENI for DENTISTS (V4D) 3D is provided: 
+Submitter Information 
+Submitter: 
+Date Prepared: 
+Contact Person: 
+Identification of the Device 
+Trade Name: 
+Common Name: 
+Classification Name 
+Product Code: 
+Device Class: 
+Velmeni Inc. 
+333 West Maude Avenue, STE 207 
+Sunnyvale, CA 94085 
+Phone: 201-289-3500 
+July 22, 2026 
+Mini Suri, CEO 
+Velmeni Inc. 
+Phone: 201-289-3500 
+Email: mini@velmeni.com 
+VELMENI for DENTISTS (V4D) 3D 
+Medical image management and processing system 
+Medical image management and processing system 
+21 CFR 892.2050 
+QIH 
+Class II 
+Predicate Device 
+Predicate Device:   Pearl Second Opinion 3D (K243989)
+Device Description 
+V4D 3D introduces 3D image processing to the VELMENI AI platform. The device comprises of the 
+following key components  
+● Web Application Interface delivers front-end capabilities and is the point of interaction
+between the device and the user.
+● Machine Learning (ML) Engine delivers V4D’s core ML capabilities for 2D and 3D imaging.
+● Backend API allows interaction between all the components, as defined in this section,
+in order to fulfill the user & requests on the web application interface.
+● Queue receives and stores messages from Backend API to send to AI-Worker.
+● AI-Worker accepts 3D scan analysis requests from Backend API via the Queue.
+○ For 3D,  DICOM scans (in .zip format) are passed via Backend API in nifti format to the
+appropriate 3D ML engine.The ML analysis results are returned to the Backend API.
+● Database and File Storage store critical information related to the application, including
+user data, patient profiles, analysis results,3D scans and associated data.
+K254096
+ 
+The
+ 
+following
+ 
+non-medical
+ 
+interfaces
+ 
+are
+ 
+also
+ 
+available
+ 
+with
+ 
+VELMENI
+ 
+for
+ 
+DENTISTS
+ 
+(V4D)
+ 
+3D
+ 
+●
+ 
+VELMENI
+ 
+BRIDGE
+ 
+(VB)
+ 
+acts
+ 
+as
+ 
+a
+ 
+conduit
+ 
+enabling
+ 
+data
+ 
+and
+ 
+information
+ 
+exchange
+ 
+between
+ 
+Backend
+ 
+API
+ 
+and
+ 
+third-party
+ 
+software
+ 
+like
+ 
+Patient
+ 
+Management
+ 
+or
+ 
+Imaging
+ 
+Software
+ 
+ 
+ 
+Intended
+ 
+Use/
+ 
+Indications
+ 
+for
+ 
+Use
+ 
+VELMENI
+ 
+for
+ 
+DENTISTS
+ 
+(V4D)
+ 
+3D
+ 
+is
+ 
+radiological,
+ 
+automated,
+ 
+concurrent
+ 
+read,
+ 
+computer-assisted
+ 
+detection
+ 
+software
+ 
+intended
+ 
+to
+ 
+assist
+ 
+in
+ 
+the
+ 
+clinical
+ 
+detection
+ 
+of
+ 
+anatomical
+ 
+structures
+ 
+(maxilla
+ 
+plus
+ 
+cranium,
+ 
+mandible,
+ 
+mandibular
+ 
+canal,
+ 
+temporomandibular
+ 
+joint,
+ 
+maxillary
+ 
+sinus
+ 
+,teeth
+ 
+,airway)
+ 
+in
+ 
+CBCT
+ 
+radiographs
+ 
+of
+ 
+permanent
+ 
+teeth
+ 
+in
+ 
+patients
+ 
+15
+ 
+years
+ 
+of
+ 
+age
+ 
+or
+ 
+older.
+ 
+This
+ 
+device
+ 
+provides
+ 
+additional
+ 
+information
+ 
+for
+ 
+licensed
+ 
+dental
+ 
+professionals
+ 
+in
+ 
+examining
+ 
+radiographs
+ 
+of
+ 
+patients’
+ 
+teeth.
+ 
+The
+ 
+device
+ 
+is
+ 
+not
+ 
+intended
+ 
+as
+ 
+a
+ 
+substitute
+ 
+for
+ 
+a
+ 
+complete
+ 
+examination
+ 
+by
+ 
+the
+ 
+dental
+ 
+professional
+ 
+or
+ 
+their
+ 
+clinical
+ 
+judgment
+ 
+that
+ 
+considers
+ 
+other
+ 
+relevant
+ 
+information
+ 
+from
+ 
+the
+ 
+patient's
+ 
+history
+ 
+or
+ 
+actual
+ 
+in-vivo
+ 
+clinical
+ 
+assessment.
+ 
+Final
+ 
+diagnoses
+ 
+and
+ 
+patient
+ 
+treatment
+ 
+plan
+ 
+are
+ 
+the
+ 
+responsibility
+ 
+of
+ 
+the
+ 
+dental
+ 
+professional.
+ 
+ 
+ 
+Technological
+ 
+Comparison
+ 
+ 
+The
+ 
+proposed
+ 
+VELMENI
+ 
+for
+ 
+DENTISTS
+ 
+(V4D)
+ 
+3D
+ 
+ 
+device
+ 
+is
+ 
+substantially
+ 
+equivalent
+ 
+to
+ 
+the
+ 
+primary
+ 
+predicate
+ 
+device;
+ 
+Pearl
+ 
+Second
+ 
+Opinion
+ 
+3D
+ 
+K243989
+ 
+ 
+ 
+ 
+Specification
+ 
+Proposed
+ 
+Device
+ 
+Predicate
+ 
+Device
+ 
+Manufacturer
+ 
+Velmeni
+ 
+Inc.
+ 
+Pearl
+ 
+Classification
+ 
+892.2050
+ 
+892.2050
+ 
+Product
+ 
+Code
+ 
+QIH
+ 
+QIH
+ 
+Image
+ 
+Modality
+ 
+CBCT
+ 
+Radiograph
+ 
+Radiograph
+ 
+Intended
+ 
+Body
+ 
+Part
+ 
+Dental
+ 
+Structures
+ 
+ 
+Dental
+ 
+Structures
+ 
+End
+ 
+User
+ 
+Licensed
+ 
+dental
+ 
+professional
+ 
+Dentist
+ 
+Patient
+ 
+Population
+ 
+Patients
+ 
+requiring
+ 
+dental
+ 
+services,
+ 
+all
+ 
+sexes,
+ 
+at
+ 
+least
+ 
+15
+ 
+years
+ 
+of
+ 
+age,
+ 
+and
+ 
+with
+ 
+permanent
+ 
+dentition.
+ 
+Patients
+ 
+12
+ 
+years
+ 
+of
+ 
+age
+ 
+or
+ 
+older
+ 
+ 
+Prescription
+ 
+or
+ 
+OTC
+ 
+Prescription
+ 
+Use
+ 
+Prescription
+ 
+Use
+ 
+ 
+Reader
+ 
+Workflow
+ 
+Concurrent
+ 
+Read
+ 
+Concurrent
+ 
+Read
+ 
+Image
+ 
+Source
+ 
+DICOM
+ 
+Unknown
+ 
+Cloud
+ 
+Hosted
+ 
+Software
+ 
+Yes
+ 
+Yes
+ 
+Platform
+ 
+Web
+ 
+–
+ 
+Safari,
+ 
+Edge,
+ 
+Chrome,
+ 
+Firefox
+ 
+Web
+ 
+User
+ 
+Interface
+ 
+Mouse,
+ 
+keyboard,
+ 
+trackpad
+ 
+Mouse,
+ 
+keyboard,
+ 
+trackpad
+ 
+Data
+ 
+Input
+ 
+CBCT
+ 
+Images
+ 
+CBCT
+ 
+Images
+ 
+Data
+ 
+Output
+ 
+AI
+ 
+Detection
+ 
+of
+ 
+non-pathological
+ 
+(maxilla,
+ 
+mandible,
+ 
+mandibular
+ 
+canal,
+ 
+temporomandibular
+ 
+joint,
+ 
+maxillary
+ 
+sinus,
+ 
+teeth,
+ 
+airway),
+ 
+ 
+Panoramic
+ 
+viewer
+ 
+for
+ 
+automated
+ 
+dental
+ 
+arch
+ 
+and
+ 
+SLT
+ 
+file
+ 
+export
+ 
+“For
+ 
+educational
+ 
+and
+ 
+research
+ 
+purposes
+ 
+only;
+ 
+not
+ 
+intended
+ 
+for
+ 
+3D
+ 
+printing
+ 
+or
+ 
+treatment
+ 
+planning”
+ 
+Dentition,
+ 
+Maxilla,
+ 
+Mandible,
+ 
+Inferior
+ 
+Alveolar
+ 
+Canal
+ 
+and
+ 
+Mental
+ 
+Foramen
+ 
+(IAN),
+ 
+Maxillary
+ 
+Sinus,
+ 
+Nasal
+ 
+space,
+ 
+and
+ 
+airway
+ 
+Segmentation
+ 
+Segmentation
+ 
+on
+ 
+radiograph
+ 
+ 
+Segmentation
+ 
+on
+ 
+radiograph
+ 
+ 
+Tooth
+ 
+Number
+ 
+Module
+ 
+Yes
+ 
+No
+ 
+Model
+ 
+(Algorithm
+ 
+Type)
+ 
+Machine
+ 
+Learning
+ 
+Computer
+ 
+vision
+ 
+and
+ 
+Machine
+ 
+Learning
+ 
+ 
+ 
+ 
+ 
+Performance Data 
+Software Verification and Validation Tests: 
+Software verification and validation testing were conducted, and documentation was provided as 
+recommended by FDA’s Guidance for Industry and FDA Staff, “Content of Premarket Submission for 
+Device Software Functions.” Verification of the software was conducted to ensure that the product 
+works as designed. Validation was conducted to validate the design and the performance of the 
+device to meet user needs and intended uses. VELMENI for DENTISTS (V4D) 3D passed all 
+verification and validation software tests.  
+Bench Testing: 
+The standalone analysis evaluating segmentation and correct labeling demonstrated the Velmeni 3D 
+CBCT algorithm performance. 127 de-identified digital images were collected from 4 separate US 
+dental offices representative of the general population. The data collected had representation from 3 
+manufacturers(INSTRUMENTARIUM DENTAL, Planmeca and Sirona) with 20 or more cases, 
+constituting 87% of the test cases. A subgroup analysis was performed that included the following 
+categories: scanner type, sex, and age categories (≤40, 41-64, >64 and 15-21, 22-49, and >= 50).  
+Based upon the bench testing performed it was determined that the proposed device performed 
+similarly to the predicate 
+Table 1 Mean DICE and Sensitivity for V4D Software - Airway, Canal, Mandible, Maxilla, Sinus 
+and TMJ 
+Assessment DICE Mean Sensitivity(95% CI) 
+Airway 0.968 (95% CI: 0.96, 0.974) 99.2%(97.6%, 100.0%) 
+Mandibular canal (Canal)  0.914 (95% CI: 0.903, 0.924) 96.8%(93.5%, 99.2%) 
+Mandible 0.952 (95% CI: 0.949, 0.956) 100.0%(97.1%, 100.0%) 
+Maxilla plus cranium (Maxilla) 0.951 (95% CI: 0.947, 0.955) 100.0%(97.1%, 100.0%) 
+Maxillary Sinus (Sinus) 0.96 (95% CI: 0.9, 0.9) 100.0%(97.1%, 100.0%) 
+Temporomandibular joint (TMJ) 0.950 (95% CI: 0.937, 0.961) 96.9%(94.2%, 99.1%) 
+Table 2 Mean DICE,Sensitivity & Specificity  for V4D Software - Teeth 
+Assessment DICE Mean Sensitivity(95% CI) Specificity(95% CI) 
+Teeth  0.957 (95% CI: 0.952, 0.962) 96.9%(95.8%, 98.0%) 99.4%(98.7%, 99.9%) 
+Teeth 
+(imputing  0 
+for missed 
+teeth*) 
+0.944 (95% CI: 0.935, 0.953) - - 
+*This includes  a small number of teeth (1.3% of all teeth) not identified by the algorithm but indicated by the ground truth which were imputed as 0 for the DICE analysis . 
+Table 3 Tooth Labeling Accuracy for V4D Software 
+Assessment Accuracy(95% CI) 
+Overall Correct Tooth Labeling 98.6%(97.9%, 99.1%) 
+Images with 100% Overall Correct Tooth labeling 77.0%(69.0%, 84.1%) 
+Conclusion 
+Both the predicate device and the proposed VELMENI for DENTISTS (V4D) 3D device share the 
+same intended purpose. Despite minor technological differences, these differences in technological 
+features do not raise concerns regarding safety or effectiveness. Following the information reviewed 
+as part of this 510k, it can be concluded that the VELMENI for DENTISTS (V4D) 3D is substantially 
+equivalent to the predicate device. 

@@ -1,0 +1,62 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Radiology, Jinling Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu Province, 210002, China.",
+   "Department of Radiology, Jinling Clinical Medical College, Nanjing Medical University, Nanjing, Jiangsu Province, 210002, China.",
+   "Shanghai United Imaging Medical Technology Group Co., Ltd., Shanghai 201807, China.",
+   "Department of Radiology, Jinling Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu Province, 210002, China.",
+   "Department of Radiology, Jinling Hospital, Affiliated Hospital of Medical School, Nanjing University, Nanjing, Jiangsu Province, 210002, China."
+  ],
+  "authors": [
+   "Wang X",
+   "Zeng X",
+   "Guo J",
+   "Shi Z",
+   "Hu B",
+   "Lu L"
+  ],
+  "doi": "10.1177/0271678X261499068",
+  "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42876153",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "\\bffr",
+   "atheroscler",
+   "stenos",
+   "ischemi",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 10
+ },
+ "published": "2026-10-14",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism. Wang X, Zeng X, Guo J, Shi Z, Hu B, Lu L. The role of CT-derived fractional flow reserve (CT-FFR) in cerebrovascular disease remains undefined. This study validated the diagnostic and prognostic value of an on-site CT-FFR in symptomatic intracranial atherosclerotic stenosis (sICAS) patients. This retrospective study enrolled sICAS patients with 30 - 99% stenosis confirmed by CTA, divided into two substudies. The diagnostic performance study included 259 patients undergoing CTA and CT perfusion (CTP) or four-dimensional CTA (CTP as reference standard). In prognosis study, 452 patients with at least 1-year follow-up were included. Computational fluid dynamics (CFD) model was used to measure CT-FFR. Diagnostic performance was assessed by receiver-operating characteristic (ROC) curves, and predictive value by Cox regression analysis. The diagnostic performance of CT-FFR was significantly higher than diameter stenosis (DS) on both per-patient (P = 0.009) and per-lesion (P = 0.004) basis. And the cut-off value of CT-FFR diagnosing cerebral hypoperfusion was 0.80. 15.0% (68 / 452) patients experienced recurrent ischemic events during the median 24 (17-33) months follow-up. CT-FFR provided incremental prognostic value beyond traditional cardiovascular risks plus DS (AUC = 0.797 vs 0.716, P < 0.001). This on-site CT-FFR can serve as a valuable tool for diagnosis and risk stratification in sICAS patients.",
+ "title": "EXPRESS: Diagnostic and prognostic value of on-site CT-derived fractional flow reserve in intracranial atherosclerotic stenosis.",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Diagnostic and prognostic value of on-site CT-FFR applied to intracranial atherosclerotic stenosis.",
+  "tags": [
+   "evidence",
+   "ct-ffr",
+   "neuro"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "CT-FFR methods migrating to cerebrovascular use; peripheral."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42876153/"
+}

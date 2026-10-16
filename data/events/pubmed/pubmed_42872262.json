@@ -1,0 +1,67 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Shandong First Medical University, Shandong Academy of Medical Sciences, Jinan, Shandong Province, China.",
+   "Department of Radiology, Central Hospital Affiliated to Shandong First Medical University, Jinan, Shandong Province, China.",
+   "Department of Medical Imaging, Shandong Second Medical University, Weifang, Shandong Province, China.",
+   "Department of Cardiology, Central Hospital Affiliated to Shandong First Medical University, Jinan, Shandong Province, China.",
+   "Department of Radiology, Central Hospital Affiliated to Shandong First Medical University, Jinan, Shandong Province, China."
+  ],
+  "authors": [
+   "Li T",
+   "Xu X",
+   "Hu K",
+   "Li K",
+   "Sun X",
+   "Su G"
+  ],
+  "doi": "10.4103/jrms.jrms_1200_25",
+  "journal": "Journal of research in medical sciences : the official journal of Isfahan University of Medical Sciences",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42872262",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b",
+   "algorithm",
+   "software",
+   "automat"
+  ],
+  "cardiac": [
+   "coronar",
+   "calcium scor",
+   "stenos"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 11
+ },
+ "published": "2026-09-23",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Journal of research in medical sciences : the official journal of Isfahan University of Medical Sciences. Li T, Xu X, Hu K, Li K, Sun X, Su G. To compare the accuracy of coronary artery calcium scores (CACSs) automatically measured by two artificial intelligence (AI) systems on nonelectrocardiogram (ECG)-gated chest computed tomography (CT) and to investigate the relationship between CACS and the degree of coronary artery stenosis. A retrospective study was conducted on 182 patients who underwent both ECG-gated Coronary computed tomography angiography (CTA) and non-ECG-gated chest CT. Images from all patients were processed using postprocessing software and two AI systems (Software A/B). The manually measured CACS by experienced physicians using ECG-gated Coronary CTA was used as the gold standard. The agreement between two AI systems and the gold standard was assessed using the intraclass correlation coefficient (ICC) and Bland-Altman analysis. In addition, Spearman's correlation analysis was performed to evaluate the relationship between CACS and the degree of coronary artery stenosis. Both AI systems demonstrated high ICCs for CACS measurement (0.90, 95% confidence interval [CI]: 0.871-0.926 for Software A; 0.96, 95% CI: 0.943-0.968 for Software B). The mean differences (95% limits of agreement) were 23.59 ± 442.35 for Software A and -80.35 ± 292.99 for Software B. Both systems showed good agreement in CACS measurement, with Software B exhibiting higher accuracy than Software A. Spearman's correlation analysis revealed weak-to-moderate positive correlations between CACS measured by different methods and the degree of coronary artery stenosis (r = 0.151-0.560, P < 0.05) across all coronary branches. The two AI-based CACS systems, when applied to nongated chest CT, demonstrated consistency with manually measured CACS from ECG-gated coronary CTA. Software B showed superior accuracy compared to Software A. The correlation between CACS and the degree of vascular stenosis is influenced by vascular remodeling patterns, with positive remodeling reducing its consistency. Therefore, a comprehensive assessment of vascular stenosis should integrate vascular remodeling patterns and other diagnostic indicators.",
+ "title": "Evaluation of different artificial intelligence-based coronary artery calcium scoring algorithms in nongated chest computed tomography.",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 4,
+  "summary": "Comparison of two AI coronary calcium scoring systems on non-gated chest CT and their relation to stenosis degree (J Res Med Sci).",
+  "tags": [
+   "evidence",
+   "cac",
+   "opportunistic",
+   "non-gated"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Opportunistic CAC on non-gated CT is a growing funnel into downstream CCTA and plaque analysis."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42872262/"
+}

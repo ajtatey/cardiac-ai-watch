@@ -1,0 +1,70 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Medical Imaging, Hebei Cangzhou Hospital of Integrated Traditional Chinese and Western Medicine, Cangzhou, Hebei, China.",
+   "Department of Neurology, Hebei Cangzhou Hospital of Integrated Traditional Chinese and Western Medicine, Cangzhou, Hebei, China.",
+   "Department of Cardiology, Cangzhou People's Hospital, Cangzhou, Hebei, China.",
+   "Department of Ultrasound, Cangzhou People's Hospital, Cangzhou, Hebei, China.",
+   "Department of Cardiology, Cangzhou People's Hospital, Cangzhou, Hebei, China."
+  ],
+  "authors": [
+   "Chen Z",
+   "Zhao J",
+   "Liu Y",
+   "Ma Y",
+   "Yin S",
+   "Bai C"
+  ],
+  "doi": "10.3389/fcvm.2026.1979906",
+  "journal": "Frontiers in cardiovascular medicine",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42876457",
+ "prefilter": {
+  "ai": [
+   "quantif"
+  ],
+  "cardiac": [
+   "coronar",
+   "ccta",
+   "plaque",
+   "atheroscler",
+   "pericoronary",
+   "cardiovascular"
+  ],
+  "companies": [
+   "caristo"
+  ],
+  "keep": true,
+  "score": 18
+ },
+ "published": "2026-09-30",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Frontiers in cardiovascular medicine. Chen Z, Zhao J, Liu Y, Ma Y, Yin S, Bai C. To investigate the association between lesion-specific fat attenuation index (FAI) derived from coronary computed tomography angiography (CCTA) and CCTA-defined high-risk plaque (HRP). A total of 560 patients undergoing CCTA for the first time who had at least one evaluable coronary atherosclerotic lesion were consecutively included. One target lesion was selected for each patient. Four CCTA-derived high-risk plaque features were assessed, including low-attenuation plaque, positive remodeling, spotty calcification, and the napkin-ring sign. Lesions exhibiting at least two of these features were classified as CCTA-defined HRP, and lesion-specific FAI was quantified from the pericoronary adipose tissue surrounding the target lesion and expressed in Hounsfield units (HU). Binary logistic regression was used to evaluate the association between lesion-specific FAI and CCTA-defined HRP. Restricted cubic spline analysis was performed to characterize the shape of the association, and subgroup and sensitivity analyses were conducted to evaluate the robustness of the findings. Lesion-specific FAI was significantly higher in patients with CCTA-defined HRP than in those without HRP (-76.5 ± 4.8 HU vs. -81.0 ± 4.8 HU), with a mean difference of 4.47 HU [95% confidence interval (CI), 3.54-5.41 HU, P < 0.001] and a Cohen's d of 0.93. In the fully adjusted model, each 5-HU increase in lesion-specific FAI was associated with higher odds of CCTA-defined HRP [odds ratio (OR), 2.03; 95% CI, 1.52-2.69; P < 0.001]. Restricted cubic spline analysis demonstrated a significant overall association between lesion-specific FAI and CCTA-defined HRP (P for overall <0.001), with no significant evidence of nonlinearity (P for nonlinearity = 0.702). The association remained consistent across the examined subgroups, with no significant interactions, and the findings remained robust in sensitivity analyses. Higher lesion-specific FAI was independently associated with CCTA-defined HRP, with higher odds of HRP across increasing FAI values. The association remained consistent across subgroup and sensitivity analyses. Lesion-specific FAI may provide complementary information for characterizing CCTA-defined high-risk plaque and assessing the local perilesional environment. Further prospective studies with invasive imaging or longitudinal clinical outcomes are needed to determine its potential incremental value.",
+ "title": "Association between lesion-specific fat attenuation index and high-risk plaque on coronary computed tomography angiography.",
+ "triage": {
+  "companies": [
+   "caristo"
+  ],
+  "priority": "P2",
+  "relevance": 4,
+  "summary": "560-patient study associating lesion-specific fat attenuation index with CCTA-defined high-risk plaque (Frontiers in Cardiovascular Medicine).",
+  "tags": [
+   "evidence",
+   "ccta",
+   "pericoronary",
+   "high-risk-plaque"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Links inflammation imaging to plaque phenotype; relevant to whether Cleerly should offer a pericoronary metric."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42876457/"
+}

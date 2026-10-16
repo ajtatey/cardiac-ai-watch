@@ -1,0 +1,68 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Emergency Department, Nepean Hospital, Sydney, Australia.",
+   "The University of Sydney, Sydney, New South Wales, Australia.",
+   "Emergency Department, Blacktown Mt Druitt Hospital, Sydney, Australia.",
+   "Western Sydney University, Sydney, Australia.",
+   "Emergency Department, Nepean Hospital, Sydney, Australia."
+  ],
+  "authors": [
+   "Manivel V",
+   "Hession M",
+   "Mirmiran B",
+   "Feeny P",
+   "Pandithage N",
+   "Erfani N"
+  ],
+  "doi": "10.1111/1742-6723.70364",
+  "journal": "Emergency medicine Australasia : EMA",
+  "pub_types": [
+   "Journal Article",
+   "Multicenter Study"
+  ]
+ },
+ "id": "pubmed:42855990",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b",
+   "algorithm",
+   "quantif"
+  ],
+  "cardiac": [
+   "echocardiog",
+   "stenos",
+   "ventric"
+  ],
+  "companies": [
+   "us2ai"
+  ],
+  "keep": true,
+  "score": 15
+ },
+ "published": "2026-01-01",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Emergency medicine Australasia : EMA. Manivel V, Hession M, Mirmiran B, Feeny P, Pandithage N, Erfani N. To assess the agreement between artificial intelligence (AI) interpretation and expert emergency physician sonologist review of echocardiograms performed in the Emergency Department (ED). Retrospective multicentre agreement study in four Australian EDs. A total of 195 echocardiograms (2016-2023) underwent three-stage adjudicated human expert review. Human reports were compared with us2.ai reports. Agreement across 10 validated parameters was reported as percentage exact match with 95% confidence intervals and kappa under two pre-specified tiers: Guideline Compliant (GC; ASE/EACVI multi-view criteria) and Pragmatic (PR; any available measurement). Reference standard reliability was quantified. Pooled agreement was 76% at both tiers (GC n = 875; PR n = 1323); AI returned an interpretation in 46% of evaluations at GC and 70% at PR. Four structural parameters reached 78%-87%: right atrial size 87% (κ = 0.62), right ventricular (RV) contractility 83% (κ = 0.42), left ventricular (LV) size 83% (κ = 0.52) and RV size 78% (κ = 0.37). Binary LV systolic agreement was 79% GC and 83% PR. Expert reviewers agreed on 85% of interpretations. Pericardial effusion, aortic regurgitation and mitral stenosis, present in 7%-20% of patients, are not reported in the current us2.ai algorithm. AI agreed with expert review in about three-quarters of evaluations but provided a guideline-compliant interpretation in less than half; a pragmatic approach raised yield to 70% at the same agreement. The AI withheld classifications that experts could reach; its validated scope covers only part of what ED echocardiography must address, and reports did not mark unassessed parameters. This study reports agreement, not accuracy. For now, human expert review of AI reports is required.",
+ "title": "Artificial Intelligence Echocardiographic Interpretation in the Emergency Department: Agreement, Interpretation Yield and Reporting Scope.",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "Retrospective four-site Australian study of AI interpretation versus expert emergency physician sonologists on 195 ED echocardiograms (Emergency Medicine Australasia).",
+  "tags": [
+   "evidence",
+   "echo",
+   "emergency-medicine"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Adds to the point-of-care echo AI evidence base; not CCTA."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42855990/"
+}

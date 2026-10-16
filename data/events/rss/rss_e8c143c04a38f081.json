@@ -1,0 +1,45 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:06+00:00",
+ "extra": {
+  "feed": "MedTech Dive",
+  "publisher": "MedTech Dive",
+  "query": null
+ },
+ "id": "rss:e8c143c04a38f081",
+ "prefilter": {
+  "ai": [
+   "software"
+  ],
+  "cardiac": [],
+  "companies": [
+   "philips"
+  ],
+  "keep": true,
+  "score": 6
+ },
+ "published": "2026-10-12",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "A software issue can delay use of the Lumify diagnostic ultrasound system in environments without access to Wi-Fi or cellular signal.",
+ "title": "Philips updates instructions for ultrasound system linked to 4 deaths",
+ "triage": {
+  "companies": [
+   "philips"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "MedTech Dive coverage of the Philips Lumify instructions update.",
+  "tags": [
+   "safety",
+   "ultrasound",
+   "recall"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Duplicate."
+ },
+ "url": "https://www.medtechdive.com/news/philips-updates-instructions-for-ultrasound-system-linked-to-4-deaths/832692/"
+}

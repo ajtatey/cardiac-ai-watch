@@ -1,0 +1,42 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:17+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "Stock Titan",
+  "query": "HeartFlow"
+ },
+ "id": "rss:2c2f75dcb178b76a",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "An officer and director proposes selling 38,900 Heartflow (NASDAQ: HTFL) shares worth $1.93M. &nbsp;&nbsp; Stock Titan",
+ "title": "An officer and director proposes selling 38,900 Heartflow (NASDAQ: HTFL) shares worth $1.93M. - Stock Titan",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Stock Titan note on the proposed HeartFlow CEO sale.",
+  "tags": [
+   "financial",
+   "insider-sale"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Duplicate coverage."
+ },
+ "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcFQ5Y1hySk00NjJRR0pFNEVQd0NHbnBLdFIyMVA5aW1SY0pBb0lCZ0hybE9TVktXZVFRdFU3RGR1T1JocjgwZkpRWWZlMUwtUU91a01oZkgtQnFvMHpYLURpMjNMNXFpbC1RdnF0TGZaVkdNZlBuQnZpY0Z5R3BSTm44UlRGQVp6SllObVpHV3ZRMTQz?oc=5"
+}

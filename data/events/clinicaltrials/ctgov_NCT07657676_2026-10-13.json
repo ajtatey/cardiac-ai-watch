@@ -1,0 +1,60 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "Obesity & Overweight",
+   "Coronary Heart Disease"
+  ],
+  "interventions": [
+   "Mazdutide",
+   "Placebo"
+  ],
+  "nct_id": "NCT07657676",
+  "new_registration": false,
+  "sponsor": "China National Center for Cardiovascular Diseases",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT07657676:2026-10-13",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "coronar",
+   "\\bheart\\b",
+   "ccta",
+   "plaque",
+   "atheroscler",
+   "pericoronary",
+   "cardiovascular"
+  ],
+  "companies": [
+   "caristo"
+  ],
+  "keep": true,
+  "score": 19
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status RECRUITING. Sponsor: China National Center for Cardiovascular Diseases. Conditions: Obesity & Overweight, Coronary Heart Disease. Interventions: Mazdutide, Placebo. Type INTERVENTIONAL, enrollment 116. Start 2026-09-14, primary completion 2027-12-31. This multicenter, randomized, double-blind, placebo-controlled trial aims to evaluate the effect of mazdutide, a dual GLP-1/GCG receptor agonist, on coronary plaque progression assessed by coronary computed tomography angiography (CCTA) in patients with coronary atherosclerosis and overweight or obesity. The primary endpoint is the change in total non-calcified plaque volume (NCPV) from baseline to week 52. Secondary endpoints include changes in pericoronary adipose tissue inflammation (fat attenuation index, FAI), plaque composition, metabolic parameters, inflammatory biomarkers, and clinical outcomes. A substudy will include 18F-NaF PET/CT imaging.",
+ "title": "Effect of Mazdutide on Coronary Plaque in Patients With Coronary Atherosclerosis and Overweight or Obesity (NCT07657676)",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "Chinese randomized trial of mazdutide on coronary plaque in 116 overweight patients with coronary atherosclerosis, recruiting.",
+  "tags": [
+   "trial",
+   "ccta",
+   "plaque",
+   "pharma",
+   "glp-1"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "GLP-1-class plaque trials keep multiplying; each one needs a quantitative CCTA plaque read."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT07657676"
+}

@@ -1,0 +1,55 @@
+name: Collect, triage, alert
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"   # twice an hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cardiac-ai-watch-store
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Collect new events
+        run: python -m watch collect
+
+      - name: Triage (scripted path, only if ANTHROPIC_API_KEY is set)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m watch triage
+
+      - name: Email P0 alerts
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_TO: ${{ vars.EMAIL_TO }}
+        run: python -m watch alerts
+
+      - name: Refresh dossier tables
+        run: python -m watch knowledge
+
+      - name: Commit
+        run: |
+          git config user.name "cardiac-ai-watch[bot]"
+          git config user.email "cardiac-ai-watch@users.noreply.github.com"
+          git add data knowledge
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "collect: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1

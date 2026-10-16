@@ -1,0 +1,42 @@
+{
+ "alerted_at": null,
+ "category": "financial",
+ "collected_at": "2026-10-16T02:46:04+00:00",
+ "extra": {
+  "accession": "0001464521-26-000154",
+  "company": "heartflow",
+  "form": "4"
+ },
+ "id": "edgar:0001464521-26-000154",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-14",
+ "reported_in": "2026-10-15",
+ "source": "edgar",
+ "status": "triaged",
+ "summary": "SEC filing 4 by HeartFlow (CIK 0001464521). Items:",
+ "title": "HeartFlow filed 4: PRIMARY DOCUMENT",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "HeartFlow Form 4 filed 2026-10-14: CEO John Farquhar sold 38,900 shares (about $1.93M) under a trading plan, retaining 283,014 shares directly.",
+  "tags": [
+   "financial",
+   "insider-sale"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Routine 10b5-1 insider sale; no strategic signal on its own, but the first post-IPO CEO sales are worth logging in the HeartFlow dossier."
+ },
+ "url": "https://www.sec.gov/Archives/edgar/data/1464521/000146452126000154/xslF345X06/form4.xml"
+}

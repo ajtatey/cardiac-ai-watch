@@ -1,0 +1,42 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:17+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "Investing.com",
+  "query": "HeartFlow"
+ },
+ "id": "rss:281e96da68bab847",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-14",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "Heartflow CEO John Farquhar sells $1.93 million in stock &nbsp;&nbsp; Investing.com",
+ "title": "Heartflow CEO John Farquhar sells $1.93 million in stock - Investing.com",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Investing.com note on the HeartFlow CEO share sale.",
+  "tags": [
+   "financial",
+   "insider-sale"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Duplicate coverage of the Form 4."
+ },
+ "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEFyWmlCb3lyVHJsTUlFZERZV2V6cURiQ2tfQmdKb2htY3Z3Ym1PWWF4bUpWb0Y2R1lndUNVTV9qYzNGNVpNZVlFdnZnOHFWZVp4RHVzbUZsNEtFSVQ2enRWRDA4M28yTVlQbVhiVzlpZzJ3OEMyMExFaHlEanJUYjZWQ2ZLTW5PZmE2eUpHMUlEQTIwRjVLQlZsd1RLX1F4NXFrcUxza01CTXEzUDUzMThuWjR4d3Vrc3FN?oc=5"
+}

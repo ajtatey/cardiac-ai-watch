@@ -1,0 +1,453 @@
+De Novo Summary (DEN130045)  Page 1 
+ DE NOVO CLASSIFICATION REQUEST FOR  
+FFRCT V. 1.4 
+ 
+REGULATORY INFORMATION 
+ 
+FDA identifies this generic type of device as: 
+ 
+Coronary Physiologic Simulation Software Device – A coronary vascular physiologic 
+simulation software device is a prescription device that provides simulated functional 
+assessment of blood flow in the coronary vascular system using data extracted from 
+medical device imaging to solve algorithms and yield simulated metrics of physiologic 
+information (e.g., blood flow, coronary flow reserve, fractional flow reserve, myocardial 
+perfusion).  A coronary vascular physiologic simulation software device is intended to 
+generate results for use and review by a qualified clinician. 
+ 
+NEW REGULATION NUMBER:  870.1415 
+ 
+CLASSIFICATION:  II 
+ 
+PRODUCT CODE:  PJA 
+ 
+BACKGROUND 
+ 
+DEVICE NAME:  FFRCT V. 1.4 
+ 
+SUBMISSION NUMBER:  DEN130045 
+ 
+DATE OF DE NOVO:  November 6, 2013 
+ 
+CONTACT:  HeartFlow, Inc. 
+Mr. Dustin Michaels 
+Vice President Clinical, Quality & Regulatory 
+1400 Seaport Boulevard, Building B 
+Redwood City, CA 94063 
+ 
+REQUESTER’S RECOMMENDED CLASSIFICATION:  II 
+ 
+INDICATIONS FOR USE 
+ 
+HeartFlow FFRCT is a post-processing software for the clinical quantitative and 
+qualitative analysis of previously acquired Computed Tomography (CT) DICOM1 data 
+for clinically stable symptomatic patients with coronary artery disease. It provides FFRCT, 
+a mathematically derived quantity, computed from simulated pressure, velocity and blood 
+flow information obtained from a 3D computer model generated from static coronary CT 
+                                                 
+1 Digital Imaging and Communications in Medicine (standard for the communication and management of medical 
+imaging information and related data) 
+De Novo Summary (DEN130045)  Page 2 
+images.  FFRCT analysis is intended to support the functional evaluation of coronary 
+artery disease.  
+ 
+The results of this analysis are provided to support qualified clinicians to aid in the 
+evaluation and assessment of coronary arteries. The results of HeartFlow FFRCT are 
+intended to be used by qualified clinicians in conjunction with the patient’s clinical 
+history, symptoms, and other diagnostic tests, as well as the clinician’s professional 
+judgment. 
+ 
+The device is only for prescription use. 
+ 
+LIMITATIONS 
+ 
+The safety and effectiveness of the FFRCT analysis has not been evaluated for the 
+following populations: 
+1. Suspicion of acute coronary syndrome (where acute myocardial infarction or 
+unstable angina have not been ruled out) 
+2. Recent prior myocardial infarction within 30 days 
+3. Complex congenital heart disease 
+4. Prior coronary artery bypass graft (CABG) surgery 
+5. Patients with a Body Mass Index >35 
+6. Patients who require emergent procedures or have any evidence of ongoing 
+or active clinical instability, including acute chest pain (sudden onset), cardiogenic 
+shock, unstable blood pressure with systolic blood pressure <90 mmHg, severe 
+congestive heart failure (New York Heart Association [NYHA] III or IV) or acute 
+pulmonary edema 
+ 
+Due to the potential for artifacts in the CT data or degradation of CT data quality, the 
+safety and effectiveness of the FFRCT analysis has not been evaluated for the following 
+populations: 
+1. Patients with intracoronary metallic stents 
+2. Patients with prior pacemaker or internal defibrillator lead implantation 
+3. Patients with prosthetic heart valves 
+4. Patients with significant arrhythmias or tachycardia (uncontrolled by 
+medication) that would preclude CT acquisition 
+5. Coronary vessels with excessive calcification 
+ 
+FFRCT has been studied in patients with prior PCI but the results have only been validated 
+in vessels without metallic stents. 
+ 
+The diagnostic performance of FFRCT has been validated in patients who are candidates 
+for invasive coronary angiography based on clinical presentation and/or non-invasive 
+testing. 
+ 
+The performance of FFRCT has not been fully characterized in small vessels. Vessels 
+smaller than 1.8mm, determined from the static CT images, are grayed out and marked 
+De Novo Summary (DEN130045)  Page 3 
+“unavailable” on the FFRCT anatomy model. 
+ 
+FFRCT has been clinically validated using DICOM data acquired from the following CT 
+scanner manufacturers: Siemens, Toshiba, General Electric, and Phillips. FFRCT 
+performance using DICOM data acquired from scanners for which it has not been 
+clinically validated is unknown, and therefore safety and effectiveness of its use has not 
+been established. 
+ 
+FFRCT results may be adversely affected by the following: 
+1. Marginal quality of the submitted imaging data (motion, blooming, 
+misregistration, etc.) 
+2. Grossly incorrect brachial pressure (like cath measured FFR, FFRCT is somewhat 
+insensitive to pressure but wide discrepancies will effect the FFRCT results) 
+3. Regionalized or global myocardial dysfunction 
+4. Myocardial mass abnormalities (Hypertrophic right ventricle for example) 
+5. Abnormal patient physiology (e.g., severe congenital disease or excess 
+calcification) 
+ 
+FFRCT simulates maximal hyperemia, which results in vasodilation of the epicardial 
+coronary arteries. This condition is commonly induced using nitrates. Therefore, 
+HeartFlow recommends following SCCT guidelines for CCTA acquisition, which 
+recommends the use of sublingual nitrates at the time of image acquisition unless 
+contraindicated. Absence of nitrates during CCTA may adversely affect the results of the 
+FFRCT analysis. 
+ 
+FFRCT Results provision timeframes are contractually defined, results are subject to 
+delay. FFRCT should not be used for patients with unstable coronary syndromes, or in 
+patients where urgent and timely workup and evaluation is critical. 
+ 
+The specificity of FFRCT may decrease in patients with Agatston scores greater than1000. 
+ 
+Due to the possible variability in the FFRCT results, the results should be reviewed as one 
+of several clinical data points to be used in conjunction with the patient’s original CT 
+images, clinical history, symptoms and other diagnostic tests, as well as an appropriately 
+trained clinician’s clinical judgment, to evaluate the patient. 
+ 
+Qualitative anatomical information presented on the 3D/2D computer generated 
+anatomical models is for orientation purposes only. Quantitative lumen diameter is 
+representative of the geometric model and the accuracy is dependent on the quality of the 
+CT data provided. It does not represent artery diameter, and should not be used for 
+treatment decisions. 
+ 
+The FFRCT analysis process is dependent on the quality of the imaging data provided by 
+the ordering physician. In some cases, the image data quality will necessitate clarification 
+or instruction from the providing physician. FFRCT results may be affected by 
+assumptions needed to resolve anatomy in areas of uncertainty, whether provided by the 
+De Novo Summary (DEN130045)  Page 4 
+physician or made by HeartFlow case analysts. All assumptions used in the generation of 
+the HeartFlow FFRCT results will be listed in the PDF results in English. Certified 
+translation of case assumptions may be requested via email (care@heartflow.com) and 
+will take 5 – 7 business days. 
+ 
+FFRCT results represent patient conditions at the time of CT acquisition. The duration of 
+time and changes to patient health after CT acquisition must be assessed when 
+interpreting the FFRCT results. Clinical validation that supports FFRCT was limited to 
+subjects whose CT acquisition occurred within 60 days of invasive FFR (mean 18 +/- 13 
+days). 
+ 
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS AND 
+PRECAUTIONS. 
+ 
+DEVICE DESCRIPTION   
+ 
+FFRCT v1.4 is post-processing image analysis software developed for the clinical quantitative 
+and qualitative analysis of previously physician-acquired DICOM-compliant cardiac CT images 
+and data, to assess the anatomy and function of the coronary arteries. The software displays the 
+resulting coronary anatomy combined with functional information using graphics and text, 
+including a computed and derived quantification of blood flow, termed FFRCT to aid the clinician 
+in the assessment of coronary artery disease.   
+ 
+The HeartFlow FFRCT software is housed at Heart Flow, Inc.  The health care provider 
+electronically sends the patient’s CT scan data to HeartFlow, Inc. where a 3D computer model of 
+the coronary arteries is developed and simulates blood flow in the models using computational 
+fluid dynamics.  A resulting report is electronically sent to the physician with the estimated 
+fractional flow reserve (FFR) values (called FFRCT values) displayed as color images of the 
+patient’s heart (Figure 1) and an associated color interpretation table (Table 1)Table 1: Error 
+from the HFNXT Study Population.  Not indicative of all patient populations.  Please refer to the 
+summary of clinical data to determine the population in which the FFRCT technology has been 
+validated. indicating the error associated with each measurement range in the HFNXT clinical 
+study. 
+De Novo Summary (DEN130045)  Page 5 
+ 
+Figure 1: Example color mapped diagram of coronary vessels from FFRCT Results 
+ 
+Table 1: Error from the HFNXT Study Population.  Not indicative of all patient populations.  Please refer to 
+the summary of clinical data to determine the population in which the FFRCT technology has been validated. 
+ 
+ 
+See the FFRCT v1.4 Instructions for Use for further details. 
+ 
+SUMMARY OF NONCLINICAL/BENCH STUDIES 
+ 
+The following nonclinical testing was presented to demonstrate the appropriate functionality of 
+the software and the basis of the computational methods.  Some testing (e.g., biocompatibility, 
+shelf life, etc.) was not applicable for this software only device. 
+ 
+SOFTWARE  
+ 
+De Novo Summary (DEN130045)  Page 6 
+The sponsor provided detailed documentation of their proprietary software based on a 
+moderate Level of Concern (LOC) according to the FDA guidance document “Guidance 
+for the Content of Premarket Submissions for Software Contained in Medical Devices”.  
+The documentation included a detailed description of the computational modeling 
+processes and algorithms used to develop the 3D model of the coronary anatomy.  
+ 
+A comprehensive risk analysis was provided for the software with detailed description of 
+the hazards, their causes and severity as well as acceptable methods for control of the 
+identified hazards.  They provided a description, with test protocols including pass/fail 
+criteria and report of results, of acceptable verification and validation activities at the 
+unit, integration and system level.  A justification was provided for the use of CT scans 
+from various image acquisition systems by the software.  The expected impact of various 
+hardware features on performance was assessed and minimum specifications for 
+acceptable CT images for analysis were specified.  Performance stratified by scanner 
+models used in the clinical study was also reported to help demonstrate that essential 
+scanner features and characteristics did not significantly impact performance.  Stress 
+testing and repeatability testing were also performed. 
+ 
+The cybersecurity considerations of data confidentiality, data integrity, data availability, 
+denial of service attacks, and malware were adequately addressed using platform 
+controls, application controls and procedure controls and evidence was provided that the 
+controls perform as intended.  Risks related to failure of various software components 
+and their potential impact on patient reports and operator failures were also adequately 
+addressed in the risk analysis.  
+ 
+Additional verification and validation testing was provided to demonstrate the 
+functionality and accuracy of specific modules and components such as automatic and 
+semi-automatic image analysis and segmentation tools.  This testing assessed accuracy 
+compared to ground truth data sets.  Several tests also assessed reproducibility. 
+ 
+PERFORMANCE TESTING – BENCH 
+ 
+Some pre-clinical bench studies of the computational methods underlying HeartFlow’s 
+FFRCT technology were referenced in the submission.  These studies characterized the 
+solver technology during development that was ultimately licensed to HeartFlow.  Tests 
+included comparing computational flow velocity solutions to Laser Doppler Anemometry 
+and phase-contrast MRI flow data in an in vitro model under steady-state and pulsatile 
+flow conditions.  This testing provided quantitative evidence of the validity of the 
+computational modeling measurement methods used by the device. 
+ 
+PERFORMANCE TESTING – ANIMAL  
+ 
+Several prior published in vivo animal model validation studies were referenced to 
+support the validity of the technological methods used by the device.  However, because 
+animal models do not permit evaluation of the technology in relevant anatomic or 
+physiologic models reflecting diseased human coronary vessels, animal testing was 
+De Novo Summary (DEN130045)  Page 7 
+deemed insufficient to further support clinical utility of the HeartFlow FFRCT technology. 
+ 
+HUMAN FACTORS TESTING 
+ 
+Two human factors validation tests were performed: one assessing customers and the 
+other assessing software operators.  Customer human factors testing assessed the process 
+of submitting image data and downloading results.  The results of the testing found 
+acceptable user satisfaction for the usability objectives.  No exceptions to safe behavior 
+(as derived from the risk analysis) were noted during the testing.  Operator testing 
+assessed the ability of analysts to consistently and effectively use the software for each 
+individual procedure required for developing accurate output reports.  This testing found 
+the software to be adequately safe and effective for use by the intended internal users for 
+case processing and quality control with acceptable user satisfaction.  Acceptable 
+mitigations were also identified for user errors and other observations during both of the 
+studies. 
+ 
+De Novo Summary (DEN130045)  Page 8 
+CONSISTENCY (REPRODUCIBILITY/ REPEATABILITY) EVALUATION 
+ 
+Reproducibility (variability between case analysts) and repeatability (variability between 
+results from the same case analyst) of measurements were both assessed using prior 
+clinical CT scans under challenge conditions (including worst-case image quality, 
+minimal case analyst training and experience, and disease burden) as well as normal 
+controlled conditions.  Resulting variability was found to be acceptable. 
+ 
+SUMMARY OF CLINICAL INFORMATION 
+ 
+HeartFlow conducted three clinical studies involving validation of FFRCT. Two of these studies, 
+Discover-FLOW and DeFACTO, were conducted with prior versions of the software v1.0 and 
+v1.2, not commercially available in the United States. The DeFACTO study provided supportive 
+data for the de novo submission.  The final study, HeartFlowNXT (HFNXT), is the basis for the 
+clinical validation of the current version 1.4.   
+ 
+DeFACTO Study 
+DeFACTO (Determination of Fractional Flow Reserve by Anatomic Computed Tomographic 
+Angiography Study) (NCT01233518) was a prospective, international, multicenter study 
+designed to assess the diagnostic performance of FFRCT for diagnosis of hemodynamically 
+significant coronary artery stenosis. The study involved 252 stable patients with suspected or 
+known CAD from 17 centers in 5 countries who underwent CT, invasive coronary angiography 
+(ICA), FFR and FFRCT between October 2010, and October 2011. All CT, FFR and angiographic 
+data were interpreted in a blinded fashion by independent core laboratories. Accuracy of FFRCT 
+for diagnosis of ischemia was compared with an invasive FFR reference standard. Ischemia was 
+defined by an FFR or FFRCT ≤0.80 while anatomically obstructive CAD was defined by visual 
+stenosis of ≥50% on CT and ICA.  
+ 
+The primary study endpoint was improvement in per-patient diagnostic accuracy (sensitivity and 
+specificity) such that the lower boundary of the one-sided 95% confidence interval exceeded 
+70%.  The results of this study were published by Min, et.al.2  Because the DeFACTO trial 
+assessed performance of a previous version of the device, it provided supportive data but was not 
+central to the review of FFRCT v. 1.4. 
+ 
+HeartFlowNXT  
+HeartFlow analysis of coronary blood flow using coronary CT angiography: NeXt sTeps (the 
+HeartFlowNXT or HFNXT study) (NCT01757678) was a prospective, multicenter, non-
+randomized study. The overall objective of the HFNXT study was to determine the diagnostic 
+performance of FFRCT, as compared to cCTA alone (according to Society of Cardiovascular 
+Computed Tomography (SCCT) guidelines and within 60 days of ICA), for the non-invasive 
+determination of the presence of hemodynamically significant coronary lesions using direct 
+measurement of FFR (≤0.80) during cardiac catheterization as the reference standard. The study 
+reflected improvements in FFRCT technology (software version v1.4) and a focus on quantitative 
+image-quality analysis.  
+                                                 
+2 Min, J.K., et. al., Diagnostic accuracy of fractional flow reserve from anatomic CT angiography. JAMA, 2012. 
+308(12): p. 1237-45. 
+De Novo Summary (DEN130045)  Page 9 
+ 
+The study was conducted at 11 sites in 8 countries in Canada, Europe and Asia from September 
+2012 to August 2013, with 276 subjects enrolled. A total of 254 adult subjects with known or 
+suspected coronary artery disease who were scheduled for clinically indicated invasive coronary 
+angiography comprised the intention-to-diagnose (ITD) population. Subjects had an overall 
+mean age of 63.7 years and 63.8% were men. Similar to many interventional cardiology trials, 
+few minority patients were enrolled in HFNXT.  Only 1.2% of patients were Hispanic and there 
+were no Black patients.  Because higher calcium scores could be expected among these patients 
+due to higher incidence of high body mass index (BMI), hypertension and diabetes, FFRCT 
+performance across calcium scores was compared that in US patients in the DeFACTO study 
+(comprised with 11% Hispanic and 4% Black patients).  Performance was maintained at all 
+levels of calcium scores below 1000. No significant differences in diagnostic accuracy were 
+observed in subjects with or without high BMI, hypertension, or diabetes. 
+ 
+A total of 22.8% of patients in the trial had diabetes mellitus, 68.5% had hypertension, 78.7% 
+had hyperlipidemia, 57.1% were current or former smokers. Also, 77.6% presented with angina 
+in the 30 days prior to enrollment; 77.7% of subjects with angina had stable angina and 22.3% 
+had unstable angina. Only 2% had documented prior history of myocardial infarction and no 
+patients had renal dysfunction, defined as creatinine >1.5 mg/dL. The mean body mass index for 
+enrolled subjects was 25.6 ± 3.7 kg/m2.  Left ventricular ejection fraction was reported for 76% 
+of the enrolled subjects with a mean value of 61.8%. The time from the cCTA scan to the ICA 
+procedure was between 1 to 30 days in 87% of the ITD patients with a mean of 18.1 days. 
+Sublingual or intravenous nitrates were administered in 99.6% of subjects undergoing coronary 
+artery CT scanning. In 78% of the subjects beta blockers were administered to reduce heart rate 
+prior to scan. The mean calcium score for ITD subjects was 302 (±468) Agatston units. A 
+calcium score was reported for 84.3% of subjects, and of these, 25.7% had a calcium score > 400 
+Agatston units. 
+ 
+Direct comparison of invasive FFR and FFRCT was performed in 484 vessels. At least one 
+invasive FFR measurement was collected in all ITD subjects with an average of 1.9 
+measurements per subject. All invasive FFR data was reviewed by an independent FFR/QCA 
+core laboratory. 
+ 
+The primary endpoint was the per-vessel sensitivity and specificity of FFRCT to detect 
+hemodynamically significant obstruction when FFR was used as the reference standard. The pre-
+specified target goals identified by the sponsor for sensitivity and specificity were 65% and 55%, 
+respectively.  As this study was conducted OUS, these target goals were not agreed upon by the 
+FDA. 
+ 
+Primary endpoint success required both sensitivity and specificity hypotheses to be met. The per-
+vessel sensitivity of FFRCT in the ITD population was 83.5% with a lower one-sided 95% CI of 
+75.3%. The per-vessel specificity of FFRCT in the ITD population was 85.8% with a lower one-
+sided 95% CI of 81.5%. Both of the lower one-sided confidence limits for sensitivity and 
+specificity were significantly above the pre-specified target goals of 65% and 55%, respectively, 
+and were considered acceptable.  The results are shown in Table 2 below. 
+ 
+De Novo Summary (DEN130045)  Page 10 
+Table 2: Primary Endpoint Results: Per-Vessel Sensitivity and Specificity of FFRCT Intent to Diagnose 
+Population 
+ 
+Per-subject FFRCT specificity compared to site-read cCTA demonstrated superior diagnostic 
+ability (p<0.001) in the intent to diagnose (ITD) subjects in one or more major epicardial 
+coronary artery segments, using invasive FFR as the reference standard and defining 
+hemodynamically-significant obstruction of a coronary artery (positive result) as an FFR ≤ 0.80 
+for both FFR and FFRCT and as > 50% stenosis severity for site-read cCTA. Diagnostic 
+performance of FFRCT compared to site-read cCTA on the subject level is shown in Table 3 
+below. 
+ 
+Table 3:  Per-Subject Diagnostic Performance Analysis with FFR ≤ 0.80 as the Reference Standard.  Intent to 
+Diagnose Population. 
+ 
+ 
+FFRCT values were not found to be precisely correlated with the FFR value across the range of 
+measurement.  The Bland-Altman plot of FFR vs. FFRCT for all measurements is shown in Figure 
+2. 
+ 
+The HeartFlowNXT study demonstrated good diagnostic performance for FFRCT when all vessels were 
+included, irrespective of size, location, or territory, and across a range of cCTA image quality measures.  
+ 
+De Novo Summary (DEN130045)  Page 11 
+Figure 2: FFRCT Bland-Altman Plot 
+ 
+ 
+ 
+ 
+LABELING 
+ 
+The device is labeled for clinically stable symptomatic patients with coronary artery disease that 
+have a previously-collected DICOM CT scan.  Several product warnings are included in the 
+labeling that carefully specify the intended patient population, identify anatomy and image 
+acquisition factors that may impact FFRCT results, and provide cautionary guidance for 
+interpretation of the FFRCT.  These warnings were found to be appropriate. 
+ 
+The labeling also provided a detailed summary of the clinical trial procedures, patient 
+population, and results.  Per-vessel measurement performance of FFRCT with respect to invasive 
+FFR was reported, including a localized performance summary by vessel and segment.  A PDF 
+FFRCT Results summary is provided to the physician for each patient scan.  This summary 
+includes prominent warnings regarding interpretation of the output as well as a representation of 
+average error observed in the clinical data for various ranges of FFRCT measurement. 
+ 
+Labeling intended for internal case analysts was also provided, which adequately described 
+detailed data processing steps and data features that could affect accuracy of results. 
+ 
+De Novo Summary (DEN130045)  Page 12 
+RISKS TO HEALTH 
+ 
+Table 4 below identifies the risks to health that may be associated with use of a Coronary Physiologic 
+Simulation Software Device and the measures necessary to mitigate these risks. 
+ 
+TABLE 4: RISK/MITIGATION MEASURES 
+ 
+Identified Risk Mitigation Measures 
+False negative results improperly indicating 
+diseased vessel as low probability for 
+significant disease leads to delay of further 
+evaluation/treatment 
+Software Verification, Validation, and Hazard 
+Analysis 
+Non-clinical Performance Testing 
+Clinical Testing 
+Consistency (Repeatability/Reproducibility) 
+Evaluation 
+Labeling 
+False positive results improperly indicating 
+diseased vessel as high probability for 
+significant disease leads to incorrect patient 
+management 
+Delayed delivery of results leading to delay 
+of further evaluation/treatment 
+Failure to properly interpret device results 
+leads to incorrect patient management 
+Human Factors Testing 
+Labeling 
+ 
+SPECIAL CONTROLS: 
+ 
+In combination with the general controls of the FD&C Act, the Coronary Physiologic Simulation 
+Software Device is subject to the following special controls: 
+ 
+1. Adequate software verification & validation based on comprehensive hazard analysis 
+with identification of appropriate mitigations must be performed including: 
+a. Full characterization of technical parameters of the software, including any 
+proprietary algorithm(s) used to model the vascular anatomy.   
+i. Adequate description of the expected impact of all applicable image acquisition 
+hardware features and characteristics on performance and any associated 
+minimum specifications. 
+b. Adequate consideration of privacy and security issues in the system design. 
+i. Adequate mitigation of impact of failure of any subsystem components (signal 
+detection and analysis, data storage, system communications and cybersecurity) 
+with respect to incorrect patient reports and operator failures. 
+ 
+2. Adequate non-clinical performance testing must be provided to demonstrate the validity 
+of computational modeling methods for flow measurement. 
+ 
+3. Clinical data supporting the proposed intended use must be provided, including the 
+following: 

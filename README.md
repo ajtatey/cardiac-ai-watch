@@ -1,60 +1,74 @@
-# FDA 510(k) watch
+# Cardiac AI Watch
 
-Checks the FDA 510(k) database once a day for new clearances from the companies
-listed in `companies.json` (currently HeartFlow and Elucid), downloads each
-510(k) summary PDF, and sends a notification.
+An agent-run intelligence desk for AI in cardiac imaging: coronary CT plaque
+and FFR-CT, calcium scoring, pericoronary inflammation, cardiac MRI and echo
+AI, and the regulatory, reimbursement, evidence and business landscape around
+them. Built for Cleerly; tracks HeartFlow, Elucid, Caristo, Artrya and about
+twenty others by name, and the whole field by FDA product code and topic.
 
 ## How it works
 
-1. Queries the [openFDA 510(k) API](https://open.fda.gov/apis/device/510k/) by applicant name.
-2. Diffs results against `state/seen.json`.
-3. Downloads the summary PDF for each new K number into `summaries/<company>/`,
-   alongside a `.json` file with the record metadata.
-4. Retries any PDF that was not yet posted on an earlier run.
-5. Posts to Slack (and/or email) when something new appears.
+```
+ collectors (code, every 30 min)      triage (agent, hourly)        delivery (code)
+ ───────────────────────────────      ───────────────────────       ─────────────────────────
+ openFDA 510(k)/De Novo by code  ─┐                               ┌─ P0 → alert email now
+ openFDA recalls                  │   new events → relevance,     │
+ PubMed                           ├─▶ priority, summary,      ───┼─ P1/P2 → morning brief
+ ClinicalTrials.gov               │   why-it-matters, dossiers    │          (7am ET)
+ Federal Register (CMS, FDA)      │                               └─ P3 → counted only
+ SEC EDGAR                        │
+ RSS + Google News               ─┘   editor (agent, daily) → editorial note for the brief
+```
 
-openFDA refreshes roughly weekly, so a clearance typically shows up here a few
-days after the FDA decision date.
+- **Store**: one JSON file per kept event under `data/events/`, an index in
+  `data/index.json`, FDA summary text under `data/fda_summaries/`. All in git,
+  so every decision is auditable.
+- **Triage** has two interchangeable paths: a Claude Code cloud routine that
+  follows `AGENT.md`, or a scripted call to the Claude API when
+  `ANTHROPIC_API_KEY` is set (`python -m watch triage`).
+- **Knowledge base**: `knowledge/companies/<slug>.md` dossiers. The regulatory
+  table is auto-generated; the prose is agent-maintained.
+- **Email** goes through Resend. Alerts for P0 events go out within 30 minutes
+  of triage; the brief goes out daily.
 
-De Novo grants (DEN numbers) also appear in the openFDA 510(k) feed. The script
-recognises them and fetches the De Novo decision summary from its own FDA path.
-
-## Local setup
+## Commands
 
 ```sh
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-python fda_510k_watch.py --backfill      # first run: record existing clearances, no alerts
-python fda_510k_watch.py --dry-run       # see what would be new without writing anything
-python fda_510k_watch.py                 # normal daily run
+python -m watch collect                 # run all collectors (or --only pubmed rss)
+python -m watch triage --export p.json  # pending events for an agent
+python -m watch triage --apply r.json   # write an agent's decisions
+python -m watch triage                  # scripted triage via Claude API (needs key)
+python -m watch alerts [--dry-run]      # email P0s not yet alerted
+python -m watch brief [--dry-run]       # compose + send the brief, mark items reported
+python -m watch knowledge               # refresh dossier tables
+python -m watch status
 ```
 
-## Notifications
+Local setup: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`,
+and a `.env` with `RESEND_API_KEY=...` (never committed).
 
-Set whichever of these you want. With none set, alerts print to stdout.
+## Configuration
 
-| Variable | Purpose |
-|---|---|
-| `SLACK_WEBHOOK_URL` | Slack incoming webhook |
-| `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `EMAIL_FROM`, `EMAIL_TO` | Email fallback |
-| `OPENFDA_API_KEY` | Optional, raises openFDA rate limits |
+Everything lives in `config.yaml`: companies and aliases, FDA product codes,
+PubMed and ClinicalTrials queries, feeds and Google News queries, Federal
+Register terms, email routing, and the P0 definition. Add a company by adding
+an entry; add a source by adding a collector in `watch/collectors/` and
+registering it in `watch/collectors/__init__.py`.
 
-## Scheduling with GitHub Actions
+## Scheduling
 
-`.github/workflows/daily.yml` runs the script every day at 13:00 UTC and commits
-any new state and PDFs back to the repo.
+- `.github/workflows/collect.yml`: twice an hour. Collect, scripted triage if a
+  key is present, send P0 alerts, refresh dossiers, commit.
+- `.github/workflows/brief.yml`: daily 11:00 UTC. Compose and send the brief, commit.
+- Claude Code cloud routines (see `AGENT.md`): hourly triage analyst, daily editor.
 
-1. Push this directory to a GitHub repository.
-2. Add `SLACK_WEBHOOK_URL` (and any email secrets) under Settings → Secrets and variables → Actions.
-3. Run the workflow once by hand from the Actions tab to confirm it works.
+Secrets: `RESEND_API_KEY` (set). Optional: `ANTHROPIC_API_KEY` for scripted
+triage, `OPENFDA_API_KEY`, `NCBI_API_KEY`. Repo variable `EMAIL_TO` overrides
+the recipient list in `config.yaml`.
 
-## Adding a company
+## Known limits
 
-Append an entry to `companies.json`:
-
-```json
-{"name": "cleerly", "applicant_query": "cleerly"}
-```
-
-`applicant_query` is matched against the openFDA `applicant` field, so a short
-distinctive word is enough to catch name variants like "HeartFlow, Inc.".
+- openFDA refreshes weekly, so a clearance appears a few days after decision.
+- SEC full-text search returns 403 from some networks; company filings by CIK still work.
+- FDA summary PDFs are kept locally but not committed; the extracted text is.
+- Google News RSS is the fallback for trade sites that block feed readers.

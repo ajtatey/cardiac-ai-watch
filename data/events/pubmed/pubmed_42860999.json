@@ -1,0 +1,62 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Singapore Eye Research Institute, Singapore National Eye Centre, Singapore.",
+   "Ophthalmology and Visual Sciences Academic Clinical Program (Eye ACP), Duke-NUS Medical School, Singapore.",
+   "Medi-Whale Inc., Seoul, South Korea.",
+   "Institute of Vision Research, Department of Ophthalmology, Yonsei University College of Medicine, Seoul, Republic of Korea.",
+   "Medi-Whale Inc., Seoul, South Korea."
+  ],
+  "authors": [
+   "Nusinovici S",
+   "Kim H",
+   "Seo J",
+   "Rim TH",
+   "Chen Q",
+   "Lu Z"
+  ],
+  "doi": "10.1016/j.xops.2026.101386",
+  "journal": "Ophthalmology science",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42860999",
+ "prefilter": {
+  "ai": [
+   "deep learning"
+  ],
+  "cardiac": [
+   "coronar",
+   "atheroscler",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 7
+ },
+ "published": "2026-08-26",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Ophthalmology science. Nusinovici S, Kim H, Seo J, Rim TH, Chen Q, Lu Z. To derive and validate a retinal 10-year atherosclerotic cardiovascular disease (ASCVD) risk estimator (\"Dr Noon cardiovascular disease [CVD]\") and compare its performance with the clinical gold-standard pooled cohort equation (PCE) in a US population. Prospective cohort study with up to 10 years of follow-up. A total of 3096 participants (aged 55-75 years) from the multicenter Age-related Eye Disease Study (AREDS) with gradable baseline fundus photographs, including 1013 with PCE. The Dr Noon CVD estimator, which incorporates a deep learning-derived retinal coronary artery calcium surrogate along with age and sex, was derived using a Cox proportional hazards model and validated within the AREDS cohort. Its predictive performance was compared directly with the PCE. Incident fatal and nonfatal ASCVD events over 10 years. Performance metrics included risk stratification (hazard ratios [HRs]), discrimination (concordance index [C-index]), calibration (plot with intercept/slope), and reclassification (net reclassification index [NRI]). Among 3096 participants, 202 (6.5%) experienced an ASCVD event. Although the PCE was precluded for 67.3% of the cohort (n = 2083) due to missing laboratory data, the retinal estimator provided scores for all participants with available imaging. Dr Noon CVD significantly stratified participants into low, moderate (HR, 1.84; 95% confidence interval [CI], 1.24-2.71), and high-risk groups (HR, 2.54; 95% CI, 1.64-3.93; P-trend < 00.001). Beyond traditional risk factors, the model significantly improved discrimination (ΔC-index, 3.4%) and reclassification (overall NRI, 0.194; 95% CI, 0.044-0.344). In direct comparison among participants with PCE (n = 1013), Dr Noon CVD demonstrated numerically higher discrimination (C-index, 0.665 vs. 0.647; P = 0.74) and significantly superior calibration, whereas the PCE overestimated risk at higher deciles (P-intercept = 0.004 vs. 0.141 for Dr Noon CVD). Finally, performance was enhanced in hypertensive participants. Deep learning analysis of routine retinal photographs provides cardiovascular risk stratification comparable to established clinical equations, offering a valid, noninvasive solution for opportunistic screening even when missing laboratory data precludes the standard risk calculators. These findings support the potential for opportunistic systemic risk assessment within the eye clinic, enhancing the role of the ophthalmologist in primary prevention. Proprietary or commercial disclosure may be found in the Footnotes and Disclosures at the end of this article.",
+ "title": "Opportunistic Cardiovascular Risk Assessment in the Eye Clinic: Validation of a Retinal Deep Learning-Based 10-Year Atherosclerotic Cardiovascular Disease Estimator.",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 1,
+  "summary": "Retinal deep-learning 10-year ASCVD risk estimator validated against the pooled cohort equation in 3,096 US participants.",
+  "tags": [
+   "evidence",
+   "risk-prediction",
+   "retina"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Non-cardiac imaging competing for the same risk-stratification use case; peripheral."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42860999/"
+}

@@ -1,0 +1,284 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 08 . 0 3  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 25, 2026 
+ 
+Apryse Software Corp 
+Hilal Chami 
+Manager, Support and Implementation 
+2399 Blake St. 
+Denver, CO 80205-2186 
+ 
+ 
+Re:  K260231 
+Trade/Device Name: MiPACS V5 (1.0.0) 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  May 29, 2026 
+Received:  May 29, 2026 
+ 
+Dear Hilal Chami: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+ 
+
+K260231 - Hilal Chami Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13484 clause 8.3 (Nonconforming product), and ISO 13485 clause 8.5 (Corrective and preventative 
+action). Please note that regardless of whether a change requires premarket review, the QMSR requires 
+device manufacturers to review and approve changes to device design and production (ISO 13485 clause 7.3 
+and 21 CFR 820.70) and document changes and approvals in the device master record (21 CFR 820.181).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K260231 - Hilal Chami Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiologic Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+Indications for Use
+Please type in the marketing application/submission number, if it is known. This 
+textbox will be left blank for original applications/submissions.
+Please provide the device trade name(s).
+ 
+Please provide your Indications for Use below.
+ 
+Please select the types of uses (select one or both, as 
+applicable).
+Prescription Use (21 CFR 801 Subpart D) 
+Over-The-Counter Use (21 CFR 801 Subpart C) 
+K260231
+?  
+.   
+.   
+He
+lp 
+Te
+xt
+?  
+.   
+.   
+He
+lp 
+Te
+xt
+MiPACS V5 (1.0.0.5)
+?  
+.   
+.   
+He
+lp 
+Te
+xt
+MiPACS V5 is a software-only medical and dental DICOM image viewing system with integrated image 
+acquisition functionality. MiPACS V5 is intended for use by trained healthcare professionals for the 
+acquisition, viewing, manipulation, and management of medical and dental images in DICOM format. 
+MiPACS V5 is not intended to replace primary diagnostic workstations and does not provide automated 
+diagnosis, image interpretation, or clinical decision support.
+?  
+.   
+.   
+He
+lp 
+Te
+xt
+510(k) Summary  
+K260231 
+ 
+General Summary of Submission / Executive Summary 
+Document Date: 2026-06-24 
+Device/Software Name: MiPACS V5 
+Version/Build: 1.0.0 
+Sponsor/Manufacturer: Apryse Software Corp 
+Submission Type: Traditional 510(k) 
+Product Code / Regulation: LLZ / 21 CFR 892.2050 
+Device Class: Class II 
+Predicate Device: MiPACS HTML5 Web Viewer (K212984) 
+Administrative Contact: Hilal Chami, Support, Integrations, & QA Manager, 
+hilal.chami@apryse.com, 919-208-5312 
+ 
+1. Administrative Information 
+• Common Name: Dental Picture Archiving and Communication System (PACS) 
+• Trade/Proprietary Name: MiPACS V5 
+• Classification Regulation: 21 CFR 892.2050 
+• Product Code: LLZ (System, Image Processing, Radiological) 
+• Classification Panel: Radiology 
+MiPACS V5 is regulated as a Class II medical device under the Radiology panel and is 
+subject to premarket notification requirements. 
+ 
+2. Device Description 
+MiPACS V5 is a software -only, web-based medical device designed for the viewing, 
+acquisition, manipulation, and management of digital dental images in DICOM format. 
+The device is intended for use by trained healthcare professionals in clinical environments 
+and operates within customer-managed, on-premises infrastructure. 
+The system consists of the following primary functional components: 
+• Web-Based User Interface: 
+o A browser-based interface providing image viewing, navigation, 
+manipulation, and acquisition controls. 
+• Application Logic Layer: 
+o Manages clinical workflows, user sessions, image handling, validation, 
+and coordination of acquisition and storage functions. 
+• Image Acquisition Interface: 
+
+o Interfaces with compatible, vendor-supported dental imaging devices to 
+initiate image acquisition and receive image data. Image generation and 
+hardware performance remain the responsibility of the acquisition device 
+manufacturer. 
+• DICOM Communication Layer: 
+o Supports DICOM and DICOM web standards (including QIDO-RS, 
+WADO-RS, and STOW-RS) for image storage, retrieval, and transfer. 
+• Security and Access Control Layer: 
+o Implements authentication, role-based authorization, session 
+management, audit logging, and encrypted communication. 
+MiPACS V5 is deployed in a client –server model using standard web browsers on 
+supported operating systems. No automated diagnosis, image analysis, or clinical 
+decision-support functionality is provided. 
+3. Indications for Use 
+MiPACS V5 is a software-only medical and dental DICOM image viewing system with 
+integrated image acquisition functionality. MiPACS V5 is intended for use by trained 
+healthcare professionals for the acquisition, viewing, manipulation, and management of 
+medical and dental images in DICOM format. MiPACS V5 is not intended to replace 
+primary diagnostic workstations and does not provide automated diagnosis, image 
+interpretation, or clinical decision support. 
+ 
+4. Predicate Device Comparison (Substantial Equivalence) 
+• Primary Predicate: MiPACS HTML5 Web Viewer (K212984) 
+• Manufacturer: MiPACS by Apryse 
+• Intended Use:  
+o MiPACS V5 has the same intended use as the predicate device:  
+▪ to support the acquisition, viewing, manipulation and management 
+of digital dental images to aid clinical workflows. 
+• Technological Characteristics:  
+o Both MiPACS V5 and the predicate device are web-based software systems 
+that operate within clinical environments and utilize DICOM standards for 
+image handling.  
+o MiPACS V5 builds upon the predicate architecture by adding software -
+mediated image acquisition functionality via compatible acquisition devices. 
+The fundamental viewing, navigation, storage, and security mechanisms 
+remain consistent with the predicate. 
+• Addressing Differences: 
+
+o The added acquisition functionality was evaluated through software 
+verification and validation testing, risk management activities, and 
+cybersecurity assessment. These differences do not raise new questions 
+of safety or effectiveness. 
+ 
+5. Summary of Non-Clinical Testing 
+Non-clinical testing was conducted to demonstrate that MiPACS V5 meets its specified 
+requirements and performs safely and effectively for its intended use. 
+• Software Verification & Validation:  
+o Software V&V activities were conducted in accordance with FDA guidance 
+on software contained in medical devices (June 2023) at the Basic 
+Documentation Level. Testing included unit, integration, and system -level 
+verification of functional, performance, and security requirements. 
+• Performance/Interoperability:  
+o Bench testing verified image rendering consistency, DICOM conformance, 
+connectivity with external systems, database integrity, and end -to-end 
+clinical workflows including image acquisition, storage, retrieval, and cache 
+management. 
+6. Cybersecurity 
+ 
+Cybersecurity controls were implemented under a Secure Product Development 
+Framework and documented within a Cybersecurity Management Plan consistent with 
+FDA cybersecurity guidance. Activities included threat modeling, SBOM-based 
+dependency analysis, security requirement verification, and risk-based vulnerability 
+assessment. 
+7.Conclusion 
+All testing demonstrated that MiPACS V5 meets defined acceptance criteria and 
+supports safe and effective clinical use. Based on the intended use, 
+technological characteristics, and results of testing, MiPACS V5 
+is substantially equivalent to the predicate device, MiPACS HTML5 Web Viewer 
+(K212984) and does not raise new questions of safety or effectiveness. 
+Jun 24 2026
+Support, Integrations, & Quality Assurance Manager
+Hilal Chami
+hilal.chami@apryse.com
+Purpose: Document Approval
+Authenticated via SMS 2FA

@@ -1,0 +1,69 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Biomedical Engineering and Imaging Institute, Icahn School of Medicine at Mount Sinai, New York, NY (K.D., J.L., A.D., Z.L., Z.A.F., H.-C.L., X.M.).",
+   "Biomedical Engineering and Imaging Institute, Icahn School of Medicine at Mount Sinai, New York, NY (K.D., J.L., A.D., Z.L., Z.A.F., H.-C.L., X.M.).",
+   "Biomedical Engineering and Imaging Institute, Icahn School of Medicine at Mount Sinai, New York, NY (K.D., J.L., A.D., Z.L., Z.A.F., H.-C.L., X.M.).",
+   "Biomedical Engineering and Imaging Institute, Icahn School of Medicine at Mount Sinai, New York, NY (K.D., J.L., A.D., Z.L., Z.A.F., H.-C.L., X.M.).",
+   "Biomedical Engineering and Imaging Institute, Icahn School of Medicine at Mount Sinai, New York, NY (K.D., J.L., A.D., Z.L., Z.A.F., H.-C.L., X.M.)."
+  ],
+  "authors": [
+   "Diao K",
+   "Lu J",
+   "Dimitrakakis A",
+   "Liu Z",
+   "Fayad ZA",
+   "Lee HC"
+  ],
+  "doi": "10.1161/ATVBAHA.126.324762",
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "pub_types": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ "id": "pubmed:42877974",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b",
+   "deep learning",
+   "automat"
+  ],
+  "cardiac": [
+   "cardiac",
+   "echocardiog",
+   "cardiolog",
+   "cardiovascular",
+   "nuclear cardiology"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 14
+ },
+ "published": "2026-10-15",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Arteriosclerosis, thrombosis, and vascular biology. Diao K, Lu J, Dimitrakakis A, Liu Z, Fayad ZA, Lee HC. Cardiovascular imaging plays a central role in the diagnosis, risk stratification, and management of cardiovascular disease, yet the complexity and volume of imaging data increasingly exceed the capacity of conventional interpretation. Artificial intelligence (AI) and deep learning offer new tools to extract quantitative, prognostic, and phenotypic information from routine cardiovascular images. This review summarizes the fundamentals of AI and deep learning, including model architectures, training strategies, and their relevance to cardiovascular imaging, followed by a focused discussion of current applications across chest radiography, chest computed tomography, computed tomography angiography/cardiac computed tomography, cardiac magnetic resonance imaging, echocardiography, and nuclear cardiology imaging. Studies were selected with emphasis on original investigations, large cohort analyses, and external validation studies reflecting current applications of AI in cardiovascular risk stratification and precision phenotyping. Across these modalities, AI applications in automated image processing and analysis have become relatively mature. Multiple multicenter and real-world studies have validated their value in improving efficiency and supporting cardiovascular management. Approaches that move beyond conventional human-defined imaging metrics to infer cardiovascular risk and disease phenotype remain at an earlier stage, requiring further standardization, validation, and clinical evaluation. AI is expanding the role of cardiovascular imaging from visual interpretation toward integrated assessment for risk stratification and precision phenotyping, though further work is needed to confirm generalizability and real-world performance before these tools can guide individual patient management.",
+ "title": "AI and Deep Learning in Cardiovascular Imaging: From Risk Stratification to Precision Phenotyping.",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 4,
+  "summary": "ATVB review of AI and deep learning across cardiovascular imaging, from risk stratification to precision phenotyping (Fayad group).",
+  "tags": [
+   "evidence",
+   "review",
+   "ai",
+   "cardiovascular-imaging"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "High-profile review useful as a citation and for spotting which products the academic community treats as reference points."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42877974/"
+}

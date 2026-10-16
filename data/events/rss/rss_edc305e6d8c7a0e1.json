@@ -1,0 +1,42 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:17+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "Investing.com Nigeria",
+  "query": "HeartFlow"
+ },
+ "id": "rss:edc305e6d8c7a0e1",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-14",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "Form 4 Heartflow Inc: John C.M. Farquhar (Director, CEO) For: 12 October &nbsp;&nbsp; Investing.com Nigeria",
+ "title": "Form 4 Heartflow Inc: John C.M. Farquhar (Director, CEO) For: 12 October - Investing.com Nigeria",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Investing.com Nigeria Form 4 summary for HeartFlow.",
+  "tags": [
+   "financial",
+   "insider-sale"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Duplicate coverage."
+ },
+ "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1k3anNLaHFCZ0RmQVoxbVpBZV9BWWRNSUpfSzBURmxNRTBqUFVZbmx0cnB1Z2FoaXlDRVpkaXFkY0ZuREdHdFpQeWIwSElZUHdXX29ZeU5xdlE5SWdiU1ZfRjV2a0Y1TDRDWHpfTnF4VU9GbEQzZmR3RnVQQTFEc0VfZ2N4MmF2VlZ3MTVNNWg2bi1UU2loV3ZXcmFSZ2h2YzZRblpQYjJtVkp3akFlU3V6VFB2WjBXREh3S1U1bE04aVc3?oc=5"
+}

@@ -1,0 +1,190 @@
+# Cardiac AI Watch configuration.
+# Everything the collectors and triage need to know about the field lives here.
+
+topic: >
+  AI and software for cardiac imaging: coronary CT angiography (CCTA) plaque
+  quantification and characterization, FFR-CT and other CT-derived physiology,
+  AI-QCT, coronary calcium scoring (including opportunistic CAC on non-gated CT),
+  pericoronary / perivascular fat inflammation imaging, cardiac MRI analysis,
+  AI echocardiography, nuclear cardiology AI, structural heart planning
+  software, and the regulatory, reimbursement, clinical-evidence and business
+  landscape around those products.
+
+email:
+  from: "Cardiac AI Watch <cardiac-ai-watch@updates.argot.dev>"
+  to: ["andrew@argot.dev"]
+  brief_subject_prefix: "Cardiac AI brief"
+  alert_subject_prefix: "ALERT"
+
+# Companies we track by name. `aliases` are matched case-insensitively in text.
+# `fda_applicant` is used for an openFDA applicant search (omit for big vendors
+# whose applicant search would be too broad; product codes catch them).
+companies:
+  - slug: cleerly
+    name: Cleerly
+    aliases: [Cleerly, "Cleerly Labs", "Cleerly ISCHEMIA", "Cleerly Plaque"]
+    fda_applicant: cleerly
+    is_us: true
+  - slug: heartflow
+    name: HeartFlow
+    aliases: [HeartFlow, Heartflow, FFRct, "FFR-CT", "HeartFlow Plaque Analysis", HTFL]
+    fda_applicant: heartflow
+    edgar_cik: "0001464521"
+  - slug: elucid
+    name: Elucid Bioimaging
+    aliases: [Elucid, "Elucid Bioimaging", PlaqueIQ, ElucidVivo, vascuCAP]
+    fda_applicant: elucid
+  - slug: artrya
+    name: Artrya
+    aliases: [Artrya, "Salix Coronary", "Salix Central"]
+    fda_applicant: artrya
+  - slug: caristo
+    name: Caristo Diagnostics
+    aliases: [Caristo, CaRi-Heart, CaRi-Plaque, CariCloud, "fat attenuation index"]
+    fda_applicant: caristo
+  - slug: circle-cvi
+    name: Circle Cardiovascular Imaging
+    aliases: ["Circle Cardiovascular", "Circle CVI", cvi42, TruPlan]
+    fda_applicant: circle cardiovascular
+  - slug: keya-medical
+    name: Keya Medical
+    aliases: [Keya Medical, DEEPVESSEL, "Keya"]
+    fda_applicant: keya medical
+  - slug: us2ai
+    name: Us2.ai
+    aliases: ["Us2.ai", "Us2.v", "Us2.ca"]
+    fda_applicant: us2.ai
+  - slug: ultromics
+    name: Ultromics
+    aliases: [Ultromics, EchoGo]
+    fda_applicant: ultromics
+  - slug: medis
+    name: Medis Medical Imaging
+    aliases: ["Medis Medical", "Medis Suite", QFR, "Medis QAngio"]
+    fda_applicant: medis
+  - slug: pie-medical
+    name: Pie Medical Imaging
+    aliases: ["Pie Medical", 3mensio, CAAS]
+    fda_applicant: pie medical
+  - slug: nanox-ai
+    name: Nanox AI
+    aliases: ["Nanox.AI", "Nanox AI", HealthCCSng, Zebra Medical]
+    fda_applicant: nano-x
+  - slug: bunkerhill
+    name: Bunkerhill Health
+    aliases: [Bunkerhill, "Bunker Hill Health"]
+    fda_applicant: bunkerhill
+  - slug: anumana
+    name: Anumana
+    aliases: [Anumana]
+    fda_applicant: anumana
+  - slug: viz-ai
+    name: Viz.ai
+    aliases: ["Viz.ai", "Viz HCM", "Viz Cardio"]
+  - slug: siemens
+    name: Siemens Healthineers
+    aliases: ["Siemens Healthineers", "AI-Rad Companion", "syngo.via"]
+  - slug: ge-healthcare
+    name: GE HealthCare
+    aliases: ["GE HealthCare", "GE Healthcare", "Caption Health", "Caption AI"]
+  - slug: philips
+    name: Philips
+    aliases: ["Philips Healthcare", "Philips IntelliSpace", "Philips Cardiac"]
+  - slug: canon-medical
+    name: Canon Medical
+    aliases: ["Canon Medical", "Vitrea", "Vitality"]
+  - slug: tempus
+    name: Tempus (Arterys)
+    aliases: [Arterys, "Tempus Pixel", "Tempus Radiology"]
+  - slug: shukun
+    name: Shukun Technology
+    aliases: [Shukun, "CoronaryDoc"]
+  - slug: spectrum-dynamics
+    name: Spectrum Dynamics
+    aliases: ["Spectrum Dynamics", "Veriton"]
+
+fda:
+  # Product codes to watch fully. Everything in these codes goes to triage.
+  product_codes:
+    - QIH   # automated radiological image processing software
+    - LLZ   # system, image processing, radiological
+    - PJA   # coronary vascular physiologic simulation software (FFR-CT)
+    - POK   # cardiovascular image processing software
+    - QXZ   # coronary plaque analysis software (Cleerly)
+    - SIU   # pericoronary inflammation analysis (Caristo)
+    - SDJ   # echo AI
+    - QUO   # echo AI
+    - QFM   # cardiac image analysis
+  lookback_days: 120
+
+pubmed:
+  lookback_days: 5
+  queries:
+    - '("coronary computed tomography angiography"[tiab] OR "coronary CT angiography"[tiab] OR CCTA[tiab]) AND ("artificial intelligence"[tiab] OR "deep learning"[tiab] OR "machine learning"[tiab] OR "plaque quantification"[tiab] OR "plaque analysis"[tiab] OR "quantitative plaque"[tiab])'
+    - '("FFR-CT"[tiab] OR FFRCT[tiab] OR "CT-FFR"[tiab] OR "CT-derived fractional flow reserve"[tiab])'
+    - '("pericoronary adipose"[tiab] OR "perivascular fat"[tiab] OR "fat attenuation index"[tiab]) AND (CT[tiab] OR "computed tomography"[tiab])'
+    - '("coronary artery calcium"[tiab] OR "calcium score"[tiab] OR "calcium scoring"[tiab]) AND ("deep learning"[tiab] OR "artificial intelligence"[tiab] OR automated[tiab])'
+    - '(echocardiography[tiab] OR "cardiac magnetic resonance"[tiab] OR "cardiac MRI"[tiab]) AND ("deep learning"[tiab] OR "artificial intelligence"[tiab]) AND (automated[tiab] OR software[tiab] OR algorithm[tiab])'
+    - '(Cleerly[tiab] OR HeartFlow[tiab] OR "Elucid"[tiab] OR Artrya[tiab] OR Caristo[tiab] OR "CaRi-Heart"[tiab] OR "AI-QCT"[tiab])'
+
+clinicaltrials:
+  lookback_days: 7
+  queries:
+    - 'coronary CT angiography AND (artificial intelligence OR plaque OR software OR FFR)'
+    - 'Cleerly OR HeartFlow OR Elucid OR Artrya OR Caristo OR "AI-QCT" OR FFRct'
+    - '(echocardiography OR cardiac MRI) AND (artificial intelligence OR deep learning)'
+
+federal_register:
+  lookback_days: 14
+  agencies: [centers-for-medicare-medicaid-services, food-and-drug-administration]
+  terms:
+    - '"coronary CT"'
+    - '"coronary computed tomography"'
+    - '"fractional flow reserve"'
+    - '"artificial intelligence" "medical device"'
+    - '"software as a medical device"'
+    - '"plaque analysis"'
+    - '"cardiac imaging"'
+
+edgar:
+  # Full-text search terms (quoted) across all filers, last N days.
+  fulltext_terms: ['"Cleerly"', '"HeartFlow"', '"Elucid Bioimaging"', '"coronary CT angiography"', '"FFRct"']
+  lookback_days: 7
+
+rss:
+  lookback_days: 3
+  feeds:
+    - {name: AuntMinnie, url: "https://www.auntminnie.com/rss", category: news}
+    - {name: The Imaging Wire, url: "https://theimagingwire.com/feed/", category: news}
+    - {name: MedTech Dive, url: "https://www.medtechdive.com/feeds/news/", category: news}
+    - {name: DAIC, url: "https://www.dicardiology.com/rss.xml", category: news}
+    - {name: PR Newswire Health, url: "https://www.prnewswire.com/rss/health-latest-news/health-latest-news-list.rss", category: press}
+  google_news_queries:
+    - '"coronary CT" AND ("artificial intelligence" OR AI OR software)'
+    - '(CCTA OR "coronary CT angiography") AND plaque AND (AI OR software)'
+    - '"FFR-CT" OR FFRct OR "FFRCT"'
+    - '"cardiac imaging" AND "artificial intelligence"'
+    - '"coronary artery calcium" AND AI'
+    - 'echocardiography AND AI AND FDA'
+    - '"cardiac MRI" AND AI'
+    - 'Cleerly cardiac'
+    - 'HeartFlow'
+    - '"Elucid Bioimaging" OR PlaqueIQ'
+    - 'Artrya Salix'
+    - 'Caristo Diagnostics OR "CaRi-Heart"'
+    - '"AI-QCT" OR "AI-guided quantitative coronary CT"'
+    - 'site:cardiovascularbusiness.com AI'
+    - 'site:radiologybusiness.com cardiac AI'
+    - 'site:fiercebiotech.com cardiac imaging'
+    - '"CPT" AND ("coronary plaque" OR "FFR-CT" OR "AI-QCT")'
+
+alerts:
+  # Priorities: P0 = email immediately, P1 = lead the morning brief,
+  # P2 = include in brief, P3 = count only.
+  p0_definition: >
+    FDA clearance, De Novo grant or PMA for a tracked company or a direct
+    competitor product; a CMS / AMA coding or payment decision that touches
+    AI-QCT, FFR-CT or plaque analysis; a major payer coverage policy change;
+    a pivotal or guideline-changing trial result; an acquisition, merger,
+    IPO, or financing above $50M of a tracked company; a safety recall or
+    FDA warning letter for a tracked company.

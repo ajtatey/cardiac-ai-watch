@@ -1,0 +1,62 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Electrical and Computer Engineering, Rice University, Houston, Texas, USA.",
+   "Center for Cardiovascular Computational and Precision Health, Department of Cardiology, DeBakey Heart and Vascular Center, Houston Methodist, Houston, Texas, USA.",
+   "Department of Electrical and Computer Engineering, Rice University, Houston, Texas, USA. Electronic address: guha@rice.edu."
+  ],
+  "authors": [
+   "Kabra K",
+   "Al-Kindi S",
+   "Balakrishnan G"
+  ],
+  "doi": "10.1016/j.jacadv.2026.103333",
+  "journal": "JACC. Advances",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42868969",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b",
+   "algorithm",
+   "automat",
+   "coverage"
+  ],
+  "cardiac": [
+   "echocardiog",
+   "\\becho\\b",
+   "ventric"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 11
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "JACC. Advances. Kabra K, Al-Kindi S, Balakrishnan G. Automated echocardiography analysis using artificial intelligence (AI) currently lacks effective guardrails or oversight mechanisms to ensure its safe and reliable deployment. This study investigated whether deep feature representations can identify echocardiograms at risk of misinterpretation by echocardiography AI-based left ventricular ejection fraction (LVEF) estimation models. We retrospectively validated 2 state-of-the-art models for LVEF estimation, EchoNet (single-task model) and PanEcho (multitask foundation model), on 4,010 apical-4-chamber videos from 1,353 studies (n = 1,208) with biplane LVEF measurements in the MIMIC-IV-ECHO database (2017-2019). We extracted 4 deep feature representations from a view classifier, a left ventricle segmentation model, and the 2 validated LVEF estimation models. These features were evaluated for their ability to identify systematic misinterpretations (error slicing) and automatically exclude AI estimates for high-risk inputs (selective estimation). While PanEcho performed better relative to EchoNet (EchoNet minus PanEcho [Δ], Δmean absolute error: 0.31 [0.07, 0.55]; ΔR2: -0.07 [-0.11, -0.03]), both models systematically overestimated LVEF at lower values (proportional bias slope, EchoNet: -0.33 [-0.39, -0.28], P < 0.001, PanEcho: -0.31 [-0.36, -0.26], P < 0.001). All investigated deep feature representations identified error slices for both models. Shared error slices between the models revealed 2 common failure modes: contrast-enhanced echocardiograms and poor-quality apical-4-chamber views. Selective estimation using intermediate features from EchoNet achieved the best performance across both estimation models (area under risk-coverage curve, EchoNet: 5.04 [4.45, 5.66]; PanEcho: 5.21 [4.54, 5.92]). Deep feature representations can be leveraged to identify and automatically flag misinterpretation-prone echocardiograms, enabling promising guardrail mechanisms for the reliable deployment of echocardiography AI.",
+ "title": "Algorithmic Guardrails for Echocardiography AI: Deep Feature Representations for Error Slicing and Selective LVEF Estimation.",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "JACC: Advances paper using deep feature representations to flag echocardiograms at risk of AI LVEF misestimation and enable selective prediction.",
+  "tags": [
+   "evidence",
+   "echo",
+   "ai-safety",
+   "guardrails"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Algorithmic guardrails and selective prediction are becoming expected for cardiac AI; relevant pattern for plaque AI quality control and future FDA expectations."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42868969/"
+}

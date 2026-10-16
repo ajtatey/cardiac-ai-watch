@@ -1,0 +1,66 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Radiology, Van Yuzuncu Yıl University School of Medicine, Van, Turkey.",
+   "Department of Radiology, Van Yuzuncu Yıl University School of Medicine, Van, Turkey. dr.fatmadrmz@gmail.com.",
+   "Department of Radiology, Van Yuzuncu Yıl University School of Medicine, Van, Turkey.",
+   "Department of Radiology, Van Yuzuncu Yıl University School of Medicine, Van, Turkey.",
+   "Department of Radiology, Van Yuzuncu Yıl University School of Medicine, Van, Turkey."
+  ],
+  "authors": [
+   "Şanlı Y",
+   "Durmaz F",
+   "Dündar İ",
+   "Özgökçe M",
+   "Özkaçmaz S",
+   "Akıncı MB"
+  ],
+  "doi": "10.1007/s11845-026-04674-8",
+  "journal": "Irish journal of medical science",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42862448",
+ "prefilter": {
+  "ai": [
+   "quantif"
+  ],
+  "cardiac": [
+   "coronar",
+   "cardiac",
+   "ccta",
+   "ct angiograph",
+   "calcium scor",
+   "ventric",
+   "pericoronary"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 15
+ },
+ "published": "2026-10-12",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Irish journal of medical science. Şanlı Y, Durmaz F, Dündar İ, Özgökçe M, Özkaçmaz S, Akıncı MB. To compare the associations of pericoronary (PCAT) and epicardial adipose tissue (EAT) thickness with coronary artery calcium score (CACS) using cardiac computed tomography. This retrospective study included 1,032 patients (516 women, 516 men; median age, 54 years) who underwent coronary CT angiography. CACS was quantified using the Agatston method. Mean PCAT thickness was measured at predefined anatomical landmarks along the major coronary arteries, while mean EAT thickness was assessed at the right ventricular free wall. Associations with CACS were evaluated using correlation, multivariable linear and logistic regression, and receiver operating characteristic (ROC) analysis. Detectable coronary artery calcification was observed in 432 patients (41.9%). Although both PCAT (r = 0.461, p < 0.001) and EAT thickness (r = 0.375, p < 0.001) correlated with CACS, PCAT thickness remained significantly associated with higher CACS after adjustment for age, sex, and EAT thickness. In logistic regression, each 1-mm increase in PCAT thickness was associated with 43% higher odds of coronary calcification (OR, 1.436; 95% CI: 1.298-1.588; p < 0.001). PCAT showed greater discriminatory performance than EAT (AUC, 0.736 vs. 0.695; DeLong p = 0.010), and adding PCAT to an age-and-sex model increased the AUC from 0.744 to 0.795 (DeLong p < 0.001). PCAT thickness was associated with CACS after adjustment for age, sex, and EAT thickness and showed greater discriminatory performance than EAT thickness for the presence of coronary calcification. PCAT thickness may provide additional imaging information from CCTA, although its incremental clinical value requires prospective validation.",
+ "title": "Association of pericoronary and epicardial adipose tissue thickness with coronary artery calcium score using cardiac computed tomography.",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Retrospective 1,032-patient study associating pericoronary and epicardial fat thickness with CAC score.",
+  "tags": [
+   "evidence",
+   "pericoronary",
+   "cac"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Tangential; no AI component."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42862448/"
+}

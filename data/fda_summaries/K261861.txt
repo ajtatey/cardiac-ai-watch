@@ -1,0 +1,614 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+September 15, 2026 
+ 
+MDsim S.A. 
+Dany Assaker 
+VP Q&R, QMR, PRRC, DPO 
+Av Des Hauts Fourneaux, 9 
+Esch-Sur-Alzette, 4362 
+Luxembourg 
+ 
+Re:  K261861 
+Trade/Device Name: SPINEsim v1.0 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  August 3, 2026 
+Received:  August 6, 2026 
+ 
+Dear Dany Assaker: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+
+K261861 - Dany Assaker Page 
+ 
+2 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+K261861 - Dany Assaker Page 
+ 
+3 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director, Imaging Software Team 
+DHT8B: Division of Radiological Imaging  
+and Radiation Therapy Devices 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+
+ FDA 510(K) Summary 
+FDA 510(K) Summary revised V6.docx 
+01_00_002_General Template Word Portrait format_V02 
+Printed version is not subject to change management. Always use the up-to-date document. 
+Page 1 of 10 
+FDA 510(K) Summary of SPINEsim v1.0. 
+I. SUBMITTER:
+MDsim S.A. 
+9, Av des Hauts Fourneaux 
+4362 Esch-sur-Alzette 
+Luxembourg 
+https://mdsim.health 
+MDsim Establishment Registration Number: LU34471821 (Identification), 2022 2204 381 
+Contact Person: 
+Dr Dany Assaker, PhD, eMBA 
+VP Q&R, PRRC 
+dany.assaker@mdsim.health 
++352 691 91 3695
+Date of Summary: Sept 12, 2026 
+II. DEVICE
+Subject: 510(k) Premarket Notification Submission 
+510(k) Number:  K261861 
+Submission Type:  Traditional 510(k)  
+Reason for the 510(k):  New device 
+Common Name:  SPINEsim v1.0 
+Trade Name / Proprietary Name: SPINEsim v1.0 
+Classification Name:  Automated Radiological Image Processing Software 
+Product Code:  QIH 
+Regulation Number:  892.2050 (automated radiological image processing software) 
+Classification: Class II 
+K261861
+ 
+ 
+                                             FDA 510(K) Summary 
+ 
+ 
+FDA 510(K) Summary revised V6.docx 
+01_00_002_General Template Word Portrait format_V02 
+Printed version is not subject to change management. Always use the up-to-date document. 
+Page 2 of 10 
+ 
+ 
+ 
+III. PREDICATE DEVICE 
+ 
+Predicate device:     Surgimap 2.0  
+510(k) Number:     K141669 
+Classification Name:    System, image processing, radiological 
+Product Code:     LLZ 
+Classification:     Class II 
+ 
+ 
+IV. DEVICE DESCRIPTION 
+ 
+SPINEsim v1.0 is a Software as a Medical Device (SaMD) developed by MDsim S.A. to assist Spine Surgeons 
+in generating a digital twin of the spine that can be used to visualize the patient’s spine data, compute key 
+spine parameters and, if needed, to plan spine surgery.  It is a web application and can be used at hospital 
+and/or home. 
+The device includes an initial AI proposal for landmarking and labeling of the spine medical DX/CR images. 
+SPINEsim v1.0 requests adjustment and validation by the spine surgeon of the proposed image analysis 
+before computing the spino-pelvic parameters, the Hounsfield units, and the spine shape changes between 
+supine and standup  positions. It also assists the surgeon in simulating the effect of surgical acts like 
+osteotomies, interbody cages, and vertebral reduction.   
+Clinical judgment and spine surgery experience are required to properly use the software to support 
+decision making. 
+ 
+V. INTENDED USE and INDICATIONS FOR USE 
+1. Intended Use 
+SPINEsim v1.0 is intended for assisting spine surgeons: 
+• Visualizing and analyzing medical images. 
+• Building a digital twin of the spine. 
+• Computing spine parameters. 
+• Using the digital twin and corresponding parameters to support clinical decision making. 
+• Use the digital twin to plan spine surgery. 
+• Comparing the simulated changes in parameters before and after various treatment options and between 
+different treatment options. 
+ 
+ 
+ 
+                                             FDA 510(K) Summary 
+ 
+ 
+FDA 510(K) Summary revised V6.docx 
+01_00_002_General Template Word Portrait format_V02 
+Printed version is not subject to change management. Always use the up-to-date document. 
+Page 3 of 10 
+ 
+ 
+The device includes the semi -automatic analysis, landmarking and labelling of spine’s anatomical bodies 
+as seen in medical images, and the computation of parameters which include spino-pelvic parameters.  
+Semi-automatic refers to the requested validation of the accuracy of the landmarking generated by our code 
+by the user (spine surgeon). 
+Clinical judgment and experience are required to properly use the software. 
+1.1. Medical Conditions, Indications and Contraindications 
+SPINEsim v1.0 is indicated when the patient has one of the following conditions (ICD -11 classification - 
+ICD-11 for Mortality and Morbidity Statistics (who.int)):  
+ 
+• Spinal deformities (FA70)  
+o Kyphosis (FA70.0)  
+o Scoliosis (FA70.1)  
+o Lordosis (FA70.2)  
+• Intervertebral disc degeneration (FA80)  
+• Spondylolysis (FA81) 
+• Spinal stenosis (FA82) 
+• Spondylolisthesis (FA84)  
+• Ankylosis of spinal joint (FB00)  
+• Sacralisation of the last lumbar vertebra (LB73.26) 
+• Lumbarisation of the first sacral vertebra (LB73.27) 
+ 
+and that the patient condition can be improved by conservative treatment and/or a spine surgery aiming at 
+correcting the spine alignment. 
+  
+Contraindications 
+• Patient not accepting the application of SPINEsim v1.0 for planning his/her surgery. 
+• Usage by non-trained clinicians. 
+• Incomplete and/or non-consistent medical data used as input. 
+• Medical images with inadequate formats, characteristics (e.g., field of views, pixel size, …) or artefacts. 
+• Patient with contraindications for fusion surgery. 
+ 
+1.2. Intended Patient Population 
+SPINEsim v1.0 is applicable to the medical images of all patients independently of their gender, weight, 
+height, BMI, ethnicity, skin type, nationality, habits (e.g. smoking). 
+The age group for which SPINEsim v1.0 is to be used is limited to adults (22 years old and greater). 
+ 
+ 
+ 
+                                             FDA 510(K) Summary 
+ 
+ 
+FDA 510(K) Summary revised V6.docx 
+01_00_002_General Template Word Portrait format_V02 
+Printed version is not subject to change management. Always use the up-to-date document. 
+Page 4 of 10 
+ 
+ 
+VI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE DEVICE 
+ 
+Both SPINEsim v1.0 and Surgimap 2.0 share the same intended use and technological characteristics. 
+  Subject Device:   
+SPINEsim v1.0 
+Primary Predicate:   
+Surgimap 2.0  
+Substantially equivalent?  
+Manufactur
+er  MDsim  Nemaris Inc.  -  
+510(k) 
+number  K261861 K141669  -  
+Device 
+Class  II  II  YES  
+Product 
+Code(s)  
+QIH (automated radiological image 
+processing software) 
+LLZ (System, Image Processing, 
+Radiological)  
+YES  
+K141669 is used as the 
+predicate since QIH and LLZ 
+are both product codes under 
+21 CFR 892.2050 
+Regulation 
+Description
+  
+Medical Image Management and 
+Processing System (MIMPS)  
+Picture Archiving and 
+Communication System (PACS)  
+YES  
+Both devices are classified 
+under 21 CFR 892.2050.  
+Regulation 
+Number  21 CFR §892.2050  21 CFR §892.2050  YES  
+Operating 
+System  Windows + MAC  Windows + MAC  YES  
+Software 
+Environme
+nt  
+Cloud-based software  Standalone application with a feature of cloud synchronization 
+YES  
+SPINEsim v1.0 is not a 
+standalone software as Surgi
+map 2.0. However, it does 
+not impact the intended 
+use and its substantial 
+equivalence to the predicate 
+device.   
+Input Data  
+Medical images X-Rays (standard or 
+EOS), CT, MRI. (DICOM or NIFTI)  
+General purpose images (like in 
+.png, .jpg, .jpeg, .bmp, .heic formats)  
+Information about the patient 
+(name, age, gender).  
+MRI, CT, X-Rays (DICOM) 
+Standard image formats (jpeg, 
+tiff, png) 
+YES  
+SPINEsim v1.0 includes the 
+use 
+of NIFTI format compared to S
+urgimap 2.0.  
+Obtaining 
+Images  Local  Local + PACS connectivity  YES  
+ 
+ 
+                                             FDA 510(K) Summary 
+ 
+ 
+FDA 510(K) Summary revised V6.docx 
+01_00_002_General Template Word Portrait format_V02 
+Printed version is not subject to change management. Always use the up-to-date document. 
+Page 5 of 10 
+ 
+ 
+SPINEsim v1.0 is not 
+connected to PACS 
+as Surgimap 2.0. However, 
+this reduction in functionality 
+does not impact the intended 
+use and its substantial 
+equivalence to the predicate 
+device.  
+Image 
+Manipulati
+on 
+Functions  
+Medical images display and basic 
+manipulation (e.g., zooming, 
+brightness, 
+contrast, resetting view, capturing 
+screenshot)   
+Medical images display and basic 
+manipulation (e.g., zooming, invert 
+black/white, brightness, gamma, 
+contrast, max contrast, auto level 
+image, rotate 90 Degrees, 
+Individual Degree Rotation, 
+flip vertically/ horizontally, fit to 
+screen, resetting view, 
+show/hide minimap, show/hide 
+text overlay, show/hide scout lines, 
+show/hide measurements, show 
+original image, opacity, 
+measurement rollback, modify 
+layout)  
+ 
+YES   
+Generic 
+Measureme
+nts  
+Distances, angles  
+Distances using line, pencil and 
+multi-line, angles, area 
+using circles, ellipses, 
+quad, and back surface metrics 
+YES  
+Surgimap 2.0 offers additional 
+instruments for 
+generic measurements; howev
+er, this reduction in 
+functionality does not impact 
+the intended use and 
+its substantial equivalence to 
+the predicate device.  
+Geometric 
+Anatomical 
+Measureme
+nts  
+Spine Measurements  
+Lower Limb Measurements  
+Spine Measurements  
+Lower Limb Measurements  
+YES  
+3D Bone 
+Visualizati
+on  
+Bone Density Relative Mapping 
+and 3D image reconstruction Conventional 3D ray‐casting   
+YES 
+Surgimap 2.0 provides similar 
+tool  
+Software 
+Functionali
+ties  
+  
+Automatically computes landmark
+s associated with vertebral 
+endplates, pelvis and lower limbs 
+needed to calculate coronal and 
+sagittal clinical parameters. These 
+Landmarks associated with 
+vertebral endplates and pelvis 
+are manually added.  
+YES  
+Surgimap 2.0 allows to obtain 
+landmarks based on the 
+clinician input. In SPINEsim 
+v1.0, since the automatically 
+ 
+ 
+                                             FDA 510(K) Summary 
+ 
+ 
+FDA 510(K) Summary revised V6.docx 
+01_00_002_General Template Word Portrait format_V02 
+Printed version is not subject to change management. Always use the up-to-date document. 
+Page 6 of 10 
+ 
+ 
+landmarks are adjustable by the 
+user.  
+generated landmarks must 
+be validated by the 
+clinician, this difference does 
+not impact the intended 
+use and its substantial 
+equivalence to the predicate 
+device.    
+Patient-specific clinical parameters 
+and calculations based on published 
+literature.  
+Patient-specific clinical parameters 
+and calculations based on 
+published literature.  
+YES  
+Display a target spine shape and 
+parameters (SAAS/GAP guidelines) 
+based on published literature  
+Display a target spine shape (SAAS 
+rule) based on published literature  YES  
+Surgical 
+Tools  
+Osteotomies (up to grade 
+IV), applying image morphing on 
+the removed part.   
+Instrumentation (screw, cages & 
+rod placement)  
+Osteotomies (open, close, wedge), 
+showing a black area on the 
+removed part.   
+Instrumentation (screws, cages & 
+rod placement)  
+YES  
+Applying image morphing 
+instead of displaying a black 
+area on the removed part does 
+not impact its substantial 
+equivalence to the predicate 
+device.  
+Database 
+(list of 
+implants) 
+/templatin
+g  
+Generic implants (screws, rod and 
+cages)  
+Generic implants and vendor 
+specific implant  
+YES  
+SPINEsim v1.0 
+only provides generic implants
+ and it does not include a list of 
+vendor implants 
+as Surgimap 2.0.  
+Human 
+interventio
+n for 
+interpretati
+on and 
+manipulati
+on of 
+images  
+Required  Required  YES  
+Control of 
+life-saving 
+devices  
+None  None  YES  
+Case 
+sharing  No  Yes  
+YES  
+SPINEsim v1.0 does not 
+support case sharing 
+as Surgimap 2.0. However, 
+this reduction in functionality 
+ 
+ 
+                                             FDA 510(K) Summary 
+ 
+ 
+FDA 510(K) Summary revised V6.docx 
+01_00_002_General Template Word Portrait format_V02 
+Printed version is not subject to change management. Always use the up-to-date document. 
+Page 7 of 10 
+ 
+ 
+does not impact the intended 
+use and its substantial 
+equivalence to the predicate 
+device.  
+Indication 
+for use  
+1. Intended Use 
+SPINEsim v1.0 is intended 
+for assisting spine surgeons:   
+• Visualizing and analyzing medical 
+images.  
+• Building a digital twin of the spine. 
+• Computing spine parameters.   
+• Using the digital 
+twin and corresponding 
+parameters to support clinical 
+decision making; 
+• Use the digital twin to plan spine 
+surgery.  
+• Comparing the simulated changes 
+in parameters before and after 
+various treatment options and 
+between different treatment    
+options.   
+The device includes the semi-
+automatic analysis, landmarking and 
+labelling of spine’s anatomical 
+bodies as seen in medical images, 
+and the computation of parameters 
+which include spino-pelvic 
+parameters.  
+Semi-automatic refers to the 
+requested validation of the accuracy 
+of the landmarking generated by our 
+code by the user (spine surgeon).  
+Clinical judgment and experience 
+are required to properly use  the 
+software. 
+1.1. Medical 
+Conditions, Indications and 
+Contraindications  
+SPINEsim v1.0 is indicated when the 
+patient has one of the following 
+conditions (ICD -11 classification - 
+ICD-11 for Mortality and Morbidity 
+Statistics (who.int)):   
+• Spinal deformities (FA70)   
+o Kyphosis (FA70.0)   
+o Scoliosis (FA70.1)   
+The Surgimap software assists heal
+thcare professionals in viewing, 
+storing, and measuring images as 
+well as planning orthopedic 
+surgeries. The device allows 
+service providers to perform 
+generic as well as specialty 
+measurements of the images, and 
+to plan surgical procedures. The 
+device also includes tools for 
+measuring anatomical 
+components for placement of 
+surgical implants, and offer online 
+synchronization of the database 
+with the possibility to share data 
+among Surgimap users. Clinical 
+judgment and experience 
+are required to properly use the 
+software.  
+YES  
+SPINEsim v1.0 and Surgimap 
+2.0 have the same general 
+purpose. Surgimap 2.0 
+describes this purpose broadly 
+for orthopedic surgeries, 
+whereas SPINEsim v1.0 
+provides a more specific 
+application for spine surgeons, 
+including defined medical 
+conditions, indications, and 
+intended patient population. 
+This additional specificity 
+narrows the intended clinical 
+scope and does not introduce 
+a new intended use or raise 
+different questions of safety 
+and effectiveness. 

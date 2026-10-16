@@ -1,0 +1,431 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+August 4, 2026 
+ 
+ 
+3diemme Srl 
+℅ Alesandro Avis 
+Quality and Regulatory Supervisor 
+Via Risorgimento 9 
+CANTÙ, 21047 
+ITALY 
+ 
+Re:  K253902 
+Trade/Device Name: RealGUIDE 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH, LLZ 
+Dated:  December 23, 2025 
+Received:  December 23, 2025 
+ 
+Dear Alesandro Avis: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+ 
+
+K253902 - Alesandro Avis Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K253902 - Alesandro Avis Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+      for 
+ 
+ 
+Lu Jiang, Ph.D. 
+Assistant Director 
+Diagnostic X-Ray Systems Team 
+DHT8B: Division of Radiological Imaging  
+ Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+Digitally signed 
+by GABRIELA M. 
+RODAL -S
+
+RealGUIDE® Software 
+Traditional 510(k) - Device Modification 
+510(k) Summary 
+Medical Device 
+Class II 
+K253902  
+Latest revision date: 30/07/2026 Pag. 1 of 5 
+3DIEMME S.r.l.
+ 
+P.IVA 02938110133
+www.3diemme.it
+support@3diemme.it
+Registered Office: 
+Via Risorgimento,9 
+22063 Cantù – (CO)  
+Italia  
+Operative Headquarters: 
+Via Delle Baraggette,10 
+22060 Figino Serenza – (CO) 
+Italia 
+Phone: 
++39 031 7073353
+Page 1 of 5 
+1 Submitter 
+3DIEMME Srl 
+Via Risorgimento 9 22063 Cantù (CO) 
+Italy 
+Contact person: Alessandro Avis 
+Role: Quality & Regulatory Supervisor 
+Phone: +39.031.7073353 
+Fax: +39.031.710284 
+Email: avis@3diemme.it 
+US agent: Ruth Lopez 
+BIOMET 3I 
+Palm Beach Gardens 
+4555 Riverside Drive 
+Palm Beach Gardens,  FL  33410, United States 
+Phone: 561 7766700  
+Email: 3ipbg-Regulatoryaffairs@Zimvie.Com 
+2 Subject device 
+Proprietary Name: RealGUIDE 
+Classification Name: Medical Image Management And Processing System 
+Common Name: Automated Radiological Image Processing Software 
+Regulation: 892.2050 
+Primary Product Code: QIH 
+Additional Product Code(s): LLZ
+3 Predicate device 
+Name of Device: 3Diemme RealGUIDE 
+Manufacturer: 3Diemme 
+K Number: K173041 
+Product Code: LLZ    
+Reference Device #1:  
+Name of Device: Relu Creator 
+Manufacturer: Relu BV 
+K Number: K233925 
+Product Code: QIH   
+RealGUIDE® Software 
+Traditional 510(k) - Device Modification 
+510(k) Summary 
+Medical Device 
+Class II 
+K253902  
+Latest revision date: 30/07/2026 Pag. 2 of 5 
+3DIEMME S.
+r.l. 
+P.IVA 02938110133
+www.3diemme.it
+support@3diemme.it
+Registered Office: 
+Via Risorgimento,9 
+22063 Cantù – (CO)  
+Italia  
+Operative Headquarters: 
+Via Delle Baraggette,10 
+22060 Figino Serenza – (CO) 
+Italia 
+Phone: 
++39 031 7073353
+Page 2 of 5 
+Reference Device #2:  
+Name of Device: Atomica Planner 
+Manufacturer: Atomica Technology, Inc. 
+K
+ Number: K230012 
+Product Code: LLZ   
+4 Device description 
+RealGUIDE is a stand-alone software that supports all the common 3D medical imaging functionalities used 
+by professional doctors to support their diagnosis. It includes various Volume and IsoSurface rendering, 
+segmentation tools, masking and sculpting, MPR, 2D and 3D measurement and analysis tools. Since 2D 
+imaging is still an important feature, it is possible to switch with a single click to a 2D view, use an even 
+more sophisticated MPR view or switch back to the 3D view.   
+RealGUIDE is characterized by its intuitive user interface, 2D, MPR and 3D imaging, prime image quality and 
+extensive visualization options, fast image rendering, measurement and analysis tools, and easy integrated 
+reporting. The software is integrating all the surface and volume modelling tools necessary to integrate the 
+diagnostic and virtual planning functions to any CAD/CAM and rapid prototyping system for further 
+processing and manufacturing.  
+The output format of the software is a STL file, mainly focused on dental surgery. A list of the possible 
+devices that can be modelled with the software is reported below:  
+• Surgical guides for endosseous dental implants
+• Bone graft models for mandible/maxilla regenerative procedures
+• Dental and maxillofacial prosthesis
+RealGUIDE Software is available for digital download or via web browser. When used on a local computer, 
+the software is installed on the user’s machine and run on its hardware. When used via browser, the user 
+accesses the version available for all users, installed on the server. 
+Each desktop user has to install a version of RealGUIDE while browser users can access the version available 
+on the server through their preferred internet application. A brief example of user access is given in the 
+following diagram. 
+5 Indications for use 
+RealGUIDE is a stand-alone software indicated for the preparation of patient specific treatment planning by 
+professional user and, in particular, it must be used by dental clinician, general practitioner (DDS) dentist, 
+or specialist such as, a Periodontist or Oral Sur-geon. The software is indicated for use on patients that 
+require dental implant placement planning, prosthesis modelling and endodontic treatments connected to 
+the endosseous dental implant placement. RealGUIDE is, in further detail, indicated for: 
+RealGUIDE® Software 
+Traditional 510(k) - Device Modification 
+510(k) Summary 
+Medical Device 
+Class II 
+K253902  
+Latest revision date: 30/07/2026 Pag. 3 of 5 
+3DIE
+MME S.r.l. 
+P.IVA 02938110133
+www.3diemme.it
+support@3diemme.it
+Registered Office: 
+Via Risorgimento,9 
+22063 Cantù – (CO)  
+Italia  
+Operative Headquarters: 
+Via Delle Baraggette,10 
+22060 Figino Serenza – (CO) 
+Italia 
+Phone: 
++39 031 7073353
+Page 3 of 5 
+- Viewing in 2D/3D patient images and processing them (DICOM or STL), including volume editing
+an
+d measurement
+- Segmenting bone, nerve canal and teeth
+- Vi
+rtually positioning dental implants
+- Designing templates for endosseous dental implant guided placement
+- Mo
+delling reconstructive devices, such as bone grafts and grids
+- Desi
+gning dental prosthetics, such as crown, bridges and dentures
+- Saving dental surgery template’s or prostheses’ design to file
+RealGUIDE software allows for endosseous dental implant surgical guide and prosthetic component file 
+creation (*.STL) for the user to further process with specific CAD systems before export to validated 
+manufacturing centers or to the point of care. Manufacturing at the point of care requires a validated 
+process using CAM equipment (additive manufacturing system, including software and associated tooling) 
+and compatible material (biocompatible and sterilizable). 
+The software is not intended to perform automatic diagnosis and to control the manufacture of devices. 
+6 Comparison of technological characteristics with the predicate device 
+The software functions available in RealGUIDE are designed to give the user tools 
+- to visualize DICOM images for diagnostic purpose. Based on the image’s characteristics, the user
+wil
+l base his clinical decisions. In this circumstance, RealGUIDE is only capable of visualizing the
+images, givin
+g the user the ability to set filers and remove unwanted parts of it from the field.
+- To
+ virtually place implants within the DICOM images, to plan the dental guided surgery to be
+performed in a later stage. Given the fact that RealGUIDE is intended to drive clinical management
+o
+nly, thus aid in diagnosis and treatment, the information it provides is necessary for the next
+treatment intervention. Implant position and surgery are always the responsibility of the qualified
+professional carrying out the surgery. RealGUIDE does not provide diagnosis.
+- To virtually design the surgical guide for dental guided surgery. The characteristics of the guide are
+always based on the previous implant planning and on the anatomical features detected with the
+d
+iagnostic imaging systems.
+- To virtually model the prothesis. Crown or dental prosthesis modelling is always based on previous
+implant planning.
+The device under evaluation is an update of the predicate device, with two major characteristics: 
+1. Creation of a specific version of RealGUIDE WEB to be installed on a server, functionally equivalent
+t
+o the existing desktop version, and to be accessed by the user from a web browser.
+2. Introdu
+ction of AI/ML based algorithms to limited functions, currently only available in manual
+mode.
+The AI/ML algorithms introduced are locked and the device cannot learn from the data it is provided with, 
+once it has been released to the market. 
+RealGUIDE® Software 
+Traditional 510(k) - Device Modification 
+510(k) Summary 
+Medical Device 
+Class II 
+K253902  
+Latest revision date: 30/07/2026 Pag. 4 of 5 
+3DIE
+MME S.r.l. 
+P.IVA 02938110133
+www.3diemme.it
+support@3diemme.it
+Registered Office: 
+Via Risorgimento,9 
+22063 Cantù – (CO)  
+Italia  
+Operative Headquarters: 
+Via Delle Baraggette,10 
+22060 Figino Serenza – (CO) 
+Italia 
+Phone: 
++39 031 7073353
+Page 4 of 5 
+A comparison with the predicate device and reference devices shows that the technological characteristics 
+of the devices are similar.  
+Feature  RealGUIDE 3Diemme 
+RealGUIDE 
+Relu Creator Atomica 
+Planner 
+510(k) number - K173041 K233925 K230012
+DICOM 2D/3D 
+reconstruction 
+Yes Yes Yes Yes 
+Panoramic image 
+reconstruction 
+Yes Yes No 
+Segmentation of anatomy 
+and dentures (nerve canals, 
+bone, crown, teeth) 
+Yes Yes Yes Yes 
+Import and matching STL 
+files 
+Yes Yes Yes Yes 
+Implant planning from 
+library 
+Yes Yes No Yes 
+Teeth setup Yes Yes No Yes 
+Surgical guides design Yes Yes No Yes 
+Model design Yes Yes Yes Yes 
+Prosthesis design Yes Yes No No 
+Freeform modelling & 
+design 
+Yes Yes No Yes 
+Virtual articulator Yes Yes No No 
+AI/ML enabled 
+functionality 
+Yes No Yes Yes 
+PC version Yes Yes No Yes 
+Mac version Yes Yes No No 
+Mobile version Yes Yes No No 
+WEB version Yes No Yes No 
+Overall, the technological characteris tics of the subject device are the same of the predicate and reference 
+devices. The new features of the subject device are eq uivalent to the ones already available on reference 
+devices such as Relu (WEB version) and Atomica (AI/ML functions). 
+7 Performance data 
+Non-clinical data submitted or referenced to demonstrate substantial equivalence included: 
+• Software verification & validation results
+• AI/ML validation
+RealGUIDE® Software 
+Traditional 510(k) - Device Modification 
+510(k) Summary 
+Medical Device 
+Class II 
+K253902  
+Latest revision date: 30/07/2026 Pag. 5 of 5 
+3DIEMME S
+.r.l. 
+P.IVA 02938110133
+www.3diemme.it
+support@3diemme.it
+Registered Office: 
+Via Risorgimento,9 
+22063 Cantù – (CO)  
+Italia  
+Operative Headquarters: 
+Via Delle Baraggette,10 
+22060 Figino Serenza – (CO) 
+Italia 
+Phone: 
++39 031 7073353
+Page 5 of 5 
+The software under evaluation is th e subsequent update of the previous ly marketed version of Re alGUIDE 
+(K152078), being considered as predicate device. 
+Testing demonstrates the implemented functions perform as intended, and differences between the Device 
+and the predicates do not raise additional concerns with the Device’s safety and effectiveness. 
+8 Conclusion 
+For the purpose of demonstrating the substantial equivalence of RealGUIDE (subject device) to already 
+cleared and marketed devices, the following aspects have been considered. 
+- Indications for use:  no substantial difference in intended user, medical application and patien t
+population.
+- Principle of operation: to perform image processing, virtual dental implant positioning, surgical
+guide design and prosthetic modelling the software works on a proprietary algorithm using
+commonly available libraries and self-developed software code. With no changes to the software
+architecture to implement the new function, the subject device now has two different ways (manual
+and automatic) of performing a function that was already available. Thus, no substantial change to
+the operating principle has been made
+- Software features: the main functions of the subject device, with respect to the predicate devices
+have remained unchanged. The addition of the web based application to access the se rver
+installation of RealGUIDE does not represent a ch ange affecting safety and effectiveness of the
+device. All AI/ML based functions were already available in RealGUIDE, to be performed only
+manually.
+- Primary product Code (QIH): the change is administrative, considering the Product Code is belonging 
+to the same regulations. No change in risk classi fication. The difference in product code reflect the
+presence of AI/ML enabled functions that have been introduced to the Radiological Image Processing 
+System (LLZ) previously cleared, and considered as Predicate Device.
+Based on the comparison of intended use, indications, principle of operations, features, technical data and 
+the test results, the RealGUIDE software is thought to be substantially equivalent in safety and effectiveness 
+to the predicate and reference devices listed. 

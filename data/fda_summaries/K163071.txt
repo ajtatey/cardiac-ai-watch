@@ -1,0 +1,188 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+__________________________________________________________________________________________________________________________
+Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Center – WO66-G609
+Silver Spring, MD 20993-0002
+Elucid Bioimaging, Inc. 
+Ə0U$QGUHZ%XFNOHU
+President and CEO 
+225 Main Street 
+Suite 15 
+WENHAM MA  01984  
+Re: K163071 
+Trade/Device Name: vascuCAP
+Regulation Number:  21 CFR 892.2050 
+Regulation Name: Picture archiving and communications system
+Regulatory Class:  II
+Product Code:  LLZ 
+Dated:  May 18, 2017 
+Received:  May 19, 2017 
+Dear Mr. Buckler:
+We have reviewed your Section 510(k) premarket notification of intent to market the device 
+referenced above and have determined the device is substantially equivalent (for the indications 
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate 
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to 
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug, 
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).  
+You may, therefore, market the device, subject to the general controls provisions of the Act.  The 
+general controls provisions of the Act include requirements for annual registration, listing of 
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration.  Please note:  CDRH does not evaluate information related to contract liability 
+warranties.  We remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), 
+it may be subject to additional controls.  Existing major regulations affecting your device can be 
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898.  In addition, FDA may 
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean 
+that FDA has made a determination that your device complies with other requirements of the Act 
+or any Federal statutes and regulations administered by other Federal agencies.  You must 
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21 
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical 
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set 
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic 
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. 
+.BZ
+Page 2— Mr. Andrew Buckler 
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please 
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638 2041 
+or (301) 796-7100 or at its Internet address 
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.  Also, please note 
+the regulation entitled, “Misbranding by reference to premarket notification” (21 CFR Part 
+807.97).  For questions regarding the reporting of adverse events under the MDR regulation (21 
+CFR Part 803), please go to 
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office 
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the 
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) 
+796-7100 or at its Internet address 
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+Sincerely yours,
+Robert Ochs, Ph.D. 
+Director
+Division of Radiological Health
+Office of In Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+Enclosure 
+'PS
+yy ,
+
+FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: January 31, 2017
+See PRA Statement below.
+510(k) Number (if known)
+K163071
+Device Name
+vascuCAP
+Indications for Use (Describe)
+vascuCAP is a medical image analysis system that allows the processing, review, analysis, communication and media 
+interchange of multi-dimensional digital images acquired with contrast from CT imaging devices.  
+vascuCAP is intended to assist trained physicians in the stratification of patients identified to have atherosclerosis. The 
+software post processes images obtained using a multidetector CT.  The package provides tools for the measurement and 
+visualization (color coded maps) of arterial vessels  4.5mm in diameter.   
+Clinicians can select any artery to view the following anatomical references: the highlighted vessel in 3D, two rotatable 
+curved MPR vessel views displayed at angles orthogonal to each other, and cross sections of the vessel.  Cross-sectional 
+measurements can be obtained using standard vascuCAP software measuring tools.  Clinicians can semi-automatically 
+determine contrasted lumen boundaries, stenosis measurements, and maximum and minimum lumen diameters.  In 
+addition, clinicians can edit lumen boundaries and examine Hounsfield unit or signal intensity statistics.  Clinicians can 
+also manually measure vessel length along the centerline in standard curved MPR views.  
+The measurements provided by vascuCAP are not intended to provide a diagnosis or clinical recommendations. 
+vascuCAP is intended as a tool to complement standard of care.  
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.”
+ ____________________________________________________________________________________________  
+                  1 
+510(K) SUMMARY 
+ 
+510(k) SUMMARY 
+510(k) submitter:  
+ 
+Elucid Bioimaging, Inc. 
+225 Main Street, Suite 15 
+Wenham, MA  01984 
+ 
+Ph. 978-468-0508 
+Fax: 978-468-0527 
+ 
+Contact person:    Andrew J. Buckler, President and CEO, Elucid Bioimaging Inc. 
+ 
+Date prepared:   
+ 
+Device: 
+Name of device:  vascuCAP™ 
+Common or usual name: Image processing system 
+Classification name:  Picture archiving and communications system 
+Regulatory class:   II 
+Product code:   LLZ 
+Predicate device: 
+Vital Images, Inc. Vitrea Version 4.0 (K071331) 
+Device Description: 
+vascuCAP is an image analysis software package for evaluating CT images of arterial vessels ≥ 
+4.5mm in diameter .  It allows the processing, review, analysis, communic ation, and media 
+interchange of multi-dimensional digital images acquired from CT scanners. vascuCAP provides 
+multi-dimensional visualization of digital images to aid clinicians in their analysis of anatomy and 
+tissue characteristics.  The vascuCAP softwar e application user interface follows typical clinical 
+workflow patterns to process, review, and analyze digital images. 
+Intended Use:  
+vascuCAP is a medical image analysis  system that allows the processing, review, analysis, 
+communication and media interch ange of multi -dimensional digital images acquired  with 
+contrast from CT imaging devices.  
+vascuCAP is intended to assist trained physicians in the stratification of patients identified to 
+have atherosclerosis. The software post processes images obtained us ing a multidetector CT.  
+The package provides tools for the measurement and visualization (color coded maps) of 
+arterial vessels ≥ 4.5mm in diameter.   
+Clinicians can select any artery to view the following anatomical references: the highlighted 
+vessel in 3D, two rotatable curved MPR vessel views displayed at angles orthogonal to each 
+other, and cross sections of the vessel.  Cross -sectional measurements can be obtained using 
+ATTACHMENT 2
+ ____________________________________________________________________________________________  
+                  2 
+standard vascuCAP software measuring tools.  Clinicians can semi -automatically determine 
+contrasted lumen boundaries, stenosis measurements, and maximum and minimum lumen 
+diameters.  In addition, clinicians can edit lumen boundaries a nd examine Hounsfield unit or 
+signal intensity statistics.  Clinicians can also manually measure vessel length along the 
+centerline in standard curved MPR views.  
+The measurements provided by vascuCAP are not intended to provide a diagnosis or clinical 
+recommendations. vascuCAP is intended as a tool to complement standard of care.  
+Technological Characteristics Comparing to the Predicate:  
+The vascuCAP has all the same technological characteristics and features as the Vitrea, 
+Version 4.0, but the predicate Vitrea device has broader applications and, therefore, additional 
+features.  Specifically, vascuCAP processes and reviews, and analyzes images from CT 
+scanners and not other modalities, and vascuCAP images arterial vessels ≥ 4.5mm in diameter, 
+whereas the Vitrea images various anatomies including vessels.    Additionally, vascuCAP does 
+not have a post-processing application for assessment of the heart and is not intended for use 
+with the St. Jude Ensite system. 
+Performance Data:  
+Software verification and validation: Software verification and validation consistent with FDA 
+guidance on “General Principles of Software Validation” was conducted, comprising quality 
+planning, requirements analysis, design reviews, software construction, and testing. Verification 
+testing addressed installation and operation qualification, demonstrating that the product meets 
+defined system requirements and features.  Validation testing using phantom and clinical 
+images was conducted to address performance qualification of the subject device under typical 
+operating conditions.  
+Conclusions:  
+Based on software verification and validation comprising bench and clinical testing under typical 
+operating conditions, Elucid Bioimaging concludes that vascuCAP is as safe and effective as 
+the predicate device for the intended use. 
+  
+ 
+ 

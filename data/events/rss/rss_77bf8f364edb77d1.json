@@ -1,0 +1,45 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:22+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "Cardiovascular Business",
+  "query": "site:cardiovascularbusiness.com AI"
+ },
+ "id": "rss:77bf8f364edb77d1",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [
+   "cardiovascular"
+  ],
+  "companies": [
+   "siemens"
+  ],
+  "keep": true,
+  "score": 7
+ },
+ "published": "2026-10-12",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "Siemens Healthineers doubles down on cardiovascular care as it exits general imaging ultrasound business &nbsp;&nbsp; Cardiovascular Business",
+ "title": "Siemens Healthineers doubles down on cardiovascular care as it exits general imaging ultrasound business - Cardiovascular Business",
+ "triage": {
+  "companies": [
+   "siemens"
+  ],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "Siemens Healthineers is exiting the general imaging ultrasound business and redirecting investment toward cardiovascular care and procedural ultrasound (Cardiovascular Business, 2026-10-12).",
+  "tags": [
+   "market",
+   "scanner-vendor",
+   "strategy"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Signals Siemens concentrating resources on cardiology, where it already has coronary CT analysis software. Worth watching for cardiac AI acquisitions or partnerships."
+ },
+ "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUGN3Y0NBNlpCWk9CQ1lkT3ZnRHZtbWd5NDBMMk0tM1hGUWZ0N3BlbjFnRUpMV2M5Z0k1S1Z6aWRvcG16OVF1VWFzOWRmTW5WRTE0c01PVmExZDJlOGNjTWl0ajVnRGVzaEpYa1JIaTlhQkJXWWJjTUFyS0JrMEpTRkRTd0pKSjI2T01KQTVrS3ZpN3FsWnpmV1hxcy1DYWZEYjZMVG9GNnluclJrZDJySFBQVF9BMXVXZkdueHZ1U1pZS1V1eUoxeC1sclZKYldNVjd4M1BTMXJWcWFRUGpRU0p2ekpBS0ZLcjFjYjVzRWdlaTFjZ3Frb0N6dTdoT0pBRFZB?oc=5"
+}

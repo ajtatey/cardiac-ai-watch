@@ -1,0 +1,65 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Cardiac Arrhythmia Center, Fuwai Hospital, National Center for Cardiovascular Diseases, National Key Laboratory, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+   "Cardiac Arrhythmia Center, Fuwai Hospital, National Center for Cardiovascular Diseases, National Key Laboratory, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+   "Cardiac Arrhythmia Center, Fuwai Hospital, National Center for Cardiovascular Diseases, National Key Laboratory, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+   "Cardiac Arrhythmia Center, Fuwai Hospital, National Center for Cardiovascular Diseases, National Key Laboratory, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+   "Cardiac Arrhythmia Center, Fuwai Hospital, National Center for Cardiovascular Diseases, National Key Laboratory, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China."
+  ],
+  "authors": [
+   "Liu L",
+   "Chen A",
+   "Liu L",
+   "Maimaitijiang P",
+   "Wang X",
+   "Zheng L"
+  ],
+  "doi": "10.21037/jtd-2026-1700",
+  "journal": "Journal of thoracic disease",
+  "pub_types": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ "id": "pubmed:42865761",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b",
+   "automat"
+  ],
+  "cardiac": [
+   "cardiac",
+   "\\bheart\\b",
+   "echocardiog"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 9
+ },
+ "published": "2026-08-31",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Journal of thoracic disease. Liu L, Chen A, Liu L, Maimaitijiang P, Wang X, Zheng L. The congestive heart failure, hypertension, age ≥75 years, diabetes, stroke, vascular disease, age 65-74 years, sex category (CHA2DS2-VASc) score is fundamental for assessing thromboembolic risk in atrial fibrillation (AF). However, its limitations arise from relying solely on clinical parameters, without considering individual cardiac structural and functional changes. This review aims to explore the development and implementation of multimodal risk prediction models that integrate echocardiographic parameters with clinical data and biomarkers to achieve a more precise and individualized risk assessment. A comprehensive literature search was conducted using relevant electronic databases (e.g., PubMed, Web of Science and Embase) to identify studies focusing on echocardiographic parameters, AF, and thromboembolic risk prediction models published up to May 2026. Echocardiographic parameters evaluating the left atrium and left atrial appendage (LAA; size, function, and morphology) have emerged as significant predictors of both prevalent thrombus formation and future thromboembolic events. This review details these key parameters and critically assesses various multimodal approaches, including those combining clinical-echocardiographic scores with artificial intelligence (AI) techniques. Importantly, these models demonstrate enhanced predictive accuracy for specific clinical endpoints over traditional clinical scores. Utilizing a multimodal approach provides a promising supplementary tool for refined risk assessment, rather than replacing guideline-based anticoagulation decisions. Future directions should focus on standardizing echocardiographic measurements, expanding the use of AI for automated analysis, and conducting prospective interventional trials to confirm clinical benefit.",
+ "title": "Echocardiography-based multimodal models for thromboembolic risk prediction in atrial fibrillation: a narrative review.",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 1,
+  "summary": "Narrative review of echo-based multimodal models for thromboembolic risk in AF.",
+  "tags": [
+   "evidence",
+   "echo",
+   "review"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Peripheral."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42865761/"
+}

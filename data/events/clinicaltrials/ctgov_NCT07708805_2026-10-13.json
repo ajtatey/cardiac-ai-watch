@@ -1,0 +1,56 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "conditions": [
+   "Coronary Artery Disease",
+   "Chronic Coronary Syndrome"
+  ],
+  "interventions": [
+   "stress SPECT/CT",
+   "rest SPECT/CT"
+  ],
+  "nct_id": "NCT07708805",
+  "new_registration": false,
+  "sponsor": "Centre Hospitalier Régional d'Orléans",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT07708805:2026-10-13",
+ "prefilter": {
+  "ai": [
+   "quantif"
+  ],
+  "cardiac": [
+   "coronar",
+   "ct angiograph",
+   "myocard",
+   "cardiolog",
+   "\\bspect\\b"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 11
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status RECRUITING. Sponsor: Centre Hospitalier Régional d'Orléans. Conditions: Coronary Artery Disease, Chronic Coronary Syndrome. Interventions: stress SPECT/CT, rest SPECT/CT. Type INTERVENTIONAL, enrollment 30. Start 2026-09-21, primary completion 2027-09-25. Myocardial perfusion single-photon emission computed tomography (SPECT) is a well-established functional imaging technique for the assessment of coronary artery disease. Recent developments in cadmium-zinc-telluride (CZT) camera technology have enabled significant reductions in acquisition time while improving image quality. Positron emission tomography (PET) myocardial imaging remains the reference standard for the quantitative assessment of myocardial blood flow (MBF) and myocardial flow reserve (MFR); however, its use is limited by high costs and restricted availability. This exploratory study aims to evaluate the feasibility of using CZT-SPECT/CT imaging as an alternative approach by assessing the absolute quantification of myocardial tracer uptake, expressed as standardized uptake values (SUV), both at rest and during stress. The primary objective is to compare the ratio of stress-to-rest SUV obtained from SPECT with MFR values measured using PET imaging. Patients under cardiology care at the University Hospital of Orléans who are scheduled for diagnostic coronary angiography or coronary CT angiography will be invited to participate. The study procedures will be integrated into their routine clinical workflow. On Day 0, participants will undergo a PET myocardial perfusion study using Rubidium-82, including measurement of MBF and MFR, with concomitant administration of 99mTc-tetrofosmin under pharmacological stress using the same vasodilator agent. A stress CZT-SPECT/CT acquisition will then be performed immediately after the PET scan. Within seven days of the initial evaluation, participants will undergo a rest CZT-SPECT/CT acquisition. Quantitative analysis of myocardial tracer uptake will subsequently be performed to derive SUV values. The overall goal of this feasibility study is to generate preliminary data to support the design of a larger-scale clinical study. Ultimately, the study seeks to determine whether standard CZT-SPECT/CT imaging could provide a simpler, faster, and more widely accessible alternative to PET myocardial perfusion imaging for functional myocardial assessment.",
+ "title": "Quantitative Myocardial Perfusion Imaging Assessment by SPECT/CT (NCT07708805)",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Quantitative myocardial perfusion SPECT/CT study (30 patients) updated.",
+  "tags": [
+   "trial",
+   "spect",
+   "perfusion"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Peripheral."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT07708805"
+}

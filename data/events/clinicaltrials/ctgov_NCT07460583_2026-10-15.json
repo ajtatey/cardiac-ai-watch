@@ -1,0 +1,57 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "conditions": [
+   "Coronary Atherosclerosis Due to Calcified Coronary Lesion"
+  ],
+  "interventions": [
+   "Coronary CTA"
+  ],
+  "nct_id": "NCT07460583",
+  "new_registration": false,
+  "sponsor": "Baylor Research Institute",
+  "status": "NOT_YET_RECRUITING"
+ },
+ "id": "ctgov:NCT07460583:2026-10-15",
+ "prefilter": {
+  "ai": [
+   "\\bai\\b"
+  ],
+  "cardiac": [
+   "coronar",
+   "cardiac",
+   "\\bheart\\b",
+   "ct angiograph",
+   "atheroscler"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 11
+ },
+ "published": "2026-10-15",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status NOT_YET_RECRUITING. Sponsor: Baylor Research Institute. Conditions: Coronary Atherosclerosis Due to Calcified Coronary Lesion. Interventions: Coronary CTA. Type INTERVENTIONAL, enrollment 100. Start 2027-01-28, primary completion 2027-01-31. AI-Guided Coronary CT Angiography Screening in Former High-Intensity Athletes",
+ "title": "ProActive Athlete Heart Program: Proposal for Cardiac Risk Screening in Former High-Intensity Athletes (NCT07460583)",
+ "triage": {
+  "companies": [
+   "cleerly"
+  ],
+  "priority": "P2",
+  "relevance": 4,
+  "summary": "Baylor Research Institute registered an AI-guided CCTA screening study in 100 former high-intensity athletes (NCT07460583, not yet recruiting, start 2027-01).",
+  "tags": [
+   "trial",
+   "ccta",
+   "ai-qct",
+   "screening"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "'AI-guided coronary CT angiography' matches Cleerly's AI-QCT positioning; confirm whether Cleerly is the analysis platform and track as a screening-market signal."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT07460583"
+}

@@ -1,0 +1,345 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          Doc ID# 04017.03.04  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tianjin Medis Medical Device Co., Ltd. 
+℅ Diana Hong 
+General Manager 
+Mid-Link Consulting Co., Ltd 
+P.O. Box 120-119 
+Shanghai, China, 200120 
+ 
+Re:  K182548 
+Trade/Device Name: Accucuff Cuff Pressure Indicator 
+Regulation Number:  21 CFR 868.5750 
+Regulation Name:  Inflatable Tracheal Tube Cuff 
+Regulatory Class:  Class II 
+Product Code:  BSK 
+Dated:  September 7, 2018 
+Received:  September 17, 2018 
+ 
+Dear Diana Hong: 
+ 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+
+K182548 - Diana Hong Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good 
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820) 
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if 
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice 
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn 
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and 
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website 
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone 
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+Tina Kiang, Ph.D.
+Acting Director
+Division of Anesthesiology,
+General Hospital, Respiratory,
+Infection Control, and Dental Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+Enclosure 
+IRU
+Todd D. Courtney -S
+FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2020
+See PRA Statement below.
+510(k) Number (if known)
+K182548
+Device Name
+Accucuff Cuff Pressure Indicator
+Indications for Use (Describe)
+The Accucuff Cuff Pressure Indicator is intended to monitor intra-cuff pressures of endotracheal, supraglottic airways or 
+tracheostomy tubes. The device is indicated for the patients from pediatric to adult who have an artificial airway and for 
+which the user would like to monitor cuff pressure.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete  
+and review the collection of information. Send comments regarding this burden estimate or any other aspect  
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.”
+K182548   S001                             E2 510(k) Summary 
+ 1 / 6 
+ 
+510(k) Summary 
+ 
+This 510(k) Summary is being submitted in accordance with requirements of Title 21, CFR Section 807.92.  
+ 
+The assigned 510(k) Number:  K182548   
+ 
+1. Date of Preparation: 12/26/2018 
+ 
+2. Sponsor Identification 
+ 
+Tianjin Medis Medical Device Co., Ltd. 
+No.15-A, Saida One Avenue, Xiqing Economic Development Area, Tianjin, P.R. China 
+ 
+Establishment Registration Number: 3004992992 
+ 
+Contact Person: Yongzhi Wu 
+Position: Quality Manager 
+Tel: +86- 13920213115 
+Fax: +86-22- 83988486 
+Email: wuyongzhi3115@126.com  
+ 
+3. Designated Submission Correspondent 
+ 
+Ms. Diana Hong (Primary Contact Person) 
+Ms. Ying Xu (Alternative Contact Person) 
+ 
+Mid-Link Consulting Co., Ltd 
+P.O. Box 120-119, Shanghai, 200120, China 
+ 
+Tel: +86-21-22815850,  
+Fax: 360-925-3199 
+Email: info@mid-link.net 
+ 
+K182548   S001                             E2 510(k) Summary 
+ 2 / 6 
+ 
+ 
+4. Identification of Proposed Device 
+ 
+Trade Name: AccucuffTM Cuff Pressure Indicator 
+Common Name: Cuff Pressure Indicator 
+ 
+Regulatory Information 
+ 
+Classification Name: Cuff, Tracheal Tube, Inflatable 
+Classification: II; 
+Product Code: BSK 
+Regulation Number: 21CFR 868.5750 
+Review Panel: Anesthesiology 
+ 
+Device Description 
+ 
+The AccucuffTM Cuff Pressure Indicator  is intended to monitor the cuff pressure of endotracheal , 
+supraglottic airways or tracheost omy tubes. It is designed with different color coded zones to indicate 
+the normal, negative and positive pressure. The black marker on the device will be moved when the cuff 
+pressure is changed. The device is available in 10 -20 cmH2O, 20 -29 cmH2O and 40- 60 cmH2O three 
+different models to accommodate the intended populations from pediatric to adult. 
+ 
+Intended Use Statement: 
+ 
+The Accucuff TM Cuff Pressure Indicator is intended to monitor intra -cuff pressures of endotracheal , 
+supraglottic airways  or tracheostom y tubes . The device is indicated for the patients from pediatric to 
+adult who have an artificial airway and for which the user would like to monitor cuff pressure.  
+ 
+5. Identification of Predicate Devices 
+ 
+Predicate Device 1 
+510(k) Number: K142103 
+Trade Name: Cuff PilotTM 
+ 
+Predicate Device 2 
+510(k) Number: K102704 
+Trade Name: Easy CuffTM 
+ 
+K182548                                              S001                                                   E2 510(k) Summary 
+ 3 / 6 
+ 
+Table 1 Comparison of Technology Characteristics 
+Item Proposed Device Predicate Device 1 K142103 Predicate Device 2 K102704 
+Product Code BSK BSK BSK 
+Regulation Number 868.5750 868.5750 868.5750 
+Class CLASS II CLASS II CLASS II 
+Intended Use The Accucuff TM Cuff Pressure 
+Indicator is intended to monitor 
+intra-cuff pressures of endotracheal , 
+supraglottic airways  or tracheostomy 
+tubes. The device is indicated for the 
+patients f rom pediatric to adult who 
+have an artificial airway and for which 
+the user would like to monitor cuff 
+pressure. 
+To monitor intra-cuff pressures of supraglottic 
+airways 
+Patient population: 
+Patients who have an artificial airway and for 
+which the user would  like to monitor cuff 
+pressure, pediatric to adult. 
+Environment of Use 
+To be used under medical supervision in 
+hospitals, pre -hospital (EMS), extended care 
+facilities and outpatient clinics, where a 
+patient may have an artificial airway. It may 
+also be use d in MRI suites when attached to 
+airways that are MR conditional or MR Safe. 
+To inflate cuffs and to measure and 
+monitor intra -cuff pressures of 
+endotracheal, supraglottic air ways, or 
+tracheostomy tubes. 
+Patient population: 
+Patient who are intubated. 
+Environment of use 
+To be used under medical supervision 
+in hospitals, pre -hospital (EMS), 
+extended care facilities and outpatient 
+clinics, where a patient may be 
+intubated 
+Range of measured 
+pressure 
+AC0100P: 10~20cm H2O 
+AC0100B: 20~29cm H2O 
+AC0100R: 40~60cm H2O 
+0~80cm H2O 0~30cm H2O 
+Pressure accuracy 10~20cm H2O :+/-2cm H2O 
+20~29cm H2O: +/-2cm H2O 
+40~60cm H2O: +/-4cm H2O 
++/-5cm H2O up to 80cm H2O 
++/-5% H2O up to 30cm H2O 
++/-0.5cm H2O up @ 10cm H2O 
++/-1cm H2O up @ 20cm H2O 
++/-1.5cm H2O up @ 30cm H2O 
+Pressure i ndication Black mark that move with  changes in Bellows that move with changes in pressure Bellows that move with changes in 
+K182548                                              S001                                                   E2 510(k) Summary 
+ 4 / 6 
+ 
+method  pressure pressure 
+Types of airways to 
+which it can be used 
+Supraglottic airway 
+Endotracheal tube 
+Tracheostomy tube 
+Supraglottic airway 
+Supraglottic airway 
+Endotracheal tube 
+Tracheostomy tube 
+Sterile EO sterilization, 10-6 Non-sterile, sterile Non-sterile 
+Single Use Single Use Single Use Single Use 
+Material Polycarbonate (PC); 
+Silicone Unknown Unknown 
+Biocompatibility 
+Cytotoxicity No cytotoxicity 
+Conform with ISO 10993 requirements Conform with ISO 10993 requirements Skin Sensitization No skin sensitization 
+Irritation No irritation 
+ 
+Intended Use 
+ 
+The proposed device has the indication of monitoring intra -cuff pressures of endotracheal and tracheostomy  in addition to monitoring the pressure of 
+supraglottic airway compared with  the predicate device K142103. However, the two additional indications are covered by predicate device K102704. 
+Therefore, this difference does not raise different safety and effectiveness questions. 
+ 
+Pressure Range 
+ 
+The range of measured pressure for proposed device is different from the predicate devices individually compared . The proposed device is available in 
+three different pressure range s. However, pressure range compared with both predicate devices  falls within the specifications of the predicates cleared 
+previously.  
+ 
+Pressure Accuracy 
+ 
+The pressure accuracy for proposed device is difference from predicate devices. Although the pressure accuracy for proposed device is less than 
+K182548                                              S001                                                   E2 510(k) Summary 
+ 5 / 6 
+ 
+predicate device K102704, the proposed device has a more precise accuracy than predicate device K142103. Therefore, t he accuracy difference does 
+not raise different safety and effectiveness questions.  
+ 
+Airway Type 
+ 
+The type of airway for which the proposed device is indicated is different from predicate device K142103. The proposed device has the additional 
+airway of monitoring endotracheal tube and tracheostomy tube which are identical to predicate device K102704.  
+ 
+Sterilization 
+ 
+The proposed device is provided sterile which is different from the two predicate devices. However, the sterilization method is established and 
+validated per ISO 11135, which ensures the effectiveness of sterilization.  
+ 
+Material 
+ 
+The biocompatibility test (per ISO 10993) has been performed on the proposed device. T he results do not show any adverse effect, which demonstrates 
+biocompatibility of the proposed device. 
+K182548                                     S001                                E2 510(k) Summary 
+ 6 / 6 
+ 
+ 
+6. Non-Clinical Test Summary 
+ 
+Non-clinical tests were conducted to veri fy that the proposed device met all the design specifications to 
+establish Substantial Equivalence (SE) with the predicate devices. Test items include: 
+ 
+Conical fitting Performance Test 
+Pressure Accuracy Test 
+Repeatability Pressure Accuracy Test  
+Pressure Accuracy Test exposure to cold and hot temperature 
+Simulated Transportation Test 
+Package Integrity Test 
+Pressure Accuracy and Package Integrity after Accelerated Aging 
+ 
+The test results demonstrate that the proposed device complies with the following standards: 
+ 
+ ISO 594- 1:1986 Conical fittings with a 6% (Luer) taper for syringes, needles and certain other 
+medical equipment-Part 1: General requirement 
+ ISO 10993-1:2009 Biological evaluation of medical devices - Part 1: Evaluation and testing within 
+a risk management process 
+ ISO 10993- 5:2009 Biological evaluation of medical devices -- Part 5: Tests for In Vitro 
+cytotoxicity; 
+ ISO 10993-10:2010 Biological evaluation of medical devices -  Part 10: Tests for irritation and skin 
+sensitization; 
+ ASTM F88/F88M-15 Standard Test Method for Seal Strength of Flexible Barrier Materials. 
+ ASTM F1929-15 Standard Test Method for Detecting Seal Leaks in Porous Medical Packaging by 
+Dye Penetration 
+ 
+7. Clinical Test Conclusion 
+ 
+No clinical study is included in this submission. 
+ 
+8. Substantially Equivalent (SE) Conclusion 
+ 
+Based on the comparison and analysis above, the proposed device is Substantially Equivalent (SE) to the 
+predicate devices. 

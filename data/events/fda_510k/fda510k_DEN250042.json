@@ -1,0 +1,98 @@
+{
+ "alerted_at": "first-run: covered in brief 2026-10-15",
+ "category": "regulatory",
+ "collected_at": "2026-10-16T02:45:41+00:00",
+ "extra": {
+  "applicant": "Caristo Diagnostics , Ltd.",
+  "decision_date": "2026-07-28",
+  "device_name": "CaRi-Heart",
+  "historical": false,
+  "k_number": "DEN250042",
+  "matched_company": "caristo",
+  "product_code": "SIU",
+  "raw": {
+   "address_1": "263 Tresser Blvd., 9th Floor",
+   "address_2": "One Stamford Plz.",
+   "advisory_committee": "CV",
+   "advisory_committee_description": "Cardiovascular",
+   "applicant": "Caristo Diagnostics , Ltd.",
+   "city": "Stamford",
+   "clearance_type": "Direct",
+   "contact": "Frank  Cheng",
+   "country_code": "US",
+   "date_received": "2025-09-04",
+   "decision_code": "DENG",
+   "decision_date": "2026-07-28",
+   "decision_description": "Unknown",
+   "device_name": "CaRi-Heart",
+   "expedited_review_flag": "",
+   "k_number": "DEN250042",
+   "openfda": {
+    "device_class": "2",
+    "device_name": "Predictive Indicator For Long-Term Cardiovascular Outcomes",
+    "fei_number": [
+     "3017140520"
+    ],
+    "medical_specialty_description": "Cardiovascular",
+    "registration_number": [
+     "3017140520"
+    ],
+    "regulation_number": "870.2215"
+   },
+   "postal_code": "06901",
+   "product_code": "SIU",
+   "review_advisory_committee": "CV",
+   "state": "CT",
+   "statement_or_summary": "",
+   "third_party_flag": "N",
+   "zip_code": "06901"
+  },
+  "regulation_number": "870.2215",
+  "summary_pdf_path": null,
+  "summary_pdf_url": "https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN250042.pdf",
+  "summary_text_path": null
+ },
+ "id": "fda510k:DEN250042",
+ "prefilter": {
+  "ai": [
+   "fda",
+   "de novo"
+  ],
+  "cardiac": [
+   "\\bheart\\b",
+   "cardiovascular"
+  ],
+  "companies": [
+   "caristo"
+  ],
+  "keep": true,
+  "score": 11
+ },
+ "published": "2026-07-28",
+ "reported_in": "2026-10-15",
+ "source": "fda_510k",
+ "status": "triaged",
+ "summary": "De Novo grant. Applicant: Caristo Diagnostics , Ltd.. Device: CaRi-Heart. Product code SIU (Predictive Indicator For Long-Term Cardiovascular Outcomes), regulation 870.2215, class 2. Decision 2026-07-28 (Unknown), received 2025-09-04, Direct pathway. Filed as n/a.",
+ "title": "FDA De Novo grant: Caristo Diagnostics , Ltd. — CaRi-Heart (DEN250042)",
+ "triage": {
+  "companies": [
+   "caristo",
+   "cleerly"
+  ],
+  "priority": "P0",
+  "relevance": 5,
+  "summary": "FDA granted Caristo's CaRi-Heart a De Novo on 2026-07-28 (DEN250042), creating product code SIU, 'Predictive Indicator For Long-Term Cardiovascular Outcomes', under a new regulation 870.2215. The decision summary PDF is not yet posted; the collector will retry.",
+  "tags": [
+   "regulatory",
+   "de-novo",
+   "ccta",
+   "pericoronary",
+   "risk-prediction",
+   "competitor"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "First US authorization of a CCTA-derived long-term cardiac risk prediction claim, and a brand-new regulatory category. Any company wanting a prognostic claim, including Cleerly, can now use SIU as a 510(k) pathway, and Caristo gets first-mover positioning on outcomes prediction."
+ },
+ "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN250042"
+}

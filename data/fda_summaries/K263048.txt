@@ -1,0 +1,555 @@
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue  D o c  I D #  0 4 0 1 7 . 07 . 0 5  
+Silver Spring, MD 20993  
+www.fda.gov 
+Siemens Healthineers AG 
+℅ Prithul Bom 
+Most Responsible Person 
+Regulatory Technology Services, LLC 
+1000 Westgate Dr. Suite #510k 
+Saint Paul, Minnesota 55114 
+Re:  K263048 
+Trade/Device Name: Syngo Carbon Space (VA4) 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical image management and processing system 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  August 31, 2026 
+Received:  August 31, 2026 
+Dear Prithul Bom: 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+September 29, 2026
+K263048 - Prithul Bom Page 2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part 
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming 
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a 
+change requires premarket review, the QS regulation requires device manufacturers to review and approve 
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and 
+approvals in the device master record (21 CFR 820.181).  
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart 
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+K263048 - Prithul Bom Page 
+ 
+3 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+ 
+1 | Page   
+ 
+29-September-2026 
+K263048 Traditional 510(k) Summary 
+ 
+This summary of 510(k) safety and effectiveness information is being submitted in accordance with the requirements of SMDA 1990 and 21 
+CFR §807.92. 
+ 
+1. Submitter: 
+Siemens Healthineers AG Siemensstrasse 1 
+91301 Forchheim Germany 
+ 
+2. Establishment Registration Number: 
+3004977335 
+ 
+3. Contact Person: 
+Mr. Vijay Ramadas Regulatory Affairs Manager Siemens Healthineers AG Siemensstr. 
+3 
+91301 Forchheim Germany 
+ 
+E-mail: vijay.ramadas@siemens-healthineers.com 
+Telephone: +49 (172) 4324369 
+Fax: +49 (9191) 18-4404 
+ 
+4. Device Name and Classification 
+Device/Trade Name: Syngo Carbon Space (VA4) 
+Classifiation Panel: Radiology Devices 
+Classifiation Number: 21 CFR 892.2050 
+Common Name: System, Image processing, Radiological Classifiation Name:  Medical Image Management and 
+Processing System Device Class:  Class II 
+Product Code: LLZ 
+ 
+
+©Siemens Healthineers AG, 2026 
+Page -2 510(k) for Syngo Carbon Space 
+ 
+ 
+ 
+5. Legally Marketed Predicate Device: 
+Device/Trade Name: Syngo Carbon Space (VA30A) 510(k) Clearance: K230561 
+Common Name: System, Image processing, Radiological Classification Name:  Medical Image Management and 
+Processing System Classification Panel:  Radiology Devices 
+CFR Section: 21 CFR §892.2050 
+Device Class: Class II 
+Product Code: LLZ 
+ 
+6. Indications for Use: 
+Syngo Carbon Space is indicated for display, rendering, post-processing of medical data (mostly medical images) within healthcare institutions, 
+for example, in the field of Radiology, Nuclear Medicine, and Cardiology. 
+ 
+7. Device Description: 
+Syngo Carbon Space is a software only medical device which is intended to be installed on recommended common IT Hardware. The hardware is 
+not seen as part of the medical device.  Syngo Carbon Space is intended to support reviews and analysis of medical images by trained medical 
+practitioners. The software is used in Radiology for reading images and throughout the healthcare institutions for image & result distribution. 
+ 
+Syngo Carbon Space provides a reading workspace for Radiology that supports display of medical image data & documents and connects 
+intelligent work tools (diagnostic and non- diagnostic software elements) to enable easy access to the data needed, easy access to external tools 
+and creation of actionable results. 
+ 
+Since Syngo Carbon Space is a software only product, shelf -life is not applicable  because of low likelihood of time -dependent product 
+degradation. Hence performance data is not needed to establish maintenance of device performance characteristics over the shelf-life period 
+ 
+Syngo Carbon Space is a software only medical device, which is delivered by download only option to be installed on common IT hardware. This 
+hardware must fulfil the defined requirements. Any hardware platform that complies to the specified minimum hardware and soft ware 
+requirements and with successful installation verification and validation activities can be supported. The hardware itself is  not seen as part of the 
+medical device and therefore not in the scope of the 510(k) submission. 
+Syngo Carbon Space provides tools and features to cover the radiological tasks reading images and support reporting through third party tools. It 
+supports DICOM and Non-DICOM objects. In a comprehensive imaging suite, Syngo Carbon Space interoperates with a Radiology Information 
+System (RIS) to enable customer specific workflows. 
+ 
+Syngo Carbon Space is based on a client-server architecture. The server processes and renders the data from the connected modalities. The server 
+provides central services including image processing and temporary storage. The client provides the user  interface for interactive image viewing 
+ 
+3 | Page   
+and processing and can be installed and started on each workplace that has a network connection to the server. 
+ 
+Syngo Carbon Space supports various monitor setups and can be adapted to a range of image types by connecting different monitor types. 
+The subject device and the predicate device share the same fundamental scientific technology. This device description holds t rue for the subject 
+device and the predicate device. 
+ 
+8. Summary of Differences between the Subject Device and the Predicate Device: 
+The differences between the subject device described in this premarket notification (Highlighted) and the predicate device are summarized in the 
+following comparison table: 
+Note: The option “Physician Access” is carved out in the subject device and is marketed as a stand-alone device “Syngo Carbon Enterprise Access”. 
+Hence, all items related to “Physician Access” is removed in the comparison below and the table compares only the Diagnostic Workspace option. 
+ 
+Specification Subject Device Predicate Device Comparison 
+Device name 
+and version 
+Syngo Carbon Space VA4 Syngo Carbon Space VA30A 
+(K230561) 
+New version of the product 
+Indications for 
+use Syngo Carbon Space is indicated for display, rendering, post -processing of 
+medical data (mostly medical images) 
+within healthcare institutions, for 
+example, in the field of Radiology, 
+Nuclear Medicine, and Cardiology. 
+Syngo Carbon Space is a software 
+intended to display medical data and to 
+support the review and analysis of 
+medical images by trained medical 
+professionals. 
+ 
+Syngo Carbon Space "Diagnostic 
+Workspace" is indicated for display, 
+rendering, post -processing of medical 
+data (mostly medical images) within 
+healthcare institutions, for example, in 
+the field of Radiology, Nuclear 
+Medicine and Cardiology. 
+Intended use was simplified and it 
+still conveys the same indication 
+ 
+The term “Diagnostic Workspace” 
+is removed, as the subject device 
+offers only one reader option 
+ 
+The option “Physician Access” is 
+carved out and not in scope of 
+subject device 
+  Syngo Carbon Space "Physician 
+Access" is indicated for display and 
+rendering of medical data within 
+healthcare institutions 
+ 
+©Siemens Healthineers AG, 2026 
+Page -4 510(k) for Syngo Carbon Space 
+ 
+ 
+ 
+Specification Subject Device Predicate Device Comparison 
+Contraindicatio 
+ns 
+Syngo Carbon Space is not intended 
+to be used as a sole basis for clinical 
+decisions. 
+Syngo Carbon Space "Diagnostic 
+Workspace" is not intended for 
+diagnosis of digital mammography 
+images. 
+Syngo Carbon Space "Diagnostic 
+Workspace" is not intended to be 
+used as a sole basis for clinical 
+decisions. 
+The subject device introduces 
+Mammo Reading, hence removed 
+Mammo related contraindication 
+ 
+The term “Diagnostic Workspace” 
+is removed, as the subject device 
+offers only one reader option. 
+Software 
+architecture 
+Syngo Carbon Space is based on a 
+client-server architecture 
+Syngo Carbon Space is based on a 
+client-server architecture 
+Same 
+Image 
+communication 
+Standard network protocols like 
+TCP/IP and standard communication 
+protocol including DICOM (2016a) 
+and non-DICOM objects. Supports 
+interfacing with HL7 (v2.5 / v2.3.1 / 
+v2.3 / FHIR R4). 
+Standard network protocols like 
+TCP/IP and standard communication 
+protocol including DICOM (2016a) 
+and non-DICOM objects. Supports 
+interfacing with HL7 (v2.5 / v2.3.1 / 
+v2.3 / FHIR R4). 
+Same 
+Image display 
+algorithms 
+• MPR: MPR, MPR Thick, 
+MPR/MPR 
+• MIP: MIP, MIP Thin 
+• MinIP View 
+• VRT: Plain VRT, Adapt VRT, 
+VRT Thin, Cinematic VRT 
+• Fused View 
+• Invert Image 
+• MPR: MPR, MPR Thick, 
+MPR/MPR 
+• MIP: MIP, MIP Thin 
+• MinIP View 
+• VRT: Plain VRT, Adapt VRT, 
+VRT Thin, Cinematic VRT 
+• Fused View 
+• Invert Image 
+Same 
+ 
+5 | Page   
+ 
+Specification Subject Device Predicate Device Comparison 
+Measurement, 
+Evaluation/Inte 
+rpretation 
+Tools 
+• Distance (Distance line, Distance 
+Polyline) 
+• Angle and Angle on stack 
+• 2D ROI (Circle, Freehand, 
+Polygonal, Auto Contour) 
+• 3D VOI (Sphere, Freehand) 
+• Pixel Lens 
+• Ranges (Parallel, Radial, Radial 
+Sliced, Curved, Spine) 
+• Lesion Quantification 
+• Assisted Perpendicular Tool 
+• Automatic Organ Segmentation 
+• Interactive Tissue Segmentation 
+• Time Curve, Time ROI 
+• SUV Measurement 
+• Automatic Anatomy Labeling 
+(rib, spine) 
+• Next Study/Previous 
+Study/Nearline study 
+• Change Geometry 
+• Snapshot 
+• CT Lung Change 
+• MR General Reading 
+• Alpha Blending 
+• Mammography Reading 
+• Motion Correction 
+• Distance (Distance line, Distance 
+Polyline) 
+• Angle and Angle on stack 
+• 2D ROI (Circle, Freehand, 
+Polygonal, Auto Contour) 
+• 3D VOI (Sphere, Freehand) 
+• Pixel Lens 
+• Ranges (Parallel, Radial, Radial 
+Sliced, Curved, Spine) 
+• Lesion Quantification 
+• Assisted Perpendicular Tool 
+• Automatic Organ Segmentation 
+• Interactive Tissue Segmentation 
+• Time Curve, Time ROI 
+• SUV Measurement 
+• Automatic Anatomy Labeling 
+(rib, spine) 
+• Next Study/Previous 
+Study/Nearline study 
+• Change Geometry 
+• Snapshot 
+• CT Lung Change 
+• MR General Reading 
+• Alpha Blending 
+New tools were added to the subject 
+device. 
+©Siemens Healthineers AG, 2026 
+Page -6 510(k) for Syngo Carbon Space 
+ 
+ 
+ 
+Supported 
+objects 
+for display 
+DICOM image object display: 
+• CR Image 
+• CT Image 
+• DX Image 
+• ES Image 
+• GM Image 
+• MG Image 
+• MR Image 
+• NM Image 
+• PET Image 
+• OP/OPT Image 
+• RF Image 
+• RT IMAGE 
+• SM (WSI) 
+• XA Image 
+• US Image 
+• Secondary capture objects 
+DICOM image object display: 
+• CR Image 
+• CT Image 
+• DX Image 
+• ES Image 
+• GM Image 
+• MG Image 
+• MR Image 
+• NM Image 
+• PET Image 
+• OP/OPT Image 
+• RF Image 
+• RT IMAGE 
+• SM (WSI) 
+• XA Image 
+• US Image 
+• Secondary capture objects 
+Same 
+ DICOM non-image object display: 
+• ECG 
+• Encapsulated PDF 
+• PR 
+DICOM non-image object display: 
+• ECG 
+• Encapsulated PDF 
+• PR 
+ 
+ Non-DICOM file display: 
+• Images: BMP, GIF, JPEG 
+(JFIF), JPEG 2000, JPEG-LE, 
+JPEG-LS, PCX, PNG, PNM, 
+TIFF, WBMP 
+• Video: FLV, H.264, H.265, 
+INDEO2, INDEO3, INDEO4, 
+MPEG1, MPEG2, MPEG4, 
+Non-DICOM file display: 
+• Images: BMP, GIF, JPEG 
+(JFIF), JPEG 2000, JPEG-LE, 
+JPEG-LS, PCX, PNG, PNM, 
+TIFF, WBMP 
+• Video: FLV, H.264, H.265, 
+INDEO2, INDEO3, INDEO4, 
+MPEG1, MPEG2, MPEG4, 
+ 
+ 
+7 | Page   
+ 
+Specification Subject Device Predicate Device Comparison 
+ VP8, VP9, WMV1, WMV2, VP8, VP9, WMV1, WMV2,  
+WMV3 WMV3 
+• Text Documents: CDA (XML), • Text Documents: CDA (XML), 
+PDF PDF 
+Operating 
+system 
+Server 
+• Windows Server 2019, 2022, 
+2025 
+ 
+Client 
+• Windows 10 (Pro, Pro-Education, 
+Enterprise, LTSC) 
+• Windows 11 (Pro, Pro-
+Education, Enterprise) 
+Server 
+• Microsoft Windows Server 2019 
+• Windows 10 Enterprise 
+• Red Hat Enterprise Linux 8.4 
+The subject device supports newer 
+versions of Microsoft Windows OS 
+in server and client. 
+ Client 
+• Microsoft Windows 10 
+(Pro, Pro-Education, Enterprise) 
+ 
+Impact on None None Same 
+Image Syngo Carbon Space is a pure Syngo Carbon Space is a pure  
+Acquisition viewing and/or post-processing viewing and/or post-processing  
+Devices software and it has no influence on software and it has no influence on  
+ the image acquisition devices. the image acquisition devices.  
+CAD 
+Functionalities 
+None 
+No automated diagnostic 
+interpretation capabilities like CAD 
+are included. All image data are to be 
+interpreted by trained personnel. 
+None 
+No automated diagnostic 
+interpretation capabilities like CAD 
+are included. All image data are to be 
+interpreted by trained personnel. 
+Same 
+Clinical 
+condition the 
+device is 
+intended to 
+diagnose, treat, 
+or manage 
+No limitation on the clinical condition 
+of the patient. 
+No limitation on the clinical condition 
+of the patient. 
+Same 
+©Siemens Healthineers AG, 2026 
+Page -8 510(k) for Syngo Carbon Space 
+ 
+ 
+ 
+Specification Subject Device Predicate Device Comparison 
+Intended 
+patient 
+population 
+No limitation concerning the patient 
+population (e.g., age, weight, health, 
+condition) 
+No limitation concerning the patient 
+population (e.g., age, weight, health, 
+condition) 
+Same 
+Site of the body 
+the device is 
+intended to be 
+used 
+No limitation concerning region of 
+body or tissue type 
+No limitation concerning region of 
+body or tissue type 
+Same 
+Intended use 
+environment 
+Syngo Carbon Space is used in 
+Radiology, Nuclear Medicine and 
+Cardiology environments (e.g., 
+darkened/ shaded rooms). 
+Syngo Carbon Space “Diagnostic 
+Workspace” is used in Radiology, 
+Nuclear Medicine and Cardiology 
+environments (e.g., darkened/ shaded 
+rooms). 
+The term “Diagnostic Workspace” 
+is removed, as the subject device 
+offers only one reader option. 
+Intended 
+user(s) 
+Trained healthcare professionals Trained healthcare professionals Same 
+Device Type Software application Software application Same 
+Software 
+architecture 
+Syngo Carbon Space is based on a 
+client-server architecture 
+Syngo Carbon Space is based on a 
+client-server architecture 
+Same 
+Software self-
+test / checks Client installation is prevented automatically in case the system 
+doesn’t have the recommended 
+operating system. Also during the 
+launch of the client every time, the 
+compatibility to the server version is 
+checked and request to  
+update/upgrade to client in case of 
+mismatch. 
+Client installation is prevented 
+automatically in case the system 
+doesn’t have the recommended 
+operating system. Also during the 
+launch of the client every time, the 
+compatibility to the server version is 
+checked and request to  
+update/upgrade to client in case of 
+mismatch. 
+Same 

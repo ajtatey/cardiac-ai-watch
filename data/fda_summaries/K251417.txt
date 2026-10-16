@@ -1,0 +1,631 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+September 9, 2026 
+ 
+Argus Cognitive, Inc. 
+Andrea Marosán 
+Regulatory-Quality Affairs 
+35 S. Main St. 
+Hanover, NH 03755 
+ 
+ 
+Re:  K251417 
+Trade/Device Name: ReVISION 2 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  September 7, 2026 
+Received:  September 8, 2026 
+ 
+Dear Andrea Marosán: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K251417 - Andrea Marosán Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+K251417 - Andrea Marosán Page 
+ 
+3 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging 
+Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+Argus Cognitive, Inc. 
+ReVISION - K251417 
+1 
+ 
+ 
+ 
+ 
+510(k) SUMMARY 
+ReVISION 2 
+ 
+General Information [807.92(a)(1)] 
+Submitter: 
+Argus Cognitive, Inc. 
+35 South Main street, Hanover, NH 03755 
+www.arguscognitive.com 
+ 
+Contact person: Andrea Marosan 
+Director, Quality-Regulatory Affairs 
+andi@arguscognitive.com 
+ 
+Submission type: 510(k) 
+Submission date: June 18, 2025, updated on September 7, 2026 
+510(k) number: K251417 
+Establishment Registration Number: 3036502204 
+ 
+Device Information [807.92(a)(2)] 
+Trade Name: ReVISION 2 
+ 
+Generic Name: Image review and quantiﬁcation software 
+ 
+Classiﬁcation: 21CFR 892.2050; Medical Image Management And Processing System 
+Common Name: Automated Radiological Image Processing Software 
+ 
+Product Code: QIH 
+Device Class: Class II 
+ 
+Argus Cognitive, Inc. 
+ReVISION - K251417 
+2 
+ 
+ 
+ 
+Predicate Device(s) [807.92(a)(3)] 
+Primary predicate: K201632 — TomTec-Arena TTA2 
+ 
+Secondary predicate: K223322 — Argus Cognitive ReVISION Software Application (ReVISION 
+1.0) 
+Device Description [807.92(a)(4)] 
+Device characteristics 
+ReVISION 2 is a standalone Software as a Medical Device (SaMD) operating as a web-based 
+Software as a Service (SaaS) platform. It is not part of a hardware medical device and operates 
+independently as cloud-based diagnostic support software. 
+ 
+Environment of use 
+Healthcare facility/Hospital: ReVISION 2 is intended for use by healthcare professionals 
+qualiﬁed to review, quantify, and report right ventricular (RV) structure and function from 3D 
+echocardiographic data, to support the diagnosis of patients with suspected heart disease. 
+ 
+General description 
+ReVISION 2 is a software as a medical device (SaMD) designed to assess global and segmental 
+morphology and function of the right ventricle (RV) using 3D echocardiography-derived digital 
+medical data. The device accepts DICOM ﬁles acquired directly from compatible ultrasound 
+systems (GE, Philips) and maintains backward compatibility with UCD ﬁles from TomTec systems. 
+An AI-powered auto-contouring module automatically generates a 3D surface model of the RV 
+from the input data; the user may review, edit, accept, or reject the generated contours and 
+anatomical landmarks. From the resulting surface model, ReVISION 2 calculates RV volumes 
+(EDV, ESV, SV), ejection fraction (longitudinal, radial, anteroposterior), global and segmental 3D 
+strain (longitudinal, circumferential, area), and global, regional, and segmental curvature 
+metrics characterizing RV shape remodeling. Results are presented in a structured report with 
+comparison to normal reference ranges. 
+The device is intended to provide information for use by the care professional, in conjunction 
+with other clinically relevant information, to assist in the diagnosis of patients (adults only) with 
+suspected heart disease. 
+The ReVISION 2 System consists of the following components: 
+ 
+● Web Portal: UI enabling healthcare professionals to upload DICOM/UCD studies and 
+review, edit, accept, or reject auto-generated contours 
+● API: interfaces between the Analytics Engine and the Web Portal 
+● Analytics Engine: core computational module producing volumetric, strain, and 
+curvature outputs from the surface model 
+● AI Contouring Module: PyTorch-based neural network generating the 3D RV surface 
+model 
+Argus Cognitive, Inc. 
+ReVISION - K251417 
+3 
+ 
+ 
+ 
+● Outcome Report: structured report presenting calculated metrics with normal-range 
+comparison 
+Intended use and Indications for Use [807.92(a)(5)] 
+Intended Use: ReVISION 2 is a clinical software package designed for review, quantiﬁcation, 
+and reporting of right ventricle (RV) structures and function based on 3D 
+echocardiography-derived digital medical data. ReVISION 2 is not intended to be used for 
+reading of mammography images. 
+Indications for Use: Indications for use of ReVISION 2 are quantiﬁcation and reporting of right 
+ventricle (RV) structures and function of patients (adults only) with suspected disease to support 
+the physician in the diagnosis. 
+ 
+Intended Use Population: Adults (greater than 21 years of age). ReVISION 2 is not intended for 
+use in pediatric populations or individuals under the age of 21. 
+ReVISION 2's indications for use are a subset of the primary predicate's (TomTec-Arena TTA2) 
+indications, which cover cardiovascular, fetal, and abdominal structures and function; ReVISION 
+2 addresses only RV structures and function. This narrower scope does not raise new questions 
+of safety or effectiveness, as detailed under Comparison of Technological Characteristics 
+[807.92(a)(6)] below. 
+Argus Cognitive, Inc. 
+ReVISION - K251417 
+4 
+ 
+ 
+ 
+ 
+Comparison of Technological Characteristics [807.92(a)(6)] 
+ 
+GENERAL COMPARISON 
+Feature Predicate Device 
+TOMTEC-ARENA TTA2 
+(4D RV-Function) 
+Secondary Predicate 
+Device 
+ReVISION 1.0 
+Subject Device 
+ReVISION 2.0 
+Discussion / 
+Comment 
+K-number K201632 K223322 K251417 Subject of this 
+submission is 
+ReVISION 2.0. 
+Regulation 
+Number and 
+Regulation 
+Name 
+21CFR 892.2050; System, 
+Image processing, 
+Radiological – Picture 
+Archiving and 
+Communications System 
+(PACS) 
+21CFR 892.2050; System, 
+Image processing, 
+Radiological – Picture 
+Archiving  and 
+Communications System 
+(PACS) 
+21CFR 892.2050; System, 
+Image processing, 
+Radiological – Picture 
+Archiving  and 
+Communications System 
+(PACS) 
+Identical to predicate 
+device. 
+Classiﬁcation 
+Product Code 
+QIH LLZ QIH Identical to 
+secondary predicate 
+device. 
+Class 2 2 2 Identical to predicate 
+device. 
+Classiﬁcation 
+Panel 
+Radiology Radiology Radiology Identical to predicate 
+device. 
+Intended Use TOMTEC-ARENA software 
+is a clinical software 
+package designed for 
+review, quantiﬁcation and 
+reporting of structures 
+and function based on 
+multi-dimensional digital 
+medical data acquired 
+with different 
+modalities.TOMTEC-AREN 
+ReVISION software  is  a 
+clinical software package 
+designed    for   review, 
+quantiﬁcation and reporting 
+of right  ventricle  (RV) 
+structures  and  function 
+based     on      3D 
+echocardiography-derived 
+digital medical data. 
+ReVISION software  is  a 
+clinical software package 
+designed    for   review, 
+quantiﬁcation and reporting 
+of right  ventricle  (RV) 
+structures  and  function 
+based     on      3D 
+echocardiography-derived 
+digital medical data. 
+A subset of the 
+predicate device’s 
+intended use. 
+Argus Cognitive, Inc. 
+ReVISION - K251417 
+5 
+ 
+ 
+ 
+ A is not intended to be 
+used for reading of 
+mammography images. 
+ReVISION software is not 
+intended to be used for 
+reading of mammography 
+images. 
+ReVISION software is not 
+intended to be used for 
+reading of mammography 
+images. 
+ 
+Indications for 
+Use 
+Indications for use of 
+TOMTEC ARENA TTA2 
+software are 
+quantiﬁcation and 
+reporting of 
+cardiovascular, fetal, 
+abdominal structures and 
+function of patients with 
+suspected disease to 
+support the physicians in 
+the diagnosis 
+Indications for use of the 
+Argus Cognitive ReVISION 
+Software are quantiﬁcation 
+and reporting of right 
+ventricle (RV) structures and 
+function of patients (adults 
+only) with suspected disease 
+to support the physician in 
+the diagnosis. 
+Indications for use of 
+ReVISION are 
+quantiﬁcation and reporting 
+of right ventricle (RV) 
+structures and function of 
+patients (adults only) with 
+suspected disease to 
+support the physician in the 
+diagnosis. 
+A subset of the 
+predicate device’s 
+indications. 
+Site of Use Inside and outside of 
+Hospitals, Clinics, and 
+Physician’s offices. 
+Intended use environments 
+are hospitals, clinics, and 
+physician´s offices. 
+Inside and outside of 
+Hospitals, Clinics, and 
+Physician’s offices. 
+Identical to predicate 
+device. 
+Design Software as a medical 
+device 
+Software as a medical 
+device 
+Software as a medical 
+device 
+Identical to predicate 
+device. 
+ 
+TECHNICAL COMPARISON 
+Feature Predicate Device 
+TOMTEC-ARENA TTA2 
+(4D RV-Function) 
+Reference Device 
+ReVISION 1.0 
+Subject Device 
+ReVISION 2.0 
+Discussion / 
+Comment 
+Application 
+Description 
+The 4D RV-Function is a 
+right ventricular 
+quantiﬁcation tool for 
+routine clinical work, 
+pulmonary hypertension, 
+and right-sided heart 
+failure. The application 
+helps to overcome 
+Software function provides 
+a morphological and 
+functional assessment of the 
+right ventricle based on a 
+surface model of the  RV. It 
+supports routine workﬂows 
+for loading, analyzing and 
+saving medical studies. 
+Software function provides 
+a morphological and 
+functional assessment of the 
+right ventricle based on a 
+surface model of the  RV. It 
+supports routine workﬂows 
+for loading, analyzing and 
+saving medical studies. 
+ReVISION is identical 
+only in a subset of 
+functions of the 
+predicate device: it 
+can load, analyze and 
+save only 3D 
+echocardiographic 
+models of the right 
+Argus Cognitive, Inc. 
+ReVISION - K251417 
+6 
+ 
+ 
+ complexity of right 
+ventricle analysis by 
+calculating standard 
+values based on a 
+semi-automatically 
+generated 3D surface 
+model. 
+Software function provides 
+a platform for uploading, 
+reviewing, analyzing and 
+storing 3D 
+echocardiography-derived 
+surface models of the RV. 
+The results of the analysis 
+support clinical workﬂows 
+by the morphological and 
+functional assessment of the 
+RV. 
+Software function provides 
+a platform for uploading, 
+reviewing, analyzing and 
+storing 3D 
+echocardiography-derived 
+surface models of the RV. 
+The results of the analysis 
+support clinical workﬂows 
+by the morphological and 
+functional assessment of the 
+RV. 
+ventricle (RV), 
+identical to the “4D 
+RV-Function” module 
+of the predicate 
+device. The scope 
+covers no other 
+imaging modality, 
+cardiac chamber or 
+organ. 
+SW version 3.0 1.0 2.0 Updated due to 
+changes to SW code. 
+Measurements Volume and function of 
+Right Ventricle 
+EDVI 
+ESVI 
+ EDV: End-diastolic 
+Volume 
+ ESV: End-systolic Volume 
+ EF: Ejection Fraction 
+ SV: Stroke Volume 
+● Longitudinal EF 
+● Radial EF 
+● Anteroposterior EF 
+● Global and segmental 3D 
+longitudinal strain 
+● Global and segmental 3D 
+circumferential strain 
+Global and segmental 3D 
+area strain 
+Volume and function of 
+Right Ventricle 
+ EDV: End-diastolic 
+Volume 
+ ESV: End-systolic Volume 
+ EF: Ejection Fraction 
+ SV: Stroke Volume 
+● Longitudinal EF 
+● Radial EF 
+● Anteroposterior EF 
+● Global and segmental 3D 
+longitudinal strain 
+● Global and segmental 3D 
+circumferential strain 
+Global and segmental 3D 
+area strain 
+ 
+Added: 
+● Global and 
+segmental curvature 
+Added measurements 
+compared to both 
+primary and 
+secondary predicate 
+devices. 
+Export 
+formats 
+Beutel value export into 
+.ucd, .ply or .obj or .stl 
+None None No 3D beutel export 
+possibility. 
+Argus Cognitive, Inc. 
+ReVISION - K251417 
+7 
+ 
+ 
+ 
+ formats    
+Contour 
+Generation 
+3D surface model is 
+created automatically 
+using machine learning 
+algorithms without user 
+interaction. User is able to 
+edit, accept or reject the 
+contours or the 
+anatomical landmarks. 
+None 3D surface model is created 
+automatically using 
+machine learning algorithms 
+without user interaction. 
+User is able to edit, accept 
+or reject the contours or the 
+anatomical landmarks. 
+Identical to predicate 
+device. 
+ 
+Substantial Equivalence (SE) discussion 
+Subject Device analyzes the same inputs as the predicate devices but in a more detailed manner and provides novel measures 
+without altering the raw information contained by these inputs (i.e., 3D echocardiographic videos or 3D models). Thus, these novel 
+features do not raise different questions of safety and effectiveness but support clinical decision making with extra informa tion 
+derived from the raw data. 
+Key software features and comparisons: 
+ 
+● Independent operation & Direct DICOM processing: Unlike ReVISION 1.0, which required a TomTec 4D RV module to 
+generate the input 3D surface model, ReVISION 2 accepts DICOM ﬁles directly from GE and Philips ultrasound systems and 
+generates the 3D RV surface model internally via its AI-powered auto-contouring module, while retaining backward 
+compatibility with UCD ﬁles from TomTec systems. This automated contour-generation capability is functionally identical to 
+the auto-contouring already present in the primary predicate (TomTec-Arena TTA2), as reﬂected in the Technical Comparison 
+table above — it is new relative to the secondary predicate (ReVISION 1.0) but not relative to the primary predicate. 
+● Curvature Analysis: ReVISION 2 introduces global, regional, and segmental curvature metrics characterizing RV shape 
+remodeling, calculated directly from the same 3D surface model already used for volumetric and strain measurements. This is 
+a novel derived measure not present in either predicate device, but it does not alter or introduce new raw input data — it is 
+computed entirely from the existing, validated surface model — and therefore does not raise different questions of safety or 
+effectiveness. 
+● Scope: ReVISION 2's functional scope remains a subset of the primary predicate's broader intended use (RV structures and 
+function only, vs. TomTec's coverage of cardiovascular, fetal, and abdominal structures across multiple modalities) — a 
+narrower scope than the predicate, which supports rather than complicates the substantial equivalence argument. 
+Argus Cognitive, Inc. 
+ReVISION - K251417 
+8 
+ 
+ 
+ 
+Performance Data [807.92(b)] 
+Performance testing supporting substantial equivalence included nonclinical testing - software 
+veriﬁcation, analytical validation (auto-contouring/volumetric quantiﬁcation and curvature), 
+and cybersecurity assessment - summarized below. 
+ 
+Nonclinical Testing Summary [807.92(b)(1)] 
+Software veriﬁcation 
+Software veriﬁcation was performed at the unit, integration, and system levels in accordance 
+with IEC 62304:2006 and the FDA's General Principles of Software Validation. Unit-level testing 
+covered individual modules (auto-contouring, curvature calculation, ECG/keyframe detection, 
+DICOM reconstruction) using black-box and white-box strategies; frontend and integration tests 
+covered the full web application (Galactus authentication, ReVISION workﬂow) end-to-end. 
+System-level testing assessed availability and recovery behavior. Detailed test plans, cases, and 
+results are provided in the Veriﬁcation and Validation Report (REV2-VVR). 
+Analytical validation - Auto-contouring and volumetric quantiﬁcation 
+The accuracy of ReVISION 2's automated right ventricular quantiﬁcation was evaluated using 
+an independent external validation dataset of 46 subjects spanning a broad range of RV sizes 
+and systolic function. Automated measurements were compared against a reference standard 
+generated from averaged manual contours of three expert cardiologists. Auto-contoured RVEF 
+values demonstrated an absolute error tolerance of 5% on average. Performance was further 
+evaluated across demographic and clinical subgroups (four deﬁned clinical study groups 
+spanning heart failure, arrhythmia/hemodynamic symptoms, ischemic/valvular/structural 
+disease, and cerebrovascular/systemic conditions): mean absolute errors ranged approximately 
+11–21 mL for EDV, 9–12 mL for ESV, and 3–8 percentage points for RVEF, depending on 
+subgroup. Observed variability was comparable to published inter-observer variability of 
+manual RV contouring. 
+Analytical validation - Curvature 
+Curvature values calculated by ReVISION 2 were validated against Materialise 3-matic Medical 
+18.0 (K060950), an FDA-cleared reference method, using the RVENet population. Global, free 
+wall, and septal curvature values demonstrated moderate-to-strong correlation with the 
+reference device (r = 0.6327–0.8046, all p < 0.05), meeting pre-speciﬁed acceptance criteria. 
+Systematic differences between the two methods were attributable to underlying algorithmic 
+differences (vertex-based vs. face-based curvature estimation) and were concentrated in planar 
+valve-annulus regions, which are geometric artifacts of mesh generation rather than true 
+myocardial structures and carry no diagnostic signiﬁcance. Clinically meaningful curvature - 
+pertaining to the right ventricular free wall and interventricular septum, which are directly 
+involved in remodeling and contractile function - showed strong agreement with the reference 
+method. 
+Cybersecurity 
+Security assessment activities were performed in accordance with FDA's "Cybersecurity in 
+Medical Devices: Quality System Considerations and Content of Premarket Submissions" 
+(September 2023). ReVISION 2 is classiﬁed as Moderate Level of Concern. Threat modeling 
+was conducted using the STRIDE methodology across all system trust boundaries 
+(authentication, web service, database, processing modules, ﬁle storage, network 
+infrastructure). DICOM input handling implements two-layer defense-in-depth validation. 

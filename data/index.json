@@ -1,0 +1,2093 @@
+{
+ "ctgov:NCT01143454:2026-10-13": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT01143454_2026-10-13.json",
+  "priority": "P3",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Characterization of Patients With Uncommon Presentations and/or Uncommon Diseases Associated With the Cardiovascular System (NCT01143454)"
+ },
+ "ctgov:NCT01621594:2026-10-08": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT01621594_2026-10-08.json",
+  "priority": "P3",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Evaluating New Radiation Techniques for Cardiovascular Imaging (NCT01621594)"
+ },
+ "ctgov:NCT02055209:2026-10-15": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "dropped",
+  "title": "Genomics, Environmental Factors and Social Determinants of Cardiovascular Disease in African-Americans Study (GENE-FORECAST) (NCT02055209)"
+ },
+ "ctgov:NCT02911103:2026-10-13": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "dropped",
+  "title": "Deep Brain Stimulation Surgery for Focal Hand Dystonia (NCT02911103)"
+ },
+ "ctgov:NCT06172296:2026-10-14": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "priority": null,
+  "source": "clinicaltrials",
+  "status": "dropped",
+  "title": "Dinutuximab With Chemotherapy, Surgery and Stem Cell Transplantation for the Treatment of Children With Newly Diagnosed High Risk Neuroblastoma (NCT06172296)"
+ },
+ "ctgov:NCT06462989:2026-10-13": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT06462989_2026-10-13.json",
+  "priority": "P3",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Harnessing ECG Artificial Intelligence for Rapid Treatment and Accurate Interpretation (NCT06462989)"
+ },
+ "ctgov:NCT06637293:2026-10-08": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT06637293_2026-10-08.json",
+  "priority": "P3",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Deployment and Evaluation of Artificial Intelligence Software for Electrocardiogram Analysis and Management in Primary Care (NCT06637293)"
+ },
+ "ctgov:NCT06705751:2026-10-13": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT06705751_2026-10-13.json",
+  "priority": "P3",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Speed-up the Diagnosis and Evaluation of anoMalous Coronary ARTery From the Aorta (NCT06705751)"
+ },
+ "ctgov:NCT07057466:2026-10-08": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07057466_2026-10-08.json",
+  "priority": "P3",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Prospective Evaluation of AI-ECG for SHD Detection (NCT07057466)"
+ },
+ "ctgov:NCT07460583:2026-10-15": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07460583_2026-10-15.json",
+  "priority": "P2",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "ProActive Athlete Heart Program: Proposal for Cardiac Risk Screening in Former High-Intensity Athletes (NCT07460583)"
+ },
+ "ctgov:NCT07613294:2026-10-08": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07613294_2026-10-08.json",
+  "priority": "P2",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "A Study to See if Lepodisiran Can Reduce Plaque in Coronary Arteries of Adults With Elevated Lp(a) Who Have Had Heart Events or Are at High Risk (NCT07613294)"
+ },
+ "ctgov:NCT07657676:2026-10-13": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07657676_2026-10-13.json",
+  "priority": "P2",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Effect of Mazdutide on Coronary Plaque in Patients With Coronary Atherosclerosis and Overweight or Obesity (NCT07657676)"
+ },
+ "ctgov:NCT07708805:2026-10-13": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07708805_2026-10-13.json",
+  "priority": "P3",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Quantitative Myocardial Perfusion Imaging Assessment by SPECT/CT (NCT07708805)"
+ },
+ "ctgov:NCT07868523:2026-10-09": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07868523_2026-10-09.json",
+  "priority": "P2",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "The PICCOLETO XIII REVEAL-DCB Cohort A Study (NCT07868523)"
+ },
+ "ctgov:NCT07876791:2026-10-15": {
+  "first_seen": "2026-10-16T02:46:03+00:00",
+  "path": "data/events/clinicaltrials/ctgov_NCT07876791_2026-10-15.json",
+  "priority": "P3",
+  "source": "clinicaltrials",
+  "status": "triaged",
+  "title": "Multimodality Assessment of Myocardial Reperfusion After Primary Percutaneous Coronary Intervention (NCT07876791)"
+ },
+ "edgar:0001464521-26-000154": {
+  "first_seen": "2026-10-16T02:46:04+00:00",
+  "path": "data/events/edgar/edgar_0001464521-26-000154.json",
+  "priority": "P2",
+  "source": "edgar",
+  "status": "triaged",
+  "title": "HeartFlow filed 4: PRIMARY DOCUMENT"
+ },
+ "edgar:0001959173-26-007341": {
+  "first_seen": "2026-10-16T02:46:04+00:00",
+  "path": "data/events/edgar/edgar_0001959173-26-007341.json",
+  "priority": "P3",
+  "source": "edgar",
+  "status": "triaged",
+  "title": "HeartFlow filed 144: xsl144X01/primary_doc.xml"
+ },
+ "fda510k:DEN130045": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_DEN130045.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA De Novo grant: Heartflow — HEARTFLOW FFRCT (DEN130045)"
+ },
+ "fda510k:DEN250042": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_DEN250042.json",
+  "priority": "P0",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA De Novo grant: Caristo Diagnostics , Ltd. — CaRi-Heart (DEN250042)"
+ },
+ "fda510k:K002357": {
+  "first_seen": "2026-10-16T02:45:50+00:00",
+  "path": "data/events/fda_510k/fda510k_K002357.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — 100 S AND 100 LC AND 485 ANSER ULTRASOUND IMAGING SYSTEMS (K002357)"
+ },
+ "fda510k:K002880": {
+  "first_seen": "2026-10-16T02:45:50+00:00",
+  "path": "data/events/fda_510k/fda510k_K002880.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — 300LC ULTRASOUND IMAGING SYSTEMS, MODEL 300LC (K002880)"
+ },
+ "fda510k:K003292": {
+  "first_seen": "2026-10-16T02:45:50+00:00",
+  "path": "data/events/fda_510k/fda510k_K003292.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — 260 CORVUS (K003292)"
+ },
+ "fda510k:K003725": {
+  "first_seen": "2026-10-16T02:45:50+00:00",
+  "path": "data/events/fda_510k/fda510k_K003725.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — 240 PARUS ULTRASOUND IMAGING SYSTEMS, MODEL 240 PARUS (K003725)"
+ },
+ "fda510k:K011582": {
+  "first_seen": "2026-10-16T02:45:44+00:00",
+  "path": "data/events/fda_510k/fda510k_K011582.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — QCU ANALYTICAL SOFTWARE PACKAGE (K011582)"
+ },
+ "fda510k:K012475": {
+  "first_seen": "2026-10-16T02:45:49+00:00",
+  "path": "data/events/fda_510k/fda510k_K012475.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS II QVA (K012475)"
+ },
+ "fda510k:K020112": {
+  "first_seen": "2026-10-16T02:45:49+00:00",
+  "path": "data/events/fda_510k/fda510k_K020112.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — 50S TRINGA ULTRASOUND IMAGING SYSTEM (K020112)"
+ },
+ "fda510k:K021495": {
+  "first_seen": "2026-10-16T02:45:49+00:00",
+  "path": "data/events/fda_510k/fda510k_K021495.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — QIVA (K021495)"
+ },
+ "fda510k:K023512": {
+  "first_seen": "2026-10-16T02:45:49+00:00",
+  "path": "data/events/fda_510k/fda510k_K023512.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — PICUS ULTRASOUND IMAGING SYSTEMS (K023512)"
+ },
+ "fda510k:K023970": {
+  "first_seen": "2026-10-16T02:45:44+00:00",
+  "path": "data/events/fda_510k/fda510k_K023970.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — QUANTITATIVE VASCULAR ANGIOGRAPHY - CMS (K023970)"
+ },
+ "fda510k:K033604": {
+  "first_seen": "2026-10-16T02:45:49+00:00",
+  "path": "data/events/fda_510k/fda510k_K033604.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — TRINGA ULTRASOUND IMAGING SYSTEM, MODEL 50L (K033604)"
+ },
+ "fda510k:K033774": {
+  "first_seen": "2026-10-16T02:45:44+00:00",
+  "path": "data/events/fda_510k/fda510k_K033774.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — CT-MASS (K033774)"
+ },
+ "fda510k:K033920": {
+  "first_seen": "2026-10-16T02:45:48+00:00",
+  "path": "data/events/fda_510k/fda510k_K033920.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS II RVA (K033920)"
+ },
+ "fda510k:K040746": {
+  "first_seen": "2026-10-16T02:45:43+00:00",
+  "path": "data/events/fda_510k/fda510k_K040746.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — MRA-CMS (K040746)"
+ },
+ "fda510k:K041162": {
+  "first_seen": "2026-10-16T02:45:43+00:00",
+  "path": "data/events/fda_510k/fda510k_K041162.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — ORTHO-CMS (K041162)"
+ },
+ "fda510k:K041675": {
+  "first_seen": "2026-10-16T02:45:48+00:00",
+  "path": "data/events/fda_510k/fda510k_K041675.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — PICUS, PARUS, FALCO AND AQUILA ULTRASOUND SYSTEMS (K041675)"
+ },
+ "fda510k:K041682": {
+  "first_seen": "2026-10-16T02:45:48+00:00",
+  "path": "data/events/fda_510k/fda510k_K041682.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS MRV (K041682)"
+ },
+ "fda510k:K042383": {
+  "first_seen": "2026-10-16T02:45:43+00:00",
+  "path": "data/events/fda_510k/fda510k_K042383.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — RSA-CMS (K042383)"
+ },
+ "fda510k:K043360": {
+  "first_seen": "2026-10-16T02:45:48+00:00",
+  "path": "data/events/fda_510k/fda510k_K043360.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — IMT.LAB (K043360)"
+ },
+ "fda510k:K043588": {
+  "first_seen": "2026-10-16T02:45:47+00:00",
+  "path": "data/events/fda_510k/fda510k_K043588.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — MYLAB 15 / MYLAB 20, MODEL 2700 (K043588)"
+ },
+ "fda510k:K050703": {
+  "first_seen": "2026-10-16T02:45:43+00:00",
+  "path": "data/events/fda_510k/fda510k_K050703.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — QBRAIN (K050703)"
+ },
+ "fda510k:K052988": {
+  "first_seen": "2026-10-16T02:45:47+00:00",
+  "path": "data/events/fda_510k/fda510k_K052988.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS (K052988)"
+ },
+ "fda510k:K053154": {
+  "first_seen": "2026-10-16T02:45:47+00:00",
+  "path": "data/events/fda_510k/fda510k_K053154.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — MYLAB15/20 3D/4D ULTRASOUND IMAGING SYSTEM (K053154)"
+ },
+ "fda510k:K060082": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K060082.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Tianjin Medis International Trade Co., Ltd. — TIANJIN MEDIS DISPOSABLE INFUSION SET (K060082)"
+ },
+ "fda510k:K060941": {
+  "first_seen": "2026-10-16T02:45:47+00:00",
+  "path": "data/events/fda_510k/fda510k_K060941.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS MRV VERSION 3.0 (K060941)"
+ },
+ "fda510k:K061961": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K061961.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical — ART LAB SOFTWARE (K061961)"
+ },
+ "fda510k:K062386": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K062386.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — QANGIO CT (K062386)"
+ },
+ "fda510k:K063344": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K063344.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS QCA 3D (K063344)"
+ },
+ "fda510k:K073156": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K073156.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — QPLAQUE MR (K073156)"
+ },
+ "fda510k:K082628": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K082628.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — CMR42 CARDIAC MRI IMAGING SYSTEM, 2.1.23 (K082628)"
+ },
+ "fda510k:K090155": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K090155.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS MR FLOW 1.0 (K090155)"
+ },
+ "fda510k:K100292": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K100292.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS QVA 3D, CAAS QCA 3D (K100292)"
+ },
+ "fda510k:K111373": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K111373.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — CT42 CARDIAC COMPUTED TOMOGRAPHY (CT) SOFTWARE (K111373)"
+ },
+ "fda510k:K112807": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K112807.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — X-RAY VVA (K112807)"
+ },
+ "fda510k:K113076": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K113076.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS A-VALVE (K113076)"
+ },
+ "fda510k:K120367": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K120367.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — 3MENSIO WORKSTATION (K120367)"
+ },
+ "fda510k:K123970": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K123970.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS INTRAVASCULAR (K123970)"
+ },
+ "fda510k:K133993": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K133993.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging — CAAS WORKSTATION (K133993)"
+ },
+ "fda510k:K140587": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K140587.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — MR-CT VVA (K140587)"
+ },
+ "fda510k:K141480": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K141480.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — CVI42 (K141480)"
+ },
+ "fda510k:K143044": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K143044.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS A-Valve (K143044)"
+ },
+ "fda510k:K151780": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K151780.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS Workstation (K151780)"
+ },
+ "fda510k:K152733": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K152733.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: HeartFlow, Inc. — FFRct (K152733)"
+ },
+ "fda510k:K153736": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K153736.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — 3mensio Workstation (K153736)"
+ },
+ "fda510k:K160694": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K160694.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Tianjin Medis Medical Device Co., Ltd. — Disposable Endotracheal tube, sterile, AccuCuff (K160694)"
+ },
+ "fda510k:K161772": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K161772.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: HeartFlow, Inc. — FFRct (K161772)"
+ },
+ "fda510k:K162112": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K162112.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS MRV (K162112)"
+ },
+ "fda510k:K162376": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K162376.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS MR 4D Flow (K162376)"
+ },
+ "fda510k:K163071": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K163071.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Elucid Bioimaging, Inc. — vascuCAP (K163071)"
+ },
+ "fda510k:K180019": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K180019.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS Workstation (K180019)"
+ },
+ "fda510k:K181825": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K181825.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS MR Solutions (K181825)"
+ },
+ "fda510k:K182035": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K182035.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: HeartFlow, Inc. — FFRct (K182035)"
+ },
+ "fda510k:K182548": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K182548.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Tianjin Medis Medical Device Co., Ltd. — Accucuff Cuff Pressure Indicator (K182548)"
+ },
+ "fda510k:K182611": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K182611.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — Qangio XA 3D (K182611)"
+ },
+ "fda510k:K183012": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K183012.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Elucid Bioimaging, Inc. — vascuCAP (K183012)"
+ },
+ "fda510k:K190274": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K190274.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Tianjin Medis Medical Device Co., Ltd. — Endotracheal Tube (K190274)"
+ },
+ "fda510k:K190868": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K190868.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Cleerly, Inc. — Cleerly Labs (K190868)"
+ },
+ "fda510k:K190925": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K190925.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: HeartFlow, Inc. — HeartFlow FFRct Analysis (K190925)"
+ },
+ "fda510k:K191171": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K191171.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Ultromics, Ltd. — EchoGo Core (K191171)"
+ },
+ "fda510k:K200274": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K200274.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Caristo Diagnostics — CariCloud (K200274)"
+ },
+ "fda510k:K201555": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K201555.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Ultromics, Ltd. — EchoGo Pro (K201555)"
+ },
+ "fda510k:K202212": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K202212.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — TruPlan (K202212)"
+ },
+ "fda510k:K202280": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K202280.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Cleerly, Inc. — Cleerly Labs v2.0 (K202280)"
+ },
+ "fda510k:K203329": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K203329.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: HeartFlow, Inc. — HeartFlow Analysis (K203329)"
+ },
+ "fda510k:K203782": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K203782.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Nano-X Imaging , Ltd. — Nanox Cart X-ray System (K203782)"
+ },
+ "fda510k:K210791": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K210791.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Eko.Ai Pte Ltd. D/B/A Us2.Ai — Us2.v1 (K210791)"
+ },
+ "fda510k:K212376": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K212376.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — Caas Qardia (K212376)"
+ },
+ "fda510k:K213275": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K213275.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Ultromics Limited — EchoGo Core (2.0) (K213275)"
+ },
+ "fda510k:K213857": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K213857.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: HeartFlow, Inc. — HeartFlow Analysis (K213857)"
+ },
+ "fda510k:K213998": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K213998.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — cvi42 Auto Imaging Software Application (K213998)"
+ },
+ "fda510k:K221463": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K221463.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Elucid Bioimaging, Inc. — ElucidVivo A.3 (K221463)"
+ },
+ "fda510k:K222463": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K222463.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Ultromics Limited — EchoGo Heart Failure (K222463)"
+ },
+ "fda510k:K222593": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K222593.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — TruPlan Computed Tomography (CT) Imaging Software (K222593)"
+ },
+ "fda510k:K222934": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K222934.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Nano-X Imaging , Ltd. — Nanox.ARC (K222934)"
+ },
+ "fda510k:K230223": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K230223.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Bunkerhill, Inc. — iCAC Device (K230223)"
+ },
+ "fda510k:K231335": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K231335.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Cleerly, Inc. — Cleerly ISCHEMIA (K231335)"
+ },
+ "fda510k:K232007": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K232007.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS MR Solutions (K232007)"
+ },
+ "fda510k:K232147": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K232147.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — CAAS Workstation (K232147)"
+ },
+ "fda510k:K232661": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K232661.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging — Myocardial Strain Software Application (K232661)"
+ },
+ "fda510k:K232699": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K232699.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Anumana, Inc. — Low Ejection Fraction AI-ECG Algorithm (K232699)"
+ },
+ "fda510k:K233080": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K233080.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Nano-X AI , Ltd. — HealthFLD (K233080)"
+ },
+ "fda510k:K233160": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K233160.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Anumana, Inc. — NeuTrace EP Mapping System v.2.1 (K233160)"
+ },
+ "fda510k:K233676": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K233676.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Eko.Ai Pte Ltd. D/B/A Us2.Ai — Us2.v2 (K233676)"
+ },
+ "fda510k:K240013": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K240013.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Ultromics Limited — EchoGo Heart Failure (2.0) (K240013)"
+ },
+ "fda510k:K240369": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K240369.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: BunkerHill Health — CAC (gated) Algorithm (K240369)"
+ },
+ "fda510k:K240860": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K240860.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Ultromics Limited — EchoGo Amyloidosis (1.0) (K240860)"
+ },
+ "fda510k:K241038": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K241038.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging — Cardiac CT Function Software Application (K241038)"
+ },
+ "fda510k:K241440": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K241440.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Nano-X AI , Ltd. — HealthCCSng (K241440)"
+ },
+ "fda510k:K241524": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K241524.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Elucid Bioimaging, Inc. — Elucid PlaqueIQ (K241524)"
+ },
+ "fda510k:K242240": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K242240.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Caristo Diagnostics , Ltd. — CaRi-Plaque (K242240)"
+ },
+ "fda510k:K242295": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K242295.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: BunkerHill Health — BunkerHill BMD (K242295)"
+ },
+ "fda510k:K242338": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K242338.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Cleerly, Inc. — Cleerly LABS (v2.0) (K242338)"
+ },
+ "fda510k:K242395": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K242395.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Nano-X Imaging , Ltd. — Nanox.ARC (K242395)"
+ },
+ "fda510k:K242781": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K242781.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — cvi42 Software Application (K242781)"
+ },
+ "fda510k:K243038": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K243038.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Artrya Limited — Salix Central (K243038)"
+ },
+ "fda510k:K243229": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K243229.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: BunkerHill Health — Bunkerhill AVC (K243229)"
+ },
+ "fda510k:K243779": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K243779.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: BunkerHill Health — Bunkerhill Abdominal Aortic Quantification (AAQ) (K243779)"
+ },
+ "fda510k:K250151": {
+  "first_seen": "2026-10-16T02:45:42+00:00",
+  "path": "data/events/fda_510k/fda510k_K250151.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Eko.Ai Pte Ltd. D/B/A Us2.Ai — Us2.ca (K250151)"
+ },
+ "fda510k:K250221": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K250221.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — StrokeSENS ASPECTS Software Application (K250221)"
+ },
+ "fda510k:K250330": {
+  "first_seen": "2026-10-16T02:45:46+00:00",
+  "path": "data/events/fda_510k/fda510k_K250330.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Imaging BV — 3mensio Workstation (K250330)"
+ },
+ "fda510k:K250649": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K250649.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: BunkerHill Health — Bunkerhill ECG-EF (K250649)"
+ },
+ "fda510k:K250652": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K250652.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Anumana, Inc. — ECG-AI Low Ejection Fraction (LEF) 12-Lead algorithm (1010) (K250652)"
+ },
+ "fda510k:K250662": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K250662.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: BunkerHill Health — Bunkerhill MAC (K250662)"
+ },
+ "fda510k:K250850": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K250850.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Nano-X Imaging , Ltd. — Nanox.ARC X (K250850)"
+ },
+ "fda510k:K250902": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K250902.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: HeartFlow, Inc. — HeartFlow Analysis (K250902)"
+ },
+ "fda510k:K251027": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K251027.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Circle Cardiovascular Imaging, Inc. — cvi42 Coronary Plaque Software Application (K251027)"
+ },
+ "fda510k:K251417": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K251417.json",
+  "priority": "P2",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Argus Cognitive, Inc. — ReVISION 2 (K251417)"
+ },
+ "fda510k:K251837": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K251837.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Artrya Limited — Salix Coronary Plaque (V1.0.0) (K251837)"
+ },
+ "fda510k:K252360": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K252360.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Anumana, Inc. — ECG-AI Pulmonary Hypertension (PH) 12-Lead algorithm (1020) (K252360)"
+ },
+ "fda510k:K252571": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Mediaire GmbH — mdprostate (K252571)"
+ },
+ "fda510k:K252649": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K252649.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Nano-X Imaging , Ltd. — TAP2D (K252649)"
+ },
+ "fda510k:K253421": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Quantified Imaging Limited — Perfusion Measurement Platform v1 (K253421)"
+ },
+ "fda510k:K253628": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Agada Medical, Ltd. — Auto-Seg (SO-0012), Spine Auto-Seg (SO-0012) (K253628)"
+ },
+ "fda510k:K253751": {
+  "first_seen": "2026-10-16T02:45:54+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Neurocareai, Inc. (Dba Savelife.Ai) — CXRDetectAI (K253751)"
+ },
+ "fda510k:K253786": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K253786.json",
+  "priority": "P1",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Siemens Medical Solutions USA, Inc. — syngo.CT Coronary Cockpit (K253786)"
+ },
+ "fda510k:K253794": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Lucida Medical, Ltd. — Prostate Core (K253794)"
+ },
+ "fda510k:K253801": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K253801.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Anumana, Inc. — ECG-AI Cardiac Amyloidosis (CA) 12-Lead Algorithm (1040) (K253801)"
+ },
+ "fda510k:K253835": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K253835.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Hermes Medical Solutions AB — Affinity (K253835)"
+ },
+ "fda510k:K253884": {
+  "first_seen": "2026-10-16T02:45:53+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Koios Medical, Inc. — Koios DS (3.8) (K253884)"
+ },
+ "fda510k:K253899": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Provect.AI — 3D-Anywhere (K253899)"
+ },
+ "fda510k:K253902": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: 3DIEMME SRL — RealGUIDE (K253902)"
+ },
+ "fda510k:K253969": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K253969.json",
+  "priority": "P2",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Adas3D Medical S.L. — ADAS 3D (K253969)"
+ },
+ "fda510k:K254096": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Velmeni, Inc. — VELMENI for DENTISTS (V4D) 3D (K254096)"
+ },
+ "fda510k:K254214": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Taiwan Main Orthopaedic Biotechnology Co., Ltd. — OOOPDS (K254214)"
+ },
+ "fda510k:K260055": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Siemens Medical Solutions USA, Inc. — syngo.CT Brain Quantification (K260055)"
+ },
+ "fda510k:K260166": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K260166.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: BunkerHill Health — Bunkerhill Contrast CAC (K260166)"
+ },
+ "fda510k:K260167": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K260167.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: BunkerHill Health — Bunkerhill Contrast AVC (K260167)"
+ },
+ "fda510k:K260192": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: ROPCA ApS — DIANA (K260192)"
+ },
+ "fda510k:K260206": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: UPlanner B.V. - Presurgeo — SkeletonPlanner (K260206)"
+ },
+ "fda510k:K260231": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Apryse Software Corp — MiPACS V5 (1.0.0) (K260231)"
+ },
+ "fda510k:K260300": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K260300.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Anumana, Inc. — WatchMate Software (K260300)"
+ },
+ "fda510k:K260316": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Cercare Medical A/S — CMN Capillary Function with Oncology Virtual Expert (K260316)"
+ },
+ "fda510k:K260497": {
+  "first_seen": "2026-10-16T02:45:41+00:00",
+  "path": "data/events/fda_510k/fda510k_K260497.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Keya Medical Technology Co., Ltd. — DEEPVESSEL Plaque (K260497)"
+ },
+ "fda510k:K260500": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: ResolutionMD, Inc. — ResolutionMD (K260500)"
+ },
+ "fda510k:K260525": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: MRI2CT, Inc. — NextMR Spine (K260525)"
+ },
+ "fda510k:K260576": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: MeVis Medical Solutions AG — MeVis AVM Contour (K260576)"
+ },
+ "fda510k:K260584": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Mriguidance B.V. — BoneMRI (K260584)"
+ },
+ "fda510k:K260588": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K260588.json",
+  "priority": "P1",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Cleerly, Inc. — Cleerly LABS (K260588)"
+ },
+ "fda510k:K260811": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K260811.json",
+  "priority": "P2",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Heartvue.ai, Inc. — Heartvue.Proton (K260811)"
+ },
+ "fda510k:K260879": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K260879.json",
+  "priority": "P2",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: INVIA, LLC — 4DM (K260879)"
+ },
+ "fda510k:K260936": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Neurocareai, Inc. (Dba Savelife.Ai) — RadioViewAI (K260936)"
+ },
+ "fda510k:K260973": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Beijing Infervision Healthcare Medical Technology Co., Ltd. — InferOperate Suite (K260973)"
+ },
+ "fda510k:K260980": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K260980.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Curemetrix, Inc. — cmAngio® V2.0 (K260980)"
+ },
+ "fda510k:K261210": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K261210.json",
+  "priority": "P1",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Cleerly, Inc. — Cleerly Plaque (K261210)"
+ },
+ "fda510k:K261349": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Airs Medical, Inc. — SwiftMR (K261349)"
+ },
+ "fda510k:K261368": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Ischemaview, Inc. — Rapid Platform (R6.7) (K261368)"
+ },
+ "fda510k:K261465": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: INDIGO TECHNOLOGIES — INDIRA CLOUD VIEWER (K261465)"
+ },
+ "fda510k:K261500": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: S.M.A.I.O — KBA3D (v2.4.0) (K261500)"
+ },
+ "fda510k:K261535": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K261535.json",
+  "priority": "P2",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Hi-D Imaging AG — Hi-D Imaging 4TAVR (K261535)"
+ },
+ "fda510k:K261595": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Ceevra, Inc. — Ceevra Reveal 4 (K261595)"
+ },
+ "fda510k:K261623": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K261623.json",
+  "priority": "P2",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: GE Medical Systems Ultrasound and Primary Care Diagnostics — EchoPAC Software Only / EchoPAC Plug-in (v211) (K261623)"
+ },
+ "fda510k:K261641": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: AI Planning Logic, Inc. — Lower Limb AI (LLAI) (K261641)"
+ },
+ "fda510k:K261677": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Aramis Global AI Consultancies, LLC — Artificial Intelligence Renal Assessment (AIRA) Version 1 (K261677)"
+ },
+ "fda510k:K261713": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: FUJIFILM Healthcare Americas Corporation — Synapse PACS (7.6.0) (K261713)"
+ },
+ "fda510k:K261795": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Omniscient Neurotechnology Pty, Ltd. — Quicktome Software Suite (K261795)"
+ },
+ "fda510k:K261855": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K261855.json",
+  "priority": "P0",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Elucid Bioimaging, Inc. — Elucid PlaqueIQ (K261855)"
+ },
+ "fda510k:K261861": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Mdsim S.A. — SPINEsim v1.0 (K261861)"
+ },
+ "fda510k:K261874": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Syneris — Syneris PACS v.1.0.1.0 (K261874)"
+ },
+ "fda510k:K261916": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Cortechs Labs, Inc. — NeuroQuant PET (K261916)"
+ },
+ "fda510k:K262015": {
+  "first_seen": "2026-10-16T02:45:40+00:00",
+  "path": "data/events/fda_510k/fda510k_K262015.json",
+  "priority": "P0",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Elucid Bioimaging, Inc. — Elucid FFR-IQ (B.1) (K262015)"
+ },
+ "fda510k:K262060": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Radiopharmaceutical Imaging & Dosimetry, LLC — 3D-RD-S (K262060)"
+ },
+ "fda510k:K262120": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Avara Software — Avara Viewer (K262120)"
+ },
+ "fda510k:K262127": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Dentsply Sirona — DS Core CBCT Anatomy (K262127)"
+ },
+ "fda510k:K262143": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Candelis, Inc. — ImageGrid StreamVue (K262143)"
+ },
+ "fda510k:K262390": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Visiana — BoneXpert (K262390)"
+ },
+ "fda510k:K262442": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Replasia BV — HipStudio Analysis (K262442)"
+ },
+ "fda510k:K262449": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: ADVAHEALTH SOLUTIONS, LLC — AdvaView (K262449)"
+ },
+ "fda510k:K262462": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "priority": null,
+  "source": "fda_510k",
+  "status": "dropped",
+  "title": "FDA 510(k) clearance: Boston Scientific Corporation — TheraSphere 360 Y-90 Management Platform (K262462)"
+ },
+ "fda510k:K263048": {
+  "first_seen": "2026-10-16T02:45:52+00:00",
+  "path": "data/events/fda_510k/fda510k_K263048.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Siemens Healthineers AG — Syngo Carbon Space (VA4) (K263048)"
+ },
+ "fda510k:K880580": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K880580.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical USA BV — EXTENDED MULTIPURPOSE TRANSDUCER RANGE (K880580)"
+ },
+ "fda510k:K900469": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K900469.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical USA BV — ULTRASOUND SCANNER MODEL #1150 (K900469)"
+ },
+ "fda510k:K900838": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K900838.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Equipment B.V. — TRANSVAGINAL TRANSDUCER ASSEMBLY (K900838)"
+ },
+ "fda510k:K911043": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K911043.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Equipment B.V. — HEMISPHERE MULTIPLANE ENDORECTAL PROBE (K911043)"
+ },
+ "fda510k:K911044": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K911044.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Equipment B.V. — 7.5 MHZ APAS TRANSDUCER (ART.NOL: 50.04918.1) (K911044)"
+ },
+ "fda510k:K911584": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K911584.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Equipment B.V. — DIAGNOSTIC ULTRASOUND SYSTEM MODEL SC480 (K911584)"
+ },
+ "fda510k:K912819": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K912819.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Equipment B.V. — SC1150 CW/PD (K912819)"
+ },
+ "fda510k:K915647": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K915647.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Equipment B.V. — DIAGNOSTIC ULTRASOUND SYSTEM MODEL SC250 (K915647)"
+ },
+ "fda510k:K940172": {
+  "first_seen": "2026-10-16T02:45:45+00:00",
+  "path": "data/events/fda_510k/fda510k_K940172.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems, Inc. — CARDIOVASCULAR MEASUREMENT SYSTEM-CMS (K940172)"
+ },
+ "fda510k:K945540": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K945540.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Equipment B.V. — CAAS II (K945540)"
+ },
+ "fda510k:K982203": {
+  "first_seen": "2026-10-16T02:45:51+00:00",
+  "path": "data/events/fda_510k/fda510k_K982203.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Pie Medical Equipment B.V. — CAAS II LVA BIPLANE OPTION (K982203)"
+ },
+ "fda510k:K993761": {
+  "first_seen": "2026-10-16T02:45:45+00:00",
+  "path": "data/events/fda_510k/fda510k_K993761.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — CARDIOVASCULAR MEASUREMENT SYSTEM - VIEW (K993761)"
+ },
+ "fda510k:K993763": {
+  "first_seen": "2026-10-16T02:45:45+00:00",
+  "path": "data/events/fda_510k/fda510k_K993763.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — QUANTITATIVE ANALYSIS OF CORONARY ANGIOGRAMS (QCA) (K993763)"
+ },
+ "fda510k:K993765": {
+  "first_seen": "2026-10-16T02:45:45+00:00",
+  "path": "data/events/fda_510k/fda510k_K993765.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — QUANTITATIVE ANALYSIS OF LEFT VENTRICULAR ANGIOGRAMS (QLV) (K993765)"
+ },
+ "fda510k:K994282": {
+  "first_seen": "2026-10-16T02:45:45+00:00",
+  "path": "data/events/fda_510k/fda510k_K994282.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — MRI- FLOW ANALYTICAL SOFTWARE PACKAGE (K994282)"
+ },
+ "fda510k:K994283": {
+  "first_seen": "2026-10-16T02:45:44+00:00",
+  "path": "data/events/fda_510k/fda510k_K994283.json",
+  "priority": "P3",
+  "source": "fda_510k",
+  "status": "triaged",
+  "title": "FDA 510(k) clearance: Medis Medical Imaging Systems BV — MRI- MAGNETIC RESONANCE ANALYTICAL SOFTWARE SYSTEM (K994283)"
+ },
+ "fdarecall:98930": {
+  "first_seen": "2026-10-16T02:45:54+00:00",
+  "path": "data/events/fda_recalls/fdarecall_98930.json",
+  "priority": "P1",
+  "source": "fda_recalls",
+  "status": "triaged",
+  "title": "FDA recall: PIE Medical Imaging B.V. — 3mensio Workstation (Vascular Fenestrated) software"
+ },
+ "pubmed:42855990": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42855990.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Artificial Intelligence Echocardiographic Interpretation in the Emergency Department: Agreement, Interpretation Yield and Reporting Scope."
+ },
+ "pubmed:42859062": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42859062.json",
+  "priority": "P1",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Guideline-endorsed but devalued: Fee schedule-wide and code-specific declines in Medicare payment for cardiac computed tomography, 2010-2026."
+ },
+ "pubmed:42859515": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42859515.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Improvements in the Diagnostic Performance of Coronary Computed Tomography Angiography in the Assessment of Heavily Calcified Plaques Using a Novel Deep Learnin"
+ },
+ "pubmed:42859700": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42859700.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Deep Learning Optimizes the Diagnostic Performance of Coronary Computed Tomography Angiography in Heavily Calcified Coronary Plaques: A Chinese Multicenter Stud"
+ },
+ "pubmed:42860999": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42860999.json",
+  "priority": "P3",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Opportunistic Cardiovascular Risk Assessment in the Eye Clinic: Validation of a Retinal Deep Learning-Based 10-Year Atherosclerotic Cardiovascular Disease Estim"
+ },
+ "pubmed:42861037": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42861037.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Quantification of plaque and detection of high-risk plaque characteristics based on coronary computed tomography angiography: comparison between superresolution"
+ },
+ "pubmed:42862448": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42862448.json",
+  "priority": "P3",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Association of pericoronary and epicardial adipose tissue thickness with coronary artery calcium score using cardiac computed tomography."
+ },
+ "pubmed:42865761": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42865761.json",
+  "priority": "P3",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Echocardiography-based multimodal models for thromboembolic risk prediction in atrial fibrillation: a narrative review."
+ },
+ "pubmed:42865817": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42865817.json",
+  "priority": "P3",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Automatic transesophageal echocardiographic evaluation of patients with mitral valve prolapse: comparison with patients without structural cardiac chamber remod"
+ },
+ "pubmed:42868557": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42868557.json",
+  "priority": "P1",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Coronary Plaque Burden and Progression in Los Angeles Firefighters Versus Matched Controls: A Cohort Study."
+ },
+ "pubmed:42868969": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42868969.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Algorithmic Guardrails for Echocardiography AI: Deep Feature Representations for Error Slicing and Selective LVEF Estimation."
+ },
+ "pubmed:42871045": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42871045.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Incremental diagnostic value of coronary CT angiography-derived pericoronary adipose tissue radiomics for identifying hemodynamically significant coronary steno"
+ },
+ "pubmed:42872262": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42872262.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Evaluation of different artificial intelligence-based coronary artery calcium scoring algorithms in nongated chest computed tomography."
+ },
+ "pubmed:42876153": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42876153.json",
+  "priority": "P3",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "EXPRESS: Diagnostic and prognostic value of on-site CT-derived fractional flow reserve in intracranial atherosclerotic stenosis."
+ },
+ "pubmed:42876457": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42876457.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "Association between lesion-specific fat attenuation index and high-risk plaque on coronary computed tomography angiography."
+ },
+ "pubmed:42877974": {
+  "first_seen": "2026-10-16T02:46:02+00:00",
+  "path": "data/events/pubmed/pubmed_42877974.json",
+  "priority": "P2",
+  "source": "pubmed",
+  "status": "triaged",
+  "title": "AI and Deep Learning in Cardiovascular Imaging: From Risk Stratification to Precision Phenotyping."
+ },
+ "rss:0075e4b82f55c6ed": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "1MD Nutrition to Sponsor Arthritis Foundation's \"Whole Body Healing for Arthritis\" Webinar"
+ },
+ "rss:01a1ef853943a466": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Stryker enters soft tissue robotics with $400M investment in CMR Surgical"
+ },
+ "rss:0478f23a279d0136": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Medtronic Named to TIME Best Inventions of 2026 List for Stealth AXiS™ surgical system and Corsano™* multi-parameter wearable"
+ },
+ "rss:0e341cbba7833f93": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "J&J’s medtech business slows again in Q3"
+ },
+ "rss:199d3537fc83e27a": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "HPI: Evidence contradicts broad claims about AI, radiology workforce"
+ },
+ "rss:1d9be393b3bea6a2": {
+  "first_seen": "2026-10-16T02:46:14+00:00",
+  "path": "data/events/rss/rss_1d9be393b3bea6a2.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "ACC Webinar: AI in Clinical Practice: Cardiac MRI - American College of Cardiology"
+ },
+ "rss:23567d7a3272d7d8": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "CEM-guided biopsy effective for sampling suspicious breast findings"
+ },
+ "rss:256e447344d1a504": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Setria® Glutathione Featured in RHYTHM's New NAD+ Supplement Launch"
+ },
+ "rss:273677798d1b0fc1": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "OrbiMed haalt 3 miljard dollar op voor wereldwijde en Aziatische private-equityfondsen"
+ },
+ "rss:27ae5cb2fcd07f55": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Shoulder Innovations to Report Third Quarter 2026 Financial Results on November 5, 2026"
+ },
+ "rss:281e96da68bab847": {
+  "first_seen": "2026-10-16T02:46:17+00:00",
+  "path": "data/events/rss/rss_281e96da68bab847.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "Heartflow CEO John Farquhar sells $1.93 million in stock - Investing.com"
+ },
+ "rss:2ac73381181d381b": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "On Global Cat Day® and National Feral Cat Day®, October 16, Alley Cat Allies Calls for Worldwide Action for Cats"
+ },
+ "rss:2c131feed45234fd": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "HealthMetrix Research Selects 2027 Medicare Advantage Plans for Exceptional Benefit Value &amp; Overall Performance"
+ },
+ "rss:2c2f75dcb178b76a": {
+  "first_seen": "2026-10-16T02:46:17+00:00",
+  "path": "data/events/rss/rss_2c2f75dcb178b76a.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "An officer and director proposes selling 38,900 Heartflow (NASDAQ: HTFL) shares worth $1.93M. - Stock Titan"
+ },
+ "rss:2d97c6b5bfd65cd6": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "NEJM study supports CGM use for people with diabetes who don’t take insulin"
+ },
+ "rss:3094f17b8d82afc4": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Workplace Benefits Article in HelloNation Explains Why Employees Overlook Valuable Workplace Benefits, Featuring Benefits Consulting Expert Stacia Robinson"
+ },
+ "rss:343952d95e47cf83": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Meet the Minnies 2026 semifinalist candidates"
+ },
+ "rss:3dda22e3ac9867ba": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Dr. Rod J. Rohrich Ranked Best Rhinoplasty Surgeon in the United States for Sixth Consecutive Year by Newsweek"
+ },
+ "rss:4c251271df6ed003": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Disrupting Health Insurance: Larry Hightower Opens the Healthcare Pricing Black Box"
+ },
+ "rss:5736e92b4ba98d30": {
+  "first_seen": "2026-10-16T02:46:17+00:00",
+  "path": "data/events/rss/rss_5736e92b4ba98d30.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "Under a trading plan, Heartflow (HTFL) CEO sells 38,900 shares and retains 283,014 directly. - Stock Titan"
+ },
+ "rss:578b6bee8c8d56b9": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Zimmer and Think Surgical pen multi-year extension to robotic surgery deal"
+ },
+ "rss:58d03a363385ecac": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Big Prostate AI Study Supports Screening Role"
+ },
+ "rss:5badd7e9257683f9": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Ascensia leads $36M funding round for glucose sensor startup"
+ },
+ "rss:5d8c0ff273bfc439": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "path": "data/events/rss/rss_5d8c0ff273bfc439.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "Siemens Healthineers to stop selling general ultrasound systems"
+ },
+ "rss:6b938fca2bedb7a1": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Agilent to buy Proscia for $240M"
+ },
+ "rss:77bf8f364edb77d1": {
+  "first_seen": "2026-10-16T02:46:22+00:00",
+  "path": "data/events/rss/rss_77bf8f364edb77d1.json",
+  "priority": "P2",
+  "source": "rss",
+  "status": "triaged",
+  "title": "Siemens Healthineers doubles down on cardiovascular care as it exits general imaging ultrasound business - Cardiovascular Business"
+ },
+ "rss:7b3c5c703889c498": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "GAE cuts steroid injections by half in knee osteoarthritis patients"
+ },
+ "rss:80ba968c410cf3ae": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Lanoi Dermatology welcomes board-certified dermatologist and Mohs surgeon Hannah Berman, MD"
+ },
+ "rss:8d3e2d63c691c285": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Brain MRI features linked to cognitive decline in older populations"
+ },
+ "rss:8e3e41f6e51392f6": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Manual, DL-generated segmentations differ in radiomic features"
+ },
+ "rss:94cda5debfa4c5f9": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "CNO Financial Group to Release Third Quarter Results on October 29, 2026"
+ },
+ "rss:96c1ec6eb024585e": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Cancer Diagnostics Market to Reach US$ 41.5 Billion by 2031 at 7.2% CAGR, says Wissen Research"
+ },
+ "rss:990e2e57f81266cc": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Solventum to Report Third Quarter Fiscal 2026 Earnings on November 5, 2026"
+ },
+ "rss:9a828b74f7099ec1": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Acta Presents \"EU and UK REACH Developments and Compliance Priorities\" Webinar"
+ },
+ "rss:9abc7ebb51f0c104": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Lu-177 PNT2002 before SBRT extends disease control in prostate cancer"
+ },
+ "rss:a689f282d3ef134e": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Steris inks $2.1B Xodus buyout to expand consumables portfolio"
+ },
+ "rss:b369dba862f66fb0": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Orthofix pays former executives $24M in damages"
+ },
+ "rss:bc7b1337f59f6a69": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "HealFast Expands Patient-First Mission into Weight Loss and Metabolic Health Support with Telehealth Launch"
+ },
+ "rss:c4328f02ce1b149e": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "AuntMinnie.com Molecular Imaging Insider"
+ },
+ "rss:c6f12e2ec630fbdf": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "QuidelOrtho Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)"
+ },
+ "rss:cb476e91192dba14": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Radiologists, LLMs fail at spotting AI-generated chest x-rays"
+ },
+ "rss:cefe891afd5ce0c7": {
+  "first_seen": "2026-10-16T02:46:23+00:00",
+  "path": "data/events/rss/rss_cefe891afd5ce0c7.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "Philips ultrasound imaging systems recalled after 4 deaths - Radiology Business"
+ },
+ "rss:cfbdf210dc08679f": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Reveleer Names Digital Health Innovator Dr. Jean-Luc Neptune Chief Medical Officer"
+ },
+ "rss:d81877691cee1d89": {
+  "first_seen": "2026-10-16T02:46:17+00:00",
+  "path": "data/events/rss/rss_d81877691cee1d89.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "HeartFlow Inc (HTFL) CEO John Farquhar Sells 38,900 Shares - GuruFocus"
+ },
+ "rss:e8c143c04a38f081": {
+  "first_seen": "2026-10-16T02:46:06+00:00",
+  "path": "data/events/rss/rss_e8c143c04a38f081.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "Philips updates instructions for ultrasound system linked to 4 deaths"
+ },
+ "rss:ec71bb83ca593b48": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Blackford Finds Buyer with Sopris Acquisition"
+ },
+ "rss:edc305e6d8c7a0e1": {
+  "first_seen": "2026-10-16T02:46:17+00:00",
+  "path": "data/events/rss/rss_edc305e6d8c7a0e1.json",
+  "priority": "P3",
+  "source": "rss",
+  "status": "triaged",
+  "title": "Form 4 Heartflow Inc: John C.M. Farquhar (Director, CEO) For: 12 October - Investing.com Nigeria"
+ },
+ "rss:f0be4b49b4f684dd": {
+  "first_seen": "2026-10-16T02:46:05+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Positive Amyloid PET study alongside an AI-based quantitative MRI for ARIA surveillance"
+ },
+ "rss:f0c25416d4991257": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Harford Mutual Insurance Group Executive Vice President Jeff Rink Joins Upper Chesapeake Health Foundation Board"
+ },
+ "rss:fa1803555f7e76b6": {
+  "first_seen": "2026-10-16T02:46:07+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "IEHP named a 'Best Workplace in Health Care' for fifth consecutive year"
+ },
+ "rss:fbca968e955bd54f": {
+  "first_seen": "2026-10-16T02:46:11+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Exploring major trends in cardiac MRI - Cardiovascular Business"
+ }
+}

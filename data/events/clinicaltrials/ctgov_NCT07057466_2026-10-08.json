@@ -1,0 +1,60 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "Valvular Heart Disease Stenosis and Regurgitation (Diagnosis)",
+   "Pulmonary Hypertension (Diagnosis)",
+   "Heart Failure With Reduced Ejection Fraction (HFrEF; Diagnosis)",
+   "Heart Failure With Preserved Ejection Fraction (HFpEF; Diagnosis)"
+  ],
+  "interventions": [
+   "Traditional 12-lead Electrocardiogram",
+   "Apple Watch Series 4 Single-lead Electrocardiogram",
+   "Eko Core 500 Digital Stethoscope 3-lead Electrocardiogram",
+   "AliveCor KardiaMobile Single- and 6-lead Electrocardiogram",
+   "Phlebotomy for N-terminal pro-B-type natriuretic peptide"
+  ],
+  "nct_id": "NCT07057466",
+  "new_registration": false,
+  "sponsor": "Imperial College London",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT07057466:2026-10-08",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b"
+  ],
+  "cardiac": [
+   "\\bheart\\b",
+   "echocardiog",
+   "stenos",
+   "structural heart"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 10
+ },
+ "published": "2026-10-08",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status RECRUITING. Sponsor: Imperial College London. Conditions: Valvular Heart Disease Stenosis and Regurgitation (Diagnosis), Pulmonary Hypertension (Diagnosis), Heart Failure With Reduced Ejection Fraction (HFrEF; Diagnosis), Heart Failure With Preserved Ejection Fraction (HFpEF; Diagnosis). Interventions: Traditional 12-lead Electrocardiogram, Apple Watch Series 4 Single-lead Electrocardiogram, Eko Core 500 Digital Stethoscope 3-lead Electrocardiogram, AliveCor KardiaMobile Single- and 6-lead Electrocardiogram, Phlebotomy for N-terminal pro-B-type natriuretic peptide. Type OBSERVATIONAL, enrollment 590. Start 2025-11-04, primary completion 2027-05-03. AI-ECG-SHD is a multicentre prospective observational diagnostic accuracy study evaluating artificial intelligence-enhanced electrocardiography (AI-ECG) for the detection of structural heart disease in adults undergoing clinically indicated transthoracic echocardiography (TTE). Participants undergo standard 12-lead ECG acquisition together with ECG recordings obtained using portable or wearable single-, 3-, and 6-lead devices. Established AI-ECG models will be evaluated for the detection of heart failure, pulmonary hypertension and valvular heart disease using TTE as the clinical reference standard, with performance compared across ECG acquisition modalities within the same prospective cohort. AI-ECG predictions are generated offline and are not provided to treating clinicians or used to alter clinical care. The study will also compare AI-ECG performance with N-terminal pro-B-type natriuretic peptide (NT-proBNP) and evaluate the diagnostic performance of a combined AI-ECG and NT-proBNP approach. The study aims to recruit 590 participants across six NHS hospital sites. A prespecified subgroup of 203 participants will undergo dedicated venous blood sampling for NT-proBNP; eligible same-day NT-proBNP measurements obtained as part of routine clinical care will also be included where available.",
+ "title": "Prospective Evaluation of AI-ECG for SHD Detection (NCT07057466)",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Imperial College AI-ECG structural heart disease detection study updated.",
+  "tags": [
+   "trial",
+   "ai-ecg"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "AI-ECG, adjacent."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT07057466"
+}

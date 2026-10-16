@@ -1,0 +1,96 @@
+{
+ "alerted_at": null,
+ "category": "regulatory",
+ "collected_at": "2026-10-16T02:45:40+00:00",
+ "extra": {
+  "applicant": "Heartflow",
+  "decision_date": "2014-11-26",
+  "device_name": "HEARTFLOW FFRCT",
+  "historical": true,
+  "k_number": "DEN130045",
+  "matched_company": "heartflow",
+  "product_code": "PJA",
+  "raw": {
+   "address_1": "1400 Seaport Blvd., Bldg. B",
+   "address_2": "",
+   "advisory_committee": "CV",
+   "advisory_committee_description": "Cardiovascular",
+   "applicant": "Heartflow",
+   "city": "Redwood City",
+   "clearance_type": "Direct",
+   "contact": "Dustin  Michaels",
+   "country_code": "US",
+   "date_received": "2013-11-04",
+   "decision_code": "DENG",
+   "decision_date": "2014-11-26",
+   "decision_description": "Unknown",
+   "device_name": "HEARTFLOW FFRCT",
+   "expedited_review_flag": "",
+   "k_number": "DEN130045",
+   "openfda": {
+    "device_class": "2",
+    "device_name": "Coronary Vascular Physiologic Simulation Software",
+    "fei_number": [
+     "3021637148",
+     "3025430791"
+    ],
+    "medical_specialty_description": "Cardiovascular",
+    "registration_number": [
+     "3021637148",
+     "3025430791"
+    ],
+    "regulation_number": "870.1415"
+   },
+   "postal_code": "94063",
+   "product_code": "PJA",
+   "review_advisory_committee": "CV",
+   "state": "CA",
+   "statement_or_summary": "",
+   "third_party_flag": "N",
+   "zip_code": "94063"
+  },
+  "regulation_number": "870.1415",
+  "summary_pdf_path": "data/fda_summaries/DEN130045.pdf",
+  "summary_pdf_url": "https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN130045.pdf",
+  "summary_text_path": "data/fda_summaries/DEN130045.txt"
+ },
+ "id": "fda510k:DEN130045",
+ "prefilter": {
+  "ai": [
+   "software",
+   "fda",
+   "de novo"
+  ],
+  "cardiac": [
+   "coronar",
+   "\\bffr"
+  ],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 12
+ },
+ "published": "2014-11-26",
+ "reported_in": "historical",
+ "source": "fda_510k",
+ "status": "triaged",
+ "summary": "De Novo grant. Applicant: Heartflow. Device: HEARTFLOW FFRCT. Product code PJA (Coronary Vascular Physiologic Simulation Software), regulation 870.1415, class 2. Decision 2014-11-26 (Unknown), received 2013-11-04, Direct pathway. Filed as n/a.",
+ "title": "FDA De Novo grant: Heartflow — HEARTFLOW FFRCT (DEN130045)",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P3",
+  "relevance": 3,
+  "summary": "Historical FDA record stored for dossier context.",
+  "tags": [
+   "historical",
+   "regulatory"
+  ],
+  "triaged_at": "2026-10-16T02:45:40+00:00",
+  "triaged_by": "collector",
+  "why_it_matters": ""
+ },
+ "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN130045"
+}

@@ -1,0 +1,122 @@
+{
+ "alerted_at": null,
+ "category": "regulatory",
+ "collected_at": "2026-10-16T02:45:42+00:00",
+ "extra": {
+  "applicant": "Ultromics, Ltd.",
+  "decision_date": "2020-12-18",
+  "device_name": "EchoGo Pro",
+  "historical": true,
+  "k_number": "K201555",
+  "matched_company": "ultromics",
+  "product_code": "POK",
+  "raw": {
+   "address_1": "4630 Kingsgate, Cascade Way, Oxford Business Park S.",
+   "address_2": "",
+   "advisory_committee": "RA",
+   "advisory_committee_description": "Radiology",
+   "applicant": "Ultromics, Ltd.",
+   "city": "Oxford",
+   "clearance_type": "Traditional",
+   "contact": "Melissa  Clark",
+   "country_code": "GB",
+   "date_received": "2020-06-10",
+   "decision_code": "SESE",
+   "decision_date": "2020-12-18",
+   "decision_description": "Substantially Equivalent",
+   "device_name": "EchoGo Pro",
+   "expedited_review_flag": "",
+   "k_number": "K201555",
+   "openfda": {
+    "device_class": "2",
+    "device_name": "Computer-Assisted Diagnostic Software For Lesions Suspicious For Cancer",
+    "fei_number": [
+     "3019216",
+     "3014269683",
+     "3016585383",
+     "3017604664",
+     "3034527804",
+     "3022983474",
+     "3032008018",
+     "3033588305",
+     "2518586",
+     "3015478020",
+     "3029937167",
+     "3040335643",
+     "3007301305",
+     "3017210169",
+     "3044622018",
+     "3010119782"
+    ],
+    "medical_specialty_description": "Radiology",
+    "registration_number": [
+     "3019216",
+     "3016585383",
+     "3017604664",
+     "3034527804",
+     "3011205675",
+     "3022983474",
+     "3032008018",
+     "2518586",
+     "3015478020",
+     "3033588305",
+     "3029937167",
+     "3040335643",
+     "3007301305",
+     "3017210169",
+     "3044622018",
+     "3010119782"
+    ],
+    "regulation_number": "892.2060"
+   },
+   "postal_code": "OX4 2SU",
+   "product_code": "POK",
+   "review_advisory_committee": "RA",
+   "state": "",
+   "statement_or_summary": "Summary",
+   "third_party_flag": "N",
+   "zip_code": "OX4 2SU"
+  },
+  "regulation_number": "892.2060",
+  "summary_pdf_path": "data/fda_summaries/K201555.pdf",
+  "summary_pdf_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201555.pdf",
+  "summary_text_path": "data/fda_summaries/K201555.txt"
+ },
+ "id": "fda510k:K201555",
+ "prefilter": {
+  "ai": [
+   "software",
+   "fda",
+   "510\\(k\\)",
+   "clearance"
+  ],
+  "cardiac": [],
+  "companies": [
+   "ultromics"
+  ],
+  "keep": true,
+  "score": 9
+ },
+ "published": "2020-12-18",
+ "reported_in": "historical",
+ "source": "fda_510k",
+ "status": "triaged",
+ "summary": "510(k) clearance. Applicant: Ultromics, Ltd.. Device: EchoGo Pro. Product code POK (Computer-Assisted Diagnostic Software For Lesions Suspicious For Cancer), regulation 892.2060, class 2. Decision 2020-12-18 (Substantially Equivalent), received 2020-06-10, Traditional pathway. Filed as Summary.",
+ "title": "FDA 510(k) clearance: Ultromics, Ltd. — EchoGo Pro (K201555)",
+ "triage": {
+  "companies": [
+   "ultromics"
+  ],
+  "priority": "P3",
+  "relevance": 3,
+  "summary": "Historical FDA record stored for dossier context.",
+  "tags": [
+   "historical",
+   "regulatory"
+  ],
+  "triaged_at": "2026-10-16T02:45:42+00:00",
+  "triaged_by": "collector",
+  "why_it_matters": ""
+ },
+ "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K201555"
+}

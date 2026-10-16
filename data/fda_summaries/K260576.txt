@@ -1,0 +1,647 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 30, 2026 
+ 
+MeVis Medical Solutions AG 
+Anne Schmidt 
+Regulatory Affairs Manager 
+Caroline-Herschel-Str. 1  
+Bremen, 28359 
+Germany 
+ 
+Re:  K260576 
+Trade/Device Name: MeVis AVM Contour 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  May 28, 2026 
+Received:  May 28, 2026 
+ 
+Dear Anne Schmidt: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K260576 - Anne Schmidt Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K260576 - Anne Schmidt Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Lora D. Weidner, Ph.D. 
+Assistant Director 
+Radiation Therapy Team 
+DHT8C: Division of Radiological 
+    Imaging and Radiation Therapy Devices 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+510(k) Summary 
+MeVis AVM Contour – K260576 
+Rev 3 – 06/30/2026 
+Page 1 
+ 
+ 
+  K260576  
+ 
+1 Submitter 
+ 
+Submitted Name: MeVis Medical Solutions AG 
+Caroline-Herschel-Straße 1 
+28359 Bremen 
+Germany 
+Establishment Name: MeVis Medical Solutions AG 
+ 
+Establishment 
+Registration Number: 3010601176 
+ 
+Date Prepared: 
+ 
+Contact Person: Anne Schmidt 
+Manager Regulatory Affairs 
+ 
+Telephone: +49 (0)421 22495-120 
+ 
+Fax: +49 (0)421 22495-999 
+ 
+2 Device 
+ 
+Device Trade Name: MeVis AVM Contour 
+Regulation: CFR 21 892.2050 
+ 
+Classification Name: Medical image management and processing system 
+ 
+Product Code: LLZ -system, image processing, radiological 
+ 
+Class: Class 2 
+MeVis AVM Contour – K260576 
+Rev 3 – 06/30/2026 
+Page 2 
+ 
+ 
+ 
+3 Predicate Device 
+ 
+510(k) Number Predicate Device Product Code 
+K212420 Brainlab Elements, Brainlab Elements Contouring, 
+Brainlab Elements Fibertracking, Brainlab Elements 
+Image Fusion, Brainlab Elements Image Fusion Angio 
+LLZ, JAK 
+ 
+ 
+4 Reference Device1 
+ 
+510(k) Number Reference Device Product Code 
+K190042 Brainlab Elements Image Fusion Angio 1.0 LLZ 
+JAK, LHN 
+ 
+5 Device Description 
+The MeVis AVM Contour device is a specialized medical imaging software tool for DICOM CT, 
+biplanar X-Ray and DSA images designed for qualified medical professionals working in the field 
+of neurosurgery or radiotherapy planning. 
+The device integrates manual contouring tools, semi -automatic image registration, and ROI 
+projection functions to support visualization, contouring, and export of 3D CT-based structures in 
+DICOM RT Structure Set (RTStruct) format for subsequent treatment planning of arteriovenous 
+malformation (AVM) diseases. The created contours are intended for further review, modification, 
+and approval by radiosurgery or radiotherapy planning specialists using third -party treatment 
+planning systems (not included in this submission). 
+6 Indications for Use 
+ 
+MeVis AVM Contour is intended for use by qualified medical professionals working in the field of 
+neurosurgery or radiotherapy planning to manually create target contours for regions of interest in 
+the cranial region through semi-automatic registration of 2D digital subtraction angiography (DSA) 
+images onto 3D computed tomography (CT) scans. 
+The contours can be exported as DICOM RTStruct objects and are used in radiosurgery/-therapy 
+treatment planning procedures to target specific brain regions. 
+The created contours are intended for further review, editing and approval by radiosurgery/ -
+therapy planning specialists in third-party radiosurgery/-therapy treatment planning systems (not 
+part of this submission). 
+The semi-automatic registration is restricted to/requires: 
+• X- ray, 2D DSA and 3D CT images of the brain 
+• X- ray images must be acquired in both frontal and sagittal direction 
+ 
+ 
+1 In order to justify the acceptance criteria for the performance of the subject device’s registration algorithm. 
+MeVis AVM Contour – K260576 
+Rev 3 – 06/30/2026 
+Page 3 
+ 
+ 
+ 
+Intended Patient Population 
+MeVis AVM Contour is used for patients diagnosed with Arteriovenous Malformations (AVM) 
+requiring stereotactic radiosurgery (SRS). These patients are adults, 18 years and older. 
+Intended User Profile 
+The intended users are qualified medical professionals, working in the field of neurosurgery or 
+radiotherapy planning (Neurosurgeons and Radiation Oncologists). 
+ 
+7 Technological Characteristics Comparison 
+ 
+The technological characteristics of MeVis AVM Contour are similar to the identified legally 
+marketed predicate device (see Table 2). The MeVis AVM Contour software uses fewer 
+functionalities than the predicate device as it has a narrower indication. It only includes those 
+functionalities necessary to fulfill its intended use. 
+Safety and effectiveness have been demonstrated by performance testing. Therefore, this 
+difference in functionality is not substantial. 
+ 
+Table 1  Comparison table for indications for use. 
+Device Indications for Use 
+Subject Device 
+MeVis AVM 
+Contour 
+MeVis AVM Contour is intended for use by qualified medical professionals working in the field of 
+neurosurgery or radiotherapy planning to manually create target contours for regions of interest 
+in the cranial region through semi -automatic registration of 2D digital subtraction angiography 
+(DSA) images onto 3D computed tomography (CT) scans. 
+The contours can be exported as DICOM RTStruct objects and are used in radiosurgery/-therapy 
+treatment planning procedures to target specific brain regions. 
+The created contours are intended for further review, editing and approval by radiosurgery/ -
+therapy planning specialists in third-party radiosurgery/-therapy treatment planning systems (not 
+part of this submission). 
+The semi-automatic registration is restricted to/requires: 
+• X-ray, 2D DSA and 3D CT images of the brain 
+• X-ray images must be acquired in both frontal and sagittal direction 
+Intended Patient Population 
+MeVis AVM Contour is used for patients diagnosed with Arteriovenous Malformations (AVM) 
+requiring stereotactic radiosurgery (SRS). These patients are adults, 18 years and older. 
+Intended User Profile 
+The intended users are qualified medical professionals, working in the field of neurosurgery or 
+radiotherapy planning (Neurosurgeons and Radiation Oncologists). 
+Primary Predicate 
+device: 
+Brainlab Elements, 
+Brainlab Elements 
+Contouring, 
+Brainlab Elements 
+Fibertracking, 
+Brainlab Elements 
+Image Fusion, 
+Brainlab Elements 
+Image Fusion 
+Angio (K212420) 
+Brainlab Elements Contouring provides an interface with tools and views to outline, refine, 
+combine and manipulate structures in patient image data. The generated 3D structures are not 
+intended to create physical replicas used for diagnostic purposes. The device itself does not 
+have clinical indications. Brainlab Elements Fibertracking is an application for the processing 
+and visualization of cranial white matter tracts based on Diffusion Tensor Imaging (DTI) data 
+for use in treatment planning procedures. The device itself does not have clinical indications. 
+Brainlab Elements Image Fusion is an application for the co-registration of image data within 
+medical procedures by using rigid and deformable registration methods. It is intended to align 
+anatomical structures between data sets. The device itself does not have clinical indications. 
+Brainlab Elements Image Fusion Angio is a software application that is intended to be used for 
+the co-registration of cerebrovascular image data. The device itself does not have clinical 
+indications. 
+MeVis AVM Contour – K260576 
+Rev 3 – 06/30/2026 
+Page 4 
+ 
+ 
+ 
+ 
+Table 2  Comparison table for Substantial Equivalence Discussion 
+ 
+Feature/ 
+Item 
+MeVis AVM Contour (subject 
+device) 
+Predicate device Comparison Result 
+Device Name MeVis AVM Contour Brainlab Elements, Brainlab Elements 
+Contouring, Brainlab Elements 
+Fibertracking, Brainlab Elements Image 
+Fusion, Brainlab Elements 
+Image Fusion Angio 
+n/a 
+510(k) Number n/a K212420 n/a 
+Indications for Use See Table 1 See Table 1 Substantially equivalent 
+ 
+The MeVis AVM Contours 
+indications for use covers a 
+subset of indications of the 
+predicate device. The MeVis 
+AVM Contours indications for 
+use refer to 2 out of 4 
+applications in Brainlab 
+Elements: Brainlab Elements 
+Contouring and Brainlab 
+Elements Image Fusion Angios 
+indications for use. 
+The subject device is raising no 
+new concerns regarding safety 
+or effectiveness, as these are 
+the only applications necessary 
+to perform the intended use of 
+MeVis AVM Contour. 
+Product Code LLZ LLZ, JAK Same as the predicate device. 
+Intended Use The MeVis AVM Contour device is a 
+specialized  medical  imaging 
+software  tool  designed for 
+qualified medical professionals 
+working in  the field  of 
+neurosurgery or radiotherapy 
+planning. 
+It enables healthcare professionals 
+to create manual 3D CT -based 
+target contours for AVM as input 
+for further radiosurgery/-therapy 
+treatment planning. 
+Brainlab Elements is a medical device 
+for processing of medical images, that is 
+used to support treatment planning of 
+surgical or radio -therapeutical 
+procedures. 
+Substantially equivalent 
+ 
+The MeVis AVM Contour 
+intended use is a subset of the 
+intended use of the predicate 
+device. Both devices are used to 
+process a variety of medical 
+images in  support of 
+radiosurgery/-therapy 
+planning. 
+Intended Users The intended users are qualified 
+medical professionals, working in 
+the field of neurosurgery or 
+radiotherapy planning 
+(Neurosurgeons and Radiation 
+Oncologists). 
+The intended users are medical 
+professionals. Typical users as defined 
+in the use case descriptions 
+are: 
+• Image Guided Surgery: 
+Neurosurgeons, Ear- Nose-Throat (ENT) 
+surgeons and Cranio - Maxillofacial 
+(CMF) surgeons including their 
+assistants 
+• Radiotherapy: medical 
+professionals who perform radiation 
+treatment planning (medical physicists, 
+radiation oncologists, dosimetrists, 
+physicians, etc.) 
+Substantially equivalent 
+ 
+The MeVis AVM Contouring 
+intended users are a subset of 
+the users for the predicate 
+device. Both devices are 
+intended for use by medical 
+professionals. 
+MeVis AVM Contour – K260576 
+Rev 3 – 06/30/2026 
+Page 5 
+ 
+ 
+ 
+    
+Intended Patient 
+Population 
+MeVis AVM Contour is used for 
+patients diagnosed with 
+Arteriovenous  Malformations 
+(AVM) requiring stereotactic 
+radiosurgery (SRS). 
+In general, there are no demographic, 
+regional or cultural limitations for 
+patients. It is up to the user to decide if 
+the system shall be used to assist a 
+certain procedure. 
+Substantially equivalent 
+ 
+This is a subset of the patients 
+mentioned in the indications of 
+the predicate device. 
+Environment of 
+Use 
+MeVis AVM Contour is intended for 
+use in clinical  and hospital 
+environments, particularly in 
+radiotherapy planning 
+departments and neurosurgical 
+units. It is designed for flexible use, 
+allowing it to run on standard PCs. 
+The device shall be used in a hospital 
+office environment or rooms 
+appropriate for surgical interventions or 
+radiotherapy planning. 
+Substantially equivalent 
+Intended Part of 
+the Body 
+cranial region Spine, cranial region Substantially equivalent 
+ 
+MeVis AVM Contouring 
+supports a subset of the regions 
+that  are   supported  in  the 
+predicate device. 
+Import of medical 
+device image 
+series 
+X-ray, 2D DSA and 3D CT images of 
+the brain 
+2D DSA, 3D DSA, 3D CT, 3D MRA, DICOM 
+support 
+Substantially equivalent 
+ 
+MeVis AVM Contouring 
+supports a subset of image 
+series that are supported in the 
+predicate device. 
+ 
+X-ray images are a technical 
+prerequisite for 2D- 3D image 
+registration and do not raise 
+new concerns regarding safety 
+and effectiveness. 
+Image registration 2D/3D 2D/3D, 3D/3D Substantially equivalent 
+ 
+MeVis AVM Contouring 
+supports a subset of the image 
+registration techniques that are 
+supported in the predicate 
+device. 
+Image 
+segmentation of 
+anatomical 
+structures 
+manual Manual, automated Substantially equivalent 
+ 
+MeVis AVM Contouring 
+supports a subset of the image 
+segmentation techniques/tools 
+that are supported in the 
+predicate device. 
+MeVis AVM Contour – K260576 
+Rev 3 – 06/30/2026 
+Page 6 
+ 
+ 
+ 
+8 Performance Data 
+ 
+Non-clinical Tests Discussion: 
+MeVis AVM Contour is validated and verified against its requirements and intended use by the 
+successful execution of the Validation and Verification Plan: 
+• Specifications have been tested to demonstrate the software performs as intended for its 
+intended use according to IEC 62304 and ISO 14971. 
+• Usability tests have been performed to demonstrate that usability requirements are met. 
+• Security tests have been performed covering vulnerability scanning, penetration testing, 
+and verification of implemented cybersecurity measures. 
+• Bench tests for semi-automatic image registration were performed to demonstrate that the 
+product is substantially equivalent. 
+ 
+A summary of the software verification and validation activities is provided below: 
+Software verification and validation 
+Test Objective Acceptance Criteria Method Result 
+Unit Testing Verify correct 
+implementation  of 
+individual software 
+components 
+Corresponding 
+automated tests 
+pass 
+Automated unit 
+testing framework 
+Passed 
+Functional 
+Testing 
+Verify correct 
+implementation  of 
+system/software 
+requirements 
+All 
+system/software 
+requirements are 
+fulfilled; 
+Pass/Fail criteria 
+were based on the 
+requirements 
+Functional test 
+plan in simulated 
+use environment 
+Passed 
+Acceptance 
+Testing 
+Validate that user 
+needs are fulfilled; 
+Confirm   the 
+completeness of the 
+implemented system 
+requirements from an 
+end-user perspective. 
+System operates 
+as expected 
+across all major 
+areas; 
+all 
+system/software 
+requirements are 
+fulfilled; 
+Pass/Fail criteria 
+were based on the 
+requirements and 
+intended use 
+System test plan 
+in simulated use 
+environment, 
+performed  by 
+subject matter 
+experts 
+Passed 
+MeVis AVM Contour – K260576 
+Rev 3 – 06/30/2026 
+Page 7 
+ 
+ 
+ 
+Usability Testing 
+ 
+Test Objective Acceptance Criteria Method Result 
+Usability 
+Testing 
+Confirm safe and 
+effective use 
+No critical use 
+errors 
+Simulated use 
+covering all tasks 
+with 
+representative 
+users of intended 
+user group 
+Passed 
+Usability design 
+principles are 
+fulfilled 
+Heuristic 
+evaluation 
+(Nielsen usability 
+heuristics) with in-
+house usability 
+specialist 
+Passed 
+High user 
+acceptance 
+Qualitative 
+assessment using 
+a 5- point  Likert 
+score (system 
+usability scale) 
+with 
+representative 
+users of intended 
+user group 
+Passed 
+ 
+ 
+Security Testing 
+ 
+Test Objective Acceptance Criteria Method Result 
+Security 
+Testing 
+Verify correct 
+implementation  of 
+security requirements 
+and security controls 
+Security 
+requirements are 
+fulfilled 
+Security 
+requirements test, 
+vulnerability 
+scanning/dynamic 
+code analysis 
+Passed 
+Penetration 
+Testing 
+Avoid exploitable 
+vulnerabilities 
+No critical security 
+issues 
+Grey-box test Passed 
+MeVis AVM Contour – K260576 
+Rev 3 – 06/30/2026 
+Page 8 
+ 
+ 
+ 
+Bench Testing 
+ 
+For the semi-automatic image registration validation tests were performed to demonstrate that the 
+product is substantially equivalent: 
+• The objective accuracy of the automated image registration algorithm (without manual 
+refinement by the user) was evaluated using phantom data and retrospective clinical 
+routine data. 
+• The expected alignment accuracy was set as ≤1 mm. 
+• The datasets used are suitable for demonstrating the performance of the device is 
+consistent with U.S. clinical use conditions, demographically and technically representative 
+of typical clinical imaging conditions encountered in clinical stereotactic radiosurgery 
+routine. 
+• The objectively achieved 3D -CT to 2D-DSA alignment accuracy is 0.44 mm (± 0.70 mm 
+sd) 
+ 
+The accuracy testing confirms the device meets or exceeds the accuracy of 0.50 mm of the 
+predicate device (K212420) and reference device (K190042). 
+ 
+ 
+Clinical Tests Discussion: 
+ 
+N/A - No clinical testing has been conducted to demonstrate substantial equivalence. 
+ 
+9 Conclusion 
+ 
+The 510(k) Pre-Market Notification for MeVis AVM Contour contains adequate information, data, 
+and non-clinical test results to enable FDA –  CDRH to determine substantial equivalence to the 
+predicate device. MeVis Medical Solutions AG has determined that its device, MeVis AVM 
+Contour, is substantially equivalent to the identified predicate device listed above. 
+Non-clinical performance testing has demonstrated that MeVis AVM Contour performs at least as 
+safely and effectively as the predicate device in the context of its narrower indications for use. 

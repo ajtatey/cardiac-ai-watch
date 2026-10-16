@@ -1,0 +1,685 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 17, 2026 
+S.M.A.I.O 
+℅ Robert Poggie 
+President 
+BioVera, Inc. 
+65 Promenade Saint Louis 
+Notre-Dame-De-L’Ile-Perrot, QC J7W3J6 
+Canada 
+ 
+Re:  K261500 
+Trade/Device Name: KBA3D (v2.4.0) 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  July 15, 2026 
+Received:  July 15, 2026 
+ 
+Dear Robert Poggie: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K261500 - Robert Poggie Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+K261500 - Robert Poggie Page 
+ 
+3 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging Devices  and 
+Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+510(k) Summary 
+In accordance with 21 CFR 807.92 of the Federal Code of Regulations, the following is a 
+summary of safety and effectiveness of S.M.A.I.O’s KEOPS Balance Analyzer 3 (KBA3D 
+v2.4.0). 
+A. SUBMITTERS INFORMATION
+Submitter Name: BioVera, Inc. 
+Submitter Address: 65 Promenade Saint-Louis, NDIP, Québec, J7W 
+3J6, CANADA 
+Contact Person: Robert A. Poggie, PhD 
+Phone Number: 514-349-7226
+Date of Submission: July 13, 2026 
+B. DEVICE IDENTIFICATION & MANUFACTURER
+Manufacturer Name: 
+Manufacturer Address: 
+Registration Number: 
+Contact Name: 
+Title: 
+Device Trade Name: 
+Regulation Name: 
+Regulation Numbers: 
+Classification Codes: 
+Classification Panel: 
+C1. PRIMARY PREDICATE DEVICE 
+K223841 
+C2. ADDITIONAL PREDICATE DEVICE 
+K213975 
+S.M.A.I.O
+2 place Berthe Morisot - Parc Technologique 
+69800 Saint Priest - FRANCE 
+3015383864 
+Jean-Charles ROUSSOULY 
+Deputy CEO 
+KEOPS Balance Analyzer 3D (KBA3D v2.4.0) 
+Picture archiving and communications system 21 
+CFR 892.2050 
+LLZ 
+Radiology Devices 
+KEOPS Balance Analyzer 
+3D (KBA3D v2.0.0) 
+KEOPS Balance Analyzer 3D (KBA3D) 
+K261500
+Page 1 of 9
+D. DEVICE DESCRIPTION 
+The subject device KEOPS Balance Analyzer 3D (KBA3D v2.4.0) is a SaaS software solution 
+developed by SMAIO  for the medical community; it is a second, independent version of the 
+original KBA3D v2.0.0 cleared by FDA in K2 23841. The software supports the design of the 
+patient-specific K-ROD rods, which was previously cleared by FDA in K211981.  
+ 
+E. INDICATIONS FOR USE 
+The KBA3D v2.4.0 is intended for assisting healthcare professionals in viewing X-ray images, 
+identifying spinal anatomical structures, simulating surgical correction strategies, and defining 
+the geometry of patient -specific implants (such as rods) based on the surgeon's v alidated 
+surgical plan. 
+The device allows users to: 
+- Manually identify anatomical structure on X-ray images 
+- Perform spine-related measurements 
+- Manually simulate surgical correction procedures 
+- Design customized implant geometry 
+Clinical judgment and experience are required to properly use the software. 
+ 
+KBA3D v 2.4.0 software is indicated for assisting spine pathologies diagnostic and spinal 
+surgeries planification.  
+KBA3D v2.4.0 aims to achieve three objectives: 
+1. From an upright coronal and sagittal 2D X -ray that contains the patient's vertebral 
+anatomy from femoral heads to the cervical levels (included), KBA3D creates a calibrated 
+3D rendering of the spine. The software provides related shape and positioning parameter 
+measurements which include disc and vertebral height and angulation, main curvatures 
+and global balance assessment.  
+2. Simulate potential effects of a spine surgery on spinopelvic alignment and provide related 
+shape and positioning parameters calculation.  
+3. Visualize implant positioning relative to spinopelvic representation (pre -op versus 
+realigned) to establish possible implant selection scenarios. 
+ 
+ 
+Page 2 of 9
+F. TECHNOLOGICAL CHARACTERISTICS, COMPARISON TO PREDICATE DEVICE 
+The subject device has similar fundamental scientific technology, overall design, features, computer configuration characteristics, intended 
+use, and indications as the primary predicate device.  The main software modifications incorporated into KBA3D v2.4.0, as compared with 
+the primary predicate device, are summarized below:  
+ 
+• Addition of Quick Measurements module for user to perform measurements (distance, diameter, angle, plumbline) on X-rays.  
+• Addition of automatic generation of a surgical plan report in pdf.  
+• Addition of representation of the cervical vertebrae in the 3D viewport.  
+• Addition of C2PA line on the 3D viewport.  
+• Addition of automatic generation of a printable rod template. 
+• Removal of communication between KBA3D and BENDINI API and all the representation of the BENDINI rod (in the sagittal, 
+coronal and 3D viewports).  
+• Removal of screws and cages modules.  
+• Removal of patient’s initials from the top-of-page header band.  
+• Update of KBA3D theme with SMAIO colors.  
+• Adaptation of the viewer module to mobile devices (smartphones and tablets). 
+ 
+The subject device and the primary predicate and the additional predicate devices are compared in the table below: 
+ 
+Characteristic Additional Predicate Device (KBA3D 
+v1.1.3) 
+Primary Predicate (KBA3D v2.0.0) Subject Device (KBA3D v2.4.0) Substantially Equivalent?  
+Intended Use The KEOPS Balance Analyzer 3D is 
+intended for assisting healthcare 
+professionals in viewing and 
+measuring images as well as 
+planning spine surgeries. The 
+device allows surgeons and service 
+providers to perform spine related 
+measurements on images and to 
+plan surgical procedures. The 
+device also includes tools for 
+measuring anatomical components 
+for design and placement of surgical 
+implants. Clinical judgment and 
+experience are required to properly 
+use the software. 
+KBA3D V2.0.0 software can be used 
+by health professionals (orthopedic 
+surgeons, radiologists, 
+neurosurgeons) and service 
+providers (imaging technicians, 
+clinical study technicians) who are 
+trained in spine imaging and 
+pathologies. The KBA3D V2.0.0 
+software is intended for patients 
+requiring imaging measurements and 
+planning of surgical procedures. 
+KBA3D v2.0.0 aims to achieve three 
+objectives: 
+1. From two perpendicular patient’s 
+standing x-rays including patient’s 
+spine and pelvis from the femoral 
+heads to the cervical levels, provide 
+The KBA3D v2.4.0 is intended for 
+assisting healthcare professionals 
+in viewing X-ray images, identifying 
+spinal anatomical structures, 
+simulating surgical correction 
+strategies, and defining the 
+geometry of patient-specific 
+implants (such as rods) based on 
+the surgeon's validated surgical 
+plan. 
+The device allows users to:  
+• Manually identify anatomical 
+structure on X-ray images 
+• Perform spine-related 
+measurements  
+• Manually simulate surgical 
+YES – The subject and 
+predicate devices have 
+the same intended use 
+and equivalent core 
+functionalities (spine 
+measurements, surgical 
+simulation and design and 
+placement of surgical 
+implants).  
+Differences in wording do 
+not impact functionality. 
+ 
+Page 3 of 9
+Characteristic Additional Predicate Device (KBA3D 
+v1.1.3) 
+Primary Predicate (KBA3D v2.0.0) Subject Device (KBA3D v2.4.0) Substantially Equivalent?  
+3D scaled representation of the 
+femoral heads, sacral plate, and 
+vertebral bodies. Provide related 
+shape and positioning parameters 
+measurements 
+(disc/vertebra/height/angulation), 
+main curvatures description and 
+global balance assessment. 
+2. Simulate potential effects of a 
+spine surgery on spinopelvic 
+alignment and provide related shape 
+and positioning parameters 
+calculation. 
+3. Visualize scaled representation of 
+implant range (pedicle screws, 
+interbody cages, union rods) relative 
+to spinopelvic representation (pre-op 
+versus realigned) to establish 
+possible implant selection scenarios. 
+correction procedures  
+• Design customized implant 
+geometry  
+Clinical judgment and experience 
+are required to properly use the 
+software. 
+KBA3D v2.4.0 software is for 
+assisting spine pathologies 
+diagnostic and spinal surgeries 
+planning.  KBA3D v2.4.0 aims to 
+achieve three objectives:  
+1. From an upright coronal and 
+sagittal 2D X-ray that contains the 
+patient's vertebral anatomy from 
+femoral heads to the cervical levels 
+(included), KBA3D creates a 
+calibrated 3D rendering of the spine. 
+The software provides related 
+shape and positioning parameter 
+measurements which include disc 
+and vertebral height and angulation, 
+main curvatures and global balance 
+assessment.  
+2. Simulate potential effects of a 
+spine surgery on spinopelvic 
+alignment and provide related 
+shape and positioning parameters 
+calculation.  
+3. Visualize implant positioning 
+relative to spinopelvic 
+representation (pre -op versus 
+realigned) to establish possible 
+implant selection scenarios. 
+Indications for 
+use 
+The KEOPS Balance Analyzer 3D is 
+intended for assisting healthcare 
+professionals in viewing and 
+measuring images as well as 
+planning spine surgeries. The 
+device allows surgeons and service 
+providers to perform spine related 
+measurements on images and to 
+The KBA3D v2.0.0 is intended for 
+assisting healthcare professionals in 
+viewing and measuring images as 
+well as planning spine surgeries. 
+The device allows surgeons and 
+service providers to perform spine 
+related measurements on images, 
+and to plan surgical procedures. The 
+The KBA3D v2.4.0 is intended for 
+assisting healthcare professionals 
+in viewing X-ray images, identifying 
+spinal anatomical structures, 
+simulating surgical correction 
+strategies, and defining the 
+geometry of patient-specific 
+implants (such as rods) based on 
+YES – The subject and 
+predicate devices have 
+the same indications for 
+use and equivalent core 
+functionalities (spine 
+measurements, surgical 
+simulation and 
+Page 4 of 9
+Characteristic Additional Predicate Device (KBA3D 
+v1.1.3) 
+Primary Predicate (KBA3D v2.0.0) Subject Device (KBA3D v2.4.0) Substantially Equivalent?  
+plan surgical procedures. The 
+device also includes tools for 
+measuring anatomical components 
+for design and placement of surgical 
+implants. Clinical judgment and 
+experience are required to properly 
+use the software. 
+device also includes tools for 
+measuring anatomical components 
+for design and placement of surgical 
+implants. Clinical judgment and 
+experience are required to properly 
+use the software. 
+The patient population targeted with 
+the use of the KBA3D v2.0.0 
+software includes patients with 
+mature skeletons requiring imaging 
+measurements and planning of 
+surgical procedures. The Bendini 
+Rod Bending algorithm is intended 
+for patients older than 22 years old. 
+the surgeon's validated surgical 
+plan. 
+The device allows users to:  
+• Manually identify anatomical 
+structure on X-ray images 
+• Perform spine-related 
+measurements  
+• Manually simulate surgical 
+correction procedures  
+• Design customized implant 
+geometry  
+Clinical judgment and experience 
+are required to properly use the 
+software. 
+ 
+design/definition and 
+placement of surgical 
+implants).  
+Differences in wording do 
+not impact the indications 
+for use. 
+Regulatory 
+Class/Code 
+Class II 
+LLZ /21 CFR 892.2050 
+Class II 
+LLZ /21 CFR 892.2050 
+Class II 
+LLZ /21 CFR 892.2050 
+YES 
+Fundamental 
+scientific 
+technology 
+Standalone software Standalone software Standalone software YES 
+Health Data 
+Host 
+AWS AWS AWS YES 
+Frontend code HTML CSS JQuery VueJS VueJS YES, KBA3D v2.4.0 uses 
+the same frontend 
+framework as the 
+predicate device (v2.0.0). 
+Compared to the 
+additional predicate 
+device (v1.1.3), migration 
+represents a technology 
+modernization only.  
+Backend code PHP PHP PHP YES 
+Databases 
+server 
+AWS RDS for MySQL AWS RDS for MySQL AWS RDS for MySQL YES 
+Device 
+Classification 
+Medical image management and 
+processing system 
+Medical image management and 
+processing system 
+Medical image management and 
+processing system 
+YES 
+Page 5 of 9
+Characteristic Additional Predicate Device (KBA3D 
+v1.1.3) 
+Primary Predicate (KBA3D v2.0.0) Subject Device (KBA3D v2.4.0) Substantially Equivalent?  
+Name 
+Operating 
+System 
+Windows + MAC Windows + MAC Windows + MAC YES 
+Software 
+Environment 
+Cloud-based software Cloud-based software Cloud-based software YES 
+Image Input Local Local Local YES 
+Input Data Patient information  
+X-ray 
+Patient information  
+X-ray 
+Patient information  
+X-ray 
+YES 
+Runs on 
+server 
+Yes Yes Yes YES 
+User 
+Population 
+KEOPS Balance Analyzer 3D 
+software can be used by health 
+professionals (orthopaedic 
+surgeons, neurosurgeons).  
+KBA3D v2.0.0 software can be used 
+by health professionals (orthopedic 
+surgeons, neurosurgeons, 
+radiologists), trained for the spine 
+imaging and pathologies and by 
+service providers (imaging 
+technician, clinical study technician) 
+also trained for spine imaging and 
+pathologies. 
+KBA3D v2.4.0 software can be used 
+by healthcare professionals 
+(orthopaedic surgeons, 
+neurosurgeons, radiologists), 
+trained on spine imaging and 
+pathologies and by service 
+providers (imaging technician, 
+clinical study technician) also 
+trained on spine imaging and 
+pathologies. 
+YES – Same user 
+population, wording 
+differences only 
+Target 
+Population 
+KEOPS Balance Analyzer 3D 
+software is suitable for patients 
+suffering from back pain requiring 
+surgical treatment or conservative 
+orthopaedic treatment. 
+The patient population targeted with 
+the use of the KBA3D v2.0.0 
+software includes patients with 
+mature skeletons requiring imaging 
+measurements and planning of 
+surgical procedures. 
+The Bendini Rod Bending algorithm 
+is intended for patients older than 
+22 years old. 
+The patient population targeted with 
+the use of the KBA3D v2.4.0 
+software includes patients requiring 
+imaging measurements and 
+planning of surgical procedures. 
+YES – The subject device 
+and the primary predicate 
+target patients requiring 
+imaging measurements 
+and planning of surgical 
+procedures. 
+The additional predicate 
+device (K213975) 
+supports use in patients 
+requiring orthopaedic 
+treatment without 
+restriction to mature 
+skeletons. 
+The removal of the 
+“mature skeletons” 
+limitation in the subject 
+device is consistent with 
+the patient population of 
+Page 6 of 9
+Characteristic Additional Predicate Device (KBA3D 
+v1.1.3) 
+Primary Predicate (KBA3D v2.0.0) Subject Device (KBA3D v2.4.0) Substantially Equivalent?  
+the additional predicate 
+device. 
+The predicate device also 
+included a module 
+(Bendini) restricted to 
+patients older than 22 
+years old, this module is 
+not present in the subject 
+device. 
+Software 
+Functionalities/ 
+Modalities 
+KEOPS Balance Analyzer 3D 
+can be used to :  
+- Provide measurements of 
+parameters to assess the 
+patient's sagittal and frontal 
+balance 
+- Make a comparison between 
+the parameters measured and 
+those of the normal population 
+- Help surgeons to plan surgical 
+corrections to the spinal column 
+(levels / degree of correction), 
+help them with diagnosis and 
+planning surgery 
+- View the spinal column in 3D 
+using two 2D X-ray images 
+simultaneously 
+KBA3D v2.0.0 aims to achieve 
+three objectives: 
+From two perpendicular patient’s 
+standing x -rays including patient’s 
+spine and pelvis from femoral heads 
+to the cervical levels, provide 3D 
+scaled representation of the femoral 
+heads, sacral plate, and the vertebral 
+bodies. Provide related shape and 
+positioning parameters 
+measurements 
+(disc/vertebra/height/angulation), 
+main curvatures description and 
+global balance assessment… 
+Simulate potential effects of a spine 
+surgery on spinopelvic alignment 
+and provide related shape and 
+positioning parameters calculation.  
+Visualize scaled representation of 
+implant range (pedicle screws, 
+interbody cages, union rods) relative 
+to spinopelvic representation (pre-op 
+versus realigned) to establish 
+possible implant selection scenarios. 
+KBA3D v2.4.0 aims to achieve 
+three objectives: 
+From an upright coronal and sagittal 
+2D X-ray that contains the patient's 
+vertebral anatomy from femoral 
+heads to the cervical levels 
+(included), KBA3D creates a 
+calibrated 3D rendering of the spine. 
+The software provides related shape 
+and positioning para meter 
+measurements which include disc 
+and vertebral height and angulation, 
+main curvatures and global balance 
+assessment.  
+Simulate potential effects of a spine 
+surgery on spinopelvic alignment 
+and provide related shape and 
+positioning parameters calculation.  
+Visualize implant positioning relative 
+to spinopelvic representation (pre-op 
+versus realigned) to establish 
+possible implant selection scenarios. 
+ 
+YES – Same core 
+functionalities, differences 
+reflect wording 
+simplification only. 
+Image 
+Manipulation 
+Functions 
+2D image display and basic 
+manipulation (zoom, rotation, 
+contrast, brightness) 
+2D image display and basic 
+manipulation (zoom, rotation, 
+contrast, brightness) 
+2D image display and basic 
+manipulation (zoom, rotation, 
+contrast, brightness) 
+YES 
+Measurement 
+Functions 
+Distances, angles and diameter Distances, angles and diameter Distances, angles and diameter YES 
+Page 7 of 9
+Characteristic Additional Predicate Device (KBA3D 
+v1.1.3) 
+Primary Predicate (KBA3D v2.0.0) Subject Device (KBA3D v2.4.0) Substantially Equivalent?  
+Human 
+intervention for 
+interpretation 
+and 
+manipulation 
+of images 
+Yes Yes Yes YES 
+Graphic 
+Charter 
+S.M.A.I.O NuVasive S.M.A.I.O YES - In the context of 
+NuVasive's strategic 
+direction following its 
+merger with Globus 
+Medical, SMAIO and 
+NuVasive have 
+announced their mutual 
+decision to terminate their 
+co-development efforts for 
+surgical planning 
+software. SMAIO 
+consequently initiated the 
+development of KBA3D in 
+SMAIO colors and to 
+remove Nuvasive 
+material. 
+User Interface Computer Computer Computer + Smartphone and 
+Tablets (only for viewer) 
+YES – The difference 
+does not impact the core 
+functionalities 
+(measurements and 
+simulation), which remain 
+performed on a computer. 
+Mobile use is limited to 
+viewer. 
+Page 8 of 9

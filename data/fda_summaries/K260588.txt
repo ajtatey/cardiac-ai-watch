@@ -1,0 +1,415 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+July 29, 2026 
+ 
+Cleerly, Inc. 
+Felicia Hosey 
+Senior Director, Regulatory Affairs 
+1099 18th St., Suite 2860 
+Denver, Colorado 80202 
+ 
+ 
+Re:  K260588 
+Trade/Device Name: Cleerly LABS 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  July 1, 2026 
+Received:  July 1, 2026 
+ 
+Dear Felicia Hosey: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K260588 - Felicia Hosey Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+K260588 - Felicia Hosey Page 
+ 
+3 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+    for 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging Devices  
+and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+Cleerly Inc.  Page 1 of 6 
+1099 18th St, Suite 2860 
+Denver, CO 80202 
+510(k) Summary 
+This 510(k) Summary is provided per the requirements of section 21 CFR 807.92 on 
+July 14th, 2026. 
+1. Submitter
+Submitter Cleerly, Inc. 
+Contact Person Felicia Hosey, RAC 
+Senior Director, Regulatory Affairs 
+Address 1099 18th St Suite 2860 
+Denver CO 80202 
+Phone (540) 814-1677
+Email Felicia.Hosey@cleerlyhealth.com 
+2. Device Information
+Device Trade Name Cleerly LABS 
+Software Version 3.0 
+Common Name Automated radiological image processing software 
+Classification Name Medical image management and processing system. 
+Product Classification Class II, § 892.2050 
+Primary Product Code LLZ 
+3. Predicate Device
+Trade Name Cleerly LABS (v2.0) 
+Common Name Automated radiological image processing software 
+Classification Name Medical image management and processing system. 
+Product Classification Class II, § 892.2050 
+Primary Product Code QIH 
+Subsequent Product Code LLZ 
+Submission Number K242338 
+4. Device Description
+Cleerly LABS is a cloud-based, software-only medical device platform that provides core capabilities for 
+cardiovascular image analysis. It enables trained medical professionals to analyze 2D/3D coronary images 
+K260588
+ 
+ 
+ 
+Cleerly Inc.  Page 2 of 6 
+1099 18th St, Suite 2860 
+Denver, CO 80202 
+acquired from Coronary Computed Tomography Angiography (CCTA) scans and supports assessment of 
+patients suspected of coronary artery disease (CAD). 
+ 
+The platform employs a hub-and-spoke, modular architecture that facilitates end-to-end study 
+management, interactive review, and analysis, while supporting integration with separate software 
+modules to extend functionality. The LABS platform itself does not perform AI/ML-based analysis, but 
+displays outputs generated by connected modules. 
+ 
+Cleerly LABS uses rule-based post-processing calculations executed on secure cloud-based backend 
+services to evaluate vessel lumens, vessel walls, plaque composition (quantified by Hounsfield Unit 
+density), and stenosis at the lesion, segment, vessel, territory, and patient levels. 2D and 3D images are 
+presented to the user for review and, where permitted, manual editing. 
+ 
+Cleerly LABS provides a visualization of the analysis results in the CORONARY Report, a structured 
+and interactive report that details atherosclerosis and stenosis findings. Users can review vessel lumens, 
+vessel walls, plaque characteristics based on Hounsfield Unit thresholds, and stenosis measurements. 
+LABS may display or export additional information only when returned by a connected add-on module. 
+Outputs from LABS may also be exported to a user’s PACS system and are intended to support clinical 
+decision-making. Outputs must be reviewed and interpreted by trained medical professionals in 
+conjunction with other relevant clinical information. 
+ 
+The software does not perform any functions that could not be accomplished by a trained user with 
+manual methods; its purpose is to save time and automate potentially error-prone tasks, while allowing 
+results to be reviewed as part of the normal clinical workflow. 
+ 
+5. Indications for Use 
+Cleerly LABS is a web-based software application intended to be used by trained medical professionals 
+as an interactive tool for processing, analyzing and viewing cardiac computed tomography (CT) data to 
+assess coronary anatomy in patients who have undergone Coronary Computed Tomography Angiography 
+(CCTA) for the evaluation of coronary artery disease (CAD) or suspected CAD. 
+ 
+This software post-processes CT images obtained from a CT scanner and provides tools for the 
+measurement and visualization of coronary arteries. The software is not intended to replace the skill and 
+judgment of a qualified medical practitioner and should only be used by medical professionals 
+experienced in examining and evaluating cardiac CT images. Users should be aware that certain views 
+make use of interpolated data. This is data that is created by the software based on the original data set. 
+Interpolated data may give the appearance of healthy tissue in situations where pathology that is near or 
+smaller than the scanning resolution may be present. 
+ 
+ 
+ 
+ 
+Cleerly Inc.  Page 3 of 6 
+1099 18th St, Suite 2860 
+Denver, CO 80202 
+6. Substantial Equivalence 
+Cleerly LABS has the same Intended Use and principles of operation as the legally marketed predicate 
+device, Cleerly LABS (v2.0) (K242338). The Indications for Use are identical in purpose to the predicate, 
+with only minor editorial clarifications. 
+ 
+The subject device employs a modular software architecture, whereas the predicate device utilized an 
+integrated software structure. Despite this difference in software design, the subject and predicate devices 
+use the same core technologies for image processing, quantitative analysis, visualization and reporting. 
+The software design differences do not alter the underlying computational methods used to generate 
+clinical information and do not impact device functionality or performance. 
+ 
+This technological difference does not raise different questions of safety and effectiveness, as supported 
+by the reference device. Non-clinical performance testing, including software verification and validation, 
+has demonstrated that Cleerly LABS is as safe and effective as the predicate device. 
+ 
+The following table compares the key features of the subject and predicate devices. 
+Attribute Subject Device Cleerly LABS Predicate Device Cleerly LABS (v2.0), K242338 
+Primary Product Code LLZ QIH 
+Subsequent Product 
+Code 
+n/a LLZ 
+Indications for Use Cleerly LABS is a web-based software 
+application intended to be used by trained 
+medical professionals as an interactive 
+tool for processing, analyzing and viewing 
+cardiac computed tomography (CT) data 
+to assess coronary anatomy in patients 
+who have undergone Coronary Computed 
+Tomography Angiography (CCTA) for the 
+evaluation of coronary artery disease 
+(CAD) or suspected CAD. 
+ 
+This software post-processes CT images 
+obtained from a CT scanner and provides 
+tools for the measurement and 
+visualization of coronary arteries. The 
+software is not intended to replace the skill 
+and judgment of a qualified medical 
+practitioner and should only be used by 
+medical professionals experienced in 
+examining and evaluating cardiac CT 
+images. Users should be aware that certain 
+views make use of interpolated data. This 
+is data that is created by the software 
+based on the original data set. Interpolated 
+data may give the appearance of healthy 
+tissue in situations where pathology that is 
+near or smaller than the scanning 
+resolution may be present. 
+Cleerly LABS is a web-based software 
+application that is intended to be used by 
+trained medical professionals as an 
+interactive tool for viewing and analyzing 
+cardiac computed tomography (CT) data 
+for determining the presence and extent of 
+coronary plaques (i.e. atherosclerosis) and 
+stenosis in patients who underwent 
+Coronary Computed Tomography 
+Angiography (CCTA) for evaluation of 
+CAD or suspected CAD. This software 
+post processes CT images obtained using 
+any Computed Tomography (CT) scanner. 
+The software provides tools for the 
+measurement and visualization of 
+coronary arteries. 
+ 
+The software is not intended to replace the 
+skill and judgment of a qualified medical 
+practitioner and should only be used by 
+people who have been appropriately 
+trained in the software’s functions, 
+capabilities and limitations. Users should 
+be aware that certain views make use of 
+interpolated data. This is data that is 
+created by the software based on the 
+original data set. Interpolated data may 
+give the appearance of healthy tissue in 
+situations where pathology that is near or 
+ 
+ 
+ 
+Cleerly Inc.  Page 4 of 6 
+1099 18th St, Suite 2860 
+Denver, CO 80202 
+Attribute Subject Device Cleerly LABS Predicate Device Cleerly LABS (v2.0), K242338 
+smaller than the scanning resolution may 
+be present. 
+Operating Platform Client-Server Google Chrome Application -same- 
+Software Structure Modular, hub and spoke Monolithic with select add-on 
+functionality 
+Workflow - Human-in-
+the-loop (HITL) 
+Yes -same- 
+Workflow - Human-
+out-of-the-loop 
+(HOOTL) 
+Yes -same- 
+Image Input DICOM 3.0 Compliant (or higher) -same- 
+Image Acquisition Coronary CT Images -same- 
+Secured Network 
+Server 
+Integration 
+Yes -same- 
+Study Analysis Yes -same- 
+Tools – Navigation Yes -same- 
+Study Analysis Tools – 
+Editing/ Visualization 
+Yes -same- 
+2D / 3D Imaging Yes -same- 
+Multiplanar Reformat 
+(MPR) 
+Yes -same- 
+Segmentation of 
+Region of Interest 
+Yes -same- 
+Plaque Composition 
+Image Overlay 
+Yes -same- 
+Hounsfield Unit (HU) Yes -same- 
+Distance Measurements Yes -same- 
+Volumetric 
+Measurements 
+Yes -same- 
+Remodeling Index Yes -same- 
+Stenosis Yes -same- 
+Advanced AI/ML 
+Plaque Analysis 
+No 
+[separate module] 
+Yes 
+Rule-based 
+Calculations 
+Yes -same- 
+ 
+7. Performance Data 
+Performance testing was conducted to verify compliance with specified design requirements in 
+accordance with ISO 13485, ANSI AAMI IEC 62304, ISO 14971 and DICOM standards.  Verification 
+and validation activities were performed across the full software lifecycle and no clinical studies were 
+necessary to support substantial equivalence.   
+7.1 Software Testing 
+The Cleerly LABS software platform underwent comprehensive verification and validation in accordance 
+with ANSI AAMI IEC 62304:2005/A1:2016, Medical Device Software - Software Life Cycle Processes 
+[Including Amendment 1 (2016)] to ensure functionality, performance and compliance. Testing included 
+ 
+ 
+ 
+Cleerly Inc.  Page 5 of 6 
+1099 18th St, Suite 2860 
+Denver, CO 80202 
+automated and manual testing, end-to-end integration testing of the complete system workflow and 
+cybersecurity assessments to ensure vulnerabilities are identified and risks are mitigated, data is protected, 
+and compliance is verified against industry standards. Results of testing confirmed that the software 
+requirements fulfilled the pre-defined acceptance criteria. 
+7.2 Cybersecurity 
+Cleerly LABS has implemented security features for device and data protection. Cybersecurity testing 
+included verification and validation of cybersecurity controls including manual and automated testing, 
+vulnerability testing, and penetration testing. Cybersecurity requirements, risk analysis, and mitigation 
+was addressed in accordance with FDA guidance, “Cybersecurity in Medical Devices: Quality System 
+Considerations and Content of Premarket Submissions”.  Cleerly performs post-market monitoring to 
+assess real and perceived cybersecurity vulnerabilities and uses specific software testing tools to ensure 
+that the device remains safe and effective. Penetration testing was conducted to ensure that no 
+unidentified vulnerabilities existed and that appropriate risk control measures were implemented to 
+protect against known vulnerabilities when the device is subject to potential threats. Results of testing 
+confirmed that the software requirements fulfilled the pre-defined acceptance criteria. 
+7.3 Performance Evaluation 
+Performance of Cleerly LABS for coronary anatomy and plaque quantification was evaluated using de-
+identified U.S. CCTA studies. Performance testing was conducted using the complete processing pipeline 
+consisting of Cleerly Plaque (K261210) followed by Cleerly LABS, with rule-based post-processing 
+calculations performed by Cleerly LABS using plaque analysis outputs generated by Cleerly Plaque. The 
+validation dataset included 120 studies representing a broad spectrum of coronary artery disease and 
+multiple scanner manufacturers. A reference standard was established for each study by expert readers 
+following a standardized annotation process. Plaque analysis outputs generated by Cleerly Plaque and the 
+resulting rule-based post-processing calculations performed by Cleerly LABS were compared against this 
+reference standard. Performance metrics included correlation of lumen, vessel and plaque volumes, as 
+well as agreement for low-density plaque measurements. All metrics met predefined acceptance criteria, 
+demonstrating that the LABS processing pipeline provides accurate and reliable coronary and plaque 
+quantification across the intended use population. 
+ 
+Metric Measure Result [95% CI] Pass/Fail 
+Overlap Ratio* Ratio 94.8% [92.5%, 97.1%] Pass 
+Lumen Volume Correlation 0.98 [0.982, 0.986] Pass 
+Vessel Volume Correlation 0.98 [0.982, 0.986] Pass 
+Total Plaque Volume Correlation 0.97 [0.965, 0.972] Pass 
+Total Calcified Plaque Volume Correlation 0.94 [0.936, 0.949] Pass 
+Total Non-Calcified Plaque Volume Correlation 0.90 [0.888, 0.909] Pass 
+Low-Density Non-Calcified Plaque Volume Correlation 0.57 [0.530, 0.606] Pass 
+Low-Density Non-Calcified Plaque Volume 
+[< 2.3 mm3] 
+Agreement 97.7% [96.8%, 98.5%] Pass 
+*Overlap ratio reflects comparison of corresponding main coronary vessels between Cleerly LABS and the reference dataset using identical 
+image series to account for cardiac phase differences. 
+ 
+ 
+ 
+ 
+Cleerly Inc.  Page 6 of 6 
+1099 18th St, Suite 2860 
+Denver, CO 80202 
+7.4 Clinical Performance Evaluation 
+No clinical testing was conducted to demonstrate safety or effectiveness as the device’s non-clinical 
+testing was sufficient to support the intended use of the device. 
+ 
+8. Conclusions 
+Based on the information submitted in this premarket notification and conclusions drawn from the testing, 
+Cleerly LABS raises no new or different questions of safety and effectiveness and is substantially 
+equivalent to the predicate device in terms of safety, efficacy and performance. 

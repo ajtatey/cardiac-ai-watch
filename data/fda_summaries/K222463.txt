@@ -1,0 +1,597 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 05 . 0 2  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+November 23, 2022 
+ 
+Ultromics Limited 
+Jaco Jacobs 
+Chief Regulatory and Compliance Officer 
+4630 Kingsgate 
+Cascade Way, Oxford Business Park 
+Oxford, OX4 2SU 
+United Kingdom 
+ 
+Re:  K222463 
+Trade/Device Name: EchoGo Heart Failure 
+Regulation Number:  21 CFR 870.2200 
+Regulation Name:  Adjunctive Cardiovascular Status Indicator 
+Regulatory Class:  Class II 
+Product Code:  QUO 
+Dated:  October 24, 2022 
+Received:  October 25, 2022 
+ 
+Dear Jaco Jacobs: 
+ 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+
+K222463 - Jaco Jacobs Page 
+ 
+2 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for 
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+LCDR Stephen Browning 
+Assistant Director 
+Division of Cardiac Electrophysiology,  
+    Diagnostics and Monitoring Devices 
+Office of Cardiovascular Devices 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+Stephen C. Browning -S
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2023
+See PRA Statement below.
+510(k) Number (if known)
+K222463
+Device Name
+EchoGo Heart Failure
+Indications for Use (Describe)
+EchoGo Heart Failure 1.0 is an automated machine learning-based decision support system, indicated as a diagnostic aid
+for patients undergoing routine functional cardiovascular assessment using echocardiography. When utilised by an
+interpreting clinician, this device provides information that may be useful in detecting heart failure with preserved ejection
+fraction (HFpEF).
+EchoGo Heart Failure 1.0 is indicated in adult populations over 25 years of age. Patient management decisions should not
+be made solely on the results of the EchoGo Heart Failure 1.0 analysis.
+EchoGo Heart Failure 1.0 takes as input an apical 4-chamber view of the heart that has been captured and assessed to have
+an ejection fraction ≥50%.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY K222463 
+1 Submitter 
+Company Ultromics Limited 
+4630 Kingsgate Cascade Way, Oxford Business Park South, Oxford, 
+Oxfordshire, United Kingdom, OX4 2SU 
+Contact Dr. Jaco Jacobs 
+Date Prepared 18th November 2022 
+2 Subject Device 
+Product Trade Name EchoGo Heart Failure 
+Model Number 1.0 
+510(k) K222463 
+Manufacturer Ultromics Limited 
+Medical Speciality Cardiology 
+Regulation 21 CFR 870.2200 – Adjunctive Cardiovascular Status Indicator 
+Product Code QUO – Adjunctive Heart Failure Status Indicator 
+Regulatory Class II 
+EchoGo Heart Failure is the product trade name and 1.0 is the model number. For the avoidance of doubt, in 
+this submission we combine the product trade name and model number and refer to the subject device as 
+EchoGo Heart Failure 1.0. 
+3 Predicate Device 
+Predicate Device T3 Platform Software 
+510(k) K213230 
+Manufacturer Etiometry Inc. 
+4 Device Description 
+EchoGo Heart Failure 1.0 is a software-only medical device manufactured by Ultromics Limited and granted 
+breakthrough status by the FDA under Q212613. 
+EchoGo Heart Failure 1.0 takes as input a DICOM file containing an echocardiogram and reports a classification 
+decision suggestive of the presence or absence of heart failure with preserved ejection fraction (HFpEF). The 
+output of this device is based on an artificial intelligence (AI) model developed using a convolutional neural 
+network that produces the classification result. The model takes as input a 2D echocardiogram in which an 
+apical 4-chamber view of the heart has been captured and assessed to have an ejection fraction ≥50% (this 
+would normally be computed using a medical device for the assessment of cardiac function of the left 
+Page 1 of 12
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY K222463 
+ventricle, for example K213275). The echocardiogram shou ld be acquired without contrast and contain at 
+least one full cardiac cycle. 
+Independent training, validation and test datasets were used for training and performance assessment of the 
+device. EchoGo Heart Failure 1.0 is fully automated and does not comprise a user interface.   
+EchoGo Heart Failure 1.0 produces a report containing the result of the classification, and this report is 
+intended to be used by an interpreting clinician as an aid to diagnosis for HFpEF. The results are intended as 
+an additional input to standard diagnostic pathways and should only be used by an interpreting clinician. The 
+device is a diagnostic aid and thus according to common medical sense and the principles of differential 
+diagnosis any diagnostic finding derived from usage of this product must be confirmed by additional diagnostic 
+investigations, if in doubt. The ultimate diagnostic decision remains the responsibility of the interpreting 
+clinician using patient presentation, medical history, and the results of available diagnostic tests, one of which 
+may be EchoGo Heart Failure 1.0. 
+EchoGo Heart Failure 1.0 is a prescription only device. 
+5 Context 
+5.1 Intended Use 
+Providing adjunctive information on a patient’s cardiovascular condition (diagnostic aid for Heart Failure with 
+Preserved Ejection Fraction (HFpEF)). 
+5.2 Intended User 
+The clinician interpreting the report produced by EchoGo Heart Failure 1.0 and making a diagnostic decision. 
+5.3 Indications for Use 
+EchoGo Heart Failure 1.0 is an automated machine learning-based decision support s ystem, indicated as a 
+diagnostic aid for patients undergoing routine functional cardiovascular assessment using 
+echocardiography. When utilised by an interpreting clinician, this device provides  information that may be 
+useful in detecting heart failure with preserved ejection fraction (HFpEF). 
+EchoGo Heart Failure 1.0 is indicated in adult populations over 25 years of age. Patient management decisions 
+should not be made solely on the results of the EchoGo Heart Failure 1.0 analysis. 
+EchoGo Heart Failure 1.0 takes as input an apical 4-chamber view of the heart that has been captured and 
+assessed to have an ejection fraction ≥50%. 
+5.4 Patient Population 
+Patients undergoing routine functional cardiovascular assessment using diagnostic echocardiography or those 
+suspected of heart failure. 
+Page 2 of 12
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY K222463 
+6 Comparison of Intended Use 
+Both the subject and predicate devices are software-only devices as  the subject  device is  an “automated 
+machine learning based decision support system” and the predicate device “features the T3 Data Aggregation 
+& Visualization software module version 5.0 and the T3 Risk Analytics Engine software module version 8.0”. 
+Both devices are indicated as adjunctive devices that provide information that may be useful for healthcare 
+professionals in forming a diagnostic decision. The subject device is a “diagnostic aid for patients undergoing 
+routine functional cardiovascular assessment” and the predicate device is intended to be used “to utilize this 
+information to aid in clinical decisions”. 
+Both devices are intended to provide information on the cardiovascular state of patients. The subject device 
+“provides information that may be useful in detecting heart failure with preserved ejection fraction (HFpEF)”, 
+whereas the predicate device “presents partial quantitative information about the patient's cardiovascular 
+condition”. 
+Both the subject and predicate devices are adjunctive devices and patient management decisions should not 
+be made  solely on device recommendations. Specifically,  for the subject  device “Patient management 
+decisions should not be made solely on the results of the EchoGo Heart Failure 1.0 analysis”; the predicate 
+states that “The primary data should be reviewed as part of standard patient evaluations and no decisions 
+should be solely based on the indices”. 
+Both the subject and predicate devices have indications  for adult populations. The subject device “EchoGo 
+Heart Failure 1.0 is indicated in adult populations over 25 years of age” and the predicate is indicated for use 
+on “adult, paediatric, and neonatal patients”. 
+For purposes of substantial equivalence, the term intended use means the general purpose of the device or 
+its function and encompasses the indications for use. The term indications for use describes the disease the 
+device is intended to serve as a diagnostic aid including a description of the patient population for which the 
+device is intended. Both devices are intended as adjunctive aids for cardiovascular states or conditions and 
+both devices can be used on adult populations. It follows that  both devices have the same intended use of 
+providing adjunctive information on the cardiovascular condition of a patient. 
+Any minor differences between the intended use and/or indications for use do not raise any new concerns 
+with regards to safety and effectiveness. The regulation product code of the predicate device, PPW, under 
+the associated regulation includes special controls that were applied to the subject device. The general 
+controls and special controls of the predicate device are sufficient to ensure the substantial equivalence of 
+the subject device and adequately control any differences. 
+7 Comparison of Technological Characteristics 
+A full comparison of the technological characteristics of the subject and predicate devices follows. 
+The following technological differences exist between the subject and predicate devices: 
+Page 3 of 12
+ 
+ 
+ 
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY  K222463 
+• The subject device takes as input a DICOM file containing an echocardiogram and the predicate device 
+uses as input numeric physiological information from medical devices to which it is connected. Both 
+devices therefore receive as input data that is the output of another medical device. 
+• The output of the subject device is based on an artificial intelligence (AI) model developed using a 
+convolutional neural network that produces a classification result. The output of the predicate device is 
+derived from mathematical manipulations of physiologic data and measurements received from 
+connected devices. 
+• The subject device reports a classification decision as suggestive or not suggestive of the presence of heart 
+failure with preserved ejection fraction (HFpEF), while the predicate device calculates indices that provides 
+information on the respiratory or cardiovascular status of patients (IVCO2  and ACD, HLA and IDO2, 
+respectively). Both devices are adjunctive cardiovascular status indicators. 
+• The predicate device outputs or displays amalgamated information from connected devices not output by 
+the subject device, for example: 
+• Airway flow, volume, and pressure 
+• Arterial blood pressure (invasive and non-invasive, systolic, diastolic, and mean) 
+• Bi-spectral index (BIS, signal quality index, suppression ratio) 
+• Cardiac Index 
+• Cardiac output 
+• Central venous pressure 
+• Cerebral perfusion pressure 
+• End-tidal CO2 
+• Heart rate 
+• Heart rate variability 
+• Intracranial pressure 
+• Left atrium pressure 
+• Oxygen saturation (intravascular, regional, SpO2) 
+• Premature ventricular counted beats 
+• Pulmonary artery pressure (systolic, diastolic, and mean) 
+• Pulse pressure variation 
+• Pulse Rate 
+• Respiratory rate 
+• Right atrium pressure 
+• Temperature (rectal, oesophageal, tympanic, blood, core, nasopharyngeal, skin) 
+• Umbilical arterial pressure (systolic, diastolic, and mean) 
+The following table summarises technological characteristics. 
+ 
+Characteristic  Subject Device 
+EchoGo Heart Failure 1.0 
+Predicate Device 
+T3 Platform Software 
+Regulation 21 CFR 870.2200 21 CFR 870.2200 
+Generic Device 
+Type 
+Adjunctive cardiovascular status 
+indicator 
+Adjunctive cardiovascular status 
+indicator 
+Page 4 of 12
+ 
+ 
+ 
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY  K222463 
+Characteristic  Subject Device 
+EchoGo Heart Failure 1.0 
+Predicate Device 
+T3 Platform Software 
+SaMD Yes Yes 
+Intended Use Providing adjunctive information on a 
+patient’s cardiovascular condition 
+(diagnostic aid for Heart Failure with 
+Preserved Ejection Fraction (HFpEF)). 
+Providing adjunctive information on a 
+patient’s cardiovascular and respiratory 
+condition. 
+Indications for Use EchoGo Heart Failure 1.0 is an 
+automated machine learning-based 
+decision support system, indicated as a 
+diagnostic aid for patients undergoing 
+routine functional cardiovascular 
+assessment using echocardiography. 
+When utilised by an interpreting 
+clinician, this device provides 
+information that may be useful in 
+detecting heart failure with preserved 
+ejection fraction (HFpEF). 
+EchoGo Heart Failure 1.0 is indicated in 
+adult populations over 25 years of age. 
+Patient management decisions should 
+not be made solely on the results of the 
+EchoGo Heart Failure 1.0 analysis.  
+EchoGo Heart Failure 1.0 takes as input 
+an apical 4-chamber view of the heart 
+that has been captured and assessed to 
+have an ejection fraction ≥50%. 
+ 
+The T3 Data Aggregation & Visualization 
+software module is intended for the 
+recording and display of multiple 
+physiological parameters of the adult, 
+paediatric, and neonatal patients from 
+supported bedside devices. The 
+software module is not intended for 
+alarm notification or waveform display, 
+nor is it intended to control any of the 
+independent bedside devices to which it 
+is connected. The software module is 
+intended to be used by healthcare 
+professionals for the following purposes:  
+• To remotely consult regarding a 
+patient’s status, and  
+• To remotely review other standard 
+or critical near real-time patient data 
+in order to utilize this information to 
+aid in clinical decisions and deliver 
+patient care in a timely manner.  
+The T3 Data Aggregation & Visualization 
+software module can display numeric 
+physiologic data captured by other 
+medical devices:  
+• Airway flow, volume, and pressure  
+• Arterial blood pressure (invasive and 
+non-invasive, systolic, diastolic, and 
+mean)  
+• Bi-spectral index (BIS, signal quality 
+index, suppression ratio)  
+• Cardiac Index • Cardiac output  
+• Central venous pressure  
+• Cerebral perfusion pressure  
+• End-tidal CO2  
+• Heart rate  
+• Heart rate variability  
+Page 5 of 12
+ 
+ 
+ 
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY  K222463 
+Characteristic  Subject Device 
+EchoGo Heart Failure 1.0 
+Predicate Device 
+T3 Platform Software 
+• Intracranial pressure  
+• Left atrium pressure  
+• Oxygen saturation (intravascular, 
+regional, SpO2)  
+• Premature ventricular counted beats 
+• Pulmonary artery pressure 
+(systolic, diastolic, and mean)  
+• Pulse pressure variation  
+• Pulse Rate  
+• Respiratory rate  
+• Right atrium pressure  
+• Temperature (rectal, oesophageal, 
+tympanic, blood, core, 
+nasopharyngeal, skin)  
+• Umbilical arterial pressure (systolic, 
+diastolic, and mean 
+The T3 Data Aggregation & Visualization 
+software module can display laboratory 
+measurements including arterial and 
+venous blood gases, complete blood 
+count, and lactic acid. T3 Data 
+Aggregation & Visualization software 
+module can display information 
+captured by the T3 Risk Analytics Engine 
+software module.  
+The T3 Risk Analytics Engine software 
+module calculates four indices: the IDO2 
+Index for inadequate delivery of oxygen, 
+the IVCO2 Index for inadequate 
+ventilation of carbon dioxide, the ACD 
+Index for acidaemia, and the HLA Index 
+for hyperlactatemia.  
+The IDO2 Index is indicated for use by 
+health care professionals with post-
+surgical patients 0 to 12 years of age and 
+weighing 2 kg or more under intensive 
+care. The IDO2 Index is derived by 
+mathematical manipulations of the 
+physiologic data and laboratory 
+measurements received by the T3 Data 
+Aggregation & Visualization software 
+module. When the IDO2 Index is 
+Page 6 of 12
+ 
+ 
+ 
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY  K222463 
+Characteristic  Subject Device 
+EchoGo Heart Failure 1.0 
+Predicate Device 
+T3 Platform Software 
+increasing, it means that there is an 
+increasing risk of inadequate oxygen 
+delivery and attention should be 
+brought to the patient.  
+The IDO2 Index presents partial 
+quantitative information about the 
+patient's cardiovascular condition, and 
+no therapy or drugs can be administered 
+based solely on the interpretation 
+statements. The IVCO2 Index is indicated 
+for use by health care professionals with 
+invasively ventilated patients 0 to 12 
+years of age and weighing 2 kg or more 
+under intensive care. The IVCO2 Index is 
+derived by mathematical manipulations 
+of the physiologic data and laboratory 
+measurements received by the T3 Data 
+Aggregation and Visualization software 
+module. When the IVCO2 Index is 
+increasing, it means that there is an 
+increasing risk of inadequate carbon 
+dioxide ventilation and attention should 
+be brought to the patient. The IVCO2 
+Index presents partial quantitative 
+information about the patient's 
+respiratory condition, and no therapy or 
+drugs can be administered based solely 
+on the interpretation statements.  
+The ACD Index is indicated for use by 
+health care professionals with invasively 
+ventilated patients 0 to 12 years of age 
+and weighing 2 kg or more under 
+intensive care. The ACD Index is derived 
+by mathematical manipulations of the 
+physiologic data and laboratory 
+measurements received by the T3 Data 
+Aggregation and Visualization software 
+module. When the ACD Index is 
+increasing, it means that there is an 
+increasing risk of acidaemia and 
+attention should be brought to the 
+patient. The ACD Index presents partial 
+quantitative information about the 
+patient's respiratory condition, and no 
+therapy or drugs can be administered 
+Page 7 of 12
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY K222463 
+Characteristic Subject Device 
+EchoGo Heart Failure 1.0 
+Predicate Device 
+T3 Platform Software 
+based solely on the interpretation 
+statements.  
+The HLA Index is indicated for use by 
+health care professionals with post-
+surgical patients 0 to 12 years of age and 
+weighing 2 kg or more under intensive 
+care. The HLA Index is derived by 
+mathematical manipulations of the 
+physiologic data and laboratory 
+measurements received by the T3 Data 
+Aggregation & Visualization software 
+module. When the HLA Index is 
+increasing, it means that there is an 
+increasing risk of hyperlactatemia and 
+attention should be brought to the 
+patient. The HLA Index presents partial 
+quantitative information about the 
+patient's cardiovascular condition, and 
+no therapy or drugs can be administered 
+based solely on the interpretation 
+statements. 
+Population Adults over the age of 25 Adult, paediatric, and neonatal patients 
+Anatomical Site Cardiovascular Cardiovascular, pulmonary 
+Users Interpreting clinician Healthcare professional 
+Machine Learning-
+Based Algorithm  
+Yes No 
+Operating platform Hosted on Ultromics’ platform or on 
+third party infrastructure. 
+Hosted in hospital infrastructure. 
+Interoperability Interoperability testing conducted with 
+device capable of calculating an ejection 
+fraction on the apical 4 chamber view. 
+Can display numeric physiological data 
+captured by other medical devices. 
+Software Complies with IEC 62304:2015 and 
+GPSV. Developed under an FDA QSR and 
+ISO 13485:2016 compliant QMS 
+incorporating risk management per ISO 
+14971:2019. Software verification and 
+validation testing conducted. 
+Complies with GPSV and developed 
+under an FDA QSR compliant QMS 
+incorporating risk management. 
+Software verification and validation 
+testing conducted. 
+Risk Management In accordance with ISO 14971:2019 Not disclosed 
+Cybersecurity Post-market Management of 
+Cybersecurity in Medical Devices. 
+Content of Premarket Submissions for 
+Management of Cybersecurity in 
+Medical Devices. 
+Content of Premarket Submissions for 
+Management of Cybersecurity in 
+Medical Devices. 
+Page 8 of 12
+ 
+ 
+ 
+ECHOGO HEART FAILURE 1.0  510(K) SUMMARY  K222463 
+Characteristic  Subject Device 
+EchoGo Heart Failure 1.0 
+Predicate Device 
+T3 Platform Software 
+Cybersecurity for Networked Medical 
+Devices Containing Off-the-Shelf (OTS) 
+Software:  Guidance for Industry. 
+Usability Complies with IEC 62366-1:2020 and 
+general use of FDA guidance documents 
+on usability engineering. Formative and 
+summative evaluations conducted with 
+accredited cardiac physiologists (N=2) 
+and cardiologists (N=5). 
+Human factors testing was used to 
+support that the device users can safely 
+use the device. 
+Pre-clinical 
+Performance 
+Testing 
+No animal studies were conducted. No animal studies were conducted. 
+Bench Performance 
+Testing 
+Technical validation, numerical stability, 
+and regression testing. 
+Technical validation. 
+Clinical 
+Performance 
+Testing 
+Validated on a US cohort population, 
+comprising 8 independent clinical sites 
+representative of the intended use 
+population. 
+Validated on a patient cohort (including 
+subpopulation studies neonates, infants, 
+children) representative of the intended 
+use population. 
+ 
+Any technological differences between the subject and predicate devices raise no new concerns with regards 
+to safety and efficacy. In addition, Ultromics is of the view that general controls alongside special controls 
+introduced under the primary product code of the predicate are sufficient to ensure safety and efficacy of the 
+EchoGo Heart Failure 1.0 device. 
+8 Special Controls 
+Special controls for regulation 21 CFR 870.2200 (and product code PPW) follows. The submission itself 
+contains detailed references to supporting documentation and/or data allowing the verification of the 
+implementation of the associated special controls. 
+ 
+Control Description  
+1 Software description, verification, and validation based on comprehensive hazard analysis: 
+a Full characterization of technical parameters of the software, 
+including any proprietary algorithm(s) 
+ 
+Control implemented 
+b Description of the expected impact of all applicable acquisition 
+hardware characteristics on performance and any associated 
+hardware specifications. 
+ 
+Control implemented 
+c Specification of acceptable data quality control measures. 
+ 
+Control implemented 
+d Mitigation of impact of user error or failure of any components (data 
+detection and analysis, data display, and storage) on accuracy of 
+patient reports. 
+ 
+Control implemented 
+Page 9 of 12

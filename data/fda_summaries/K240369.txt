@@ -1,0 +1,672 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 07 . 0 3  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                           September 27, 2024
+ 
+ 
+BunkerHill Health 
+℅ Nitya Narayanan 
+Director of Regulatory Affairs 
+436 Bryant Street 
+SAN FRANCISCO, CA  94107 
+ 
+ 
+Re:  K240369 
+Trade/Device Name: CAC (gated) Algorithm 
+Regulation Number:  21 CFR 892.1750 
+Regulation Name:  Computed Tomography X-Ray System 
+Regulatory Class:  Class II 
+Product Code:  JAK 
+Dated:  August 23, 2024 
+Received:  August 26, 2024 
+ 
+ 
+Dear Nitya Narayanan: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K240369 - Nitya Narayanan Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part 
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming 
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a 
+change requires premarket review, the QS regulation requires device manufacturers to review and approve 
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and 
+approvals in the device master record (21 CFR 820.181).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart 
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections 
+531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K240369 - Nitya Narayanan Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+ 
+Lu Jiang, Ph.D. 
+Assistant Director 
+Diagnostic X-Ray Systems Team 
+DHT8B: Division of Radiologic Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+Lu Jiang 
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 07/31/2026
+See PRA Statement below.
+Submission Number (if known)
+K240369 I
+Device Name
+CAC (gated) Algorithm
+Indications for Use (Describe)
+CAC (gated) is a software device intended for use in estimating presence and quantity of coronary
+artery calcium for patients aged 30 years and above. The device automatically analyzes non-
+contrast electrocardiogram (ECG) gated cardiac computed tomography (CT) images collected and
+outputs the segmentation (intended for informational purposes only) and quantification of detected
+calcium.
+The output of the subject device is made available to the physician on-demand as part of his or her
+standard workflow. The device-generated quantification can be viewed in the patient report at the
+discretion of the physician, and the physician also has the option of viewing the device-generated
+calcium segmentation in a diagnostic image viewer. The subject device output in no way replaces
+the original patient report or the original cardiac CT scan; both are still available to be viewed and
+used at the discretion of the physician.
+The device is intended to provide information to the physician to provide assistance during review of
+the patient's case. Results of the subject device are not intended to be used on a stand-alone basis
+and are solely intended to aid and provide information to the physician. In all cases, further action
+taken on a patient should only come at the recommendation of the physician after further reviewing
+the patient's results.
+Type of Use (Select one or both, as applicable)
+[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."
+
+
+
+	
+ 
+
+		
+
+& #% )$		%
+'
+
+A:71>5881-8@4:/	
+>E-:@(@>11@
+(-:>-:/5?/;
+
+
+
+%4;:1
+
+
+;:@-/@%1>?;:#5?45@4 4-:0C-8-
+-@1%>1<->10(1<@19.1>
+
+
+#!"!$
+'
+#!"#%#(3-@101B5/1
+	$$%!  ;9<A@10@;9;3>-<4ED>-E?E?@19
+&%! &# '	
+
+#!&%	!  
+&%!#(	$$  
+
+	
+#!"#%#( 9.5;I?(;2@C->1
+##%!%%!   
+
+	$$%!  ;9<A@10@;9;3>-<4ED>-E?E?@19
+&%! &# '	
+
+#!&%	!  
+&%!#(	$$  
+
+#!"#%#( 51B5/1
+##%!%%!   
+
+	$$%!  ;9<A@10@;9;3>-<4ED>-E?E?@19
+&%! &# '	
+
+#!&%	!  
+&%!#(	$$  
+
+
+'
+$#"%! 
+A:71>45883-@105?-?;2@C->1-?-9105/-801B5/1(-" <>;0A/@@4-@5:@1>2-/1?C5@4
+/;9<-@5.81-:0/;991>/5-88E-B-58-.81)?E?@19?	A:71>45883-@108;/-85F1?=A-:@5251?
+
+	 
+ 
+
+-:0/-@13;>5F1?/;>;:->E->@1>E/-8/525/-@5;:5::;:/;:@>-?@ 181/@>;/->05;3>-93-@10
+/41?@)?@A051?	)41/;>121-@A>1?;2@41<>;0A/@->1
+
+J -@13;>5F-@5;:;2@41/;>;:->E->@1>E/-8/5A9.A>01:5:@412;>9;2->-:31;23-@?@;:
+?/;>1?	-8/5A9?/;>13>;A<5:3?->10125:10-?;:1;2@412;A>2;88;C5:3>-:31?;23-@?@;:
+A:5@?
+-	 >;A<
+3-@?@;:A:5@?
+.	 >;A<3-@?@;:A:5@?
+/	 >;A<
+
+3-@?@;:A:5@?
+0	 >;A<
+
+3-@?@;:A:5@?
+J &A-:@525/-@5;:;2@41;B1>-88/;>;:->E->@1>E/-8/5A9.A>01:5:@412;>9;2-:1D-/@3-@?@;:
+(/;>1	
+J &A-:@525/-@5;:;21-/4/;>;:->E->@1>EI?812@9-5:!812@-:@1>5;>01?/1:05:3!812@
+/5>/A9281D!,-:0>534@/;>;:->E->@1>E'/-8/5A9.A>01:5:@412;>9;2-:1D-/@
+3-@?@;:?/;>1	
+J !;/-85F-@5;:;21?@59-@10/-8/5A9.A>01:5:@412;>9;2-?1391:@-@5;:-<<8510@;-
+/;<E;2@41;>535:-8)?/-:5:@1:0102;>5:2;>9-@5;:-8<A><;?1?;:8E	
+
+
+ % $ %! $!#$
+3-@105?-?;2@C->101B5/15:@1:0102;>A?15:1?@59-@5:3 <>1?1:/1-:0=A-:@5@E;2/;>;:->E
+->@1>E/-8/5A92;><-@51:@?-310
+E1->?-:0-.;B1	)4101B5/1-A@;9-@5/-88E-:-8EF1?:;:/;:@>-?@
+181/@>;/->05;3>-93-@10/41?@/;9<A@10@;9;3>-<4E)59-31?/;881/@10-:0;A@<A@?@41
+?1391:@-@5;:5:@1:0102;>5:2;>9-@5;:-8<A><;?1?;:8E-:0=A-:@525/-@5;:;201@1/@10/-8/5A9	
+
+)41;A@<A@;2@41?A.61/@01B5/15?9-01-B-58-.81@;@41<4E?5 /5-:;:019-:0-?<->@;245?;>41>
+?@-:0->0C;>728;C	)4101B5/131:1>-@10=A-:@525/-@5;:/-:.1B 51C105:@41<-@51:@>1<;>@-@@41
+05?/>1@5;:;2@41<4E?5/5-:-:0@41<4E?5/5-:-8?;4-?@41;<@ 5;:;2B51C5:3@4101B5/131:1>-@10
+/-8/5A9?1391:@-@5;:5:-05-3:;?@5/59-31B51C1>	)41?A.61/@01B5/1;A@<A@5::;C-E>1<8-/1?@41
+;>535:-8<-@51:@>1<;>@;>@41;>535:-83-@10/->05-/)?/-:.;@4->1?@588-B-58-.81@;.1B51C10
+-:0A?10-@@4105?/>1@5;:;2@41<4E?5/5-:	
+
+)4101B5/15?5:@1:010@;<>;B5015:2;>9-@5;:@;@41<4E?5/5-:@;<>;B501-??5?@-:/10A>5:3>1B51C;2
+@41<-@51:@I?/-?1	'1?A8@?;2@41?A.61/@01B5/1->1:;@5:@1:010@;.1A?10;:-?@-:0-8;:1.-?5?
+-:0->1?;818E5:@1:010@;-50-:0<>;B5015:2;>9-@5;:@;@41< 4E?5/5-:	:-88/-?1?2A>@41>-/@5;:
+@-71:;:-<-@51:@?4;A80;:8E/;91-@@41>1/;991:0-@5;:;2@4 1<4E?5/5-:-2@1>2A>@41>>1B51C5:3
+@41<-@51:@I?>1?A8@?	
+
+&#(! !!	#%#$%$
+@-453481B18@41?A.61/@-:0<>105/-@101B5/1?->1.-?10;: @412;88;C5:3?-91@1/4:;8;35/-8
+18191:@?
+• ;@4@41<>105/-@1-:0@41?A.61/@01B5/1A?1011<81->:5:3-8 3;>5@49?@;501:@52E@41
+<>1?1:/1;2/;>;:->E->@1>E/-8/5A901<;?5@?-:0=A-:@52E/-8/5A9.A>01:5:-0A8@<-@51:@?	
+• ;@401B5/1?-:-8EF1/;9<A@10@;9;3>-<4E)59-31?@4-@->1 ?1:@@;@41?;2@C->15:
+$"2;>9-@	
+• ;@4@41<>105/-@1-:0@41?A.61/@01B5/1=A-:@52E@41/-8/5A9.A>01:;2@41/;>;:->E->@1>51?	
+
+	 
+ 
+
+• ;@401B5/1??1>B1-??A<<;>@@;;8?@;<>;B5015:2;>9-@5;:@;@41<4E?5/5-:	;C1B1>@41E0;
+:;@>1<8-/1/85:5/-81B-8A-@5;:-:00;:;@-8@1>@41?@-:0->0;2/->1	
+• ;@401B5/1??1391:@@41/-8/5A9->1-;:-:59-31-:031:1>-@1->1<;>@	
+
+@-.81/;9<->5:3@4171E21-@A>1?;2@41?A.61/@-:0<>105/-@101B5/1?5?<>;B5010.18;C	
+
+			
+
+	
+
+#%#$% &% ' 
+%"#% 
+# #(#%'
+
+ " !)$  
+	
+"!#( #%
+'
+		
+&  #(
+5;,5+,+%:,
+5+0*(;065:-69%:,
+.(;,+0:(:6-;>(9,
++,=0*,05;,5+,+-69<:,05
+,:;04(;05.79,:,5*,(5+
+8<(5;0;@6-*6965(9@(9;,9@
+*(3*0<4-697(;0,5;:(.,+
+@,(9:(5+()6=,$/,
++,=0*,(<;64(;0*(33@
+(5(3@A,:565*65;9(:;
+,3,*;96*(9+06.9(4
+.(;,+*/,:;*647<;,+
+;646.9(7/@$04(.,:
+*633,*;,+(5+6<;7<;:;/,
+:,.4,5;(;06505;,5+,+-69
+05-694(;065(37<976:,:
+653@(5+8<(5;0-0*(;0656-
++,;,*;,+*(3*0<4
+
+$/,6<;7<;6-;/,:<)1,*;
++,=0*,0:4(+,(=(03()3,;6
+;/,7/@:0*0(565+,4(5+
+(:7(9;6-/0:69/,9
+:;(5+(9+>692-36>$/,
++,=0*,.,5,9(;,+
+8<(5;0-0*(;065*(5),
+=0,>,+05;/,7(;0,5;9,769;
+(;;/,+0:*9,;0656-;/,
+7/@:0*0(5(5+;/,
+7/@:0*0(5(3:6/(:;/,
+67;0656-=0,>05.;/,
++,=0*,.,5,9(;,+*(3*0<4
+:,.4,5;(;06505(
++0(.56:;0*04(.,=0,>,9
+$/,:<)1,*;+,=0*,6<;7<;
+0556>(@9,73(*,:;/,
+690.05(37(;0,5;9,769;69;/,
+690.05(3.(;,+*(9+0(*
+$:*(5)6;/(9,:;033
+(=(03()3,;6),=0,>,+(5+
+4)06#6-;>(9,0:
+05;,5+,+-69<:,(:(565
+05=(:0=,76:;796*,::05.
+:6-;>(9,;6,=(3<(;,
+*(3*0-0,+73(8<,:05;/,
+*6965(9@(9;,90,:>/0*/
+79,:,5;(90:2-69*6965(9@
+(9;,9@+0:,(:,4)06
+#6-;>(9,<:,:4(*/05,
+3,(9505.;6(5(3@A,;/69(*0*
+$04(.,:(5+6<;7<;:(
+:<44(9@9,769;*65;(0505.
+.(;:;65:*69,(9;,90(3
+(.,(5+*(3*0-0,+3,:065
+4(::(5+=63<4,4,;90*:
+6-;/,*(3*0-0*(;065)<9+,5
+-69;/,>/63,/,(9;(5+
+05+0=0+<(3*6965(9@(9;,9@
+3,=,3++0;065(33@4)06
+#6-;>(9,6<;7<;:
+(556;(;,+04(.,:
+79,=0,>05.;/,
+:,.4,5;(;0656-
+*(3*0-0*(;065:-69
+05-694(;065(37<976:,:
+653@4)06#6-;>(9,
+0:3040;,+;6;/,
+8<(5;0-0*(;0656-+,;,*;,+
+76::0)3,*(3*0-0*(;065:05
+(+<3;7(;0,5;:C
+@,(9:6-
+(.,;+6,:56;+0(.56:,
+*6965(9@(9;,9@+0:,(:,
+$/,+,=0*,6<;7<;>033),
+(=(03()3,;6;/,<:,9:(:
+7(9;6-;/,:;(5+(9+ 
+=0,>05.>692-36>$/,
+4)06#6-;>(9,9,:<3;:
+(9,56;05;,5+,+;6),<:,+
+65(:;(5+(365,)(:0:-69
+00:(:6-;>(9,+,=0*,
+05;,5+,+ -69 <:, 05
+,:;04(;05. 79,:,5*, (5+
+8<(5;0;@6-*6965(9@(9;,9@
+*(3*0<4-697(;0,5;:(.,+
+@,(9: (5+ ()6=, +<905.
+96<;05, *(9, $/, +,=0*,
+(<;64(;0*(33@(5(3@A,:565
+.(;,+ */,:; *647<;,+
+;646.9(7/@ $ 04(.,:
+*633,*;,+ +<905. 96<;05,
+*(9,(5+6<;7<;:(=0:<(3
+9,79,:,5;(;0656-,:;04(;,+
+*6965(9@ (9;,9@ *(3*0<4
+:,.4,5;(;06505;,5+,+-69
+05-694(;065(3 7<976:,:
+653@(5+)6;/,?(*;(5+
+-6<9*(;,.69@ 8<(5;0;(;0=,
+,:;04(;,: 6- ;/, 7(;0,5;D:
+*6965(9@ (9;,9@ *(3*0<4
+)<9+,505.(;:;65<50;:
+
+$/,6<;7<;6-;/,:<)1,*;
++,=0*,0:4(+,(=(03()3,;6
+;/,7/@:0*0(565+,4(5+(:
+7(9;6-/0:69/,9:;(5+(9+
+>692-36> $/, +,=0*,
+.,5,9(;,+*(3*0<4:*69,69
+:*69,.96<7*(5),=0,>,+
+05;/,7(;0,5;9,769;(;;/,
++0:*9,;0656-;/,7/@:0*0(5
+(5+;/,7/@:0*0(5(3:6/(:
+;/, 67;065 6- =0,>05. ;/,
++,=0*,.,5,9(;,+ *(3*0<4
+:,.4,5;(;065 05 (
++0(.56:;0* 04(., =0,>,9
+$/,:<)1,*;+,=0*,6<;7<;05
+56>(@9,73(*,:;/,690.05(3
+7(;0,5;9,769;69;/,690.05(3
+#(4,6;/7904(9@(5+
+:,*65+(9@79,+0*(;,:(9,
+56505=(:0=,76:;
+796*,::05.#&;6,=(3<(;,
+*(3*0-0,+73(8<,05*6965(9@
+(9;,90,:6;/<:,$
+04(.,:#0403(9;67904(9@
+79,+0*(;,+,=0*,
+.(;,+6<;7<;:(:<44(9@
+9,769;*65;(0505..(;:;65
+:*69,0,;/,*(3*0-0*(;065
+)<9+,5-69;/,>/63,/,(9;
+(5+(;05+0=0+<(3*6965(9@
+(9;,9@3,=,3556;(;,+
+04(.,:79,=0,>05.;/,
+:,.4,5;(;0656-
+*(3*0-0*(;065:0:796=0+,+-69
+05-694(;0657<976:,:6;/
+:<)1,*;(5+79,+0*(;,:(9,
+56;05;,5+,+;6),<:,+65
+(:;(5+(365,)(:0:
+
+	 
+ 
+
+#%#$% &% ' 
+%"#% 
+# #(#%'
+
+ " !)$  
+	
+"!#( #%
+'
+		
+&  #(
+<:,+(;;/,+0:*9,;0656-;/,
+7/@:0*0(5
+
+$/,+,=0*,0:05;,5+,+;6
+796=0+,05-694(;065;6;/,
+7/@:0*0(5;6796=0+,
+(::0:;(5*,+<905.9,=0,>6-
+;/,7(;0,5;D:*(:,",:<3;:
+6-;/,:<)1,*;+,=0*,(9,
+56;05;,5+,+;6),<:,+65
+(:;(5+(365,)(:0:(5+(9,
+:63,3@05;,5+,+;6(0+(5+
+796=0+,05-694(;065;6;/,
+7/@:0*0(55(33*(:,:
+-<9;/,9(*;065;(2,565(
+7(;0,5;:/6<3+653@*64,(;
+;/,9,*644,5+(;0656-;/,
+7/@:0*0(5(-;,9-<9;/,9
+9,=0,>05.;/,7(;0,5;D:
+9,:<3;:
+
+*3050*(3+,*0:0654(205.69
+6;/,9>0:,79,*3<+,*3050*(3
+(::,::4,5;6-$04(.,:
+.(;,+ *(9+0(* $
+:*(5)6;/(9,:;033(=(03()3,
+;6),=0,>,+(5+<:,+(;
+;/, +0:*9,;065 6- ;/,
+7/@:0*0(5
+
+$/,+,=0*,0:05;,5+,+;6
+796=0+,05-694(;065;6;/,
+7/@:0*0(5;6796=0+,
+(::0:;(5*,+<905.9,=0,>6-
+;/,7(;0,5;D:*(:,",:<3;:
+6-;/,:<)1,*;+,=0*,(9,
+56;05;,5+,+;6),<:,+65
+(:;(5+(365,)(:0:(5+(9,
+:63,3@05;,5+,+;6(0+(5+
+796=0+,05-694(;065;6;/,
+7/@:0*0(55(33*(:,:
+-<9;/,9(*;065;(2,565(
+7(;0,5;:/6<3+653@*64,(;
+;/,9,*644,5+(;0656-;/,
+7/@:0*0(5(-;,9-<9;/,9
+9,=0,>05.;/,7(;0,5;D:
+9,:<3;:
+$@7,6-5;,979,;(;065 +1<5*;0=,05-694(;065 +1<5*;0=,05-694(;065 +1<5*;0=,05-694(;065 #(4,
+5;,5+,+%:,9 5;,979,;05.7/@:0*0(5: 5;,979,;05.7/@:0*0(5: 5;,979,;05.7/@:0*0(5: #(4,
+!(;0,5;767<3(;065 !(;0,5;:(.,+@,(9:(5+
+()6=,
+!(;0,5;:()6=,;/,(.,6-
+
+
+!(;0,5;:(.,+@,(9:(5+
+()6=,
+#(4,
+5(;640*(336*(;065 (9+0(* $/69(*0*/,:;*(9+0(* /,:; #(4,
+5;,5+,+36*(;065 ,+0*(3-(*030;@ ,+0*(3-(*030;@ ,+0*(3-(*030;@ #(4,
+"?69 $ "? "? "? #(4,
+,(:<9,4,5;:*(3, .(;:;65<50;: .(;:;65<50;: .(;:;65<50;: #(4,
+!96+<*;*6+,    #(4,
+",.<3(;0655<4),9 
+	"B
+	 
+	"B
+	 
+	"B
+	 #(4,
+6+(30;@ 647<;,+;646.9(7/@$ 647<;,+;646.9(7/@$ 647<;,+;646.9(7/@$ #(4,
+4(.,-694(;       #(4,
+#<7769;,+$:*(5 (9+0(*.(;,+$:*(5 65*(9+0(*.(;,+ (5+
+*(9+0(*.(;,+$:*(5
+65*(9+0(*.(;,+$:*(5 #0403(9!904(9@79,+0*(;,
+0:-69)6;/.(;,+(5+565
+.(;,+:*(5:;/,9,-69,
+
+	 
+ 
+
+#%#$% &% ' 
+%"#% 
+# #(#%'
+
+ " !)$  
+	
+"!#( #%
+'
+		
+&  #(
+:<)1,*;+,=0*,>/0*/>692:
+65.(;,+:*(5:0:(:<):,;
+6;,#,*65+(9@79,+0*(;,
+0*3,(9(5*,
+
+
+
+>692:65565.(;,+:*(5:
+#30*,;/0*25,:: %7;644 %7;644 %7;644 #(4,
+(3*0-0*(;065+,;,*;065 <;64(;0* <;64(;0* <;64(;0* #(4,
+,-(<3; ;/9,:/63+ 6-
+*(3*0<4
+	%6<5:-0,3+%50;: 	%6<5:-0,3+%50;: 	%6<5:-0,3+%50;: #(4,
+6965(9@ (9;,9@
+*(3*0-0*(;065
+8<(5;0-0*(;0654,;/6+
++,;,*;065*(;,.69@
+)(:,+65.(;:;65:*69,
+,?(*;.(;:;65:*69,
+05*3<+05.=,::,3:7,*0-0*
+.(;:;65:*69,:
++,;,*;065*(;,.69@
+)(:,+65.(;:;65:*69,
+05*3<+05.=,::,3:7,*0-0*
+.(;:;65:*69,:
+ +,;,*;065 *(;,.69@
+)(:,+65.(;:;65:*69,
+,?(*;.(;:;65:*69,
+#(4,
+(0504(.,8<(30;@       #(4,
+556;(;0656-+,;,*;,+
+*(3*0<4
+',: ',: ',: #(4,
+,5,9(;, 7(;0,5;
+9,769;
+ 7;065(3;6*67@9,:<3;;6
+*307)6(9+05:,9;059,769;
+ #,*65+(9@(7;<9,
+ 7;065(3;6*67@9,:<3;;6
+*307)6(9+05:,9;059,769;
+ #,*65+(9@(7;<9,
+ 7;065(3;6*67@9,:<3;;6
+*307)6(9+05:,9;059,769;
+ #,*65+(9@(7;<9,
+#(4,
+",769;6-;/,*(3*0<4
+:*69,
+',: 6965(9@ (3*0<4
+,;,*;065 (;,.69@ (5+
+,?(*;.(;:;65:*69,
+*(;,.690,:-69+,;,*;065
+*(;,.69@
+ 
+    
+ 
+ 
+
+',: 6965(9@ (3*0<4
+,;,*;065(;,.69@
+*(;,.690,:
+',: 6965(9@ (3*0<4
+,;,*;065 (;,.69@ (5+
+,?(*;.(;:;65:*69,
+*(;,.690,:-69+,;,*;065
+*(;,.69@
+ 
+    
+ 
+   
+#0403(9.(;,+
+796=0+,:*(;,.69@
+,:;04(;,:>/,9,(:7904(9@
+79,+0*(;,796=0+,:
+*(;,.690,:<99,5;3@
+*3,(9,+0:,*65+(9@
+79,+0*(;,/(:*(;,.690,:
+:0403(9;6;/,:<)1,*;
++,=0*,
+&#
+
+
+	 
+ 
+
+#!# 
+%
+(-21@E-:0<1>2;>9-:/1;2@413-@101B5/14-?.11:1B-8A -@10-:0B1>525105:-//;>0-:/1
+C5@4?;2@C->1?<1/525/-@5;:?-:0-<<85/-.81<1>2;>9-:/1?@-:0-> 0?@4>;A34(;2@C->11B18;<91:@
+-:0+-850-@5;:+1>525/-@5;:%>;/1??@;1:?A>1<1>2;>9-:/1-// ;>05:3@;?<1/525/-@5;:?*?1>
+'1=A5>191:@? -:0 101>-8 '13A8-@5;:? -:0 A50-:/1 0;/A91:@? G;:@1:@ ;2 %>19->71@
+(A.95??5;:?2;>1B5/1(;2@C->1A:/@5;:?HA:1
+	
+
+)413-@101B5/1<1>2;>9-:/1C-?B-850-@105:-?@-:0-8;:1>1@>;?<1/@5B1?@A0E2;>;B1>-88
+-3>1191:@;2@4101B5/1;A@<A@/;9<->10@;@411?@-.85?4103>;A:0@>A@4	)41<5B;@-8@1?@5:30-@-?1@
+/;:?5?@10;23-@10)?@A051?2>;9?5D31;3>-<45/-88E05B1>?1?5@1?	)41?-9<815:/8A010-01=A-@1
+>1<>1?1:@-@5;:2>;91-/4/;>;:->E/-8/5A901@1/@5;:/-@13;>E	) 413-@101B5/1I?;B1>-88
+-3>1191:@C-?01@1>95:10.E/;9<->5:3@4101B5/1;A@<A@/;>;:-> E/-8/5A901@1/@5;:/-@13;>E@;
+@413>;A:0@>A@4/;>;:->E/-8/5A901@1/@5;:/-@13;>E	
+
+)41<>59->E1:0<;5:@C-?@;1B-8A-@1@41/->05;B-?/A8->05?1-?1 >5?7/-@13;>E-/>;??-88/-?1?
+.1@C11:@41?A.61/@01B5/1-:0@413>;A:0@>A@4	%>59->E-//1<@ -:/1/>5@1>5-2;>@41<5B;@-8@1?@5:3
+?@A0EC-?0125:10-?;41:I?C1534@107-<<-2;>@41/-@13;>E?/;>13>;A<-??1??91:@;2-@81-?@
+
+	
+	)41A:71>58801B5/1019;:?@>-@10-;41:I?C1534@107-<<-;2
+	
+	
+	
+@4A?1D/1105:3@41<>59->E-//1<@-:/1/>5@1>5-2;>@41<5B;@-8@1?@5:3?@A0E	
+
+	! &$! $
+)413-@101B5/15?-??-21-:01221/@5B1-?@41<>105/-@ 101B5/1?9.5;I?(;2@C->1
+ 
+-:0501B5/1 
+	)413-@101B5/1 4-?@41?-915:@1:010A?1?-:0
+?5958->5:05/-@5;:?@1/4:;8;35/-8/4->-/@1>5?@5/?-:0<>5:/5<81?;2;<1>-@5;:-?5@?<>105/-@101B5/1	
+)4195:;>05221>1:/1?5:5:05/-@5;:?0;:;@-8@1>@415:@1:01005-3:;?@5/A?1;2@4101B5/1-:00;:;@
+-221/@5@??-21@E-:01221/@5B1:1??C41:A?10-?8-.1810	:- 005@5;:@4195:;>@1/4:;8;35/-8
+05221>1:/1?.1@C11:@413-@101B5/1-:05@?<>105/-@101B5/1?>-5?1:;:1C5??A1?;2?-21@E
+;>1221/@5B1:1??	

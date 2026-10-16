@@ -1,0 +1,507 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          Doc ID# 04017.0 7 . 0 5  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+June 20, 2025 
+ 
+ 
+Eko.ai Pte. Ltd. d/b/a Us2.ai 
+Hui Tay 
+RAQA Manager 
+2 College Road, 02-00 
+Singapore, 169850 
+Singapore 
+ 
+ 
+Re:  K250151 
+Trade/Device Name: Us2.ca 
+Regulation Number:  21 CFR 870.2200 
+Regulation Name:  Adjunctive Cardiovascular Status Indicator 
+Regulatory Class:  Class II 
+Product Code:  SDJ 
+Dated:  May 21, 2025 
+Received:  May 21, 2025 
+ 
+ 
+Dear Hui Tay: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Build Correspondence Convert to PDF
+
+K250151 - Hui Tay Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part 
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming 
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a 
+change requires premarket review, the QS regulation requires device manufacturers to review and approve 
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and 
+approvals in the device master record (21 CFR 820.181).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart 
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections 
+531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-d evices/device-advice-comprehensive-regulatory-
+K250151 - Hui Tay Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+      for 
+LCDR Stephen Browning 
+Assistant Director 
+Division of Cardiac Electrophysiology,  
+    Diagnostics, and Monitoring Devices 
+Office of Cardiovascular Devices 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+Robert T. Kazmierski -S
+I Indications for Use
+if it is known. This K250151Please type in the marketing application/submission number,textbox will be left blank for original applications/submissions.
+Please provide the device trade name(s).
+?
+IUs2.ca
+Please provide your Indications for Use below.
+Us2.ca processes acquired transthoracic cardiac ultrasound images to support qualified cardiologists,
+sonographers, or other licensed professional healthcare practitioners in their diagnosis of cardiac
+amyloidosis. Us2.ca is intended for use only in adult patients with increased left ventricular wall thickness,
+defined as an interventricular septal thickness (IVSd) or left ventricular posterior wall thickness (LVPWd) >
+12mm. Us2.ca is not intended to provide a diagnosis and does not replace current standards of care. The
+results from Us2.ca are not intended to exclude the need for further follow-up on cardiac amyloidosis.
+I
+Prescription Use (Part 21 CFR 801 Subpart D)
+flOver-The-Counter Use (21 CFR 801 Subpart C)
+Please select the types of uses (select one or both, as
+applicable).
+Us2.ca Page 8 of 54
+Eko.ai Pte. Ltd. d/b/a Us2.ai
+510(k) - K250151
+Us2 .ca
+Page 1 of 10
+510(k) Summary
+Table 1. Subject Device Overview.
+Submitter’s Name: Eko.ai Pte. Ltd. (d/b/a Us2.ai)
+Address: 2 College Road, #02-00, Singapore 169850
+Contact Person: Hui Qun, Tay
+Title: Regulatory Affairs and Quality Assurance Manager
+Telephone Number: +65 62327857
+Fax Number: +65 62327857
+Email: huiqun@us2.ai
+Date Summary Prepared: Jan 17, 2025
+Device Proprietary Name: Us2.ca
+Model Number: Us2.ca
+Common Name: Us2.ca
+Regulation Number: 21 CFR 870.2200
+Regulation Name: Adjunctive cardiovascular statue indicator
+Product Code: SDJ
+Device Class: Class II
+Predicate Device
+Trade name: EchoGo Cardiac Amyloidosis 1.0
+Manufacturer: Ultromics Limited 4630 Kingsgate
+Cascade Way,
+Oxford Business Park South, Oxford
+Oxfordshire, United Kingdom, OX4 2SU
+Regulation Number: 21 CFR 870.2200
+Regulation Name: Adjunctive Cardiovascular Statue Indiator
+Device Class: Class II
+Product Code: SDJ
+510(k) Number: K240860
+510(k) Clearance Date: Nov 15, 2024
+Eko.ai Pte. Ltd. d/b/a Us2.ai
+510(k) - K250151
+Us2 .ca
+Page 2 of 10
+Device Description
+The Us2.ai platform is a clinical decision support tool that analyzes echocardiogram images 
+in order
+ to generate a series of AI-derived measurements. Fully automated, functional 
+reporting with disease indications is also provided, in line with ASE & ESC guidelines.
+Echo images are sent to the Us2.ai platform where they are processed, analyzed and 
+measured. Results that meet the  confidence threshold for  both image quality and 
+measureme
+nt accuracy are passed through to a report for review by the clinical users. 
+Report text is also generated and presented with the measurements, providing functional  
+reporting
+ and disease indications. The ultimate clinical decis ion and interpretation reside 
+solely
+ with the clinician.
+Us2.ca is
+ an enhancement to U s2.ai existing Us2.v2 software, adding the capability to detect 
+cardiac amyloidosis. It is an image post-processing analysis software device us ed for 
+viewing and quantifying cardiovascular ultrasound images in DICOM  format. The device is 
+intended
+ to aid diagnostic review and analysis of echocardiographic data, patient record  
+management and reporting.
+The primary intended function of Us2.ca is to automatically identify patients who require 
+additional follow-up for
+ cardiac a myloidosis. In doing so, the primary benefit is to improve 
+clinical echocardiographic
+ workflow,  enabling clinicians to generate and edit reports faster, 
+with
+ precision and with f ull control. The final clinical decision of the r esults still remains 
+with the clinicians.
+Indications for Use
+Us2.ca processes acquired transthoracic cardiac ultrasound images to support qualified 
+cardiologists, sonographers, or other licensed professional healthcare practitioners in their 
+diagnosis of cardiac amyloidosis. Us2.ca is intended for use only in adult patients with 
+increased left ventricular wall thickness, defined as an interventricular septal thickness 
+(IVSd) or left ventricular posterior wall thickness (LVPWd) ≥ 12mm. Us2.ca is not 
+intended to provide a diagnosis and does not replace current standards of care. The results 
+from Us2.ca are not intended to exclude the need for further follow-up on cardiac 
+amyloidosis.
+Please note the following limitations:
+ Our software complements good patient care and does not exempt the user from the
+responsibility to provide supervision, clinically review the patient, and make appropriate
+clinical decisions.
+ During image acquisition, inappropriate use of the echo machine, use of non-cardiac
+ultrasound probes, use of suboptimal settings (e.g., gain, contrast, or depth), or lack of
+electrocardiogram capture may lead to lower accuracy of the software.
+ Us2.ca does not identify regions of interest or areas of possible pathology in the images.
+ Us2.ca does not differentiate different types of cardiac amyloidosis, e.g., hereditary
+ATTR, wild-type ATTR, and AL.
+Limitations
+Eko.ai Pte. Ltd. d/b/a Us2.ai
+510(k) - K250151
+Us2 .ca
+Page 3 of 10
+ Us2.ca was externally validated on cardiac images from GE and Philips ultrasound
+systems. Use of the device on ultrasound systems other than GE and Philips may lead to
+lower accuracy of the software.
+Eko.ai Pte. Ltd. d/b/a Us2.ai
+510(k) - K250151
+Us2 .ca
+Page 4 of 10
+Summary of Technological Characteristics Comparison
+Table 2 shows the similarities and differenc es between the technological characteristics of
+the two products. Testing demonstrates that the differences do not raise new questions of
+safety or effectiveness.
+Table 2. Summary of Technological Characteristics Comparison.
+Characteristics Subject Device(Us2.ca)
+Predicate
+(K240860-EchoGo Cardiac
+Amyloidosis (1.0))
+Regulation 21 CFR 870.2200 21 CFR 870.2200
+SaMD Yes Yes
+Generic Type
+Device
+Adjunctive cardiovascular status
+indicator
+Adjunctive cardiovascular status
+indicator
+Indications for
+Use
+Us2.ca processes acquired
+transthoracic cardiac ultrasound
+images to support qualified
+cardiologists, sonographers, or
+other licensed professional
+healthcare practitioners in their
+diagnosis of cardiac amyloidosis.
+Us2.ca is intended for use only in
+adult patients with increased left
+ventricular wall thickness, defined
+as an interventricular septal
+thickness (IVSd) or left
+ventricular posterior wall
+thickness (LVPWd) ≥ 12mm.
+Us2.ca is not intended to provide
+a diagnosis and does not replace
+current standards of care. The
+results from Us2.ca are not
+intended to exclude the need for
+further follow-up on cardiac
+amyloidosis.
+EchoGo Amyloidosis 1.0 is an
+automated machine learning-based
+decision support system, indicated
+as a screening tool for adult patients
+aged 65 years and over with heart
+failure undergoing cardiovascular
+assessment using echocardiography.
+When utilised by an interpreting
+physician, this device provides
+information alerting the physician
+for referral to confirmatory
+investigations. EchoGo Amyloidosis
+1.0 is indicated in adult patients
+aged 65 years and over with heart
+failure. Patient management
+decisions should not be made solely
+on the results of the EchoGo
+Amyloidosis 1.0 analysis.
+Targeting
+disease Cardiac Amyloidosis Cardiac Amyloidosis
+Intended
+population Adults Adults over the age of 65
+Users
+Qualified cardiologists,
+sonographers, or other licensed
+professional practitioners
+Interpreting clinician
+Nature of device Clinical decision –making supporttool Diagnostic aid
+Operating
+platform
+Hosted on Us2.ai’s platform on
+3rd party infrastructure
+Hosted on Ultromic’s platform on
+3rd party infrastructure
+Eko.ai Pte. Ltd. d/b/a Us2.ai
+510(k) - K250151
+Us2 .ca
+Page 5 of 10
+Machine
+Learning-Based
+algorithm
+Yes Yes
+DICOM files Yes Yes
+Eko.ai Pte. Ltd. d/b/a Us2.ai
+510(k) - K250151
+Us2 .ca
+Page 6 of 10
+Characteristics Subject Device(Us2.ca)
+Predicate
+(K240860-EchoGo Cardiac
+Amyloidosis (1.0))
+containing
+echocardiogram
+as input
+Cybersecurity
+Post-market Management of
+Cybersecurity in Medical Devices.
+Content of Premarket Submissions
+for Management of Cybersecurity
+in Medical Devices. Content of
+Premarket Submissions for
+Management of Cybersecurity in
+Medical Device Containing Off-
+the-Shelf (OTS) Software:
+Guidance for Industry.
+Post-market Management of
+Cybersecurity in Medical Devices.
+Content of Premarket Submissions
+for Management of Cybersecurity in
+Medical Devices. Content of
+Premarket Submissions for
+Management of Cybersecurity in
+Medical Devices. Cybersecurity for
+Networked Medical Devices
+Containing Off-the-Shelf (OTS)
+Software: Guidance for Industry.
+Pre-clinical
+performance
+testing
+No animal studies were
+conducted. No animal studies were conducted.
+Bench
+Performance
+Testing
+Verification and Validation
+testings, Regression testing
+Technical validation, numerical
+stability, and regression testing.
+Both Us2.ca and the predicate device use AI to  analyze echocardiograms and generate reports 
+that support
+ clinical decision making  in detecting cardiac amyloidosis. Given the similarity in 
+both devices, Us2.ca does not significantly affect the safety or effectiveness of the  devices, and  
+they operate in  a sim ilar manner. Thus, U s2.ca is substantially equivalent to the predicate device.
+Special Controls
+Per the regulation 21 CFR 870.2200, there are special controls which the Us2.ca has to fulfil. All
+supporting documentation and/or data for the implementation of the special controls are found
+within the actual submission.
+(1) Software description, verification, and validation based on comprehensive hazard
+analysis must be provided, including:
+(i) Full characterization of technical par ameters of the software, including any
+proprietary algorithm(s);
+(ii) Description of the expected impact of all applicable sensor acquisition hardware
+characteristics on performance and any associated hardware specifications;
+(iii) Specification of acceptable incomin g sensor data quality control measures; and
+(iv) Mitigation of impact of user error or failure of any subsystem components
+(signal detection and analysis, data display, and storage) on accuracy of patient reports.
+(2) Scientific justification for the validity of the status indicator algorithm(s) must be
+provided. Verification of algorithm calculations and validation testing of the algorithm using
+a data set separate from the training data must demonstrate the validity of modeling.
+(3) Usability assessment must be provided to d emonstrate that risk of misinterpretation of
+the status indicator is appropriately mitigated.
+(4) Clinical data must be provided in support of t he intended use and include the following:
+(i) Output measure(s) must be compared to an acceptable reference method to
+Eko.ai Pte. Ltd. d/b/a Us2.ai
+510(k) - K250151
+Us2 .ca
+Page 7 of 10
+demonstrate that the output measure(s) repres ent(s) the predictive measure(s) that the
+device provides in an accurate and reproducible manner;
+(ii) The data set must be representative of the intended use population for the device.
+Any selection criteria or limitations of th e samples must be fully described and
+justified;
+(iii) Agreement of the measure(s) with th e reference measure(s) must be assessed
+across the full measurement range; and
+(iv) Data must be provided within the clinical validation study or using equivalent
+datasets to demonstrate the consistency of the output and be representative of the
+range of data sources and data quality likely to be encountered in the intended use
+population and relevant use conditions in the intended use environment.
+(5) Labeling must include the following:
+(i) The type of sensor data used, including specification of compatible sensors for
+data acquisition;
+(ii) A description of what the device measures and outputs to the user;
+(iii) Warnings identifying sensor readin g acquisition factors that may impact
+measurement results;
+(iv) Guidance for interpretation of the measurements, including warning(s)
+specifying adjunctive use of the measurements;
+(v) Key assumptions made in the calculation and determination of measurements;
+(vi) The measurement performance of the d evice for all presented parameters, with
+appropriate confidence intervals, and the supporting evidence for this performance;
+(vii) A detailed description of the patients studied in the clinical validation
+(e.g., age, gender, race/ethnicity, clinical stability) as well as procedural details of the
+clinical study.
+All special controls listed below h ave been implemented within Us2.ca.
+Performance Data
+Us2.ca was developed and tested in accordance with Us2.ai’s Design Control processes. The 
+device has been subject to extensive safety and performance testing. Non-clinical verification 
+and validation test results established that the device meets its design requirements and 
+intended use. Specifically, software verification was conducted at unit, module, and system 
+integration levels. Risk management analysis generated multiple risk mitigation measures and 
+verification activities. A Cybersecurity Analysis and data security testing were conducted to 
+verify that data and patient protected health information security measures are included in the 
+design of the software. A Human Factors/Usability Engineering study performed according to 
+the principles of AAMI/ANSI HE75 was performed to validate the device’s usability within 
+the intended user population.
+Us2.ca uses a video-based deep-learning approach for CA detection. The model analyzes 
+Apical 4-Chamber (A4C) clips and identifies the presence of CA. The primary objective of the 
+Us2.ca performance test protocol is to validate the performance of Us2.ca, developed for the 
+detection of cardiac amyloidosis in apical four-chamber (A4C) echocardiographic images of 
+adult patients with IVSd or LVPWd ≥ 12mm. The testing data involved two cohorts: Cardiac 
+Amyloidosis Group (CA Group) and Control Group.
+The primary performance metrics were sensitivity and specificity. The benchmark used in 
+deriving the acceptance criteria of Us2.ca was made with reference to current standards of care 
+and existing relevant publications.
+Us2.ca device performance was evaluated in accordance to a retrospective case-control study 
+across various sites in the USA and Japan. Data was obtained using a range of PACS system to
+Eko.ai Pte. Ltd. d/b/a Us2.ai
+510(k) - K250151
+Us2 .ca
+Page 8 of 10
+represent the types of machines used.
+Results for Us2.ca
+Us2.ca was developed using a training dataset co mprising 4,371 patients and externally validated
+on an independent pooled dataset of 1,647 patients. The training and external validation datasets
+were sourced from entirely separate data provi ders, ensuring no overlap and maintaining full
+independence between development and evalua tion. The external validation cohort included a
+demographically and geographically diverse popul ation, collected from six clinical sites across
+the United States and Japan. All echocardiographic studies were retrospectively obtained from
+routine clinical evaluations and provided in standard DICOM format. Ultrasound data were
+obtained from GE, Philips, and Siemens systems t o train the machine lear ning-based software
+device, but the testing data were only obtained from GE and Philips systems.
+Summary Demographic Data:
+Clinical
+Characteristic
+Training Data
+(N=4371)
+Testing Data
+(N=1647)
+CA Cases
+(N=2241)
+Control Cases
+(N=2130)
+CA Cases
+(N=664)
+Control Cases
+(N=983)
+Age, years, n (%)
+<=50 48 (2.1%) 487 (22.9%) 23 (3.5%) 143 (14.5%)
+51-60 138 (6.2%) 384 (18%) 43 (6.5%) 173 (17.6%)
+61-70 454 (20.3%) 445 (20.9%) 136 (20.5%) 225 (22.9%)
+71-80 989 (44.1%) 453 (21.3%) 271 (40.8%) 263 (26.8%)
+>80 612 (27.3%) 357 (16.8%) 186 (28%) 175 (17.8%)
+Not reported 0 (0%) 4 (0.2%) 5 (0.8%) 4 (0.4%)
+Sex, n (%)
+Female 382 (17%) 816 (38.3%) 151 (22.7%) 350 (35.6%)
+Male 1859 (83%) 1314 (61.7%) 508 (76.5%) 631 (64.2%)
+Not reported 0 (0%) 0 (0%) 5 (0.8%) 2 (0.2%)
+Race, n (%)
+African American 260 (11.6%) 140 (6.6%) 240 (36.1%) 315 (32%)
+White 1895 (84.6%) 396 (18.6%) 217 (32.7%) 397 (40.4%)
+Hispanic or
+Latino
+0 (0%) 0 (0%) 5 (0.8%) 0 (0%)
+Asian 86 (3.8%) 1594 (74.8%) 182 (27.4%) 228 (23.2%)
+Others/ Not
+reported
+0 (0%) 0 (0%) 20 (3%) 43 (4.4%)
+Other Clinical Variables
+BMI, kg/m2, mean
+±S D
+26.3±4.0 26.3±5.6 25.8±5.3 29.1±7.4
+Subgroup analyses were conducted across key variables including age, sex, race, ultrasound
+vendor, and clinical site, which met the acceptanc e criteria. Us2.ca performance analysis was
+conducted at the patient level; therefore, th e number of samples is equal to the number of
+patients.
+Results for Us2.ca:
+When tested on a total of 1647 patients, Us2.ca was able to generate a confident prediction for
+1434 patients (CA group: 574 patients; Controls group: 860 patients), in which Us2.ca

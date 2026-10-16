@@ -1,0 +1,485 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+August 16, 2026 
+ 
+Lucida Medical, Ltd. 
+Toby Davis 
+VP of Engineering 
+Future Business Centre 
+King's Hedges Rd. 
+Cambridge, CB4 2HY 
+United Kingdom 
+ 
+Re:  K253794 
+Trade/Device Name: Prostate CoreTM 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  June 15, 2026 
+Received:  June 15, 2026 
+ 
+Dear Toby Davis: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+
+K253794 - Toby Davis Page 
+ 
+2 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+K253794 - Toby Davis Page 
+ 
+3 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+for 
+Daniel M. Krainak, Ph.D 
+Assistant Director 
+DHT8C: Division of Radiological 
+    Imaging and Radiation Therapy Devices 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+NINGZHI LI -S Digitally signed by NINGZHI LI -S
+
+1 
+510(K) Summary 
+Date of summary: 5th August 2026 
+Submitter’s name: Lucida Medical Ltd 
+Submitter’s address: Lucida Medical Ltd, Future Business Centre, King’s Hedges 
+Road, Cambridge. CB4 2HY. United Kingdom 
+Submitter’s contact: Toby Davis 
+Telephone number: +44-1223-921904
+Device Proprietary Name: Prostate Core™ 
+Device Common Name(s): Medical image management and processing system 
+Classification Name: Class II 
+Product Code: QIH 
+Regulation No: 21 C.F.R. §892.2050 
+Classification Panel: Radiology Devices 
+Prostate Core is Substantially Equivalent to the following Legally Marketed device: 
+Legally Marketed Predicate Devices 
+510(k) Number Trade Name Manufacturer Product Code 
+K203582 qp-Prostate Quibim S.L LLZ 
+Device Description 
+Prostate Core™ is a software-only medical device intended for the automated segmentation 
+and volumetric measurement of the prostate gland from prostate magnetic resonance 
+imaging (MRI) data.  
+Prostate Core™ uses a deep learning–based algorithm to automatically segment the entire 
+prostate gland from DICOM-formatted MRI studies and to calculate the corresponding gland 
+volume. The algorithm is based on a convolutional neural network architecture that operates 
+on image data to generate segmentation outputs. The model is a locked algorithm that does 
+not adapt or learn from new data during clinical use. Model development included training 
+and validation on independent, multi-center datasets with expert radiologist annotations, 
+and the final model is fixed at the time of release. 
+Prostate Core™ supports prostate MRI studies acquired on 1.5T and 3T scanners from major 
+K253794
+2 
+ 
+ 
+manufacturers (e.g., Siemens, GE Healthcare, Philips) using acquisition protocols consistent 
+with PI-RADS v2.1. Prostate Core ™ is not patient-contacting and does not include any 
+hardware components or accessories. The device operates as an image processing tool and 
+does not perform computer-aided detection (CADe) or computer-aided diagnosis (CADx). It 
+does not analyze, score, or characterize lesions, nor does it generate heatmaps or lesion-
+specific outputs. 
+Prostate Core™ is designed to be integrated into the clinical imaging workflow and does not 
+include a graphical user interface. Outputs are viewed via the healthcare facility’s Picture 
+Archiving and Communication System (PACS) or other image management platforms. 
+Following processing, the segmentation mask and volumetric data are exported in 
+standardized DICOM formats (including DICOM-SEG and RTSTRUCT) to the PACS or other 
+designated systems for storage, review, and subsequent clinical interpretation by 
+appropriately trained healthcare professionals. 
+Prostate Core ™ uses a modular, pipeline-based architecture developed in Python 3, 
+employing industry-standard libraries for medical imaging and AI inference, including 
+PyTorch.  
+Prostate Core™ is deployed on-premises, on a hospital server connected to the local imaging 
+network. 
+Prostate Core™ includes the following key components: 
+1. Data Loading Module: Receives and validates DICOM-formatted MRI input data and 
+allows specification of relevant MRI sequences (T2 axial, ADC axial, high B-value axial) 
+as required by varying site protocols. 
+2. Segmentation Module: Applies a validated deep learning algorithm to generate a 
+whole-gland prostate segmentation. 
+3. Volume Calculation Module: Computes the prostate gland volume (in milliliters) 
+derived from the segmentation mask  
+4. Export Module: Converts the segmentation and volumetric data into standardized 
+DICOM outputs for transfer to the PACS or compatible imaging systems. 
+Inputs: any DICOM-compliant prostate MRI data that meets PI-RADS v2.1 imaging standards. 
+Output: DICOM-SEG and RTSTRUCT files containing segmentation masks and volumetric 
+measurements, fully compatible with common PACS and radiology workstations. 
+Technological Characteristics 
+Prostate Core™ is a software-only medical device that performs automated segmentation and 
+volumetric quantification of the prostate from T2-weighted MRI images. Prostate Core ™ 
+utilizes a supervised deep learning algorithm based on a convolutional neural network 
+architecture to generate voxel-level probability maps that are converted into a binary 
+prostate segmentation. The processing pipeline includes image pre-processing and post-
+3 
+ 
+ 
+processing steps to improve segmentation consistency and reduce false positives. 
+Prostate Core™ receives DICOM-format MRI data via standard DICOM networking interfaces 
+and outputs DICOM-compliant segmentation objects (e.g., DICOM SEG, RTSTRUCT) and 
+structured reports, including prostate volume measurements. The software is deployed 
+within a healthcare provider network environment and interfaces with PACS or other 
+designated DICOM systems for data input and output. The device does not modify original 
+images and does not retain patient data after processing. The algorithm has been trained and 
+validated using multi-center datasets with expert radiologist consensus annotations, and 
+performance has been evaluated using established quantitative metrics for segmentation 
+accuracy and volumetric agreement, consistent with similar automated image analysis 
+devices. 
+Indications for Use 
+Prostate Core ™ is a software medical device intended for automatic segmentation and 
+volumetric quantification of the prostate. Prostate Core ™ is intended to be used by trained 
+healthcare professionals as an aid to reading/assessing prostate MRI images of adult males 
+aged 22 or over. Prostate Core™ is not intended as a replacement for clinical review or of the 
+judgement of healthcare professionals.  The software does not modify the original medical 
+images and does not provide a direct diagnosis. 
+ 
+Prostate Core™ is not intended for patients: 
+ who received a prostate biopsy within 6 weeks before the MRI examination 
+ with prior prostate or urethral treatment or surgery that substantially affects the 
+prostate gland 
+ whose MRI scan quality is severely impaired, for example by patient motion, 
+breathing, peristaltic motion, rectal gas, or metallic implants such as hip prostheses 
+ where a radiologist considers that the MRI examination is not of diagnostic quality 
+ with MRI examinations that substantially deviate from PI-RADS®v2.1 scanning 
+protocols 
+ whose MRI images have been captured using an endo-rectal coil. 
+4 
+ 
+ 
+Substantial Equivalence Discussion 
+ 
+The subject device and the predicate device, qp-Prostate (K203582), are both Class II, 
+software-only PACS tools intended for the processing of prostate MR images and adjunctive 
+information for review by trained healthcare professionals. Neither device is intended for 
+diagnostic use or as a stand-alone clinical decision support system. Both use DICOM MRI 
+inputs, integrate with PACS, and output quantitative data for radiologist interpretation. 
+ 
+There are important differences between the subject device and the predicate device. 
+ 
+The subject device is limited to automated prostate segmentation and volumetric 
+measurement, whereas the predicate also provides perfusion/diffusion analysis and 
+structured reporting. This difference does not introduce any new or different type of risk as 
+the subject device offers a subset of the predicate functionality, limiting the complexity and 
+the risks associated with the additional functionality. 
+ 
+The predicate device (qp-Prostate (K203582)) includes a user interface and features to enable 
+visualization, editing and review of segmentation results, while the subject device exports 
+segmentation outputs directly to PACS or or other designated DICOM system, without a 
+dedicated GUI. The absence of a GUI is a workflow choice that simplifies integration into 
+existing PACS environments and is accompanied by suitable labeling to ensure that output 
+segmentations are reviewed prior to onward use. This design reflects a workflow 
+configuration difference rather than a difference in intended use or risk profile. Appropriate 
+labeling ensures that segmentation outputs are reviewed by qualified healthcare 
+professionals prior to clinical use. 
+ 
+Both subject and predicate devices are standalone software devices which process DICOM 
+compliant MR images and output prostate segmentation and quantitative volumetric results. 
+ 
+A technical difference: The subject device uses a deep learning–based algorithm for automatic 
+whole-gland segmentation while the predicate device uses automated prostate segmentation 
+techniques. Despite this technological difference, both devices perform the same 
+fundamental clinical task and produce equivalent types of outputs.  
+ 
+The performance of the subject device has been validated against expert reference standards 
+using established quantitative metrics, demonstrating accuracy within clinically acceptable 
+limits for adjunctive use. This technical difference does not raise new questions of safety or 
+effectiveness. Automated segmentation of anatomical structures from MRI data is a well-
+established methodology, and the performance of the subject device has been validated 
+against expert manual segmentation reference standards using accepted quantitative 
+metrics, including Dice similarity coefficient and volumetric error analysis. 
+ 
+Validation studies demonstrate that the subject device achieves clinically acceptable accuracy 
+for prostate segmentation and volumetric measurement. Performance testing was conducted 
+using multi-vendor MRI datasets and compared against independently generated expert 
+manual segmentations. Results demonstrate that the device performs reliably within clinically 
+5 
+ 
+ 
+acceptable limits for adjunctive use. 
+ 
+Therefore, although technological differences exist, these differences do not introduce new 
+questions of safety or effectiveness. The subject device is as safe and effective as the 
+predicate device qp-Prostate (K203582) and is substantially equivalent 
+ 
+ 
+Feature Subject Device ( Prostate 
+Core™) 
+Predicate Device (qp -Prostate, 
+K203582, LLZ) 
+Regulation / Product 
+Code 
+21 CFR 892.2050, PACS, 
+Class II, QIH 
+21 CFR 892.2050, PACS, Class II, LLZ 
+Intended Use / 
+Indications 
+Automated segmentation 
+and volumetric 
+measurement of the 
+prostate gland from MRI; 
+adjunctive, not diagnostic; 
+reviewed by qualified 
+professionals. 
+Image viewing, processing, and 
+analysis of prostate MRI; includes 
+ADC and perfusion maps, 
+segmentation, structured reporting; 
+adjunctive, not diagnostic. 
+Inputs DICOM-formatted 
+prostate MRI (1.5T/3T, PI-
+RADS v2.1 compliant). 
+DICOM prostate MRI (T2 + DWI 
+and/or DCE). 
+Outputs DICOM-SEG and RTSTRUCT 
+prostate masks and gland 
+volume (ml), DICOM 
+reports including 
+Structured Reports 
+ADC and perfusion maps, 
+segmentation masks, structured 
+reports. 
+Segmentation 
+Method 
+Deep learning AI for 
+whole-gland 
+segmentation. 
+Automated prostate segmentation 
+algorithm. 
+Automation Fully automatic; no manual 
+interaction. 
+Automated but allows user 
+verification/editing. 
+User Interface None; outputs only to 
+PACS or other designated 
+DICOM systems. 
+Web-based viewer, structured 
+reporting GUI. 
+Workflow 
+Integration 
+On-premises server 
+encrypted DICOM transfer; 
+outputs routed to PACS or 
+other designated DICOM 
+systems. 
+On-premises client-server model; 
+PACS query/retrieve; browser access 
+6 
+ 
+ 
+Performance Data Validated on multi -vendor 
+MRI datasets; metrics 
+include Dice coefficient 
+and volumetric error. 
+Validated on prostate MR datasets; 
+compared against Olea Sphere. 
+ 
+Performance Data 
+The following performance data were provided in support of this submission. 
+ 
+Software Verification and Validation Testing 
+Non-clinical software verification and validation testing was conducted in accordance with a 
+defined software development lifecycle consistent with IEC 62304 and ISO 14971. Testing 
+demonstrated that the device meets its software system requirements, product 
+requirements, and user needs. 
+ 
+Verification activities included unit, integration, and system-level testing. System-level 
+testing was performed in a representative healthcare IT environment and included end-to-
+end validation of device operation from data input through to output generation. 
+ 
+Testing included: 
+ 
+ DICOM data handling and interoperability testing, including receipt of input MRI 
+studies from PACS systems and transmission of output segmentation results (e.g., 
+DICOM-SEG, RTSTRUCT) to external systems. 
+ Data validation and error handling, including rejection of incomplete, invalid, or non-
+DICOM inputs and verification of safe system behavior in these scenarios. 
+ Configuration and workflow testing, including verification of correct routing of 
+outputs to configured destinations. 
+ Algorithm integration testing, confirming correct execution of the processing 
+pipeline and generation of segmentation and volumetric outputs. 
+Cybersecurity and Network Communication Testing 
+Cybersecurity-related verification activities were conducted to ensure secure handling of 
+patient data and protection of device functionality within a networked environment. Testing 
+included: 
+ 
+ Verification of secure data transmission, including Transport Layer Security (TLS) 
+implementation for DICOM communication 
+ Validation of system behaviour under secure and non-secure configurations, 
+including appropriate handling of configuration settings 
+ Assessment of data integrity protections, ensuring that input data is validated prior 
+to processing and that outputs are not generated from invalid or incomplete data 
+ Verification of system behaviour under fault conditions, including network 
+interruption and communication failure scenarios 
+7 
+ 
+ 
+Bench (non-Clinical) and System Testing 
+For this software-only device, bench testing consists of non-clinical system and 
+interoperability testing performed using representative datasets and simulated clinical 
+workflows. 
+ 
+Testing includes end-to-end processing of prostate MRI studies from input through 
+segmentation and output generation, verification of compatibility with multi-vendor MRI 
+data (e.g., Siemens, GE Healthcare, Philips), validation of output formats (DICOM-SEG, 
+RTSTRUCT, structured reports) for compatibility with standard PACS systems and verification 
+of system performance across a range of imaging conditions and acquisition parameters 
+ 
+These testing activities demonstrate that the device performs as intended within its 
+operating environment and that risks associated with interoperability, data handling, and 
+network communication are appropriately controlled. 
+Stand-alone Performance Testing 
+No prospective clinical study was conducted to support this submission. Clinical 
+performance was established through non-clinical evaluation using retrospectively collected 
+clinical imaging data. The level of evidence is consistent with an observational study using 
+retrospectively collected clinical imaging data and a reference standard derived from expert 
+radiologist consensus. 
+ 
+The device was evaluated using independent, multi-center datasets of T2-weighted prostate 
+MRI studies representative of the intended use population, including variation in scanner 
+types, imaging protocols, and patient characteristics. Ground truth segmentations were 
+established using consensus annotations from multiple expert radiologists with relevant 
+subspecialty expertise. 
+ 
+Performance was assessed using established quantitative metrics for medical image 
+segmentation, including Dice similarity coefficient (DSC), mean surface distance (MSD), and 
+relative absolute volume error (RAVE). Results from both internal testing and independent 
+external validation datasets demonstrated that predefined acceptance criteria were met for 
+segmentation accuracy and volumetric agreement, supporting the device’s performance as 
+an aid to the assessment of prostate MRI. 
+AI/ML Algorithm Validation and Performance 
+The device incorporates a locked, supervised deep learning algorithm for automated 
+prostate segmentation and volumetric quantification. The algorithm was developed using 
+annotated prostate MRI datasets. The final model is fixed at release and does not perform 
+continuous or adaptive learning in the field. 
+Training Data: 
+The algorithm was trained using a multi-source dataset comprising public and proprietary 
+data, including PROSTATEx, PAIR-1, PRIME, and U.S. clinical datasets. Training included 775 
+cases, all with expert-annotated prostate segmentations. 
+8 
+ 
+ 
+ 
+Validation Data and Study Design: 
+Performance validation was conducted using independent datasets not used in model 
+development, ensuring separation between training and test data. Evaluation included: 
+ Internal testing dataset: 70 patients  
+ External validation dataset: 100 patients  
+ Total validation population: 170 patients  
+The study design is consistent with a retrospective observational study using independently 
+collected clinical imaging data. 
+Ground truth was established using consensus annotations from three expert radiologists, 
+with voxel-wise agreement used to define the reference standard.  
+Dataset Characteristics: 
+The validation datasets were designed to be representative of the intended use population 
+and clinical imaging conditions, including: 
+ Age: Mean ~66–67 years (range ≥42 years)  
+ Sex: Male patients (consistent with prostate imaging population)  
+ Ethnicity/Race: Includes White/Caucasian, Black/African American, Hispanic/Latino, 
+and cases with unavailable ethnicity data  
+ Geographic distribution: Multi-site data from the United States and United Kingdom  
+ Clinical subgroups: PIRADS categories (1–5)  
+ Scanner manufacturers: Siemens, GE Healthcare, Philips  
+ Magnetic field strength: 1.5T and 3T  
+ Other variables:  BMI, site type (academic and community), and imaging protocol 
+variability 
+All validation datasets were independent of the development and training datasets and were 
+not accessible to the algorithm development team during model development or training. 
+External validation data were held out specifically for regulatory performance evaluation. 
+Imaging Protocols: 
+All cases consisted of T2-weighted prostate MRI  acquired using standard clinical protocols 
+consistent with PI-RADS v2.1 recommendations. Imaging parameters included: 
+ In-plane resolution ≤ 0.8 mm  
+ Slice thickness ≤ 4 mm  
+ Whole prostate coverage  
+ Multi-vendor and multi-site acquisition 

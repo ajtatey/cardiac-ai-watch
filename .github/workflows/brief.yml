@@ -1,0 +1,45 @@
+name: Morning brief
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 11:00 UTC = 7am EDT / 6am EST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cardiac-ai-watch-store
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Compose and send the brief
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_TO: ${{ vars.EMAIL_TO }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m watch brief
+
+      - name: Commit
+        run: |
+          git config user.name "cardiac-ai-watch[bot]"
+          git config user.email "cardiac-ai-watch@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "brief: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1

@@ -1,0 +1,400 @@
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue  D o c  I D #  0 4 0 1 7 . 07 . 0 3  
+Silver Spring, MD 20993  
+www.fda.gov 
+Circle Cardiovascular Imaging Inc. 
+Omar Naimi 
+Regulatory Affairs Analyst 
+Suite 1800, 707 8 Avenue SW 
+Calgary, AB T2P 1H5 
+Canada 
+Re:  K242781 
+Trade/Device Name: cvi42 Software Application 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH, LLZ 
+Dated:  September 13, 2024 
+Received:  September 16, 2024 
+Dear Omar Naimi: 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+October 15, 2024
+K242781 - Omar Naimi Page 2 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part 
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming 
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a 
+change requires premarket review, the QS regulation requires device manufacturers to review and approve 
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and 
+approvals in the device master record (21 CFR 820.181).  
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart 
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K242781 - Omar Naimi Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+
+cvi42 510(k) Summary 
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 1 of 14 
+The following 510(k) summary of safety and effectiveness information is submitted in accordance 
+with the requirements of the Safe Medical Device Act 1990 and 21 CFR 807.92(c). 
+I. S
+UBMITTER
+S
+ubmitter’s Name:  Circle Cardiovascular Imaging, Inc. 
+Address:  Suite 1800 – 707 8th Ave SW, Calgary, AB, Canada, T2P 1H5 
+Date Prepared:  October 11 2024 
+Telephone Number: +1 587-686-0784
+Contact Person : Omar Naimi
+Email:  omar.naimi@circlecvi.com
+II. D
+EVICE
+510(
+k):  K242781 
+Name of the Device: cvi42 Software Application 
+Short Brand Name: cvi42 
+Common or Usual Name: Automated Radiological Image Processing Software 
+Classification Name: Medical image management and processing system 
+Proposed Classification: Device Class: II 
+Product Codes: QIH, LLZ 
+Regulation Number: 21 CFR 892.2050 
+III. P
+REDICATE DEVICE
+The pr
+imary predicate is  cmr42 under K082628, and the additional predicates are ct42 under 
+K111373, cvi42 vascular add-on under K141480, cvi42 Auto under K213998, Strain Module under 
+232661, and CT Function under 241038. Each of the predicate devices are manufactured by 
+Circle Cardiovascular Imaging Inc. 
+The pr
+edicate devices have not been subject to a design-related recall. 
+K242781
+cvi42 510(k) Summary 
+ 
+Circle Cardiovascular Imaging Inc.                 Non-Confidential Page 2 of 14 
+ 
+IV. DEVICE DESCRIPTION 
+ 
+cvi42 Software Application (“cvi42”) is a software as a medical device (SaMD) that is intended for 
+evaluating CT and MR images of the cardiovascular system. Combining digital image processing, 
+visualization, quantification, and reporting tools, cvi42 is designed to support physicians  in the 
+evaluation and analysis of cardiovascular imaging studies.  
+cvi42 uses machine learning techniques to aid in semi-automatic contouring of regions of interest 
+in cardiac MR or CT images.  
+The data used to train these machine learning algorithms were sourced from multiple clinical sites 
+from urban centers and from different countries. When selecting data for training, the importance 
+of model generalization was considered and data was selected such that a good distribution of 
+patient demographics, scanner, and image parameters were represented. The separation into 
+training versus validation datasets is made on the study level to ensure no overlap between the 
+two sets. As such, different scans from the same study were not split between the training and 
+validation datasets. None of the cases used for model validation were used for training the 
+machine learning models.  
+cvi42 has a graphical user interface which allows users to analyze cardiac MR & CT images 
+qualitatively and quantitatively.  
+cvi42 accepts uploaded data files previously acquired by MR or CT scanners or other data 
+collection equipment but does not interface directly with such equipment. Its functionality is 
+independent of the type of vender acquisition equipment. The analysis results are available on -
+screen and can be saved with the software for future review.   
+cvi42 510(k) Summary 
+ 
+Circle Cardiovascular Imaging Inc.                 Non-Confidential Page 3 of 14 
+ 
+Table 1. Measurements in cvi42. 
+Measurement [units] Description Application 
+Distance [mm] Length between two points, for both 
+curved lines (splines) and straight lines, 
+including the diameter (including min, 
+max, average) resulting from closed 
+splines and depth 
+Diameter & depth of cardiovascular 
+structures of interest 
+Perimeter [mm] The perimeter of a contour (closed spline) Perimeter of cardiovascular structures of 
+interest 
+Area [cm2] The area within contour(s) Area of cardiovascular structures of interest 
+Signal intensity [HU] 
+(modality CT) / Intensity 
+[unitless] (modality MR) 
+Modality CT: Hounsfield value (in 
+Hounsfield Units, HU) of the underlying 
+pixels 
+Modality MR: Intensity / shade of grey 
+(high, intermediate, low) of underlying 
+pixels 
+Intensity of pixels in cardiovascular 
+structures of interest 
+Volume [mm3 or mL] The volume within contour(s) Volume of cardiovascular structures of 
+interest 
+Coordinates [mm, mm, mm] Location in the x-, y-, and z-planes of a 
+point 
+Coordinates of points of interest on a 3D 
+rendering, for export purposes 
+Mass [g] The mass within contour(s) Mass of cardiovascular structures of interest 
+Displacement [mm or 
+degree] 
+The displacement vector represents the 
+position of a point with respect to the 
+position of that point in the reference (end 
+diastole) phase. 
+Strain within cardiovascular structures of 
+interest (e.g., myocardium) 
+Agatston Score [HU] Industry-standard measure for coronary 
+calcium based on volume and intensity of 
+calcified plaque 
+For assessing overall calcified plaque 
+burden in coronary arteries. 
+Angle [degrees] The angle of an object/structure of 
+interest 
+Angle between two lines of interest 
+Stenosis [%] The narrowing of a vessel in area or 
+diameter compared to a normal reference 
+location 
+For measuring an abnormal narrowing in an 
+artery 
+Velocity [mL/min or cm/s] The velocity of moving objects within 
+contour(s) 
+Velocity within cardiovascular structures of 
+interest (e.g., blood flow) 
+Strain [%] Strain is a measure of the deformation in 
+shape and dimension of the heart muscle 
+during the cardiac cycle. 
+Strain within cardiovascular structures of 
+interest (e.g., myocardium) 
+cvi42 510(k) Summary 
+ 
+Circle Cardiovascular Imaging Inc.                 Non-Confidential Page 4 of 14 
+ 
+Strain Rate [1/s] Derivative of strain with respect to time Strain within cardiovascular structures of 
+interest, as above 
+Time to Peak [ms] Trigger time elapsed from the first phase 
+till the phase where the peak strain has 
+been reached. 
+Strain within cardiovascular structures of 
+interest, as above 
+Torsion [degree/cm] The difference in rotation between the 
+apical and basal slices divided by the 
+apical and basal slices. Note 
+circumferential displacement represents 
+an angle. 
+Strain within cardiovascular structures of 
+interest, as above 
+End Diastolic Volume [mL] LV/RV cavity volume at the phase 
+defined as the ED 
+Calculated clinical data for LV/RV 
+End Systolic Volume [mL] LV/RV cavity volume at the phase 
+defined as the ES 
+Calculated clinical data for LV/RV 
+Stroke Volume [mL] Stroke volume is the volume of blood 
+pumped out of the LV/RV during each 
+cardiac contraction and is represented by 
+the difference of EDV and ESV. 
+Calculated clinical data for LV/RV 
+Ejection Fraction [%] Ejection fraction is measured as a 
+percentage of the total amount of blood in 
+LV/RV that is pumped out with each 
+cardiac cycle. It is calculated by dividing 
+the SV by EDV. 
+Calculated clinical data for LV/RV 
+Cardiac Output [L/min] Cardiac output is the amount of blood 
+pumped by the heart in a minute and is 
+calculated by multiplying the SV with 
+heart rate per minute. 
+Calculated clinical data for LV/RV 
+Cardiac Index [L/min/m2] Cardiac index is a hemodynamic 
+parameter that relates the CO from LV in 
+one minute to BSA and is obtained by 
+dividing the CO by BSA. 
+Calculated clinical data for LV 
+End Diastolic Mass [g] LV myocardial mass at the phase defined 
+as the ED and is calculated by multiplying 
+the myocardial volume in ED phase with 
+myocardial density (1.05 g/ml). 
+Calculated clinical data for LV 
+End Systolic Mass [g] LV myocardial mass at the phase defined 
+as the ES and is calculated by multiplying 
+the myocardial volume in ES phase with 
+myocardial density (1.05 g/ml). 
+Calculated clinical data for LV 
+Body Surface Area [m2] The total surface area of the body Surface area of the patient body used in 
+medical indicators or assessments 
+cvi42 510(k) Summary 
+ 
+Circle Cardiovascular Imaging Inc.                 Non-Confidential Page 5 of 14 
+ 
+ 
+V. INTENDED USE / INDICATIONS FOR USE  
+ 
+Intended Use 
+cvi42 is intended to be used by qualified medical professionals for viewing, post-processing and 
+quantitative evaluation of cardiovascular magnetic resonance (MR)  images and cardiovascular 
+computed tomography (CT) images in a Digital Imaging and  Communications in Medicine 
+Standard format, for the purpose of obtaining diagnostic  information as part of a comprehensive 
+diagnostic decision-making process  
+Indications for Use 
+cvi42 is intended to be used for viewing, post-processing, qualitative and quantitative evaluation 
+of cardiovascular magnetic resonance (MR) images and computed tomography (CT) images in a 
+Digital Imaging and Communications in Medicine (DICOM) Standard format. 
+ 
+It enables: 
+• Importing cardiac MR & CT Images in DICOM format. 
+• Supporting clinical diagnostics by qualitative analysis of cardiac MR & CT images using 
+display functionality such as panning, windowing, zooming, navigation through 
+series/slices and phases, 3D reconstruction of images including multiplanar 
+reconstructions of the images. 
+• Supporting clinical diagnostics by quantitative measurement of the heart and adjacent 
+vessels in cardiac MR & CT images, specifically signal intensity, distance, area, volume, 
+and mass.   
+• Supporting clinical diagnostics by using area and volume for measuring cardiac function 
+and derived parameters cardiac output and cardiac index in long axis and short axis 
+cardiac MR & CT images.  
+• Flow quantifications based on velocity encoded cardiac MR images (including two and 
+four dimensional flow analysis). 
+• Strain analysis of cardiac MR images by providing measurements of 2D LV myocardial 
+function (displacement, velocity, strain, strain rate, time to peak, and torsion).  
+• Supporting clinical diagnostics of cardiac CT images including quantitative 
+measurements of calcified plaques in the coronary arteries (calcium scoring), specifically 
+Agatston and volume and mass calcium scores, visualization and quantitative 
+measurement of heart structures including coronaries, femoral, aortic, and mitral valves. 
+• Evaluating CT and MR images of blood vessels. Combining digital image processing 
+and visualization tools such as multiplanar reconstruction (MPR), thin/thick maximum 
+intensity projection (MIP), inverted MIP thin/thick, volume rendering technique (VRT), 
+curved planar reformation (CPR), processing tools such as bone removal (based on both 
+single energy and dual energy) table removal and evaluation tools (vessel centerline 
+calculation, lumen calculation, stenosis calculation) and reporting tools (lesion location, 
+lesion characteristics) and key images. The software package is designed to support the 
+cvi42 510(k) Summary 
+ 
+Circle Cardiovascular Imaging Inc.                 Non-Confidential Page 6 of 14 
+ 
+physician in confirming the presence or absence of physician identified lesion in blood 
+vessels and evaluation, documentation and follow up of any such lesions.  
+ 
+cvi42 shall be used by qualified medical professionals, experienced in examining and evaluating 
+cardiovascular MR or CT images, for the purpose of obtaining diagnostic information as part of a 
+comprehensive diagnostic decision- making process. cvi42 is a software application that can be 
+used as a stand-alone product or in a networked environment. 
+ 
+The target population for cvi42 and its manual workflows is not restricted; however, cvi42’s semi-
+automated machine learning algorithms, included in the MR Function and CORE CT modules, 
+are intended for an adult population. Further, image acquisition by a cardiac MR or CT scanner 
+may limit the use of the software for certain sectors of the general public. 
+ 
+cvi42 shall not be used to view or analyze images of any part of the body except the cardiac 
+images acquired from a cardiovascular magnetic resonance or computed tomography scanner. 
+ 
+VI. COMPARISON WITH PREDICATE DEVICE 
+ 
+The detailed analysis of the subject device and the predicate device (shown in Table 2 and Table 
+3) demonstrates that the subject device is substantially equivalent in indications for use / intended 
+use, technological characteristics, functionality, and operating principles with the  predicates 
+(K092628, K111373, K141480, K213998, K232661, and K241038).  Of the three characteristics 
+(technical, biological, and clinical) required for the demonstration of equivalence, biological 
+characteristics are not applicable since both the subject device and predicate device are software 
+as a medical device application with no tangible component interfacing with the body. 
+ 
+ 
+cvi42 510(k) Summary 
+ 
+Circle Cardiovascular Imaging Inc.                 Non-Confidential Page 7 of 14 
+ 
+Table 2. Subject Device Intended Use / Indications for Use  
+ Subject Device 
+cvi42 Software Application (K242781) 
+Manufactured by Circle  
+Intended Use cvi42 is intended to be used by qualified medical professionals for viewing, post-processing and quantitative evaluation of cardiovascular magnetic resonance (MR)  images and cardiovascular computed tomography (CT) images in a Digital Imaging 
+and  Communications in Medicine Standard format, for the purpose of obtaining diagnostic  information as part of a comprehensive diagnostic decision-making process  
+Indications for Use cvi42 is intended to be used for viewing, post -processing, qualitative and quantitative evaluation of cardiovascular magnetic resonance (MR) images and computed tomography (CT) images in a Digital Imaging and Communications in Medicine 
+(DICOM) Standard format. 
+ 
+It enables: 
+• Importing cardiac MR & CT Images in DICOM format. 
+• Supporting clinical diagnostics by qualitative analysis of cardiac MR & CT images using display functionality such as panning, windowing, zooming, navigation through series/slices and phases, 3D reconstruction of images including 
+multiplanar reconstructions of the images. 
+• Supporting clinical diagnostics by quantitative measurement of the heart and adjacent vessels in cardiac MR & CT images, specifically signal intensity, distance, area, volume, and mass.   
+• Supporting clinical diagnostics by using area and volume for measuring cardiac function and derived parameters cardiac output and cardiac index in long axis and short axis cardiac MR & CT images.  
+• Flow quantifications based on velocity encoded cardiac MR images (including two and four dimensional flow analysis).  
+• Strain analysis of cardiac MR images by providing measurements of 2D LV myocardial function (displacement, velocity, strain, strain rate, time to peak, and torsion).  
+• Supporting clinical diagnostics of cardiac CT images including quantitative measurements of calcified plaques in the coronary arteries (calcium scoring), specifically Agatston and volume and mass calcium scores, visualization and 
+quantitative measurement of heart structures including coronaries, femoral, aortic, and mitral valves. 
+• Evaluating CT and MR images of blood vessels. Combining digital image processing and visualization tools such as multiplanar reconstruction (MPR), thin/thick maximum intensity projection (MIP), inverted MIP thin/thick, volume 
+rendering technique (VRT), curved planar reformation (CPR), processing tools such as bone removal (based on both single energy and dual energy) table remov al and evaluation tools (vessel centerline calculation, lumen calculation, 
+stenosis calculation) and reporting tools (lesion location, lesion characteristics) and key images. The software package is designed to support the physician in confirming the presence or absence of physician identified lesion in blood 
+vessels and evaluation, documentation and follow up of any such lesions.  
+ 
+cvi42 shall be used by qualified medical professionals, experienced in examining and evaluating cardiovascular MR or CT images, for the purpose of obtaining diagnostic information as part of a comprehensive diagnostic decision- making process. 
+cvi42 is a software application that can be used as a stand-alone product or in a networked environment. 
+ 
+The target population for cvi42 and its manual workflows is not restricted; however, cvi42’s semi -automated machine learning algorithms, included in the MR Function and CORE CT modules, are intended for an adult population. Further, image 
+acquisition by a cardiac MR or CT scanner may limit the use of the software for certain sectors of the general public. 
+ 
+cvi42 shall not be used to view or analyze images of any part of the body except the cardiac images acquired from a cardiovas cular magnetic resonance or computed tomography scanner. 
+ 
+ 
+ 
+ 
+ 
+ 

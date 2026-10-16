@@ -1,0 +1,359 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 2, 2026 
+ 
+Koios Medical, Inc. 
+Michael Bocchinfuso 
+Director of Regulatory Compliance and Quality 
+242 W. 38th St. 
+14th Floor 
+New York, New York 10018 
+ 
+ 
+Re:  K253884 
+Trade/Device Name: Koios DS (3.8) 
+Regulation Number:  21 CFR 892.2060 
+Regulation Name:  Radiological Computer-Assisted Diagnostic Software For Lesions Suspicious Of 
+Cancer 
+Regulatory Class:  Class II 
+Product Code:  POK, QIH 
+Dated:  June 4, 2026 
+Received:  June 4, 2026 
+ 
+Dear Michael Bocchinfuso: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+
+K253884 - Michael Bocchinfuso Page 
+ 
+2 
+ 
+FDA's substantial equivalence determination also included the review and clearance of your Predetermined 
+Change Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not 
+required for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an 
+established PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new 
+premarket notification is required if there is a major change or modification in the intended use of a device, 
+or if there is a change or modification in a device that could significantly affect the safety or effectiveness of 
+the device, e.g., a significant change or modification in design, material, chemical composition, energy 
+source, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major 
+change or modification in the intended use of the device, or result in a change or modification in the device 
+that could significantly affect the safety or effectiveness of the device, then a new premarket notification 
+would be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit 
+such a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and 
+502(o) of the Act, respectively. 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+K253884 - Michael Bocchinfuso Page 
+ 
+3 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+DHT8B: Division of Radiological Imaging 
+Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+      
+510(k) Summary 
+ 
+This 510(k) summary of substantial equivalence information is submitted as part of the Premarket Notification in accordance with the 
+requirements of 21 CFR Part 807, Subpart E and Section 807.92. 
+ 
+1. Identification of Submitter: 
+ 
+Submitter:   Koios Medical, Inc. 
+Address:   242 West 38th Street, 14th Floor 
+New York, NY 10018 
+Phone:    732-529-5755 
+Fax:    732-529-5757 
+Contact:   Michael Bocchinfuso 
+Title:    Director of Regulatory Compliance and Quality 
+Phone:    732-529-5755 
+Fax:    732-529-5757 
+Summary Date:   November 5, 2025 
+ 
+2. Identification of Product: 
+ 
+Trade Name:  Koios DS (3.8) 
+ 
+Device Common Name:   Radiological Computer-Assisted Diagnostic Software 
+Device Classification:   21 CFR 892.2060, Class II, POK (primary) 
+21 CFR 892.2050, Class II, QIH (secondary) 
+  
+Classification Name:   Radiological Computer-Assisted Diagnostic Software (CADx) for  
+Lesions Suspicious for Cancer       
+ 
+Manufacturer:    Koios Medical, Inc. 
+ 
+3. Marketed Devices 
+ 
+In terms of safety and performance, this software medical device is substantially equivalent to the devices listed below:  
+K253884
+2 
+ 
+                
+ 
+Predicate device:   Koios DS  
+Manufacturer:    Koios Medical, Inc. 
+510(k) Number:   K242130 
+ 
+4. Device Description 
+Koios Decision Support (DS) is a software application designed to assist trained interpreting physicians in analyzing breast and thyroid ultrasound 
+images. The software device is a web application that is deployed to a Microsoft IIS web server and accessed by a user through a compatible 
+client. Once logged in and granted access to the Koios DS application, the user examines selected breast or thyroid ultrasound DICOM images. 
+The user selects Regions of Interest (ROIs) of orthogonal views of a breast lesion or thyroid nodule for processing by Koios DS. The ROI(s) are 
+transmitted electronically to the Koios DS server for image processing and the results are returned to the user for review.  
+Breast Functionality: 
+Koios DS software automatically classifies breast lesions suspicious for cancer based on image data into one of four ACR BI-RADS® Atlas[1] or 
+European U1-U5 Classification System-aligned categories (Benign, Probably Benign, Suspicious or Indeterminate, or Probably Malignant) and also 
+displays a continuous graphical Confidence Level Indicator depicting where the lesion falls within its respective category and its relation to 
+neighboring categories. The software automatically classifies the shape (Round, Oval, Irregular) and orientation (Parallel, Not Parallel) of the 
+selected lesion. 
+Thyroid Functionality: 
+Koios DS is a software medical device used to analyze ultrasound data to classify user-selected regions containing thyroid nodules suspicious for 
+cancer. The software generates a set of user-editable sonographic nodule descriptor recommendations (Composition, Echogenicity, Shape, 
+Margin, Echogenic Foci) along with an optional, deep-learning derived cancer risk assessment of the suspected nodule from two orthogonal 
+views. Nodule descriptor recommendations are subsequently mapped to a categorical assessment and risk level rating via the ACR TI-RADS™ 
+ATLAS or American Thyroid Association (ATA) risk stratification systems (RSSs) based on user preference. The software’s direct, non-descriptor-
+based cancer risk assessment is presented as the Koios “AI Adapter” that, when used in conjunction with the ACR TI-RADS or ATA guidelines for 
+nodule risk stratification, is shown to improve overall diagnostic performance of both systems. The AI Adapter operates as an optional lexicon-
+specific input used to modify the final categorization in the ACR TI-RADS and ATA RSSs. The AI adapter positively impacts performance through 
+either a point-based modification (either positive or negative) or a risk-shift modification (either positive or negative) for ACR TI-RADS and the 
+ATA systems, respectively. This process creates an AI-augmented categorization that is meant to be used with no other modifications to the 
+3 
+ 
+                
+decision-making pathway of either RSS. A trained interpreting physician may choose to incorporate or exclude the Koios AI Adapter from the 
+overall assessment when finalizing their diagnostic interpretation. 
+ 
+ 
+[1] BI-RADS® ATLAS is a registered trademark of American College of Radiology.  All Rights Reserved.  
+ 
+ 
+Koios DS enables the following functionality: 
+● Breast and Thyroid Diagnostic Core AI Engines enabled by state-of-the-art computer vision and machine learning techniques capable 
+of reading, interpreting, analyzing, classifying and generating findings from ultrasound image data resulting in an automated risk 
+assessment for breast lesions and thyroid nodules suspicious for cancer. 
+● Automatic classification of thyroid nodule TI-RADS and ATA Descriptors of: Composition, Echogenicity, Shape, Margin, and Echogenic 
+Foci based on user-selected regions of interest (ROIs). 
+● Automatic classification of breast lesion BI-RADS and U1-U5 Descriptors Shape and Orientation based on user-selected or confirmed 
+regions of interest (ROIs). 
+● Annotation and description of ultrasound images based on ACR BI-RADS Breast Imaging Atlas and U1-U5 for Koios DS Breast and ACR 
+TI-RADS Atlas for thyroid lexicon classification forms and ATA classification guidelines for Koios DS Thyroid. 
+● Reporting forms for breast lesion or thyroid nodule identification and tracking in the Electronic Health Record. 
+● Smart Calipers - extraction of user-supplied ROI data (alternately referred to as Calipers) embedded in DICOM SR files from the 
+ultrasound modality. 
+● Smart Click - for streamlining the manual ROI selection process. The Smart Click functionality enables the user to click on the center 
+of a lesion in order to activate a system-generated region of interest surrounding the selected lesion for the user.  
+● Image Registration and Matching - allows users to select images and regions of interest through their own image viewers when 
+interacting with Koios DS Breast and Koios DS Thyroid, and facilitates a flexible viewer agnostic workflow. When the Image Matching 
+4 
+ 
+                
+Engine is given a screenshot of a medical image with coordinates for a region of interest, it identifies the original full quality image 
+and translates the coordinates to its frame of reference. 
+● Automatic Size and Position population using Optical Character Recognition (OCR) - the Koios DS Optical Character Recognition 
+engine uses machine learning and rule-based methods to create a system which is capable of retrieving fast, accurate transcriptions 
+of the text overlaid on ultrasound images. Given an ultrasound image that has been annotated by a radiologist or technician, the 
+OCR function identifies all text in the image and extracts relevant information to the documentation of lesions or nodules. This 
+allows users to quickly interpret and transcribe the locations and measurements of ultrasound findings. 
+● Remote analysis interface to generate and view results within compatible software (e.g. ultrasound equipment or PACS workstation 
+software). 
+● Installer and Configuration Wizard. 
+● Single Sign-on (SSO) Windows and LDAP Authentication. 
+● Operating system and platform-agnostic usage. 
+● Zero-footprint web-based HTML5 DICOM image viewer with image manipulation and annotation tools. 
+● Ability to save findings to PACS. 
+● Ability to export findings to reporting software. 
+ 
+User Profile: 
+Koios DS is for use by trained professionals only. Koios DS is not for use by patients.  Users must have appropriate medical professional 
+competence, such as trained sonographers and interpreting physicians. 
+Use Environment: 
+Koios DS is a software application for use within the healthcare setting (in a clinic or hospital) for the examination and assessment of breast 
+lesions or thyroid nodules using ultrasound. It is a platform-agnostic web application that queries and accepts DICOM compliant digital medical 
+files from any compliant device subject to the specified DICOM Conformance Statement for Koios DS. Processing of the image(s) occurs in 
+conjunction with a trained interpreting physician’s typical diagnostic case read. The output of the system is a digital display to be used as a 
+5 
+ 
+                
+concurrent read and report input that may be added as an addendum to the DICOM series selected for processing or exported directly into a 
+patient’s draft report. 
+ 
+Operating Principle: 
+Koios DS is an ASP.NET web application deployed to a web server inside a Windows operating system environment accessed by a user through a 
+compatible client. The application provides image-derived data via web triggering and remote analysis. 
+Once logged in and granted access to the Koios DS application, the user examines selected breast and thyroid ultrasound DICOM images. For 
+breast functionality, the user selects or confirms up to two ROIs, from up to two orthogonal views that represent a single breast lesion for 
+processing by the system. For thyroid functionality, two ROIs are required for processing by the system. The first ROI must be drawn on the 
+transverse view, with the second on the longitudinal view of the nodule. For breast functionality, bench testing has verified a single ROI does not 
+significantly decrease system AUC performance. The ROI(s) are transmitted electronically to the Koios DS server by the Koios DS Breast or 
+Thyroid software for image processing and the results are returned to the user for review in the respective interface. Images and data can be 
+stored, communicated, processed, and displayed within the system and/or across computer networks at distributed locations. 
+The Koios DS Client is an optional workflow enhancement tool installed as a desktop application on the user workstation that enables a user to 
+draw ROIs natively within their image viewing software. The Koios DS Client captures a screenshot of the ROI selected by the user instead of 
+being directly drawn on and captured with DICOM data. The ROI screenshot is transmitted electronically to the Image Matching Engine within 
+the Koios DS Server. The Image Matching Engine processes the ROI screenshot and data, identifying and matching the correct DICOM image, and 
+overlaying the ROI on that image. Once matched, the ROIs are returned to the user for review in the Koios DS Breast or Thyroid interface. 
+The software does not require any specialized hardware to return a diagnostic output, but the time to process ROIs will vary depending on the 
+hardware specifications. 
+Koios DS contains two distinct AI/ML engines to characterize breast lesions and thyroid nodules. Based on the structured data that exists within 
+the DICOM header for a patient study, the Koios DS system calls the corresponding engine for analysis of the identified lesion or nodule. Each 
+system uses computer vision and machine learning techniques embedded within an engine capable of reading, interpreting, analyzing, and 
+generating findings from ultrasound data. The underlying Breast and Thyroid engines draw upon knowledge learned from a large database of 
+known cases, tying image features to their eventual diagnosis, to form a predictive model. 
+6 
+ 
+                
+Koios DS results can be saved or transferred in three separate ways: in-transit transmission, saving to Picture Archiving and Communication 
+System (PACS), and exporting results to third-party reporting software. In-transit transmission may be utilized when users wish to share analyses 
+across viewing workstations. Results can be stored in in-transit memory for a preset period of time defined by a system administrator. After that 
+preset period of time, all results are wiped from the local memory. Another method of saving is storing a report in the patient study on the PACS. 
+After single or multiple lesion or nodule analyses have been performed and ultimately accepted by a trained interpreting physician, Koios DS can 
+export a summary report to PACS as an addendum to the DICOM study that was selected for processing. This report serves as future reference 
+and aid in the comparison of cases requiring follow up. This functionality is strictly reserved for approved users and must be configured by a site 
+administrator. 
+Koios DS also supports exporting results to third-party reporting software to facilitate the reporting process. Saving or exporting preferences can 
+be configured by the system administrator and user.  
+ 
+ 
+5. Indications for Use 
+Koios Decision Support (DS) is an artificial intelligence (AI)/machine learning (ML)-based computer-aided diagnosis (CADx) software device 
+intended for use as an adjunct to diagnostic ultrasound examinations of lesions suspicious for breast or thyroid cancer. 
+Koios DS allows the user to select or confirm regions of interest (ROIs) within an image representing a single lesion or nodule to be analyzed. The 
+software then automatically characterizes the selected image data to generate an AI/ML-derived cancer risk assessment and selects applicable 
+lexicon-based descriptors designed to improve overall diagnostic accuracy as well as reduce interpreting physician variability. 
+Koios DS software may also be used as an image viewer of multi-modality digital images, including ultrasound and mammography. The software 
+includes tools that allow users to adjust, measure and document images, and output into a structured report. 
+Koios DS software is designed to assist trained interpreting physicians in analyzing the breast ultrasound images of adult (>= 22 years) female 
+patients with soft tissue breast lesions and/or thyroid ultrasounds of all adult (>= 22 years) patients with thyroid nodules suspicious for cancer.  
+When utilized by an interpreting physician who has completed the prescribed training, this device provides information that may be useful in 
+recommending appropriate clinical management. 
+Limitations: 
+• Patient management decisions should not be made solely on the results of the Koios DS analysis. 
+7 
+ 
+                
+• Koios DS software is not to be used for the evaluation of normal tissue, on sites of post-surgical excision, or images with doppler, elastography, 
+or other overlays present in them. 
+• Koios DS software is not intended for use on portable handheld devices (e.g. smartphones or tablets) or as a primary diagnostic viewer of 
+mammography images. 
+• The software does not predict the presence of the thyroid nodule margin descriptor, extra-thyroidal extension. In the event that this condition 
+is present, the user may select this category manually from the margin descriptor list. 
+8 
+ 
+                
+6. Substantial Equivalence Chart  
+ 
+ 
+Product Koios DS 3.6 
+(K242130) 
+Koios DS 3.8 
+(subject device) 
+Physical 
+Characteristics 
+Software Package 
+Operates on off-the-shelf 
+hardware 
+Software Package 
+Operates on off-the-shelf 
+hardware 
+Storage Storage not supported Storage not supported 
+Image Input DICOM DICOM 
+Characteristics Decision support device used to 
+assist in the assessment and 
+characterization of breast lesions 
+and thyroid nodules using US 
+image data. 
+Decision support device used to 
+assist in the assessment and 
+characterization of breast lesions 
+and thyroid nodules using US 
+image data. 

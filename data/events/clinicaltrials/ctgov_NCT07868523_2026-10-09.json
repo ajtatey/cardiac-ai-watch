@@ -1,0 +1,57 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "conditions": [
+   "Coronary Artery Disease",
+   "Coronary Stenosis",
+   "Coronary Restenosis",
+   "Coronary Atherosclerosis",
+   "Vascular Remodeling"
+  ],
+  "interventions": [],
+  "nct_id": "NCT07868523",
+  "new_registration": true,
+  "sponsor": "Fondazione Ricerca e Innovazione Cardiovascolare ETS",
+  "status": "NOT_YET_RECRUITING"
+ },
+ "id": "ctgov:NCT07868523:2026-10-09",
+ "prefilter": {
+  "ai": [
+   "de novo"
+  ],
+  "cardiac": [
+   "coronar",
+   "ccta",
+   "plaque",
+   "atheroscler",
+   "stenos"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 11
+ },
+ "published": "2026-10-09",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "NEW REGISTRATION — status NOT_YET_RECRUITING. Sponsor: Fondazione Ricerca e Innovazione Cardiovascolare ETS. Conditions: Coronary Artery Disease, Coronary Stenosis, Coronary Restenosis, Coronary Atherosclerosis, Vascular Remodeling. Interventions: . Type OBSERVATIONAL, enrollment 200. Start 2026-10, primary completion 2027-01. To characterize, using paired coronary computed tomography angiography (CCTA), longitudinal changes in coronary atherosclerotic plaque, lumen dimensions, and vessel remodeling between baseline and mid-term follow-up in de novo coronary lesions successfully treated with drug-coated balloon (DCB)-only angioplasty. No additional imaging examination, intervention, or clinical visit is mandated by the study protocol.",
+ "title": "The PICCOLETO XIII REVEAL-DCB Cohort A Study (NCT07868523)",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 3,
+  "summary": "New Italian observational registration (PICCOLETO XIII REVEAL-DCB Cohort A, 200 patients) using paired CCTA to characterize longitudinal plaque and vessel remodeling after drug-coated balloon treatment.",
+  "tags": [
+   "trial",
+   "ccta",
+   "plaque",
+   "longitudinal"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Another trial using serial CCTA plaque quantification as an endpoint; potential customer for quantitative plaque core-lab services."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT07868523"
+}

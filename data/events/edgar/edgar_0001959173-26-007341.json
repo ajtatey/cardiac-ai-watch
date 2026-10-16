@@ -1,0 +1,42 @@
+{
+ "alerted_at": null,
+ "category": "financial",
+ "collected_at": "2026-10-16T02:46:04+00:00",
+ "extra": {
+  "accession": "0001959173-26-007341",
+  "company": "heartflow",
+  "form": "144"
+ },
+ "id": "edgar:0001959173-26-007341",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "edgar",
+ "status": "triaged",
+ "summary": "SEC filing 144 by HeartFlow (CIK 0001464521). Items:",
+ "title": "HeartFlow filed 144: xsl144X01/primary_doc.xml",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "Form 144 notice of proposed sale for the same HeartFlow CEO transaction.",
+  "tags": [
+   "financial",
+   "insider-sale"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Duplicate of the Form 4."
+ },
+ "url": "https://www.sec.gov/Archives/edgar/data/1464521/000195917326007341/xsl144X01/primary_doc.xml"
+}

@@ -1,0 +1,297 @@
+< 1373
+AUG 2 32011
+510(K) SUMMARY
+circle
+CARDIOVASCULAR
+INWAING
+Submitter's Name Circle Cardiovascular Imaging Inc.
+Address Suite 12, 3535 Research Road NW, Calgary, AB, Canada T2L 2K8
+Establishment 3007301305
+Registration Number
+Date of Summary May 12, 2011
+Telephone Number 1 403 338 1870
+Fax Number 1403 338 1895
+Email shirantiha@circlecvi.com
+Contact Person Shirantha Samarappuli
+Name of the Device ct 2 Cardiac Computed Tomography (CT) Software
+Common or Usual Name Image Processing System
+Classification Name Classification Name: Picture Archiving and Communications
+System
+Device Class: 11
+Product Code: LLZ
+Regulation Number: 21 CFR 892.2050
+ct4 is intended to be used for viewing, post-processing and
+quantitative evaluation of cardiovascular computed
+Indications for Use tomography (CT) images in a Digital Imaging and
+Communications in Medicine (DICOM) Standard format.
+It enables;
+a Importing Cardiac CT Images in DICOM format
+* Supporting clinical diagnostics by qualitative analysis
+of the cardiac CT images using display functionality
+such as panning, windlowing, zooming, navigation
+through series/slices and phases, 3D) reconstruction of
+images including multi-planner reconstructions of the
+
+CIRCLE Cardiovascular Imaging Inc. ct4Q
+Traditional 510(k)
+images.
+* Supporting clinical diagnostics by quantitative
+measurement of the heart and adjacent vessels in
+cardiac CT images, specifically distance, area,
+Volumne and mass
+* Supporting clinical diagnostics by using area and
+volume measurements for measuring LV function
+and derived parameters cardiac output and cardiac
+index in long axis and short axis cardiac CT images.
+* Supporting clinical diagnostics by quantitative
+measurements of calcified plaques in the coronary
+arteries (calcium scoring), specifically Agatston and
+volume and mass calcium scores
+It shall be used by qualified medical professionals,
+experienced in examining and evaluating cardiovascular CT
+images, for the purpose of obtaining diagnostic information as
+part of a comprehensive diagnostic decision-making process.
+Ct42 is a software application that can be used as a stand-alone
+product or in a networked environment.
+The target population for the ctl is not restricted, however the
+image acquisition by a cardiac CT scanner may limit the use
+of the device for certain sectors of the general public.
+ct42 shall not be used to view or analyze images of any part of
+the body except the cardiac CT images acquired from a
+cardiovascular CT scanner.
+Device Description ct42 is a dedicated software application for evaluating
+cardiovascular images in a DICOM Standard format. The software
+can be used as a stand-alone product that can be integrated into a
+hospital or private practice environment. ct 42has a graphical user
+interface which allows users to qualitatively and quantitatively
+analyze cardiac CT images for volume/mass, and calcium scoring.
+It provides a comprehensive set of tools for the analysis of
+Cardiovascular Computed Tomography (CT) images.
+Document No. Rev File name: Sheet
+NIA 00 ct42 Traditional 510Ok Submission Page 23 of 78
+This document contains information, which is the property of CIRCLE Cardiovascular Imaging, Inc. This
+document may not, in whole or in part, be duplicated, disclosed, or used for design or manufacturing purposes
+without the prior written permission of CIRCLE Cardiovascular Imagingf, Inc.
+
+CIRCLE Cardiovascular Imaging Inc. ct42
+Traditional 5 10(k)
+510(k) SUMMARY, continued
+Indications for Use Comparison
+DEVICE INDICATIONS FOR USE
+ct 4 2  ct42 is intended to be used for viewing, post-processing and
+quantitative evaluation of cardiovascular computed tomography (CT)
+images in a Digital Imaging and Communications in Medicine
+(DICOM) Standard format.
+It enables;
+" Importing Cardiac CT Images in DICOM format
+* Supporting clinical diagnostics by qualitative analysis of the
+cardiac CT images using display functionality such as
+panning, windowing, zooming, navigation through
+series/slices and phases, 3D reconstruction of images
+including multi-planner reconstructions of the images.
+* Supporting clinical diagnostics by quantitative measurement
+of the heart and adjacent vessels in cardiac CT images,
+specifically distance, area, volume and mass
+* Supporting clinical diagnostics by using area and volume
+measurements for measuring LV function and derived
+parameters cardiac output and cardiac index in long axis and
+short axis cardiac CT images.
+* Supporting clinical diagnostics by quantitative measurements
+of calcified plaques in the coronary arteries (calcium
+scoring), specifically Agatston and volume and mass calcium
+scores
+It shall be used by qualified medical professionals, experienced in
+examining and evaluating cardiovascular CT images, for the purpose
+of obtaining diagnostic information as part of a comprehensive
+diagnostic decision-making process. ct42 is a software application that
+can be used as a stand-alone product or in a networked environment.
+The target population for the ct42 is not restricted, however the image
+acquisition by a cardiac CT scanner may limit the use of the device
+for certain sectors of the general public.
+ct 42 shall not be used to view or analyze images of any part of the
+body except the cardiac CT images acquired from a cardiovascular
+CT scanner.
+Document No. Rev File name: Sheet
+N/A 00 c142 Traditional 510Ok Submission Page 24 of 78
+This document contains information, which is the property of CIRCLE Cardiovascular Imaging, Inc. This
+document may not, in whole or in part, be duplicated, disclosed, or used for design or manufacturing purposes
+without the prior written permission of CIRCLE Cardiovascular Imaging, Inc.
+
+CIRCLE Cardiovascular Imaging Inc. cr42
+Tr aditional 5 10(k)
+DEVICE INDICATIONS FOR USE
+K083446 The Cardiac Function Analysis software option for use with Ziostation is intended
+Cardiac Function for noninvasive post-processing of DICOM compliant cardiac CT images to semi-
+Analysis automatically calculate and display various functional parameters, such as left
+Calcitum Scoring ventricular ejection fr action, end diastolic volumc, end systolic volume, stroke
+volume, cardiac output, cardiac index, wall
+thickness, wall thickness ratio and regional wall motion display. These
+measurements can be used to assist the clinician in a cardiac evaluation.
+The Calcium Scoring software option for use with Ziostation is a non-invasive
+post processing software tool that can be used with CT images to evaluate
+calcified paques in the coronary arteries, which may be a risk factor for coronaryartery disease.
+Device Comparison Table ____________________
+Feature Ziosoft - Cardiac Function ct42  Remarks
+Analysis & Calcium Scoring
+510k# K(083446 TBD
+Device Class 11 11
+Device Classification LLZ LLZ
+Regulation Name Picture Archiving and Picture Archiving
+communications systems and communications
+_________________________systems
+Regulation Number 21 CER 892.2050 21 CER 892.2050 ______
+Post processes ECG gated - YES YES
+Cardiac CT images _________________________
+Image viewer functionality YES YES
+Left ventrictilar ejection YES YES
+firaction
+End diastolic volume YES YES
+End systolic volume YES YES
+Stroke volume YES YES
+Cardiac output YES YES
+Cardiac Index YES YES
+Wall thickness YES YES
+Wall thickness ratio YES YES
+Wall movement YES YES
+Volume Curve YES YES
+Calcium Scoring YES YES
+Evaluates calcified YES YES
+plague in the coronary arteries, ________________
+Agatston calcium score YES YES
+Volume calcium score YES YES
+Calcium mass/density YES YES Ziosoft
+calculations calculate
+density and
+ct 42 calculate
+__________________________ ___________________________mass
+DICOM complaint YES YES
+Document No. Rev File name: Sheet
+N/A 00 ct42 Traditional 510k Submission Page 25 of 78
+This document contains information, which is the property of CIRCLE Cardiovascular Imaging, Inc. This
+document may not, in whole or in part, be duplicated, disclosed, or used for design or manufacturing purposes
+without the prior written permission of CIRCLE Cardiovascular Imaging, Inc.
+
+CIRCLE Cardiovascular Imaging Inc. ct42
+Traditional 5 10(k)
+510(k) SUMMARY, continued
+Description and Testing:
+Conclusion of Testing ct4 2 have been tested according to the specifications that are documented
+in a Master Software Test Plan. Testing is an integral part of Circle
+Cardiovascular Imaging Inc software development process as described in
+the company's product development process.
+Conclusion:
+The successful non-clinical testing demonstrates the safety and
+effectiveness of the ct42 when used for the defined indications for use and
+demonstrates that the device for which the 5 10(k) is submitted performs
+as well as or better than the legally marketed predicate device.
+Document No. Rev File name: Sheet
+N/A 00 ct42 Traditional 510k Submission Page 26 of 78
+This document contains intormation, which is the property of CIRCLE Cardiovascular Imaging, Inc. This
+document may not, in whole or in part, be duplicated, disclosed, or used for design or manufacturing purposes
+without the prior written permission of CIRCLE Cardiovascular Imaging, Inc.
+
+4 DElARIM YENT[OF HEI ALTHl & HUMIAN SERVICES PUblic Health Sevice
+I -,ood and DingQ Ad ruinisuatioil
+10903 New Illanipshire A venue
+Doe~lient Contr ol Room - %V066-G609
+Silver Sprig, NID 20993-0002
+Shi rantha Samrarappul i, Phi.D.
+Vice President-Regulatory Affairs and Quality Assurance
+Circle Cardiovascular Imaging
+12, 3535 Research Road NW 23?h
+Calgary, AB, T2L- 21(8
+CANADA
+Re: K I 11373
+Trade/Device Name: ct4 2 Cardiac computed Tomography (CTr) Software
+Regulation Number: 2 1 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: 1I
+Product Code: LLZ
+Dated: AUgust I0, 2011
+Received: AuInuLst 12. 20 11
+Dear Dr. Samiarappu-li:
+We have reviewed your Section 5 10(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into class 11 (Special Controls), it may be subject to such
+additional controls. Existing major regulations affecting your device can be found in Title 2 1.
+Code of Federal Regulations (CFR), Parts 800 to 895. In addition, FDA may publish further
+announcements concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act's requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Parts 801 and 809); medical device reporting (reporting of
+
+page 2
+medicalI device-relIatLed adverse eventis) (2 1 C El 803);, and good mnanlufactuing I[ l ) ai~
+re CpLI rementIs as Set for-th in the C111 tI ty Sy Sterns (QS8) regulation (2 1 C I Part 820). This Iletter
+wvtIl all Iow you to begl in marketing your d Ievi ce as descri bed in your Section 5 10(k) preimrket
+notification. Thre FDA finding of'substantial equivalence of your device to a legally marketed
+predicate device results in a classification For your device and thus, permits your device to
+proceed to the market.
+ff you deCsire specific advice for Your device onl our labeling regulation (21I CER Parts 801 and
+809), please contact the Office of In V/itro Diagnostic Device Evaluation and Safety at (30 1) 796-
+5450. Also, please note the regulation entitled, "Misbranding by refeirnce to premarkLet
+notification' (2 1 CER Part 807.97). For questions regarding the reporting of adverse events
+Under thie MvDR regulation (2] CF.R Part 803 ), please go to
+liflp://v\Rv\w. fda. trov/Medicalbevices/Safe ty/Repor-talroblem/default.hitmi for the CDRH's Office
+Of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responisibilities under the Act from t he
+Division of Small Manufacturers, International and Consumer Assistance att its toll-free number
+(800) 638-2041 or (301) 796-7100 br at its Internet address
+litti)://xvxvw%.fdla.ko/cdri/industry/supyort/index.htiil.
+Sincerely Yours,
+Mary S. Pastel, Sc.D.
+Director
+Division of Radiological Devices
+Office of In Vitro Diagnostic Device
+Evaluation and Safety
+Center for Devices and Radiological Health
+Enclosure
+
+CIRCLE Cardiovascular Imaging Inc. ct 42
+Traditional 51 0(k)
+INDICATIONS FOR USE
+510(k) Number (if known):K I MI3
+Device: ct42 Cardiac Computed Tomography (CT) Software
+Indications for Use:
+ct 42 is intended to be used for viewing, post-processing and quantitative evaluation of
+cardiovascular computed tomography (CT) images in a Digital Imaging and
+Communications in Medicine (DICOM) Standard format.
+It enables;
+* Importing Cardiac CT Images in DICOM format
+* Supporting clinical diagnostics by qualitative analysis of the cardiac CT images
+using display functionality such as panning, windowing, zooming, navigation
+through series/slices and phases, 3D reconstruction of images including multi-
+planner reconstructions of the images.
+* Supporting clinical diagnostics by quantitative measurement of the heart and
+adjacent vessels in cardiac CT images, specifically distance, area, volume and mass
+" Supporting clinical diagnostics by using area and volume measurements for
+measuring LV function and derived parameters cardiac output and cardiac index in
+long axis and short axis cardiac CT images.
+* Supporting clinical diagnostics by quantitative measurements of calcified plaques
+in the coronary arteries (calcium scoring), specifically Agatston and volume and
+mass calcium scores
+It shall be used by qualified medical professionals, experienced in examining and evaluating
+cardiovascular CT images, for the purpose of obtaining diagnostic information as part of a
+comprehensive diagnostic decision-making process. ct42 is a software application that can be
+used as a stand-alone product or in a networked environment.
+The target population for the ct4- is not restricted, however the image acquisition by a
+cardiac CT scanner may limit the use of the device for certain sectors of the general public.
+ct 42 shall not be used to view or analyze images of any part of the body except the cardiac
+CT images acquired from a cardiovascular CT scanner.
+Prescription Use -_X - AND/OR Over-The-Counter Use ___
+(Part 21 CFR 8 ubprD)(21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE
+OF NEEDED)
+Concurrence of CDRH, O ~ P ITE
+Dsonc aucaDvcesOfie of in Vitro Diagnotic Device Evaluation and Safety
+310K

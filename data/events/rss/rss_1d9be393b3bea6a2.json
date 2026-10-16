@@ -1,0 +1,45 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:14+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "American College of Cardiology",
+  "query": "\"cardiac MRI\" AND AI"
+ },
+ "id": "rss:1d9be393b3bea6a2",
+ "prefilter": {
+  "ai": [
+   "\\bai\\b"
+  ],
+  "cardiac": [
+   "cardiac",
+   "cardiac mri",
+   "cardiolog"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 7
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "ACC Webinar: AI in Clinical Practice: Cardiac MRI &nbsp;&nbsp; American College of Cardiology",
+ "title": "ACC Webinar: AI in Clinical Practice: Cardiac MRI - American College of Cardiology",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "ACC webinar on AI in clinical practice for cardiac MRI.",
+  "tags": [
+   "education",
+   "cmr",
+   "ai"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Educational; low signal."
+ },
+ "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZkxHTko2Q18yQnN3VUNRSFhXUV9KRmlBQkh0dzdYa25NU1lJSWdMcm41QTlTdi1WSmNzb0xiQzRhVTBsd3g4cXBoWjJUZXlJNlVCMUFrWjNpZjN2RmVHRTNmbmMtUVkycHYyZ1MwbGxYQ3I1dVFwaGVST2FhM01YelVEeldXS1JRSk5kWlJJYnlHNW56NEdUV2tsRHJDWXpCQnNvYklzRUlSX0FnUnp1YU5kd0drczJwYzVucFg4YVRSNDNPczVTU3JxcVU4LWUyZUJoUXN1T1BNZWpNV01ZSA?oc=5"
+}

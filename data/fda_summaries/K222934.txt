@@ -1,0 +1,679 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 06 . 0 1  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+  April 28, 2023 
+Nano-X Imaging Ltd. 
+℅ Odelia Maron 
+VP QA & RA 
+Communications Center, Bldg. C, Entrance 1 
+Neve Ilan, 9085000 
+ISRAEL 
+ 
+Re:  K222934 
+Trade/Device Name:  Nanox.ARC 
+Regulation Number:  21 CFR 892.1740 
+Regulation Name:  Tomographic x-ray system 
+Regulatory Class:  Class II 
+Product Code:  IZF, MQB 
+Dated:  March 27, 2023 
+Received:  March 27, 2023 
+ 
+Dear Odelia Maron: 
+ 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+
+K222934 - Odelia Maron Page 
+ 
+2 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for 
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Lu Jiang, Ph.D. 
+Assistant Director  
+Diagnostic X-ray Systems Team 
+DHT8B: Division of Radiological Imaging 
+  Devices and Electronic Products  
+OHT8: Office of Radiological Health  
+Office of Product Evaluation and Quality  
+Center for Devices and Radiological Health 
+ 
+Enclosure 
+ 
+ 
+Lu Jiang 
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2023
+See PRA Statement below.
+510(k) Number (if known)
+K222934
+Device Name
+Nanox.ARC
+Indications for Use (Describe)
+Nanox.ARC is a stationary X-ray system intended to produce tomographic images of the human musculoskeletal system
+adjunctive to conventional radiography, on adult patients. This device is intended to be used in professional healthcare
+facilities or radiological environments, such as hospitals, clinics, imaging centers, and other medical practices by trained
+radiographers, radiologists, and physicists. Digital Tomosynthesis is used to synthesize tomographic slices from a single
+tomographic sweep. Applications can be performed with the patient in prone, supine, and lateral positions. This device is
+not intended for mammographic, angiographic, cardiac, pulmonary, intra-abdominal, intra-cranial, interventional, or
+fluoroscopic applications. This device is not intended for imaging pediatric or neonatal patients.
+Type of Use (Select one or both, as applicable)
+X Prescription Use (Part 21 CFR 801 Subpart D) E] Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."
+Page 1 of 1FORM FDA 3881 (6120) PSC Publishing Servies (301) 443-6740 EF
+
+VOL 005 of 021 
+510(k) Summary 
+ 
+ 
+Nanox.ARC Traditional 510(k)  
+VOL 005 510(k) Summary  
+ Page 1 of 9   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nanox.ARC 
+510(k) Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    K222934
+ 
+Nanox.ARC Traditional 510(k)  
+VOL 005 510(k) Summary  
+ Page 2 of 9   
+ 
+1 Submission Sponsor 
+Nano-x Imaging Ltd. 
+Communications Center, Bldg. C, Entrance 1,  
+Neve Ilan, Israel 9085000  
+Establishment Registration Number: The Company will register following FDA clearance 
+2 Submission Correspondent 
+Odelia Maron, Ph.D. VP QA & RA  
+Phone: +972-50-5733837      
+E-mail: Odelia.m@nanox.vision 
+3 Date Prepared 
+March 24, 2023 
+4 Device identification 
+Name of Device: Nanox.ARC  
+Classification Name: Tomographic X-ray System 
+Regulation: 21 CFR §892.1740 
+Regulatory Classification: Class II  
+Product Classification Code: IZF and MQB 
+Classification panel: Radiology 
+ 
+5 Legally Marketed Predicate and Reference Device 
+ 
+Predicate Manufacturer: AGFA NV. 
+Predicate Trade Name: DR 600 with Tomosynthesis 
+Predicate Classification Code: IZF and MQB 
+Predicate 510(k): K193262 
+  
+Reference Manufacturer: AGFA NV. 
+Reference Trade Name: DR 800 with Tomosynthesis 
+Reference Classification Code: IZF and JAA 
+Reference 510(k): K183275 
+6 Device description  
+Nanox.ARC is a tomographic and solid-state X-ray system (product codes IZF and MQB) intended 
+to produce tomographic images of the human musculoskeletal system from a single tomographic 
+sweep, as an adjunct to conventional radiography, on adult patients. 
+ 
+Nanox.ARC is a floor-mounted tomographic system that consists of a user control console, a multi-
+source, tiltable arc gantry with five alternately-switched tubes, a motorized patient table, a flat-
+panel detector of a scintillator -photodetector type, and Protocols database and Image processing 
+software packages. 
+ 
+Nanox.ARC utilizes several small -sized X -ray tubes that are independently and electronically 
+switched, thereby dividing t he overall power requirements over multi ple tubes. Nanox.ARC 
+utilizes a tilting imaging ring with five X-ray tubes, operated sequentially, one at a time , used to 
+generate multiple low-dose X-ray projection images acquired from different angles during a single 
+spherical (non-linear) sweep. The sweep is performed over a motorized patient table. Patients can 
+be placed in prone, supine, and lateral positions. 
+ 
+The acquired projection imaging data is automatically reconstructed to form tomographic slices of 
+the imaged object, with each slice parallel to the ta ble plane. The Tomosynthesis image result 
+reduces the effect of overlying structures and provides depth information on structures of interest. 
+The image reconstruction service, as well as the system’s protocol database and DICOMization 
+K222934
+ 
+ 
+Nanox.ARC Traditional 510(k)  
+VOL 005 510(k) Summary  
+ Page 3 of 9   
+ 
+services, can be hosted either locally or as part of the Nanox.CLOUD, according to customer 
+preference. The resultant images are sent using the DICOM protocol. 
+7 Indications for Use 
+Nanox.ARC is a stationary X-ray system intended to produce tomographic images of the human 
+musculoskeletal system adjunctive to conventional radiography, on adult patients. 
+ 
+This device is intended to be used in professional healthcare facilities or radiological 
+environments, such as hospitals, clinics, imaging centers, and other medical practices by trained 
+radiographers, radiologists, and physicists. 
+ 
+Digital Tomosynthesis is used to synthesize tomographic slices from a single tomographic sweep. 
+Applications can be performed with the patient in prone, supine, and lateral positions. 
+ 
+This device is not intended for mammographic, angiographic, cardiac,  pulmonary, intra -
+abdominal, intra-cranial, interventional, or fluoroscopic applications. This device is not intended 
+for imaging pediatric or neonatal patients. 
+8 Technological Characteristics 
+Nanox.ARC is a stationary X -ray tomographic system  utilizes predefined protocols with 
+predefined optimal acquisition parameters depending on the anatomy being imaged. The System 
+allows the user to further configure these parameters for each examination type.  
+ 
+The acquired projection imaging data is automatically reconstructed to form tomographic  imaged 
+object.  
+ 
+A reconstruction engine converts the 2D images from the detector into Tomographical layers data. 
+This reconstruction engine, as well as the system’s protocol database and DICOMization services, 
+can be hosted either locally, or as part of the Nanox.CLOUD. 
+  
+ 
+ 
+Nanox.ARC Traditional 510(k)  
+VOL 005 510(k) Summary  
+ Page 4 of 9   
+ 
+9 Substantial Equivalence  
+The following characteristics were compared between the subject device and the predicate device 
+in order to demonstrate substantial equivalence with respect to indications for use, principles of 
+operation, technological characteristics, materials, and performance.  
+ 
+The comparison of the devices in Table 1 below provides more detailed information regarding the 
+basis for the determination of substantial equivalence. The subject device does not raise any new 
+or different questions of safety or effectiveness based on the similarities to the predicate device.  
+ 
+Table 1 – Comparison of Subject Device with Predicate Device 
+Item Subject Device  Nanox.ARC Predicate Device  DR 600 with Tomosynthesis 
+Name Nanox.ARC DR 600 with Tomosynthesis 
+Manufacturer Nano-x Imaging Ltd.  AGFA NV  
+510(k) K222934 K193262 
+Date of clearance  To be assigned March 9, 2020 
+Indications for use  Nanox.ARC is a stationary X-ray 
+system intended to produce 
+tomographic images of the human 
+musculoskeletal system adjunctive 
+to conventional radiography, on 
+adult patients.  
+ 
+This device is intended to be used 
+in professional healthcare facilities 
+or radiological environments, such 
+as hospitals, clinics, imaging 
+centers, and other medical 
+practices by trained radiographers, 
+radiologists, and physicists. 
+ 
+Digital Tomosynthesis is used to 
+synthesize tomographic slices from 
+a single tomographic sweep.  
+ 
+Applications can be performed 
+with the patient in prone, supine, 
+and lateral positions. 
+ 
+This device is not intended for 
+mammographic, angiographic, 
+cardiac, pulmonary, intra-
+abdominal, intra-cranial, 
+interventional, or fluoroscopic 
+applications. This device is not 
+intended for imaging pediatric or 
+neonatal patients. 
+The DR 600 System is a general 
+radiography X-ray imaging system used 
+in hospitals, clinics and medical 
+practices by radiographers, radiologists 
+and physicists to make, process and 
+view static X-ray radiographic images 
+of the skeleton (including skull, spinal 
+column and extremities), chest, 
+abdomen and other body parts on adult, 
+pediatric or neonatal patients. In 
+addition, the System provides the 
+AGFA tomosynthesis option, intended 
+to acquire tomographic slices of human 
+anatomy and to be used with AGFA DR 
+X-ray systems. Digital Tomosynthesis 
+is used to synthesize tomographic slices 
+from a single tomographic sweep. 
+Applications can be performed with the 
+patient in a sitting, standing or lying 
+position. This System is not intended 
+for mammography applications. 
+Intended users Radiographers, radiologists, and 
+physicists  
+Radiographers, radiologists, and 
+physicists 
+Intended use environment    Hospitals, clinics, imaging centers, 
+and other healthcare facilities 
+Hospitals, clinics, imaging centers, and 
+other healthcare facilities 
+Classification Name Tomographic X-ray system  Tomographic X-ray system  
+Regulation number 21 CFR § 892.1740 21 CFR § 892.1740 
+Regulatory class II II 
+Product code IZF, MQB IZF, MQB 
+General  
+Principal operator  Radio Technician  Radio Technician  
+ 
+ 
+Nanox.ARC Traditional 510(k)  
+VOL 005 510(k) Summary  
+ Page 5 of 9   
+ 
+Item Subject Device  Nanox.ARC Predicate Device  DR 600 with Tomosynthesis 
+Communications with 
+external storage devices 
+DICOM DICOM  
+Patient positioning options 
+Vertical stand  Not included  Included as an Option 
+Table stand Included  Included as an Option 
+Patient Table  
+Patient table height 48cm  
+(motorized w/fixed height) 
+55-90 cm  
+(motorized w/ height adjustment) 
+Patient weight allowance 
+(kg/lbs.) 
+150kg / 330 lbs. 320 Kg / 705 lbs. 
+Table length (mm) 2600 2200 
+Table width (mm) 720 810 
+Tabletop material PMMA Resopal HPL (DIN EN438)  
+Generator 
+Tube voltage range (kVp) 40-110   40-150 
+Nominal electric power 
+(kW) 
+1.8 Selectable 50, 65 or 80 
+Total mAs range per 
+Tomosynthesis study 
+12-90 mAs 12-90 mAs 
+X-ray accuracy Fulfills the X-ray radiation 
+accuracy according to EN IEC 
+60601-2-54 with a variation of 
+max. 0.05 (5%). 
+Fulfills the X-ray radiation accuracy 
+according to EN IEC 60601-2-54 with a 
+variation of max. 0.05 (5%). 
+X-ray source  
+Electron stream source MEMS chip Tungsten filament 
+Physical phenomena 
+generating electron 
+stream  
+Quantum tunneling via an applied 
+External electrical field (cold 
+cathode) 
+Thermionic excitation (Hot Cathode) 
+Focal spot size (nominal 
+FS value large/small 
+focus) 
+0.7 E7884X: 0.6/1.2 
+E7252X: 0.6/1.2 
+E7254FX: 0.6/1.2 
+E7869XX: 0.6/1.2 
+Anode design Stationary Anode Rotating Anode 
+Target angle 19 deg 12 deg  
+Source to Image 
+Distance (SID)   
+Fixed (at 100cm) Selectable (110cm/115cm) for 
+Tomosynthesis. Other SIDs available 
+for other procedures  
+X-ray source position Table mounted Ceiling or table mounted  
+Number of X-ray 
+sources 
+Five (5) X-ray sources One (1) X-ray source 
+Sweep angle during 
+Tomosynthesis  
+Longitudinal: up to ±18° 
+Lateral: up to ±15° 
+Longitudinal: selectable at ±15° or ±22°  
+Tilt mode Automatic Automatic 
+X-ray Field size  
+X-ray field size Fixed, 43x43 cm Variable, between  
+1-43cm by 1-43cm  
+Visual indication of the 
+X-ray field 
+Indication by a Graphical User 
+Interface  
+Indication by a light-field indicator  
+Image Processing 
+Detector Flat-panel detector  Flat-panel detector 
+Operating System Ubuntu 20.04 LTS  Windows® 7, 8, 8.1, 10 
+Operator Console Tablet device (iPad) PC 
+Imaging Protocols 
+location 
+Either Local (hardware-based) or 
+Cloud-based  
+Local (hardware-based) 
+Image processing 
+location 
+Either Local (hardware-based) or 
+Cloud-based  
+Local (hardware-based) 
+ 
+ 
+Nanox.ARC Traditional 510(k)  
+VOL 005 510(k) Summary  
+ Page 6 of 9   
+ 
+Item Subject Device  Nanox.ARC Predicate Device  DR 600 with Tomosynthesis 
+DICOM encapsulation 
+service location  
+Either Local (hardware-based) or 
+Cloud-based  
+Local (hardware-based) 
+Image processing 
+package  
+Proprietary AGFA's MUSICA² ™ image 
+processing and AGFA's MUSICA 
+Digital Tomosynthesis software 
+(K193262) image processing 
+Compliance 
+Human factors IEC 62366 and FDA guidance  IEC 62366  
+IEC 60601-1-6 
+Biocompatibility ISO 10993-1 and FDA guidance  ISO 10993-1 and FDA guidance 
+Electrical safety IEC 60601-1  
+IEC 60601-1-2 
+IEC 60601-1  
+IEC 60601-1-2 
+Radiation safety IEC 60601-1-3 
+IEC 60601-2-54 
+IEC 60601-2-28 
+IEC 60601-1-3 
+IEC 60601-2-54 
+IEC 60601-2-28 
+Other standards ISO 13485 
+ISO 14971 
+ISO 14155 
+ISO 13485 
+ISO 14971 
+ 
+10 Summary of Technical Characteristics comparison 
+The Nanox.ARC and the predicate device have similar intended use with regard to their respective 
+indications for the production of Tomosynthesis image s. Both have similar technological 
+characteristics, again, with regard to their respective indications for the production of 
+Tomosynthesis image s, and use the same principles of operation and are also identical in the 
+following ways:   
+• Regulation number - 21 CFR §892.1740 
+• Product Code - IZF and MQB 
+• Regulatory Class - Class II 
+ 
+In addition, both devices have equivalent technological characteristics, with the exception of: 
+ 
+• The Nanox.ARC utilizes five individual small-sized X-ray tubes, whilst the predicate utilizes 
+one larger general-purpose X-ray tube. Both Systems share a similar dose range. 
+• In the Nanox.ARC, irradiations are done in a spherical path geometry, whereas in the 
+predicate, irradiations are done in a linear path geometry.  
+• In the Nanox.ARC, table and gantry movements are limited to specific angles, SID, and 
+positions, while in the predicate, the tube moves in tomographic sequence in the room.  
+• In the Nanox.ARC, The field size of the  Nanox.ARC is non-adjustable and fixed at 43x43cm 
+(17x17"), whereas the predicate X -ray field can be varied by the operator from 1x1cm to up 
+to 43x43cm.  
+• In the Nanox.ARC, the generator has a lower power output (1.8kW) than the predicate’s  
+(50/65/80kW) and lower kVp and mAs ratings. 
+• In the Nanox.ARC, the mAs range per each tomo synthesis projection is lower than the 
+predicate. 
+• In the Nanox.ARC , the protocol database, the image reconstruction and DICOMization 
+services - are either based on local hardware or cloud-based, whereas for the predicate protocol 
+database, these services are based on local hardware. 
+• In the Nanox.ARC, the control console is an off-the-shelf Tablet device , where in the 
+predicate, the operator console is installed on an off-the-shelf PC. 
+ 
+These minor differences , both individually and as accumulated differences - do not present any 
+new or different questions of safety or effectiveness as confirmed by the completed testing 
+discussed in more detail below.  
+ 
+ 
+Nanox.ARC Traditional 510(k)  
+VOL 005 510(k) Summary  
+ Page 7 of 9   
+ 
+ 
+Thus, the Nanox.ARC is substantially equivalent to the DR 600 with Tomosynthesis by AGFA 
+NV (K193262).  
+11 Performance Data  
+Laboratory testing and software testing (for a moderate level of concern device) using equivalent 
+test protocols were evaluated by qualified individuals to demonstrate that adequate design controls 
+(according to 21 CFR 820.30) were in place.  
+ 
+Verification and validation testing confirmed the device meets performance, safety, usability and 
+security requirements. Results were verified and validated.  
+ 
+ 
+The performance characteristics and operation / usability of Nanox.ARC were evaluated in non -
+clinical (bench) testing. These studies have demonstrat ed the device related performance, overall 
+function, verification and validation of requirements for intended use, and reliability of the system 
+software requirements.  
+ 
+Non-clinical test results have demonstrated that the device conforms to its specificat ions. 
+Predefined acceptance criteria were met and demonstrated that the device is as safe, as effective, 
+and performs as well as or better than the predicate device. 
+ 
+A clinical sample evaluation by an ABR -certified radiologist was completed to evaluate th e 
+imaging performance of Nanox.ARC. 
+ 
+The objective of the evaluation was to define whether Nanox.ARC Tomosynthesis, when 
+performed as an adjunct to conventional radiography of the musculoskeletal system, is of 
+diagnostic quality. 
+ 
+This evaluation was done against a reference comparison which was the standard of care 
+radiographies.  
+ 
+Nine (9) Digital Tomosynthesis image cases were acquired from healthy adult human subjects 
+(patients) from a clinical study conducted at Shamir Medical Center in Israel. 
+ 
+In addition, twelve (12) Digital Tomosynthesis phantom performance exams were captured.  
+The acquired clinical exams met the inclusion/exclusion criteria. X-ray images were acquired 
+using appropriate device dependent exposure for Digital Tomosynthesis acquisitions. 
+ 
+ 
+ 
+12 Bench Testing 
+Bench tests were performed in a laboratory setup, demonstrating that the Nanox.ARC device meets 
+all specifications as required for intended use. All tests were performed in accordance with written 
+protocols using calibrated equipment.  
+ 
+The set of non -clinical evaluations was conducted on assembled Nanox.ARC device units or 
+(where applicable) system components. The bench tests were based on applicable standards and 
+guidance documents and Company-conducted risk analysis activities.    
+The tests summarized below include methods, procedures, acceptance criteria, results , and 
+conclusions. All design control documents, including test reports, are referenced on file at   Nano-
+X Ltd. in accordance with 21 CFR 820.30.  
+ 
+The following tests were performed:  
+ 
+ 
+ 
+Nanox.ARC Traditional 510(k)  
+VOL 005 510(k) Summary  
+ Page 8 of 9   
+ 
+Table 2: Non-clinical Performance Data 
+Test Test description Result 
+System Electrical 
+Qualification 
+Verify that Nanox.ARC electrical qualification is according to 
+system 
+PASS 
+System Performance Evaluate Nanox.ARC motion resolution and accuracy 
+performance  
+PASS 
+System Longevity & 
+Consistency 
+Verify that the Nanox.ARC Table and ARC lifetime and 
+consistency is according to system spec. 
+PASS 
+Tube Longevity and 
+Reliability 
+Verify that the Nanox.ARC Tubes lifetime and consistency is 
+according to System spec. 
+PASS 
+Functional Verification  Verify that the Nanox.ARC Tubes’ lifetime and consistency are 
+according to system spec. 
+PASS 
+Motion Control  Verify the stability of Nanox.ARC motion in precise linear and 
+angular movements is according to specification  
+PASS 
+Detector and image 
+acquisition   
+Verify the key functionality of the detector as well as the system 
+imaging properties. 
+PASS 
+Usability Summative  Demonstrate that after training, when used by intended users in 
+the expected use environment, the Nanox.ARC system can be 
+used safely and effectively without producing patterns of failures 
+that could result in negative clinical impact, injury to patients and 
+users, or damage to the device. Tested using FDA guidance,  
+IEC 62366-1 and ISO 14971 
+PASS 
+Transportation  Ensure the packing allows for safe transportation of the Nanox 
+ARC while preventing damage to it, using ASTM D4169; ISTA 
+1H; IEC 60068-2; IEC 60068-2-64 
+PASS 
+Dimensional and 
+Mechanical Properties 
+Verify Dimensional and Mechanical properties of Nanox.ARC 
+system as defined in System requirement Specification 
+documentation. 
+PASS 
+Image Quality Verify that the key functionality of the detector as well as the 
+system imaging properties is as defined in System requirement 
+Specification documentation: 
+PASS 
+Phantom Validation  Evaluation of the system performance in comparison with the 
+predicate system in terms of diagnostic quality. 
+PASS 
+Software verification and 
+validation using FDA 
+Guidance; IEC 62304  
+The device meets design and cybersecurity requirements PASS 
+21 CFR 1020.30 and  
+21 CFR 1020.31 
+Nanox.ARC is compliant to the FDA Subchapter J mandated 
+performance standard  
+PASS 
+Electrical Safety & EMC 
+IEC 60601-1  
+IEC 60601-1-2 
+Conformance to electromagnetic compatibility standards, 
+accompanied by certificate 
+PASS 
+Radiation Safety  
+IEC 60601-1-3  
+IEC 60601-2-28 
+IEC 60601-2-54 
+Conformance to electromagnetic compatibility standards, 
+accompanied by certificate 
+PASS 
+Biocompatibility using FDA 
+guidance, ISO 10993-1 
+Conformance to recognized biocompatibility standards supported 
+by Biological Risk Assessment.  
+PASS 
+ 
+13 Substantial Equivalence Conclusions 
+ 
+ 
+Utilizing FDA's Substantial Equivalence Decision Flowchart, the following was concluded: 
+ 
+• The subject device has the same intended use and similar indications for use as the predicate 
+device 
+• The subject device has similar technological characteristics to the predicate device  
+• The different characteristics do not raise new or different safety or effectiveness questions 
+• Acceptable scientific methods exist for assessing the new characteristics 

@@ -1,0 +1,575 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 22, 2026 
+ 
+Replasia BV 
+℅ Carl Lierde 
+Consultant for Replasia 
+Aucto BV 
+Brusselsesteenweg 560 
+Meerbeke, Oost-Vlaanderen 9402 
+Belgium 
+ 
+Re:  K262442 
+Trade/Device Name: HipStudio Analysis 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  July 20, 2026 
+Received:  July 20, 2026 
+ 
+Dear Carl Lierde: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K262442 - Carl Lierde Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K262442 - Carl Lierde Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+Jessica Lamb, PhD 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+ 
+
+Indications for Use 
+Please type in the marketing application/submission number, if it is known. This 1<262442 ? textbox will be left blank for original applications/submissions. 
+Please provide the device trade name(s). ? 
+HipStudio Analysis 
+Please provide your Indications for Use below. ? 
+HipStudio Simulation Service is an online image analysis service indicated for skeletally 
+mature individuals that are suspected of suffering from symptomatic or asymptomatic hip 
+conditions including but not limited to developmental dysplasia of the hip (DOH) and 
+femoroacetabular impingement (FAI). 
+It enables clinicians to obtain 30 motion simulation reports based on CT image data. 
+The service can be used by uploading CT image data of hip joints. 
+The image data is processed by Replasia to create 30 anatomy models. These 30 models 
+are then used to perform 30 motion simulations of the hip joint for different treatment 
+approaches and to calculate bone-to-bone contact points where impingement occurs. 
+The HipStudio Simulation Service also calculates several morphological shape parameters 
+for each of the 30 anatomy models. 
+The software generates a report as output. Clinicians do not interact with the image analysis 
+software directly. The image analysis software is only operated by Replasia operators who 
+have been specifically trained for this purpose. End users of the generated HipStudio 
+Simulation Service reports are trained medical professionals, including radiologists and 
+orthopedic surqeons. 
+Please select the types of uses (select one or both, as !X] Prescription Use (21 CFR 801 Subpart 0 ) 
+applicable). D Over-The-Counter Use (21 CFR 801 Subpart C) ? 
+Please select the age group(s) for which the device(s) is D Neonates/Newborns (Birth to < 29 days old) 
+to be used. D Infants (29 days old to < 2 years old) 
+D Children (2 years old to < 12 years old) ? 
+[gl Adolescents (12 years old to< 22 years old) 
+[:gl Adults (22 years old and greater) 
+ 
+Replasia HipStudio Simulation Service 
+1
+510(k) SUMMARY 
+HipStudio Simulation Service 
+1. Submitter Information
+Replasia BV 
+Interleuvenlaan 62 box 26 
+3001 Leuven 
+Belgium 
+Contact Person: Carl Van Lierde 
+Telephone Number: +32 485 71 81 85
+ Date Prepared:  18 July 2026 
+2. Device Name
+Development Name (submission): HipStudio Simulation Service* 
+Commercial Trade Name:    HipStudio Analysis      
+Classification Name: System, Image Processing, Radiological 
+Regulation Number: 21 CFR 892.2050 
+Device Class: Class II 
+Product Code:  LLZ 
+Classification Panel:  Radiology 
+(*) The device was developed under the name "HipStudio Simulatio Service” and will be marketed under 
+the trade name "HipStudio Analysis" 
+3. Predicate and reference devices
+Predicate device:  
+Move Forward 3D Motion Simulation Service, Zimmer Biomet [K162559]. 
+Reference device:  
+HipCheck, Stryker [K230045]. 
+4. Description of Device
+The HipStudio Simulation Service  is an online image analysis service  developed by Replasia to 
+support the evaluation, treatment assessment and follow-up of hip conditions in skeletally mature 
+individuals. It is primarily designed to assist with symptomatic and asymptomatic hip conditions 
+including Developmental Dysplasia of the Hip (DDH) and Femoroacetabular Impingement (FAI). 
+The service aims to: 
+K262442
+ Pre-Submission request  
+Replasia  HipStudio Simulation Service 
+ 
+  2
+ perform detailed analyses and kinematic simulations of the patient’s anatomy, generating 
+clinically relevant data for assessing hip conditions. 
+ simulate treatment approaches for various hip conditions, including surgical procedures like 
+the removal of bone parts for FAI. It also supports non-surgical treatments. 
+The service workflow consists of three steps: 
+1. Case creation and incoming data inspection 
+2. Image segmentation and 3D model generation 
+3. HipStudio analysis and treatment assessment 
+Case creation and incoming data inspection 
+The HipStudio Simulation Service uses the LiquidFiles software application for communication 
+and data exchange with the treating physician.  Clinical cases are initiated by the treating 
+physician through the secure file transfer portal, which supports end-to-end encryption and full 
+audit logging. Upon upload, imaging data (i.e. CT scan data) are transmitted via encrypted 
+channels and stored in a controlled-access environment.   
+Authorized, trained Replasia personnel access the data to perform an initial technical quality 
+check to confirm suitability for the intended analysis. 
+Immediately thereafter, all datasets undergo a structured pseudonymization process  using 
+Mimics software from Materialise [K073468], in which direct identifiers are removed or replaced. 
+Following successful pseudonymization, the original identifiable files are permanently deleted in 
+accordance with data minimization policies.  
+All processing steps are conducted under strict access controls and user authentication to 
+ensure compliance with applicable data protection and medical data security requirements. 
+Image segmentation and 3D model generation   
+The pseudonymized CT images are processed by Replasia using Mimics software from 
+Materialise [K073468].  During this step, the anatomical structures of the hip are delineated in 
+the grayscale images, based on Hounsfield units, texture and shape.  Next, three-dimensional 
+representations (i.e. 3D models) of said structures are calculated by the software.  These serve 
+as input for the third and final step.  
+HipStudio analysis and treatment assessment 
+In this step, proprietary Replasia software, HipStudio is used by trained Replasia personnel to 
+analyze the joint’s morphology, perform kinematic simulations and virtually simulate (surgical 
+and/or non-surgical) hip preservation treatments using the previously generated three-
+dimensional representations of the hip anatomy.  Clinicians do not interact with the analysis 
+software directly.   
+HipStudio generates a comprehensive digital report based on the performed analyses.  The 
+report is shared with the treating physician through the LiquidFiles platform. If necessary, a 
+separate online session is organized to discuss the results of the analysis with the surgeon.  
+ 
+ 
+ Pre-Submission request  
+Replasia  HipStudio Simulation Service 
+ 
+  3
+ 
+5. Indications for Use: 
+ 
+HipStudio Simulation Service is an online image analysis service indicated for skeletally mature 
+individuals that are suspected of suffering from symptomatic or asymptomatic hip conditions 
+including but not limited to developmental dysplasia of the hip (DDH) and femoroacetabular 
+impingement (FAI).   
+It enables clinicians to obtain 3D motion simulation reports based on CT image data. 
+The service can be used by uploading CT image data of hip joints. 
+The image data is processed by Replasia to create 3D anatomy models. These 3D models are then 
+used to perform 3D motion simulations of the hip joint for different treatment approaches and to 
+calculate bone-to-bone contact points where impingement occurs.  
+The HipStudio Simulation Service also calculates several morphological shape parameters for each 
+of the 3D anatomy models.  
+The software generates a report as output. Clinicians do not interact with the image analysis software 
+directly. The image analysis software is only operated by Replasia operators who have been 
+specifically trained for this purpose. End users of the generated HipStudio Simulation Service reports 
+are trained medical professionals, including radiologists and orthopedic surgeons. 
+ 
+6. Substantial Equivalence: 
+ 
+Element HipStudio  Forward 3D Motion (predicate) 
+Nature of the 
+service  
+Service to support—but not replace—
+clinical judgment in diagnosing and 
+treatment planning of hip conditions by 
+delivering of a report containing: 
+ calculated morphological 
+parameters (quantitative 
+measures) of the hip anatomy 
+ 3D motion simulation analysis 
+results (incl. range of motion) 
+Service to support—but not replace—
+clinical judgment in diagnosing and 
+treatment planning of hip conditions by 
+delivering of a report containing: 
+ calculated morphological 
+parameters (quantitative 
+measures) of the hip anatomy 
+ 3D motion simulation analysis 
+results (incl. range of motion) 
+Role in clinical 
+workflow Analysis of medical images Analysis of medical images 
+Input CT images of the hip joint. CT and/or MRI images of the hip joint. 
+Output 
+characteristics 
+ Automated report generation in .pdf 
+format. 
+ Structured report containing 
+measurements presented in 
+graphical format including 
+annotations on images   
+ Automated report generation in .pdf 
+format (with embedded; interactive 
+3D viewer). 
+ Structured report containing 
+measurements presented in 
+graphical format including 
+annotations on images   
+Key functions  Femoral head coverage 
+ Femur morphology 
+ Acetabulum morphology 
+ Pelvic orientation 
+ Range of motion 
+ CAM Deformity Assessment incl. 
+alpha-angle 
+ Femoral head coverage 
+ Femur morphology 
+ Acetabulum morphology 
+ Pelvic orientation 
+ Range of motion 
+ CAM Deformity Assessment incl. 
+alpha-angle 
+ Pre-Submission request  
+Replasia  HipStudio Simulation Service 
+ 
+  4
+Processing 
+logic 
+ Cloud-based c ase communication 
+and data exchange (LiquidFiles) 
+ Image segmentation and 3D model 
+generation (Mimics software from 
+Materialise K073468).   
+ Morphological analysis and 
+treatment assessment (HipStudio 
+software) 
+ Report generation (HipStudio 
+software) 
+ Report delivery (Liquidfiles) 
+ 
+ Cloud-based case communication 
+and data exchange (Forward 3D 
+Motion) 
+ Image segmentation and 3D model 
+generation  
+ Morphological analysis and 
+treatment assessment (Forward 3D 
+Motion) 
+ Report generation (Forward 3D 
+Motion) 
+ Report delivery 
+ 
+Core 
+algorithms  
+(in analysis 
+software) 
+ By default the pelvis is kept in the as-
+scanned (typically supine) position 
+for the analyses. A correction of the 
+pelvis orientation can be applied if 
+desired to simulate a corrected 
+standing or other functional position, 
+using the measured spinopelvic tilt 
+on X-Ray in that position. 
+ The femur orientation is corrected to 
+a neutral position following the ISB 
+hip joint coordinate system, before 
+the analyses are performed.  
+ Before the analyses are performed, 
+the pelvis orientation is corrected 
+following the ISB hip joint coordinate 
+system.  
+ 
+ 
+ The femur orientation is corrected to 
+a neutral position following the ISB 
+hip joint coordinate system, before 
+the analyses are performed.  
+ Femoral head coverage calculated 
+as a true 3D coverage by (i) drawing 
+lines through each point on the 
+acetabular rim on one hand and the 
+femoral head center on the other 
+hand, and calculating the 
+intersecting points of these lines with 
+the sphere fitted on the femoral 
+head, (ii) connecting the intersecting 
+points by a curve to mark the 
+coverage on the sphere. The 
+percentage coverage is computed 
+between the surface area of the 
+projected curve and the total sphere 
+surface area.  
+ Femoral head coverage calculated 
+by projecting acetabular rim points 
+toward the femoral head center and 
+onto the horizontal plane, forming a 
+curved line across the projected 
+sphere fitted on the femoral head. 
+The percentage coverage is 
+computed from the overlap area 
+between the curve and circle. 
+ Lateral center edge angle calculated 
+at the 12 o’clock (vertical) position.   
+ The LCEA is measured at 3 discrete 
+positions: 11, 12 and 1 o’clock.  
+ Measurement of Tonnis angle / 
+Sourcil angle, using 3D landmarks 
+ Measurement of Tonnis angle / 
+Sourcil angle, using landmarks 
+identifiable on a 2D radiograph 
+ Determination of femoral head 
+diameter by fitting a sphere onto the 
+femoral head surface 
+ Determination of femoral head 
+diameter by fitting a sphere onto the 
+femoral head surface 
+ Pre-Submission request  
+Replasia  HipStudio Simulation Service 
+ 
+  5
+  Measurement of the 2D acetabular 
+version as the angle between a line 
+connecting the anterior acetabular 
+margin with the posterior acetabular 
+margin in the 2D plane, and the 
+sagittal/anteroposterior axis. 
+ Measurement of 3D acetabular 
+anteversion by defining the 
+acetabular axis as the weighted 
+average of normal vectors within the 
+acetabular cavity. The anteversion is 
+then calculated as the angle 
+between this axis projected in the 
+transverse plane and the coronal 
+plane. 
+ 
+ Measurement of (2D) acetabular 
+anteversion utilizing digital 
+reconstructed radiographs to 
+determine the version in a 2D 
+horizontal plane. Acetabular version 
+is measured as the angle between a 
+line connecting the anterior 
+acetabular margin with the posterior 
+acetabular margin in the 2D plane, 
+and the sagittal/anteroposterior axis. 
+  Range of motion simulation using 
+the Equidistant Method (“ The 
+Equidistant Method – a novel hip 
+joint simulation algorithm for 
+detection of femoro-acetabular 
+impingement”, Marc Puls et al. 
+Computer Aided Surgery, August–
+December 2010; 15(4–6): 75–82) 
+ Range of motion simulation using 
+the Equidistant Method (“ The 
+Equidistant Method – a novel hip 
+joint simulation algorithm for 
+detection of femoro-acetabular 
+impingement”, Marc Puls et al. 
+Computer Aided Surgery, August–
+December 2010; 15(4–6): 75–82) 
+  
+ Pincer FAI: the excess bone on 
+acetabular side potentially causing 
+FAI is determined by comparing the 
+marked acetabular rim with the 
+acetabular rim shape of healthy hip 
+joints as reported in scientific 
+literature.  
+ CAM FAI: the excess bone on the 
+proximal femur side that potentially 
+causes FAI is determined by 
+comparing the shape of the patient’s 
+proximal femur with that of the 
+reconstructed healthy shape of the 
+proximal femur for that specific 
+patient. The reconstructed healthy 
+shape is generated by a validated 
+Statistical Shape Model, trained with 
+healthy proximal femur shapes. 
+ 
+ 
+ Pincer and CAM FAI: the excess 
+bone on acetabular and femur side 
+is calculated by simulating hip joint 
+rotation to desired rotation angles 
+and calculating the overlap bone 
+between acetabulum and proximal 
+femur. The desired rotation angles 
+are based on the average range of 
+motion of healthy hip joints. 
+Deployment 
+and Delivery 
+Mechanism 
+Service using a controlled-access web 
+interface (LiquidFiles) 
+Online service, access via web portal 
+(Forward 3D Motion) 
+Interface 
+usability and 
+interaction 
+ Interaction through the LiquidFiles 
+web interface 
+ Static .pdf report  
+ Interaction through the Forward 3D 
+Motion web interface 
+ .pdf report with interactive 3D viewer 
+ Pre-Submission request  
+Replasia  HipStudio Simulation Service 
+ 
+  6
+Throughput 
+time for service 
+ 
+ 3 days  Unknown (services no longer 
+commercially offered) 
+ 
+7. Non-Clinical Performance Data. 
+ 
+The non-clinical performance of the HipStudio Simulation Service was evaluated through a 
+comprehensive V&V program conducted in accordance with applicable FDA guidance for 
+quantitative imaging devices, recognized consensus standards, and Replasia's quality 
+management system. 
+The HipStudio Simulation Service incorporates three software applications within its workflow: 
+LiquidFiles, Mimics, and HipStudio. LiquidFiles is a commercially available secure file transfer 
+application used for encrypted communication between Replasia and the treating physician. 
+Mimics (Materialise NV; FDA-cleared under K073468) is a commercially available medical image 
+processing software application used for pseudonymization, image segmentation, and generation 
+of patient-specific three-dimensional anatomical models from CT and/or MR image data. 
+HipStudio is proprietary software developed by Replasia and is used by trained Replasia 
+personnel to perform anatomical measurements, kinematic simulations, impingement analyses, 
+and generation of the HipStudio Simulation Service report. 
+The HipStudio software was developed in accordance with IEC 62304:2006+A1:2015 and has 
+been classified as Moderate Level of Concern software consistent with applicable FDA guidance. 
+Software verification and validation activities were performed for the commercial release version 
+(v1.4) and included functional verification, verification of generated report outputs, and 
+cybersecurity verification. 
+Technical performance testing included evaluation of segmentation accuracy, algorithmic 
+accuracy, repeatability, reproducibility, statistical shape model validation, report output 
+verification, usability validation, clinical association validation, and predicate output equivalence. 
+Segmentation accuracy was supported by published validation studies demonstrating sub-
+millimeter accuracy of the upstream segmentation process performed using Mimics. Algorithmic 
+accuracy testing using a Digital Reference Object demonstrated exact agreement between 
+software-generated measurements and predefined ground truth values. Repeatability and 
+reproducibility testing demonstrated acceptable precision and consistency for evaluated 
+quantitative measurements and simulation outputs.  
+Clinical association was established through a structured literature-based clinical association 
+matrix that mapped each reported parameter and simulation output to established clinical 
+concepts used in the assessment and treatment planning of hip disorders. The clinical association 
+matrix was independently reviewed by six experienced orthopedic hip surgeons, all of whom 
+confirmed that the reported parameters are clinically recognized, relevant to hip morphology 
+assessment and treatment planning, and presented in a clinically interpretable manner. 
+Usability testing demonstrated that intended users could correctly interpret the information 
+presented in the generated reports. Predicate output equivalence testing demonstrated 
+comparable report content, quantitative measurements, and clinical information between the 
+ Pre-Submission request  
+Replasia  HipStudio Simulation Service 
+ 
+  7
+HipStudio Simulation Service and the predicate device.Collectively, the non-clinical performance 
+testing demonstrated that the HipStudio Simulation Service performs as intended and provides 
+accurate, reliable, and clinically relevant quantitative outputs to support the assessment, 
+simulation, and preoperative planning of hip conditions. 
+The non-clinical performance testing demonstrated that the HipStudio Simulation Service 
+performs as intended. The results support the accuracy and reliability of the generated 
+measurements, simulation outputs, and reports and demonstrate that the device provides 
+information that is technically valid, clinically associated with established orthopedic concepts, 
+and appropriate to support qualified healthcare professionals in the assessment and preoperative 
+planning of hip conditions within the device's intended use. 
+ 
+8. Clinical Performance Data. 
+ 
+No data from human clinical studies has been included to support the substantial equivalence 
+of the HipStudio Simulation Service. 
+ 
+9. Conclusion Regarding Substantial Equivalence 
+ 
+Based on comprehensive non-clinical evaluation, including bench testing, software verification 
+and validation, and analytical performance assessments, the HipStudio Simulation Service has 
+been demonstrated to meet all predefined acceptance criteria and applicable standards. The 
+results confirm that the device performs as intended under expected conditions of use, with 
+accuracy, reliability, and reproducibility comparable to those of the identified predicate device 
+i.e. Move Forward 3D Motion Simulation Service [K162559]. 
+No new or increased risks were identified, and all potential hazards have been appropriately 
+mitigated through design controls and risk management measures.  

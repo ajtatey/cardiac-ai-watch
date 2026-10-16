@@ -1,0 +1,617 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 06 . 0 5  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+November 25, 2023 
+ 
+ 
+Anumana, Inc. 
+Animesh Agarwal 
+VP of Product Management 
+1 Main St. 
+East Arcade, 4th Floor 
+Cambridge, Massachusetts 01242 
+ 
+ 
+Re:  K233160 
+Trade/Device Name: NeuTrace EP Mapping System v.2.1 
+Regulation Number:  21 CFR 870.1425 
+Regulation Name:  Programmable diagnostic computer 
+Regulatory Class:  Class II 
+Product Code:  DQK 
+Dated:  September 27, 2023 
+Received:  September 27, 2023 
+ 
+Dear Animesh Agarwal: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+ 
+
+K233160 - Animesh Agarwal  Page 2 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part 
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming 
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a 
+change requires premarket review, the QS regulation requires device manufacturers to review and approve 
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and 
+approvals in the device master record (21 CFR 820.181).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart 
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections 
+531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Aneesh Deoras 
+Assistant Director 
+Division of Cardiac Electrophysiology,  
+Aneesh S. Deoras -S
+K233160 - Animesh Agarwal  Page 3 
+ 
+    Diagnostics and Monitoring Devices 
+Office of Cardiovascular Devices 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration 
+Indications for Use 
+Form Approved: OMB No. 0910-0120 
+Expiration Date: 07/31/2026 
+See PRA Statement below. 
+ 
+510(k) Number (if known) 
+K233160 
+ 
+Device Name 
+NeuTrace EP Mapping System v.2.1 
+ 
+ 
+Indications for Use (Describe) 
+The NeuTrace EP Mapping System v2.1 is indicated for catheter-based cardiac electrophysiological (EP) procedures. The 
+NeuTrace EP Mapping System v2.1 provides information about the electrical activity of the heart and about catheter 
+location during the procedure. The system can be used on patients who are eligible for a conventional electrophysiological 
+procedure in the right atrium. The system has no special contraindications. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Type of Use (Select one or both, as applicable) 
+ Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+ 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+ 
+This section applies only to requirements of the Paperwork Reduction Act of 1995. 
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.* 
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete 
+and review the collection of information. Send comments regarding this burden estimate or any other aspect 
+of this information collection, including suggestions for reducing this burden, to: 
+Department of Health and Human Services 
+Food and Drug Administration 
+Office of Chief Information Officer 
+Paperwork Reduction Act (PRA) Staff 
+PRAStaff@fda.hhs.gov 
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.” 
+ 
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF 
+ 
+ 
+510k Summary 
+K233160 
+Neutrace EP Mapping System v.2.1 
+ 
+K233160 – 510(k) Summary      Page 1 of 6 
+ 
+Anumana, Inc. · One Main Street, Suite 400, East Arcade 4th Floor, Cambridge, MA 02142 
+510(k) Number K233160 
+510(k) Type Traditional 
+Date Prepared November 22, 2023 
+Applicant: Anumana Inc.  
+One Main Street, Suite 400 
+East Arcade 4th Floor, Cambridge MA 02142 
+Contact Persons: Suzanne Goodman  
+Vice President of Quality and Regulatory 
+Sgoodman@nference.net 
+(919) 608-6082 
+ 
+Animesh Agarwal 
+Vice President of Product Management  
+animesh.agarwal@nference.net 
+(267) 945-3387 
+  
+Trade Name NeuTrace EP Mapping System v.2.1 
+Common Name Programmable diagnostic computer  
+Class II 
+Regulation Number 21 CFR 870.1425 Computer, diagnostic, programmable 
+Product Code DQK  
+Predicate Device CARTO 3 EP Navigation System (K133916) 
+Reference Device: EnSite X EP System (K202066) 
+ 
+ 
+K233160 510(k) Summary       Page 2 of 6 
+ 
+Anumana, Inc. · One Main Street, Suite 400, East Arcade 4th Floor, Cambridge, MA 02142 
+Device Description 
+ 
+The NeuTrace EP Mapping System v2.1 (NeuTrace System) is an advanced 3D 
+electroanatomical mapping (EAM) and analysis system capable of: 
+ 
+● Displaying catheter location during electrophysiology mapping procedures  
+● Displaying 3D images of cardiac structures 
+● Displaying cardiac activity signals as waveforms (ECGs and EGMs) 
+● Displaying derived voltage and time metric overlays over cardiac models - 
+including Peak-to-Peak Voltage, Local Activation Time (LAT), Fractionation, 
+and Minimum dV/dt 
+ 
+The NeuTrace System comprises the following software and hardware components: 
+ 
+● NeuTrace Workstation 
+● Window field generator 
+● System control unit 
+● System interface unit  
+● Interface switches and connection cables 
+● NeuTrace Software Application v2.1 
+● NeuTrace Streaming Application Software v2.0 
+ 
+The NeuTrace System is used together with compatible recording systems and 
+compatible catheters listed in the device labeling to perform its intended use to 
+support electrophysiology procedures in the right atrium. 
+ 
+Indications For Use 
+ 
+The NeuTrace EP Mapping System v2.1 is indicated for catheter-based cardiac 
+electrophysiological (EP) procedures. The NeuTrace EP Mapping System v2.1 
+provides information about the electrical activity of the heart and about catheter 
+location during the procedure. The system can be used on patients who are eligible 
+for a conventional electrophysiological procedure in the right atrium. The system has 
+no special contraindications. 
+ 
+Predicate Comparison 
+ 
+The predicate device chosen for the NeuTrace EP Mapping System v2.1 (NeuTrace 
+System) is the Biosense Webster CARTO 3 EP Navigation System (K133916). The 
+selected reference device for the NeuTrace System is the Abbott EnSite X EP System 
+(K202066).  The NeuTrace System has the same intended use, technological 
+characteristics, and principles of operation as the CARTO 3 EP Navigation System. 
+The EnSite X EP System was added as a reference device to the NeuTrace System 
+because it is a Class II electroanatomical navigation and mapping system under the 
+same regulatory classification, utilizes similar magnetic-based localization, and has 
+ 
+K233160 510(k) Summary       Page 3 of 6 
+ 
+Anumana, Inc. · One Main Street, Suite 400, East Arcade 4th Floor, Cambridge, MA 02142 
+similar catheter compatibility. The NeuTrace System is compared to the predicate and 
+reference devices in the table below. 
+ 
+ NeuTrace EP 
+Mapping System 
+v2.1 
+(NeuTrace System) 
+Subject of this 
+510(k) 
+Biosense Webster’s 
+CARTO 3 EP 
+Navigation System 
+(CARTO 3 System) 
+(Predicate Device) 
+ EnSite X EP 
+System 
+ 
+(Reference Device) 
+Comments 
+510(k) K233160 K133916 
+ 
+K202066 N/A 
+Device class II II II Same 
+Classification Programmable 
+diagnostic-computer 
+Class II; 21 CFR, 
+870.1425 
+Programmable 
+diagnostic-computer 
+Class II; 21 CFR, 
+870.1425 
+Programmable 
+Diagnostic Computer 
+Class II; 21 CFR 
+870.1425 
+Same 
+Product code DQK DQK DQK Same 
+Indications/ 
+Intended use 
+The NeuTrace EP 
+Mapping System 
+v2.1 is indicated for 
+catheter-based 
+cardiac 
+electrophysiological 
+(EP) procedures. The 
+NeuTrace EP 
+Mapping System 
+v2.1 provides 
+information about 
+the electrical activity 
+of the heart and 
+about catheter 
+location during the 
+procedure. The 
+system can be used 
+on patients who are 
+eligible for a 
+conventional 
+electrophysiological 
+procedure in the 
+right atrium. The 
+system has no 
+special 
+contraindications. 
+ 
+The intended use of 
+the CARTO 3 System 
+is catheter-based 
+cardiac 
+electrophysiological 
+(EP) procedures. The 
+CARTO 3 System 
+provides information 
+about the electrical 
+activity of the heart 
+and about catheter 
+location during the 
+procedure. The 
+system can be used 
+on patients who are 
+eligible for a 
+conventional 
+electrophysiological 
+procedure. The 
+system has no special 
+contraindications. 
+ 
+The EnSite™ X EP 
+System is a suggested 
+diagnostic tool in 
+patients for whom 
+electrophysiology 
+studies have been 
+indicated. The 
+EnSite™ X EP 
+System provides 
+information about the 
+electrical activity of 
+the heart and displays 
+catheter location 
+during conventional 
+electrophysiological 
+(EP) procedures. 
+Same 
+ 
+K233160 510(k) Summary       Page 4 of 6 
+ 
+Anumana, Inc. · One Main Street, Suite 400, East Arcade 4th Floor, Cambridge, MA 02142 
+ NeuTrace EP 
+Mapping System 
+v2.1 
+(NeuTrace System) 
+Subject of this 
+510(k) 
+Biosense Webster’s 
+CARTO 3 EP 
+Navigation System 
+(CARTO 3 System) 
+(Predicate Device) 
+ EnSite X EP 
+System 
+ 
+(Reference Device) 
+Comments 
+Intended 
+users 
+EP’s and EP lab staff 
+trained on the use of 
+the system 
+EP’s and EP lab staff 
+trained on the use of 
+the system 
+EP’s and EP lab staff 
+trained on the use of 
+the system 
+Same 
+System 
+Components 
+1. Sensor Interface 
+Unit & Sensor 
+Control Unit  
+2. Workstation with 
+Graphic User 
+Interface 
+3. Keyboard, and 
+mouse 
+4. Power Supply 
+5. Monitor  
+6. Window Field 
+Generator  
+7. Interface switches 
+and conn. cables  
+1. Patient Interface 
+Unit (PIU) 
+2. Workstation with 
+Graphic User 
+Interface 
+3. Keyboard, and 
+mouse 
+4. Power Supply 
+5. Monitor 
+6. Location Pad 
+7. Patches & 
+Connection Box  
+8. Foot pedals  
+ 
+1. Amplifier with 
+associated modules 
+2. Workstation with 
+monitors and 
+isolation 
+transformer 
+3. Optional printer 
+4. Field Frame 
+Generator 
+5. Catheter Input 
+Modules 
+6. Patient Reference 
+Sensors 
+7. ECG cable. 
+ 
+Similar. The 
+component 
+differences 
+do not affect 
+the intended 
+use. 
+ 
+ 
+Principles of 
+operation/ 
+location 
+technology 
+Magnetic-based 
+localization 
+ 
+Secondary: 
+n/a 
+Magnetic-based 
+localization 
+ 
+Secondary: 
+impedance-based 
+localization  
+Magnetic-Based 
+localization 
+ 
+Secondary: 
+impedance-based 
+localization 
+Less 
+accurate 
+impedance 
+mode is not 
+required for 
+the same 
+intended use 
+Compatible 
+Catheters  
+1. FlexAbility™ 
+Ablation Catheter, 
+Sensor Enabled™ 
+ 
+2. n/a 
+1.Specialized catheters 
+with integrated 
+magnetic sensor 
+ 
+2.Conventional 
+catheters (w/o 
+magnetic sensors)  
+1.Specialized catheters 
+with integrated 
+magnetic sensor 
+  
+2.Conventional 
+catheters (w/o 
+magnetic sensors)  
+1.Same 
+ 
+ 
+ 
+2. Not req’d 
+for the same 
+intended 
+use. 
+ 
+Acquisition 
+of data 
+points 
+Manual or automatic Manual or automatic Manual or automatic Same 
+ 
+K233160 510(k) Summary       Page 5 of 6 
+ 
+Anumana, Inc. · One Main Street, Suite 400, East Arcade 4th Floor, Cambridge, MA 02142 
+ NeuTrace EP 
+Mapping System 
+v2.1 
+(NeuTrace System) 
+Subject of this 
+510(k) 
+Biosense Webster’s 
+CARTO 3 EP 
+Navigation System 
+(CARTO 3 System) 
+(Predicate Device) 
+ EnSite X EP 
+System 
+ 
+(Reference Device) 
+Comments 
+3D Geometry 
+mapping  
+Yes Yes Yes Same 
+Electrograms 
+for activation 
+and voltage 
+mapping 
+Yes. Local 
+Activation Time 
+maps, voltage maps, 
+propagation maps, & 
+fractionation maps 
+Yes, Local Activation 
+Time maps, voltage 
+maps, impedance 
+maps, and 
+propagation maps 
+Yes, Local Activation 
+Time maps, voltage 
+maps, impedance 
+maps, and 
+propagation maps 
+Similar - 
+NeuTrace does 
+not include the 
+lower accuracy 
+Impedance 
+maps  
+Ablation 
+lesion 
+visualization 
+and tagging  
+Yes Yes, optional 
+(Visitag Module) 
+Yes  Same 
+Compatible 
+with an RF 
+generator 
+Yes Yes Yes Same 
+ 
+Performance Data 
+ 
+Bench testing and a GLP animal study were performed to assure the NeuTrace EP 
+Mapping System v2.1 meets all specifications and user requirements and to demonstrate 
+substantial equivalence with the predicate and reference devices. 
+ 
+Bench Testing 
+● Software Verification and Validation 
+● Hardware Verification including 4-hour shift and drift testing and intrinsic time 
+delay testing 
+● Cybersecurity Risk Management & Testing 
+● EMC/EMI testing per IEC 60601-1 and IEC 60601-1-2 
+● NeuTrace-EnSite accuracy and equivalency testing 
+● NeuTrace-CARTO geometry and mapping equivalency analyses 
+ 
+GLP Animal Study 
+● System performance verification and validation for accuracy, shift, drift, 
+geometry, peak-to-peak voltage maps, local activation time maps, fractionation 
+maps, and summative usability. 
+ 
+Overall, the NeuTrace EP Mapping System v2.1 passed all testing and met all design 
+specifications and user requirements.  Ground-truth accuracy was statistically 
+demonstrated as < 1mm, shift < 1 mm, and drift < 2mm.  Equivalent generation of 3D 
+ 
+K233160 510(k) Summary       Page 6 of 6 
+ 
+Anumana, Inc. · One Main Street, Suite 400, East Arcade 4th Floor, Cambridge, MA 02142 
+geometries and maps compared with the predicate CARTO 3 System was demonstrated.  
+Equivalent accuracy and performance compared with the reference EnSite X System 
+using the FlexAbility™ Ablation Catheter, Sensor Enabled™ catheter was demonstrated.    
+ 
+Statement of Equivalence 
+ 
+The NeuTrace EP Mapping System v2.1, Biosense Webster’s CARTO 3 EP Navigation 
+System (predicate device), and EnSite X EP System (reference device) all have 
+substantially equivalent intended use, technological characteristics, principles of 
+operation, and ground-truth performance. Bench test data and In-vivo preclinical data for 
+the subject device, predicate device, and reference device have been performed to 
+demonstrate substantial equivalence and ground-truth performance. The testing 
+completed and submitted in this Traditional 510(k) provides objective evidence the 
+NeuTrace System is at least as safe and effective and substantially equivalent to the 
+CARTO 3 System. 
+ 

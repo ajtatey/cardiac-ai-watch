@@ -1,0 +1,101 @@
+{
+ "alerted_at": "first-run: covered in brief 2026-10-15",
+ "category": "regulatory",
+ "collected_at": "2026-10-16T02:45:40+00:00",
+ "extra": {
+  "applicant": "Elucid Bioimaging, Inc.",
+  "decision_date": "2026-09-29",
+  "device_name": "Elucid FFR-IQ (B.1)",
+  "historical": false,
+  "k_number": "K262015",
+  "matched_company": "elucid",
+  "product_code": "PJA",
+  "raw": {
+   "address_1": "399 Boylston St., Suite 400",
+   "address_2": "",
+   "advisory_committee": "CV",
+   "advisory_committee_description": "Cardiovascular",
+   "applicant": "Elucid Bioimaging, Inc.",
+   "city": "Boston",
+   "clearance_type": "Traditional",
+   "contact": "Windi  Hary",
+   "country_code": "US",
+   "date_received": "2026-06-15",
+   "decision_code": "SESE",
+   "decision_date": "2026-09-29",
+   "decision_description": "Substantially Equivalent",
+   "device_name": "Elucid FFR-IQ (B.1)",
+   "expedited_review_flag": "",
+   "k_number": "K262015",
+   "openfda": {
+    "device_class": "2",
+    "device_name": "Coronary Vascular Physiologic Simulation Software",
+    "fei_number": [
+     "3021637148",
+     "3025430791"
+    ],
+    "medical_specialty_description": "Cardiovascular",
+    "registration_number": [
+     "3021637148",
+     "3025430791"
+    ],
+    "regulation_number": "870.1415"
+   },
+   "postal_code": "02116",
+   "product_code": "PJA",
+   "review_advisory_committee": "CV",
+   "state": "MA",
+   "statement_or_summary": "Summary",
+   "third_party_flag": "N",
+   "zip_code": "02116"
+  },
+  "regulation_number": "870.1415",
+  "summary_pdf_path": "data/fda_summaries/K262015.pdf",
+  "summary_pdf_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf26/K262015.pdf",
+  "summary_text_path": "data/fda_summaries/K262015.txt"
+ },
+ "id": "fda510k:K262015",
+ "prefilter": {
+  "ai": [
+   "software",
+   "fda",
+   "510\\(k\\)",
+   "clearance"
+  ],
+  "cardiac": [
+   "coronar",
+   "\\bffr"
+  ],
+  "companies": [
+   "elucid"
+  ],
+  "keep": true,
+  "score": 13
+ },
+ "published": "2026-09-29",
+ "reported_in": "2026-10-15",
+ "source": "fda_510k",
+ "status": "triaged",
+ "summary": "510(k) clearance. Applicant: Elucid Bioimaging, Inc.. Device: Elucid FFR-IQ (B.1). Product code PJA (Coronary Vascular Physiologic Simulation Software), regulation 870.1415, class 2. Decision 2026-09-29 (Substantially Equivalent), received 2026-06-15, Traditional pathway. Filed as Summary.",
+ "title": "FDA 510(k) clearance: Elucid Bioimaging, Inc. — Elucid FFR-IQ (B.1) (K262015)",
+ "triage": {
+  "companies": [
+   "elucid",
+   "heartflow",
+   "cleerly"
+  ],
+  "priority": "P0",
+  "relevance": 5,
+  "summary": "FDA cleared Elucid FFR-IQ (B.1) on 2026-09-29 under product code PJA (coronary vascular physiologic simulation software), citing HeartFlow FFRct as predicate. Elucid now holds both a plaque product (PlaqueIQ) and a CT-derived FFR product.",
+  "tags": [
+   "regulatory",
+   "ffr-ct",
+   "ccta",
+   "competitor"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "A second US-cleared CT-FFR product breaks HeartFlow's monopoly in the PJA category and gives Elucid a combined plaque-plus-physiology offer that Cleerly does not currently have. Expect Elucid to pursue the FFR-CT CPT codes (0501T-0504T) alongside plaque codes."
+ },
+ "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K262015"
+}

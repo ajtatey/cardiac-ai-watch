@@ -1,0 +1,274 @@
+ 
+ 
+ 
+ 
+ 
+ 
+April 16, 2025 
+ 
+Nano-x Imaging Ltd. 
+℅ Noa First 
+Ragulatory Affairs Manager 
+94 Em Hamoshavot Road, Brosh building, Ofer Tech Park, 
+PO Box 3486 
+PETAH TIKVA, 4970602 
+ISRAEL 
+ 
+Re:  K250850 
+Trade/Device Name: Nanox.ARC X 
+Regulation Number:  21 CFR 892.1740 
+Regulation Name:  Tomographic x-ray system 
+Regulatory Class:  Class II 
+Product Code:  IZF, MQB 
+Dated:  March 20, 2025 
+Received:  March 21, 2025 
+ 
+Dear Noa First: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K250850 - Noa First Page 2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part 
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming 
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a 
+change requires premarket review, the QS regulation requires device manufacturers to review and approve 
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and 
+approvals in the device master record (21 CFR 820.181).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart 
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections 
+531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K250850 - Noa First Page 3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+Sincerely, 
+Lu Jiang 
+Assistant Director 
+Diagnostic X-ray Systems Team 
+DHT8B: Division of Radiologic Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+Enclosure 
+for
+
+K250850
+K250850 
+04/10/2024 
+510(k) SUMMARY 
+I. SUBMITTER
+Applicant Name: NANO-X Imaging Ltd.
+Applicant Address: 94 Em Hamoshavot Road, Brosh building, Ofer Tech Park,
+PO Box 3486, Petah Tikva, 4970602 Israel
+Applicant Contact Telephone: +972-54-5225792
+Applicant Contact: Ofir Koren, General Manager ARC Division
+Applicant Contact Email: ofir.k@nanox.vision
+Correspondent Contact Telephone: +972-50-4040698
+Correspondent Contact: Noa First, Regulatory Affairs Manager
+Correspondent Contact Email: noa.f@nanox.vision
+II. DEVICE
+Device Trade Name: Nanox.ARC X
+Common Name: System, X-Ray, Tomographic
+Classification Name: Tomographic x-ray system
+Regulati
+on Number: 892.1740
+Product Code(s): IZF, MQB
+III. PREDICATE DEVICE
+Predicate #: K242395
+Predicate Trade Name: Nanox.ARC
+Product Code: IZF, MQB
+IV. DEVICE DESCRIPTION
+Nanox.ARC X is a stationary, floor-mounted, stand-alone digital tomosynthesis system
+intended to produce tomographic images for general use including human musculoskeletal
+system, pulmonary, intra-abdominal, and paranasal sinus indications, from a single
+tomographic sweep. It serves as an adjunct to conventional radiography, for adult patients
+in recumbent positions. The system is intended for use in professional healthcare settings
+such as hospitals, clinics, and imaging centers by trained radiographers, radiologists, and
+physicists
+The Nanox.ARC X includes a secured, dedicated off-the-shelf handheld operator console, a
+multisource, tiltable arc gantry with five identical tubes, a motorized patient table, and a
+flat panel detector of a scintillator-photodetector type. The image reconstruction service
+and DICOMization services can be hosted either locally or as part of the secured
+Nanox.CLOUD, according to customer preference. Nanox.CLOUD also hosts a protocol
+database service package.
+K250850 Nanox.ARC X 
+The Nanox.ARC X X-ray tubes are operated sequentially, one at a time, generating multiple 
+low-dose images acquired from different angles, during a single sweep, dividing the overall 
+power requirements among the tubes. The sweep is performed over a motorized patient 
+table. Patients can be placed in prone, supine, and lateral positions. 
+The acquired projection imaging data is anonymized and automatically reconstructed to 
+form tomographic slices of the imaged object, with each slice parallel to the table plane. 
+The Tomosynthesis image result reduces the effect of overlying structures and provides 
+depth information on structures of interest. The resultant images are re-identified and sent 
+using the DICOM protocol. 
+V. INDICATIONS FOR USE
+Nanox.ARC X is a stationary X-ray system intended to produce tomographic images for
+general use including human musculoskeletal system, pulmonary, intra-abdominal, and
+paranasal sinus indications, adjunctive to conventional radiography, on adult patients.
+This device is intended to be used in professional healthcare facilities or radiological
+environments, such as hospitals, clinics, imaging centers, and other medical practices by
+trained radiographers, radiologists, and physicists.
+Digital Tomosynthesis is used to synthesize tomographic slices from a single tomographic
+sweep. Applications can be performed with the patient in prone, supine, and lateral
+positions.
+This device is not intended for mammographic, angiographic, cardiac, intra-cranial,
+interventional, or fluoroscopic applications. This device is not intended for imaging
+pediatric or neonatal patients.
+VI. INDICATIONS FOR USE COMPARISON
+The subject and the predicate devices have the same indications for use.
+VII. TECHNOLOGICAL CHARACTERISTICS COMPARISON
+Both the subject and predicate devices share the same fundamental operating and
+technological principles.
+Both devices are tomosynthesis-based imaging systems designed to produce tomographic
+images of human anatomy, from a single tomographic sweep, adjunctive to conventional
+radiography, of adult patients in recumbent positions.
+Both devices utilize sequentially activated cold-cathode X-ray sources, with identical
+internal tube geometry and spatial alignment with the same detector, and the
+Nanox.CLOUD reconstruction software.
+The subject device maintains functional and technological equivalence to the predicate
+device while incorporating system-level refinements.
+K250850 Nanox.ARC X 
+Technological Characteristics Comparison Table 
+Item Subject Device 
+K250850 
+Predicate Device 
+K242395 
+SE Justification 
+System 
+Architecture 
+System electronics 
+internally arranged 
+System electronics 
+externally arranged 
+Similar - Both system architectures 
+retain the same functionality and 
+components. 
+Internalization of system electronics 
+previously housed externally to improve 
+system integration and fit within clinical 
+environments; enhanced internal layout 
+with no impact on system functionality 
+ARC Imaging 
+Ring 
+Gantry-based arc 
+structure with 
+square-rounded 
+design 
+Gantry-based arc 
+structure with 
+rounded design 
+Similar -Spatial configuration and 
+internal geometry preserved; enclosure 
+shape adjusted to optimize integration 
+Number of 
+X-ray sources
+Five (5), 
+alternately-
+switched X-ray 
+sources 
+Same - 
+X-ray Tube
+Housing
+Material
+Glass Ceramic 
+Similar -Both systems utilize identical 
+cathode technology, MEMS electron 
+source, anode design, focal spot size, 
+exposure parameters, X-ray field size, 
+and target angle. 
+Modification in housing material; no 
+impact on emission characteristics, 
+cathode technology, exposure range, or 
+performance 
+Patient Weight 
+Allowance  
+150kg / 330 lbs. Same - 
+Patient Table 
+Footprint Optimized footprint Larger footprint Similar -Both tables serve the same function and are motor-driven  
+All modifications have been verified and validated and do not impact safety or 
+effectiveness. 
+ 
+K250850 Nanox.ARC X 
+ 
+ 
+ 
+ 
+VIII. NON-CLINICAL AND/OR CLINICAL TESTS SUMMARY & CONCLUSIONS  
+In order to support substantial equivalence, the following bench testing were performed 
+on the subject device: 
+• System Electrical Qualification  
+• System Performance  
+• Longevity and Consistency  
+• Tube Longevity and Reliability  
+• Functional Verification  
+• Motion Control  
+• Dimensional and Mechanical Properties  
+• Image Quality  
+• Tube Comparison CEI and Nanox Korea 
+• Human Factors Summary 
+• Phantom Validation  
+• Weight Considerations 
+• Transportation  
+• Software Verification and Validation 
+ 
+In all instances, Nanox.ARC X System functioned as intended. 
+ 
+No clinical tests were performed for the subject device. 
+ 
+Based on performance data, the subject device was found to have a safety and 
+effectiveness profile that is similar to the predicate device, demonstrating that the subject 
+device is as safe, as effective, and performs as well as the predicate device. 

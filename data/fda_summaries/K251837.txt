@@ -1,0 +1,748 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 08 . 0 0  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 20, 2025 
+ 
+Artrya Limited 
+Gabriela Quijada 
+Quality and Regulatory Manager 
+1257 Hay Street 
+West Perth 
+Perth, WA 6005 
+Australia 
+ 
+Re:  K251837 
+Trade/Device Name: Salix Coronary Plaque (V1.0.0) 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  June 16, 2025 
+Received:  June 16, 2025 
+ 
+Dear Gabriela Quijada: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+
+K251837 - Gabriela Quijada Page 
+ 
+2 
+ 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part 
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming 
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a 
+change requires premarket review, the QS regulation requires device manufacturers to review and approve 
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and 
+approvals in the device master record (21 CFR 820.181).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart 
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections 
+531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K251837 - Gabriela Quijada Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+Jessica Lamb 
+Assistant Director, Imaging Software Team 
+DHT8B: Division of Radiologic Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2023
+See PRA Statement below.
+510(k) Number (if known)
+K251837
+Device Name
+Salix Coronary Plaque (V1.0.0)
+Indications for Use (Describe)
+Salix Coronary Plaque (V1.0.0) is a web-based, non-invasive software application that is intended to be used for viewing,
+post-processing, and analyzing cardiac computed tomography (CT) images acquired from a CT scanner in a Digital
+Imaging and Communications in Medicine (DICOM) Standard format.
+This software provides cardiologists and radiologists with interactive tools that can be used for viewing and analyzing
+cardiac computed tomography (CT) data for quantification and characterization of coronary plaques (i.e. atherosclerosis),
+stenosis and to perform calcium scoring in non-contrast cardiac CT
+Salix Coronary Plaque (V1.0.0) is intended to complement standard care as an adjunctive tool and is not intended as a
+replacement to a medical professional’s comprehensive diagnostic decision-making process. The software’s semi-
+automated features are intended for an adult population and should only be used by qualified medical professionals
+experienced in examining and evaluating cardiac CT images.
+Users should be aware that certain views make use of interpolated data. These data are created by the software based on
+the original data set. Interpolated data may give the appearance of healthy tissue in situations where pathology that is near
+or smaller than the scanning resolution may be present.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+K251837 
+ 
+510(k) Summary 
+ 
+This summary of 510(k) safety and effectiveness information is submitted in accordance with the 
+requirements of SMDA 1990 and 21 CFR 807.92. 
+ 
+Date Prepared: June 15, 2025 
+ 
+Submitter: Artrya Ltd. 
+ 
+Official Contact: Gabriela Quijada 
+1257 Hay Street 
+West Perth, 6005, Australia 
+Phone: +61 405 653 605 
+ 
+ Secondary Contacts:     Richard M. Stewart, Ph.D. 
+       1230 Rosecrans Ave, Suite 300, PMB 713 
+       Manhattan Beach, CA  90266 
+       Phone: +1 415-735-4165 
+ 
+Proprietary Name: Salix Coronary Plaque (V1.0.0) 
+ 
+Common Name: Automated Radiological Image Processing Software  
+ System, Image Processing, Radiological 
+ 
+Classification: Class II Medical Device 
+Regulation Number: 21 CFR 892.2050 
+Product Codes: QIH, LLZ 
+ 
+Predicate Devices: CaRi-Plaque (K242240) - Primary 
+Salix Central (K243038) - Secondary 
+ 
+Reason For Submission: New Traditional 510(k) 
+ 
+Indications for Use 
+Salix Coronary Plaque (V1.0.0) is a web-based, non-invasive software application that is intended to be 
+used for viewing, post-processing, and analyzing cardiac computed tomography (CT) images acquired from 
+a CT scanner in a Digital Imaging and Communications in Medicine (DICOM) Standa rd format. 
+This software provides cardiologists and radiologists with interactive tools that can be used for viewing and 
+analyzing cardiac computed tomography (CT) data for quantification and characterization of coronary 
+plaques (i.e. atherosclerosis), stenosis and to perform calcium scoring in non-contrast cardiac CT 
+Salix Coronary Plaque (V1.0.0) is intended to complement standard care as an adjunctive tool and is not 
+intended as a replacement to a medical professional’s comprehensive diagnostic decision -making process. 
+The software’s semi-automated features are intended for an adult population and should only be used by 
+qualified medical professionals experienced in examining and evaluating cardiac CT images.  
+Users should be aware that certain views make use of interpolated data. These data are created by the 
+software based on the original data set. Interpolated data may give the appearance of healthy tissue in 
+situations where pathology that is near or smaller than the scanning resolution may be present. 
+ 
+ 
+2 of 10  
+Device Description 
+ 
+Salix Coronary Plaque (K251837) is a web-based software application, hosted on A mazon Web Services 
+cloud computing services, delivered using a SaaS model. The software provides interactive, post -
+processing tools for trained radiologists or cardiologists for viewing, analyzing, and characterizing cardiac 
+computed tomography (CT) image data obtained from a CT scanner.  T he physician -driven coronary 
+analysis is used to review CT image data to prepare a standard coronary report that may include the 
+presence and extent of physician -identified coronary plaques (i.e., atherosclerosis) and stenosis, and 
+assessment of calcium score performed on a non -contrast cardiac CT scan.  The Cardiac CT image data 
+are physician-ordered and typically obtained from patients who underwent CCTA or CAC CT for evaluation 
+of CAD or suspected CAD.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 of 10  
+ 
+Substantial Equivalence Discussion 
+Salix Coronary Plaque (SCP) is substantially equivalent to the primary and secondary predicates CaRi-
+Plaque (K242240) and Salix Central (K241038), respectively. The primary and secondary predicates are 
+differentiated by study analysis and calcium scoring tools, which are reflected in the subject device. Both 
+subject and predicate devices have the same Intended Use/Indications for Use and are similar with  
+respect to key features and performance characteristics as shown in the Predicate Device Comparison Table 
+below: 
+ 
+ 
+Predicate Device Comparison 
+Topic Proposed Device Primary 
+Predicate Device 
+Secondary 
+Predicate Device 
+Manufacturer Artrya Ltd. Caristo Artrya Ltd. 
+Model Name Salix Coronary Plaque (V1.0.0) CaRi-Plaque Salix Central 
+510(k) Number Subject Device: K251837 K242240 K243038 
+ 
+Intended Use / 
+Indications for 
+Use 
+Salix Coronary Plaque 
+(V1.0.0) is a web-based, non-
+invasive software application 
+that is intended to be used for 
+viewing, post-processing, and 
+analyzing cardiac computed 
+tomography (CT) images 
+acquired from a CT scanner in 
+a Digital Imaging and 
+Communications in Medicine 
+(DICOM) Standard format. 
+This software provides 
+cardiologists and radiologists 
+with interactive tools that can 
+be used for viewing and 
+analyzing cardiac computed 
+tomography (CT) data for 
+quantification and 
+characterization of coronary 
+plaques (i.e. atherosclerosis), 
+stenosis and to perform 
+calcium scoring in non-
+contrast cardiac CT 
+Salix Coronary Plaque 
+(V1.0.0) is intended to 
+complement standard care as 
+an adjunctive tool and is not 
+intended as a replacement to 
+a medical professional’s 
+comprehensive diagnostic 
+decision-making process. The 
+software’s semi-automated 
+features are intended for an 
+ 
+CaRi-Plaque is 
+intended to provide an 
+optimized non-invasive 
+application to analyze 
+coronary anatomy and 
+pathology and aid in 
+determining treatment 
+paths from a set of 
+Computed Tomography 
+(CT) Angiographic  
+images. 
+ 
+CaRi-Plaque is a web-
+based image 
+processing application. 
+It is a non-invasive 
+diagnostic reading 
+software intended for 
+use as an interactive 
+tool for viewing and 
+analyzing cardiac CT 
+data for determining the 
+presence and extent of 
+coronary plaques and 
+luminal stenoses.  
+ 
+CaRi-Plaque is 
+intended for use by 
+internal operators who 
+have been appropriately 
+trained in the software's 
+functions, capabilities 
+and limitations. 
+ 
+Users should be aware 
+ 
+Salix Central is a web-
+based software application 
+that is intended to be used 
+for viewing, post-
+processing, and analyzing 
+cardiac computed 
+tomography (CT) images 
+acquired from a CT 
+scanner in a Digital 
+Imaging and 
+Communications in 
+Medicine (DICOM) 
+Standard format. 
+ 
+This software provides 
+tools that can be used for 
+the qualitative and 
+quantitative assessment of 
+physician-identified 
+coronary plaques and 
+stenosis in coronary 
+computed tomography 
+angiography (CCTA) and 
+to perform calcium scoring 
+in non-contrast cardiac CT. 
+ 
+Salix Central is intended to 
+complement standard care 
+as an adjunctive tool and is 
+not intended as a 
+replacement to a medical 
+professional’s 
+comprehensive diagnostic 
+decision-making process. 
+The software’s semi-
+ 
+4 of 10  
+Predicate Device Comparison 
+Topic Proposed Device Primary 
+Predicate Device 
+Secondary 
+Predicate Device 
+Manufacturer Artrya Ltd. Caristo Artrya Ltd. 
+Model Name Salix Coronary Plaque (V1.0.0) CaRi-Plaque Salix Central 
+510(k) Number Subject Device: K251837 K242240 K243038 
+adult population and should 
+only be used by qualified 
+medical professionals 
+experienced in examining and 
+evaluating cardiac CT images. 
+ 
+Users should be aware that 
+certain views make use of 
+interpolated data. These 
+data are created by the 
+software based on the 
+original data set. 
+Interpolated data may give 
+the appearance of healthy 
+tissue in situations where 
+pathology that is near or 
+smaller than the scanning 
+resolution may be present. 
+that certain views make 
+use of interpolated data. 
+This is data that is 
+created by the software 
+based on the original 
+data set. Interpolated 
+data may give the 
+appearance of healthy 
+tissue in situations 
+where pathology may 
+be present that is near 
+or smaller than the 
+scanning resolution. 
+  
+The analysis results 
+produced by the 
+software and provided 
+to the Healthcare 
+Professional are not 
+intended to replace the 
+skill and judgment of a 
+qualified medical 
+practitioner. The 
+analysis results should 
+be reviewed with other 
+clinical information 
+which may include but 
+is not limited to: The 
+patient's original CT 
+images, clinical history, 
+symptoms, clinical risk 
+factors, results of other 
+diagnostic tests, and 
+the clinical judgement of 
+appropriately qualified 
+Healthcare 
+Professionals. 
+ 
+automated features are 
+intended for an adult 
+population and should only 
+be used by qualified 
+medical professionals 
+experienced in examining 
+and evaluating cardiac CT 
+images. 
+ 
+Device Class Class II Class II Class II 
+Product Code LLZ, QIH LLZ QIH 
+Intended Users 
+Cardiologists, Radiologists 
+and Clinical Specialists 
+Cardiologists 
+and 
+Radiologists 
+Cardiologists, Radiologists 
+and Clinical Specialists 
+Operating 
+Platform  
+Client-Server Google 
+Chrome Application 
+Client-Side 
+Google Chrome 
+Application 
+Client-Server Google 
+Chrome Application 
+Stand-alone 
+Software Yes Yes Yes 
+ 
+5 of 10  
+Predicate Device Comparison 
+Topic Proposed Device Primary 
+Predicate Device 
+Secondary 
+Predicate Device 
+Manufacturer Artrya Ltd. Caristo Artrya Ltd. 
+Model Name Salix Coronary Plaque (V1.0.0) CaRi-Plaque Salix Central 
+510(k) Number Subject Device: K251837 K242240 K243038 
+DICOM Compliant Yes; DICOM 3.0 or higher DICOM 3 Yes; DICOM 3.0 or higher 
+Image Acquisition  CT CT CT 
+Secured Network 
+Server Integration  Yes Yes Yes 
+Store Images Yes Yes Yes 
+2D Imaging Yes 
+Review of coronary 
+vessels in 2D MPR, 
+curved MPR, and 
+straightened view. 
+Yes 
+2D Measurement Similar 
+2D measurement tools of 
+vessel diameter and 
+contour 
+Similar 
+3D Imaging  Review of structures in 3D Same Same 
+Maximum 
+Intensity 
+Projection (MIP) 
+Yes; this visualization method 
+not necessary for analyzing 
+the presence and extent of 
+coronary plaque and stenosis 
+N/A; this visualization 
+method is not necessary 
+for analyzing the 
+presence and extent of 
+coronary plaque and 
+luminal stenosis 
+Yes 
+Multiplanar 
+Reformat (MPR)  
+Yes, MPR with oblique slicing 
+and variable slab thickness is 
+not necessary analyzing the 
+presence and extent of 
+coronary plaque and luminal 
+stenosis 
+MPR with oblique slicing 
+and variable slab 
+thickness is not 
+necessary analyzing the 
+presence and extent of 
+coronary plaque and 
+luminal stenosis 
+Yes 
+Study Analysis – 
+Navigation Tools 
+Panning 
+Windowing 
+Zooming 
+Series, slices, and phases 
+Similar 
+Panning 
+Windowing 
+Zooming 
+Series, slices, and phases 
+Study Analysis 
+– Visualization 
+and Editing 
+Centerline 
+Wall 
+Signal Intensity Overlay 
+Similar 
+Centerline 
+Wall 
+Signal Intensity Overlay 
+Measurements Distance & Area Area Distance & Area 
+Centerline 
+Extraction and 
+Wall 
+Segmentation  
+Manual and semi-automatic / 
+user-editable Similar Manual and semi-automatic / user-editable 
+Calcium Scoring  Yes No Yes 
+Reporting Yes Similar Yes 
+Quantitative Measurements 
+NCP volume: non-
+calcified plaque 
+volume 
+Yes Yes Yes 
+ 
+ 
+6 of 10  
+ 
+Predicate Device Comparison 
+Topic Proposed Device Primary 
+Predicate Device 
+Secondary 
+Predicate Device 
+Manufacturer Artrya Ltd. Caristo Artrya Ltd. 
+Model Name Salix Coronary Plaque (V1.0.0) CaRi-Plaque Salix Central 
+510(k) Number Subject Device: K251837 K242240 K243038 
+CP volume: 
+calcified plaque  
+volume 
+Yes Yes Yes 
+LD-NCP volume: 
+low-density 
+noncalcified 
+plaque volume 
+Yes Yes Yes 
+Total Plaque 
+Volume Yes Yes No 
+Vessel Volume No. This is calculated but not reported as a device output. No. This is calculated but not reported as a device output. No 
+Total plaque 
+burden: total  
+plaque 
+volume/analyzed  
+vessel volume 
+Yes Yes No 
+NCP burden: 
+noncalcified  
+plaque 
+volume/analyzed 
+vessel volume 
+Yes No No 
+LD-NCP burden: 
+low-density 
+noncalcified 
+plaque volume 
+/analyzed vessel  
+volume 
+Yes No No 
+CP burden: 
+calcified plaque  
+volume/analyzed 
+vessel volume 
+Yes No No 
+Plaque 
+composition 
+Category  
+(Noncalcified 
+plaque, Calcified 
+plaque, Mixed 
+plaque) 
+Yes No No 
+QCAD: Maximal 
+diameter stenosis, 
+with respect to 
+proximal and 
+distal reference 
+Yes; Similar (categorical), 
+Manual & Editable* 
+Yes, refers to a single 
+reference 
+Yes; Similar, Manual & 
+Editable 
+Area stenosis: No; Calculated based on Yes No 
+ 
+7 of 10  
+Predicate Device Comparison 
+Topic Proposed Device Primary 
+Predicate Device 
+Secondary 
+Predicate Device 
+Manufacturer Artrya Ltd. Caristo Artrya Ltd. 
+Model Name Salix Coronary Plaque (V1.0.0) CaRi-Plaque Salix Central 
+510(k) Number Subject Device: K251837 K242240 K243038 
+maximum  
+area stenosis, with 
+respect to  
+proximal and 
+distal  
+references 
+diameter stenosis 
+Semi-Automated 
+CAD RADS 
+Stenosis: 
+Maximal 
+diameter 
+stenosis, with 
+respect to 
+proximal and 
+distal reference 
+Yes, Editable No No, Manual & Editable 
+Remodeling 
+index: ratio of 
+maximum vessel 
+area/proximal 
+and distal 
+references 
+No, Presence/absence of 
+positive remodeling as a 
+classifier 
+Yes No 
+Plaque length: 
+diseased vessel 
+length 
+No Yes No 
+Contrast density 
+difference: 
+maximum 
+difference in 
+contrast density 
+over lesion with 
+respect to 
+proximal 
+reference 
+No Yes No 
+MLD: minimal 
+luminal diameter 
+over lesion 
+No (categorized stenosis only 
+into CAD RADS) 
+No. This is calculated 
+but not reported as a 
+device output. 
+No 
+Vessel profile: 
+Area,  
+maximum 
+diameter,  
+minimum 
+diameter 
+measured  
+from selected 
+vessel cross  
+section 
+Yes, Similar 
+Vessel Profile: maximum and 
+minimum diameter measures 
+from selected vessel cross 
+sections 
+Yes Yes, Similar 
+ 
+8 of 10  
+Predicate Device Comparison 
+Topic Proposed Device Primary 
+Predicate Device 
+Secondary 
+Predicate Device 
+Manufacturer Artrya Ltd. Caristo Artrya Ltd. 
+Model Name Salix Coronary Plaque (V1.0.0) CaRi-Plaque Salix Central 
+510(k) Number Subject Device: K251837 K242240 K243038 
+Lumen profile: 
+Area, maximum 
+diameter, 
+minimum 
+diameter 
+measured from 
+selected lumen 
+cross section 
+Yes, Similar 
+Lumen Profile: maximum and 
+minimum diameter measures 
+from selected vessel cross 
+sections 
+Yes Yes, Similar 
+Vessel, plaque, 
+and lumen  
+segmentation 
+Yes. Semi-automatic with full 
+option to manually edit with 
+output demonstrated to meet 
+pre-determined acceptance 
+criteria in clinical performance 
+study. 
+ 
+Yes. Semi-automatic 
+(threshold-based 
+segmentation with full 
+option to edit); output 
+demonstrated to meet 
+pre-determined 
+acceptance criteria in 
+clinical performance 
+study. 
+Deep learning based, 
+vessel & lumen only; 
+validated with ground truth 
+by clinician expert readers, 
+with full option to edit. 

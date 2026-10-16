@@ -1,0 +1,58 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "Primary Care Provider",
+   "Structural Heart Disease"
+  ],
+  "interventions": [
+   "DeepECG plateform diagnosis & recommendations"
+  ],
+  "nct_id": "NCT06637293",
+  "new_registration": false,
+  "sponsor": "Montreal Heart Institute",
+  "status": "ENROLLING_BY_INVITATION"
+ },
+ "id": "ctgov:NCT06637293:2026-10-08",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b",
+   "algorithm",
+   "software"
+  ],
+  "cardiac": [
+   "cardiac",
+   "\\bheart\\b",
+   "echocardiog",
+   "cardiolog",
+   "cardiovascular",
+   "structural heart"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 16
+ },
+ "published": "2026-10-08",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status ENROLLING_BY_INVITATION. Sponsor: Montreal Heart Institute. Conditions: Primary Care Provider, Structural Heart Disease. Interventions: DeepECG plateform diagnosis & recommendations. Type INTERVENTIONAL, enrollment 2000. Start 2025-10-02, primary completion 2027-01. The DAISEA-ECG project aims to improve the diagnosis of heart diseases in primary care through the DeepECG platform, which combines ECG-AI and ECHONeXT algorithms. This study uses a stepped wedge design, where each Family Medicine Group acts as its own control. The FMGs will gradually transition from the control period (without AI recommendations) to the intervention period (with AI recommendations activated) in a randomized sequence. The primary objective is to compare the sensitivity of family physicians in detecting cardiac pathologies, with and without the assistance of the DeepECG platform. Sensitivity is defined as the proportion of patients correctly referred to cardiology or for transthoracic echocardiography (TTE) among those who indeed required cardiovascular evaluation, as confirmed by an independent adjudication committee.",
+ "title": "Deployment and Evaluation of Artificial Intelligence Software for Electrocardiogram Analysis and Management in Primary Care (NCT06637293)",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "DeepECG primary-care deployment study updated.",
+  "tags": [
+   "trial",
+   "ai-ecg"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "AI-ECG, adjacent."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT06637293"
+}

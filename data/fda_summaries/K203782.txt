@@ -1,0 +1,585 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue          D o c  I D #  0 4 0 1 7 . 0 4 . 23  
+Silver Spring, MD 20993  
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+Nano-x Imaging Ltd.         April 1, 2021 
+℅ Rafael Aguila 
+Responsible Third-Party Official 
+Accelerated Device Approval Services 
+6800 S.W. 40th Street, Ste. 403 
+LUDLUM FL  33155 
+ 
+Re:  K203782 
+Trade/Device Name:  Nanox Cart X-ray System 
+Regulation Number:  21 CFR 892.1720 
+Regulation Name:  Mobile x-ray system 
+Regulatory Class:  Class II 
+Product Code:  IZL 
+Dated:  March 1, 2021 
+Received:  March 24, 2021 
+ 
+Dear Rafael Aguila: 
+ 
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced 
+above and have determined the device is substantially equivalent (for the indications for use stated in the 
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the 
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance 
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a 
+premarket approval application (PMA). You may, therefore, market the device, subject to the general 
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that 
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for 
+
+K203782 - Rafael Aguila Page 
+ 
+2 
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS) 
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for 
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050. 
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+     For 
+Thalia T. Mills, Ph.D. 
+Director 
+Division of Radiological Health 
+OHT7: Office of In Vitro Diagnostics 
+    and Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+  
+    d 
+  
+. 
+  
+     s . 
+. 
+ 
+Nanox Cart X-Ray System – 510(k) 
+Submission File 
+Nano-x Imaging Ltd. 
+Neve Ilan Communication Center, Zip 9085000, Israel 
+Telephone: +972-2-574-6300 
+ 
+Page 1 of 8 
+ 
+510(k) Summary 
+ 
+Applicant: Nano-x Imaging Ltd. 
+ Neve Ilan Communications Center 
+Jerusalem District 
+ Israel, 9085000 
+Phone: +972 (2) 574-6300 
+ 
+Contact Person: Yuval Shapiro 
+ QA/RA 
+ Nano-x Imaging Ltd. 
+Phone: +972 (54) 205-2524 
+Email: yuval.s@Nanox.vision 
+ 
+Date Prepared:  Mar. 1, 2021  
+ 
+Device Trade Name: Nanox Cart X-Ray System  
+Device Common Name: Mobile X-Ray Device 
+Classification Name: Mobile X-Ray system 
+Regulation Number: 21 CFR 892.1720 
+Regulation Class: II 
+Product Code: IZL 
+ 
+Predicate Device:  AMX-4 Mobile X-Ray System 
+Manufacturer: GE Medical Systems 
+510(k) Number: K021016 
+Regulation Name:  Mobile x-ray system 
+Number: 21 CFR 892.1720 
+Regulatory Class:  II 
+Product Code:  IZL 
+ 
+Reference Device:  DRX-Revolution Nano Mobile X-ray System 
+Manufacturer: Carestream Health Inc. 
+510(k) Number: K173924 
+Regulation Name:  Mobile x-ray system 
+Number: 21 CFR 892.1720 
+Regulatory Class:  II 
+Product Code:  IZL 
+ 
+  
+K203782
+ 
+Nanox Cart X-Ray System – 510(k) 
+Submission File 
+Nano-x Imaging Ltd. 
+Neve Ilan Communication Center, Zip 9085000, Israel 
+Telephone: +972-2-574-6300 
+ 
+Page 2 of 8 
+ 
+Device Description: 
+ 
+The Nanox Cart X -Ray system is a mobile X -Ray system designed to perform radiographic X -Ray 
+examinations of hands, wrists, and fingers, on adult patients. The system facilitates X -ray 
+examinations in situations where it is not possibl e or feasible to transport the patient to a ward 
+with fixed equipment. 
+The Nanox Cart X -Ray system consists of a mobile system enclosure; an X -Ray tube assembly 
+consists of the X -ray Tube, Cooling Fluid, electronics, and casing; a pulse generator and a hig h-
+voltage generator; a microprocessor that provides increased exposure consistency and efficient 
+operation; and a touch-based screen LCD which provides a simple and user-friendly interface and 
+technique selection. 
+The Nanox Cart is specified and designed to operate only with a Flat Panel Digital X-ray Detector 
+Model EVS3643, manufactured by DRTECH Inc. (K162552) 
+ 
+The intended operators of the Nanox Cart X-ray System are healthcare professionals familiar 
+with and responsible for the X-ray examinations being performed. 
+ 
+To minimize electrical, mechanical, and radiation hazards, the Nanox Cart X -ray System adheres 
+to recognized and established industry practices and standards. 
+ 
+Intended Use/Indications for Use: 
+The product is intended as an X-Ray source for diagnosis. Operators of the Nano-x Cart X-Ray System are 
+healthcare professionals familiar with and responsible for the X-Ray examinations being performed. 
+ 
+Indication for Use – The device is designed to perform radiographic X-Ray examinations of hands, wrists, 
+and fingers, on adult patients. 
+ 
+Limitations for use – This device is not intended for general radiographic X -Ray examinations other than 
+the indicated use, or for mammographic, angiographic, interventional, or fluoroscopic applications. This 
+device is not intended for pediatric use. 
+ 
+Summary of Technology Characteristics: 
+Table 1 provides a comparison of the technological characteristics for the Nanox Cart X-Ray System and 
+the predicate device.  
+Table 2 provides a comparison of the technological characteristics for the Nanox Cart X-Ray System and 
+the reference device.  
+  
+ 
+Nanox Cart X-Ray System – 510(k) 
+Submission File 
+Nano-x Imaging Ltd. 
+Neve Ilan Communication Center, Zip 9085000, Israel 
+Telephone: +972-2-574-6300 
+ 
+Page 3 of 8 
+ 
+Table 1: Comparison of Technological Characteristics 
+ 
+ Nanox Cart X-Ray System (K203782 ( AMX-4 Mobile X-Ray System (K021016) Significant Difference 
+Regulatory  
+510(k) K203782 K0210161  
+Device class II II Same 
+Classification Mobile x -ray system, Class II; 
+21 CFR 892.1720 
+Mobile x -ray system, Class II; 21 
+CFR 892.1720 
+Same 
+Product code IZL IZL Same 
+Indications / 
+Intended use 
+The device is designed to 
+perform radiographic X -Ray 
+examinations of hands, wrists, 
+and fingers, on adult patients. 
+The AMX -4 Plus Mobile X -ray 
+System is indicated for use in 
+generating radiographic images of 
+human anatomy in all general-
+purpose X-ray diagnostic procedures. 
+It may be used in radiology 
+departments, emergency rooms, 
+intensive care units, operating rooms, 
+pediatrics, orthopedics, and clinics. 
+ 
+Similar 
+Intended 
+users 
+X-ray Technicians trained to 
+operate the system 
+X-ray Technicians trained to operate 
+the system 
+Same 
+Physical Characteristics  
+System 
+Components 
+The Nanox Cart X-Ray System 
+is comprised of the following 
+components: 
+ 
+1) Cart – The mobile 
+enclosure of the system. 
+2) Wheels and Breaks – Set 
+of 4 (four) wheels and 
+integral breaks that are 
+placed to enable the 
+mobility of the cart and 
+have a stationary 
+positioning during 
+operation (cart will not be 
+operated during movement). 
+3) On/Off Switch – A switch 
+that switches the system on. 
+4) X-Ray Stop (Emergency 
+Stop) – An emergency stop 
+The AMX-4mobile X-ray system is 
+comprised of the following 
+components: 
+1) Cart 
+2) Collimator 
+3) Column 
+4) Power Connectors 
+5) Rotating Arm 
+6) Docking tube and docking 
+receiver 
+7) E-Stop (Emergency Stop) 
+knobs 
+8) Grid alignment system 
+9) PREP/EXP switch 
+10) Screen 
+11) Tube head assembly 
+12) X-Ray Tube 
+Similar 
+ 
+1 https://www.accessdata.fda.go, v/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K021016  
+ 
+Nanox Cart X-Ray System – 510(k) 
+Submission File 
+Nano-x Imaging Ltd. 
+Neve Ilan Communication Center, Zip 9085000, Israel 
+Telephone: +972-2-574-6300 
+ 
+Page 4 of 8 
+ 
+ Nanox Cart X-Ray System (K203782 ( AMX-4 Mobile X-Ray System (K021016) Significant Difference 
+that prevents the system 
+from operating, should the 
+operator determine to halt 
+procedure. 
+5) X-Ray Switch – A switch 
+that enables the X-ray 
+radiation energy. 
+6) Display – Operators display 
+of energy emitted by the 
+Nanox Cart. The display is 
+a touchscreen that enables 
+adjusting the energy pulse 
+(touchscreen) from 0.1mAs 
+up to 2mAs in steps of 
+0.1mAs. 
+7) Controller – the Display 
+and a micro-controller 
+(Arduino Mega 256) 
+controls the Nanox Cart X-
+ray System's functionality 
+and GUI display. 
+8) Pulse Generator – The 
+pulse generator enables a 
+pulse of 40kVp and 0.1—
+2mAs. 
+9) Isolation Transformer – 
+Enables protection from 
+power mains surges. 
+10) Power Supply – Power 
+mains input of 
+230VAC/50Hz/300W.  
+11) Tube Assembly – The X-
+ray tube assembly consists 
+of the X-ray Tube, Cooling 
+Fluid, electronics, and 
+casing to enable the 
+emission of the radiation 
+energy. 
+12) X-ray Tube – Nano-x's 
+Cold Cathode tube. 
+Imaging 
+Radiographic 
+film cassette 
+The Nanox Cart is specified and 
+designed to operate only with a 
+Flat Panel Digital X -ray 
+Any commercially available 
+Radiographic film cassette 
+Different 
+ 
+Nanox Cart X-Ray System – 510(k) 
+Submission File 
+Nano-x Imaging Ltd. 
+Neve Ilan Communication Center, Zip 9085000, Israel 
+Telephone: +972-2-574-6300 
+ 
+Page 5 of 8 
+ 
+ Nanox Cart X-Ray System (K203782 ( AMX-4 Mobile X-Ray System (K021016) Significant Difference 
+Detector Model EVS3643 , 
+manufactured by DRTECH Inc. 
+(K162552) 
+ 
+Technology  
+Principles of 
+Operation 
+The positions of the Tube 
+Assembly and detector holder 
+are prefixed. The technician 
+positions the patient's hand 
+inside the indicated irradiation 
+area on the detector.  
+The technician sets the required 
+energy on the Display's 
+touchscreen. Irradiation energy 
+is set with a fixed radiographic 
+output voltage of 40kVp and a 
+variable charge of 0.1—2mAs. 
+Exposure time varies from 
+50ms up-to 1s (non-selectable). 
+Once energy is set, the 
+technician operates the system 
+by pressing the X-Ray switch.  
+ 
+The technician has the ability to 
+position the AMX-4's tube assembly 
+using the rotating arm. The AMX-4 
+is an all-inclusive device, where X-
+ray images are constructed on its 
+Display. 
+The AMX-4 has a rechargeable array 
+of 12.9V batteries that has the ability 
+to operate the following methods: 
+1. Two 70 kVp, 10 mAs X−ray 
+exposures, >7 seconds of 
+preparation, > 25 seconds of field 
+light, 5 minutes of drive time, 9 
+minutes of idle time 
+2. The AMX 4 batteries will provide 
+enough capacity for 165 or more 100 
+kVp, 100 mAs X−ray exposures. 
+Each exposure includes 4 seconds of 
+preparation time and 30 seconds of 
+idle time for battery recovery. This 
+number may be reduced by 
+additional idle time required for 
+X−ray tube cooling. 
+Different 
+System 
+Power 240 VAC, 50 Hz 100/200 VAC, 50/60 Hz Same 
+Battery 
+Powered No Yes Different 
+kV Range 40 kVp 50-125 kVp, in 24 steps Different 
+mAs Range 0.1 to 2mAs, in 0.1mAs step 0.40 to 320 mAs, in 30 steps Different 
+Tube 
+Type/Model Nanox Tube GE X-Ray tube model HRT09 Similar 
+Focal Spot 0.3 mm 0.6/2.0 mm Similar 
+Target Angle 0 degrees 15 degrees Similar 
+Column 
+Rotation 
+Range 
+Fixed  (+/-)270 degrees 
+Different 
+ 
+Nanox Cart X-Ray System – 510(k) 
+Submission File 
+Nano-x Imaging Ltd. 
+Neve Ilan Communication Center, Zip 9085000, Israel 
+Telephone: +972-2-574-6300 
+ 
+Page 6 of 8 
+ 
+ Nanox Cart X-Ray System (K203782 ( AMX-4 Mobile X-Ray System (K021016) Significant Difference 
+Max Speed 
+(kph) 4 4.8 Similar 
+Horizontal 
+Travel (cm) Fixed 40.6 Different 
+Vertical 
+Travel (cm) Fixed 138.4 Different 
+Maximum 
+Tube Voltage 40 kV 100 kV Different 
+Aperture 
+shape Rectangular Rectangular Same 
+Aperture 
+Control Fixed Operator Adjustable  Different 
+ 
+Table 2: Subject and Reference Device (DRX-Revolution Nano X-ray system) Comparison 
+ 
+ Nanox Cart X-Ray System (K203782 ( DRX-Revolution Nano  X-ray system Significant Difference 
+Regulatory  
+510(k) K203782 K173924  
+Device class II II Same 
+Classification Mobile x -ray system, Class II; 
+21 CFR 892.1720 
+Mobile x-ray system, Class II; 21 CFR 
+892.1720 
+Same 
+Product code IZL IZL Same 
+Indications / 
+Intended use 
+The device is designed to 
+perform radiographic X -Ray 
+examinations of hands, wrists, 
+and fingers, on adult patients. 
+The device is designed to perform 
+radiographic x -ray examinations on 
+pediatric and adult patients, in all 
+patient treatment areas. 
+Similar 
+Intended 
+users 
+X-ray Technicians trained to 
+operate the system 
+X-ray Technicians trained to operate 
+the system 
+Same 
+Technology 
+System Power 240 VAC, 50 Hz 100 – 240 V, 50/60 Hz Same 
+Power output 0.08kW Maximum 4.8 kW @ 104 msec and 
+7.7 kW @ 13 msec of power 
+Similar 
+Nominal 
+Voltage 
+Output 
+40kVp 40 kVp to 110 kVp Similar 
+Nominal mAs  0.1/2mAs 0.2 mAs to 20 mAs Similar 
+kV Range Fixed: 40 kVp 40 kVp to 110 kVp different 
+mAs Range 0.1 to 2mAs, in 0.1mAs step 0.2 to 20.0 mAs Similar 
+Tube 
+Type/Model 
+Nanox Tube Xinray CNT Tube Similar 
+ 
+Nanox Cart X-Ray System – 510(k) 
+Submission File 
+Nano-x Imaging Ltd. 
+Neve Ilan Communication Center, Zip 9085000, Israel 
+Telephone: +972-2-574-6300 
+ 
+Page 7 of 8 
+ 
+Tube Weight 0.4 kg 1.1 kg Similar 
+Focal Spot 0.3 mm 0.9 mm to 1.9 mm Different 
+Target Angle 16 deg 14deg Similar 
+ 
+ 
+Performance Data 
+Bench testing 
+The complete system has been assessed and tested at the factory and by Standards testing facilities. The 
+System passed all predetermined testing criteria. The Validation Test Plan was designed to evaluate all 
+input functions, output functions, and actions performed by Nano -x, and followed the process 
+documented in the System Validation Test Plan. Nonclinical testing results are provided in the 510(k). 
+Validation testing indicated that as required by the risk analysis, designated individuals performe d all 
+verification and validation activities and that the results demonstrated that the predetermined 
+acceptance criteria were met. 
+ 
+The following Standards were used to test the System, has met all the requirements listed in the Standards 
+except for inapplicable requirements (which are listed in the various test reports): 
+• Nanox Cart X-Ray System Verification testing 
+• Software verification and validation (ISO 62304:2006 + A1:2015) 
+• Preclinical Comparison Tests 
+• Ergonomic testing (IEC60601-1-6, IEC62366) 
+• Electrical Safety Testing (IEC 60601-1, IEC 62304:2006 + A1:2014) 
+• Electromagnetic Compatibility (IEC 60601-1-2 Ed. 4) 
+• IEC/EN 60601-1: 2005 + AMD1: 2012 (3.1 Ed.) Medical electrical equipment – Part 1: General 
+requirements for basic safety and essential performance. 
+• IEC 60601 -1-2: 2014 Medical electrical equipment - Part 1 -2: General requirements for basic 
+safety and essential performance - Collateral Standard: Electromagnetic disturbances - 
+Requirements and tests. 
+• IEC 60601-1-3: 2008 + AMD1: 2013 Medical electrical equipment - Part 1-3: General requirements 
+for basic safety and essential performance - Collateral Standard: Radiation protection in 
+diagnostic X-ray equipment 
+• IEC 60601-2-28:2017 Medical electrical equipment - Part 2-28: Particular requirements  for the 
+basic safety and essential performance of X-ray tube assemblies for medical diagnosis 
+• IEC 60601 -2-54:2009+AMD1:2015+AMD2:2018 Medical electrical equipment - Part 2 -54: 
+Particular requirements for the basic safety and essential performance of X -ray equipment for 
+radiography and radioscopy 
+ 
+in accordance with section 514(c)(1)(A) of the FD& C Act as outlined in "Medical X -ray Imaging Devices: 
+Conformance with IEC Standards," dated May 2019. 
+ 
+  
+ 
+Nanox Cart X-Ray System – 510(k) 
+Submission File 
+Nano-x Imaging Ltd. 
+Neve Ilan Communication Center, Zip 9085000, Israel 
+Telephone: +972-2-574-6300 
+ 
+Page 8 of 8 
+ 
+The diagnostic imaging performance of the Nanox Cart X -Ray system was evaluated by executing a 
+phantom imaging study.  The phantoms used for the imaging study were commercial products 
+manufactured by Kyoto Kagaku and intended for X-Ray imaging tests. The phantoms represent different 
+hands and are anthropomorphic both in appearance, size, and X-Ray attenuation characteristics. 
+ 
+Performance output shows that the Nanox Cart is capable of supplying X-Rays to generate radiographies. 
+Professional evaluation of the output and professional comparison between the Nanox Cart X-Ray system 
+and predicate device’s output demonstrate that the outcome images of the Nanox Cart X-Ray system are 
+as good as an X-Ray system available in market. Based on the clinical evaluations of three experts it can 
+be concluded that the Nanox Cart X -Ray system operates as intended and generates images that are as 
+good as images produced by the predicate Device. 
+ 
+Clinical testing 
+Nano-x Imaging Ltd. does not believe that clinical data is necessary to support the determination that the 
+Nanox Cart X-ray System is substantially equivalent to the predicate. The bench testing described above 
+is very comprehensive and demonstrates that the system meets its performance specifications. 
+Specifically, the bench testing demo nstrated the ability of the system to emit X -ray radiation as 
+determined in its specifications. 
+ 
+The testing demonstrated that the product meets its performance specifications and performs as 
+intended. In addition, the Nanox Cart X -Ray System was found to be substantially equivalent to the 
+predicate device as it has the same indications for use and compliance with similar standards. 
+ 
+Substantial Equivalence Discussion: 
+ 
+The indications for use for the predicate device are similar to the proposed indications  for use for the 
+Nanox Cart X-Ray System. The technical characteristics of the System are not different from the predicate 
+device except for the fixed Source-to-image Distance, Field of view, aperture, focal spot size, and the fixed 
+Tube voltage and reduced maximum exposure current-time product. As demonstrated in Table 1 above, 
+any differences in the technological characteristics do not raise any questions of safety or effectiveness.  
+ 
+The generated X-ray beams by both devices are the same, resulting with similar images generated by the 
+devices. Thus, rendering the Nanox Cart X-Ray System substantially equivalent to the predicate device. 
+ 
+ 
+Conclusions 
+Extensive bench testing was conducted, which demonstrated that the Nanox Cart X-Ray System meets its 
+performance specifications. This collection of testing demonstrates the safety and effectiveness of the 
+Nanox Cart X-Ray System and its substantial equivalence to the predicate device.  
+ 
+ 

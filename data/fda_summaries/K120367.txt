@@ -1,0 +1,240 @@
+APR 17 2012
+510(k) Summary 3mensio Workstation 1QA693 1v2.O
+Submitter Name Pie Medical Imaging BV
+Submitter Address Becanusstraat 13 D, 6216 BX Maastricht, The Netherlands
+Contact Person: Florie Daniels, Product Registration Coordinator
+Phone Number +3143 32 81 328
+Fax Number +3143 32 81329
+Email Address Florie.Daniels@pie.nl
+Preparation Date 31 January 2012
+Trade Name 3mensio Structural Heart / 3mensio Vascular
+Common Name 3mensio Workstation
+Regulation Class Class 11 (21 CFR, part 892.2050, LLZ)
+Classification Name Picture Archiving and Communications System
+Predicate Devices 3visionlsurgery, cleared under K072653
+Device Description 3mensio Workstation is a stand-alone software application intended to rim on a
+PC with a Windows operating system. It allows Cardiologists, Radiologists and
+Clinical Specialists to select patient studies from various data sources, view them,
+and process the images with the help of a comprehensive set of tools. The
+3mensio Workstation contains two modules, 3mensio Structural Heart and
+3mensio Vascular, which can be marketed in combination or as separate
+solutions. 3mensio Structural Heart enables assessment and measurement of
+different structures of the Heart, e.g. aortic valve, mitral valve, ventricles. It
+provides simple techniques to assess the feasibility of a transapical, transfemoral
+or subclavian approach to structures for replacement or repair procedures.
+3mensio Vascular enables assessment of vessels and can help the physician
+identify calcifications, aneurysms and other anomalies to quickly and reliably
+prepare for various types of vascular surgery. The 3mensio Workstation can
+combine 2D scan slices into comprehensive 3D models of the patient, and can
+display supporting ultrasound and X-ray Angio data. The software accurately
+represents different types of tissue, making it easier to diagnose anomalies in
+scans. 3mensio Workstation works with all major medical image formats and can
+access multiple data stores and across networks.
+Intended Use 3mensio Workstation is a software solution that is intended to provide
+Cardiologists, Radiologists and Clinical Specialists additional information to aid
+them in reading and interpreting DICOM compliant medical images of structures
+of the heart and vessels.
+3mensio Structural Heart enables the user to:
+* Visualize and measure (diameters, lengths, areas, volumes, angles) structures
+of the heart and vessels
+* Quantify calcium (volume, density)
+3mensio Vascular enables the user to:
+* Visualize and assess stenosis, aneurisnris and vascular structures
+* Measure the dimensions of vessels (diameters, lengths, areas, volumes,
+angles)
+Pie Medical Imaging BV Non Confidential Page I of 3
+
+Z 0 R3 O-
+Indications for use:
+3mensio Workstation enables visualization and measurement of structures of the
+heart and vessels for:
+* Pre-operational planning and sizing for cardiovascular interventions and
+surgery
+* Postoperative evaluation
+To facilitate the above, the 3mensio Workstation provides general functionality
+such as:
+I Segmentation of cardiovascular structures
+* Automatic and manual centerline detection
+* Visualization and image reconstruction techniques: 2D review, Volume
+Rendering, MPR, Curved MPR, Stretched CMRP, Slabbing, MWP, ALP,
+MiniP
+. Measurement and annotation tools
+* Reporting tools
+Technological The technological comparision table shows the equivalence between the 3mensio
+Characteristics Workstation software and the Predicated device.
+Comparison __________ ____
+New Device Predicate Device
+3mensio Workstation 3viseonlsugery
+Pie Medical Imaging iniensio
+K(120367 K(072653
+Interface to image sources Interface to image sources
+*DICOM image data * DICOM image data
+Import of Patient Data Import of Patient Data
+" Manual through keyboardlmouse * Manual through keyboard/mouse
+* Automatic import with image file * Automatic import with image file
+* Study List creation * Study List creation
+Study list image functionality Study list image functionality
+* Exporting - Exporting
+* Deleting . Deleting
+* Anonymizing (no automatic deletion of - Anonymnizing (no automatic deletion
+original patient data) of original patient data)
+* Search - Search
+Image processing: Image processing:
+. Realign orthogonal MPRS * Realign orthogonal MPRs
+. Segmentation toolset * Segmentation toolset
+- Automatic segmentation - Automatic segmentation
+- Automatic centreline - Automatic centreline
+- Manual centreline - Manual centreline
+- Centreline editing - Centreline editing
+* Undo/redo operations * Undo/redo operations
+* Volume sculpting * Volume sculpting
+Image assessment:
+* Linea (length and diameter), angular and Image assessment:ROI easremets* Linear (length and diameter), angular
+R otum measurements and ROt measurements* Volume measurements
+" C-Ann angulation calculation *C-Arm angulation calculation
+* Text and arrow annotations *Tx n o noain
+* Calcium scoring for assessment of * Calcium scoring in vasculature
+calcium in the aortic root
+Image display: Image display:
+* Orthogonal, oblique, double oblique, * Orthogonal, oblique, double oblique,
+curved, cross-curved, stretched MPR curved, cross-curved, stretched MPR
+rendering rendering
+* MIP, AveIP, MinIP and color volume s MIP, AveIP, MinIP and color volume
+slabs slabs
+* MIP volume rendering * MIP volume rendering
+Pie Medical Imaging BV Non Confidential Page 2 of 3
+
+?aej 3
+New Device Predicate Device
+3mensio Workstation 3viseon/surgery
+Pie Medical Imaging 3mensio
+K120367 K072653
+.Color volume rendering * Color volume rendering
+.Grayscale volume rendering a Grayscale volume rendering -
+* 2D slice review and stack comparison - 2D slice review and stack comparison
+* 4D cine * 3D view
+* Interactive VOl clipping - Interactive VOl clipping
+* Multi-tissu color and opacity control - Multi-tissue color and opacity control
+* Active presets -* Active presets
+User-defined presets *User-defined presets
+* DICOM Support: DIOM Support:
+* Compatible with all scanner vendor * Compatible with all scanner vendor -
+DICOM datasets DICOM datasets
+. Storage SCP * Storage SCP
+* Import DICOM files * Import DICOM files
+* DICOM compliance for CT, enhanced * DICOM compliance for CT, MR],
+CT, MRI, enhanced MRI, XA, Nuclear XA, Nuclear Medicine, CR, SC, and
+Medicine, CR, SC, and Ultrasound images Ultrasound images
+* Import from DICOMDIR - Import from DICOMDIR
+Storage SCU * Storage SCU
+*Query/retrieve SCU *Query/retrieve SCU
+*Automatic grouping of images into *Automatic grouping of images into
+volumes volumes
+*Windows printing or send to PACS *Windows printing or senid to PACS
+*Storage of Results Storage of Results
+*Printout - Printout
+*Session state * Session state
+*PDF format * PDF format
+* DICOM PDF report * DICOM SC report
+* MS Windows . MS Windows
+Performance Data 3mensio Workstation is developed and tested by 3mensio Medical Imaging
+according to their Quality Assurance system.Testing includes software
+verification and validation. The tests were made to evaluate the 3mensio
+Workstation and yield accuracy and precision results within the predetermined
+specifications.
+3mensiot Workstation is produced and marketed under the responsibility of
+manufacturer Pie Medical Imaging.
+Substantial Equivalence The intended use and technological characteristics of 3mensio Workstation are
+substantial equivalent to the intended use and technological characteristics of the
+predicate device.
+Conclusion The testing reported in this 5 10(k) establishes that 3mensio Workstation is
+substantial equivalent to the predicate device and is safe and effective for its
+intended use.
+Pie Medical Imaging BV Non Confidential Page 3 of 3
+
+j' DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Ding Administration
+10903 New Hampshire Avenue
+Document Control Room - W066-G609
+Silver Spring, MD 20 993-0002
+Ms. Florie Daniels
+Regulatory Affairs Coordinator AR1721Pie Medical Imaging BV AR121
+Becanusstraat 13D
+Maastricht, Limburg 6216 BX
+THE NETHERLANDS
+Re: K120367
+Trade/Device Name: 3mensio Workstation
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications System
+Regulatory Class: 11
+Product Code: LLZ
+Dated: January 31, 2012
+Received: February 6, 2012
+Dear Ms. Daniels:
+We have reviewed your Section 5 1 0(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA4).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into class 11 (Special Controls), it may be subject to such
+additional controls. Existing major regulations affecting your device can be found in Title 21,
+Code of Federal Regulations (CFR), Parts 800 to 895. In addition, FDA may publish further
+announcements concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act's requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Parts 801 and 809); medical device reporting (reporting of
+
+Page 2
+medical device-related adverse events) (21 CFR 803); and good manufacturing practice
+requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820). This letter
+will allow you to begin marketing your device as described in your Section 5 10(k) premarket
+notification. The FDA finding of substantial equivalence of your dev'ice to a legally marketed
+predicaie device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Parts 801 and
+809); please contact the Office of In Vitro Diagnostic Device Evaluation and Safety at (301) 796-
+5450. Also, please note the regulation entitled, "Misbranding by reference to premarket
+notification" (21 CFR Part 807.97). For questions regarding the reporting of adverse events
+under the MDR regulation (21 CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/SafetvReo~ortaProblem/default.htm for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 796-7100 or at its Internet address
+http://wwwv.fda.g2ov/cdrh/industry/support/index.html.
+cing Director
+Division of Radiological Devices
+Office of In Vitro Diagnostic Device
+Evaluation and Safety
+Center for Devices and Radiological Health
+Enclosure
+
+Indications for Use
+510(k) Number:
+Device Name: 3mensio Workstation
+Indications for Use:
+3mensio Workstation enables visualization and measurement of structures of the heart and vessels
+for:
+* Pre-operational planning and sizing for cardiovascular interventions and surgery
+a Postoperative evaluation
+To facilitate the above, 3mensio Workstation provides general functionality such as:
+*Segmentation of cardiovascular structures
+*Automatic and manual centerline detection
+*Visualization and image reconstruction techniques: 20 review, Volume Rendering, MPR,
+Curved MPR, Stretched CMRP, Slabbing, MIP, AlP, MinIP
+* Measurement and annotation toots
+*Reporting tools
+Prescription Use ____q AND/OR Over-The-Counter Use ___
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE OF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+office o Ira iagno ti Device Evaluation amd safety
+51,K /Z177(7
+ra A K411A n Pie Medical Imagin2 BV Page 1 of I

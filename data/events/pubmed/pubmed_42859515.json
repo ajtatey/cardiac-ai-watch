@@ -1,0 +1,55 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Discipline of Medical Radiation Sciences, Curtin School of Diagnostic and Therapeutic Sciences, Curtin University, 6102 Perth, Australia.",
+   "Curtin Medical Research Institute (Curtin MRI), Curtin University, 6102 Perth, Australia."
+  ],
+  "authors": [
+   "Sun Z"
+  ],
+  "doi": "10.31083/RCM53504",
+  "journal": "Reviews in cardiovascular medicine",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42859515",
+ "prefilter": {
+  "ai": [
+   "deep learning"
+  ],
+  "cardiac": [
+   "coronar",
+   "plaque",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 7
+ },
+ "published": "2026-09-14",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Reviews in cardiovascular medicine. Sun Z.",
+ "title": "Improvements in the Diagnostic Performance of Coronary Computed Tomography Angiography in the Assessment of Heavily Calcified Plaques Using a Novel Deep Learning Model.",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 4,
+  "summary": "Review article (Sun Z, Reviews in Cardiovascular Medicine) on a deep learning model improving CCTA diagnostic performance in heavily calcified plaques.",
+  "tags": [
+   "evidence",
+   "ccta",
+   "calcified-plaque",
+   "deep-learning"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Calcium blooming is the main failure mode of CCTA stenosis reads; any deep-learning fix changes the competitive baseline for automated analysis."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42859515/"
+}

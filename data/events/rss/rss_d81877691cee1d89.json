@@ -1,0 +1,42 @@
+{
+ "alerted_at": null,
+ "category": "news",
+ "collected_at": "2026-10-16T02:46:17+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "GuruFocus",
+  "query": "HeartFlow"
+ },
+ "id": "rss:d81877691cee1d89",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-15",
+ "reported_in": "2026-10-15",
+ "source": "rss",
+ "status": "triaged",
+ "summary": "HeartFlow Inc (HTFL) CEO John Farquhar Sells 38,900 Shares &nbsp;&nbsp; GuruFocus",
+ "title": "HeartFlow Inc (HTFL) CEO John Farquhar Sells 38,900 Shares - GuruFocus",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "GuruFocus note on the HeartFlow CEO sale.",
+  "tags": [
+   "financial",
+   "insider-sale"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Duplicate coverage."
+ },
+ "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXB4MUpCN1JTc2R4Y2QyajZkX3ppdElUZ1RyZWhXU0xqWmRaMjdxTy02MF9WRWJQOElYdTR3dXluekpqcXp2T2h1TW0yV29RUnl2YTNHWWlJVDg0NzE1NG5MMFJBMnpHaHdwcmtfeE1oX2FheHJXcDNuQ1lGUUZiLUdGcnlVdnh5SXVBYlBxSV9lZWszNkVXU0d3?oc=5"
+}

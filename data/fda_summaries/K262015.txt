@@ -1,0 +1,357 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         Doc ID# 04017.09.00 
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 29, 2026 
+ 
+Elucid Bioimaging, Inc. 
+Windi Hary 
+Chief Quality and Regulatory Officer 
+399 Boylston St., Suite 400 
+Boston, Massachusetts 02116 
+ 
+Re:  K262015 
+Trade/Device Name: Elucid FFR-IQ (B.1) 
+Regulation Number:  21 CFR 870.1415 
+Regulation Name:  Coronary Vascular Physiologic Simulation Software Device 
+Regulatory Class:  Class II 
+Product Code:  PJA 
+Dated:  August 28, 2026 
+Received:  August 31, 2026 
+ 
+Dear Windi Hary: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K262015 - Windi Hary Page 
+ 
+2
+Before making any change significantly affecting the safety or effectiveness of the device, you must submit a 
+new premarket notification in accordance with 21 CFR 807.81. Additional information about changes that 
+may require a new premarket notification are provided in the FDA guidance documents entitled "Deciding 
+When to Submit a 510(k) for a Change to an Existing Device" (https://www.fda.gov/media/99812/download) 
+and "Deciding When to Submit a 510(k) for a Software Change to an Existing Device" 
+(https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+  
+K262015 - Windi Hary Page 
+ 
+3
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+CDR Stephen Browning 
+Assistant Director 
+Division of Cardiac Electrophysiology,    
+    Diagnostics, and Monitoring Devices 
+Office of Cardiovascular Devices 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+STEPHEN C. BROWNING -S
+Indications for Use 
+Please type in the marketing application/submission number, if it is known. This 1<262015 ? textbox will be left blank for original applications/submissions. 
+Please provide the device trade name(s). ? 
+Elucid FFR-IQ (B.1) 
+Please provide your Indications for Use below. ? 
+Elucid FFR-IQ is a coronary physiological simulation software for the clinical quantitative and qualitative 
+analysis of previously acquired Computed Tomography DICOM data for clinically stable patients with 
+suspected coronary artery disease. It provides FFR-CT (CT-derived FFR) values computed from coronary 
+CTA images using Al-enabled algorithms. FFR-IQ is intended to support the functional evaluation of 
+coronary artery disease. 
+The FFR-IQ results are provided to support qualified clinicians to aid in the evaluation and assessment of 
+coronary arteries. FFR-IQ results are intended to be used by qualified clinicians in conjunction with the with 
+the patient's clinical history, symptoms, and other diagnostic tests, as well as the clinician's professional 
+·udqment.
+� Prescription Use (21 CFR 801 Subpart D) 
+Please select the types of uses. D Over-The-Counter Use (21 CFR 801 Subpart C) ?
+Please select the age group(s) for which the device(s) is D Neonates/Newborns (Birth to < 29 days old) 
+to be used. D Infants (29 days old to < 2 years old) 
+D Children (2 years old to < 12 years old) ? 
+D Adolescents (12 years old to< 22 years old) 
+� Adults (22 years old and greater) 
+Page 1 of 1
+  Elucid FFR-IQ Traditional 510(k) 510(k) Summary 
+ELUCID BIOIMAGING, INC. 
+510(k) Summary
+Submitter Information 
+Submitter / Manufacturer Name Elucid Bioimaging, Inc. 
+399 Boylston Street, Suite 400, Boston, MA 02116 
+Primary Correspondent & 
+Contact Information 
+Windi Hary 
+Chief Regulatory and Quality Officer 
+Email ID: windi.hary@elucid.com  
+Secondary Correspondent & 
+Contact Information 
+Hiral Vora 
+Lead Quality and Regulatory Affairs Specialist 
+Email ID: hiral.vora@elucid.com 
+Date Prepared September 29, 2026
+Device Identification 
+Proprietary Name Elucid FFR-I Q (B.1) 
+Device Classiﬁcation Name Coronary vascular physiologic  simulation software device 
+Regulation Description Coronary vascular physiologic  simulation software device 
+Regulation  Number 870.1415 
+Device Class Class II 
+Product Code PJA 
+Device Characteristics Device is software as a service 
+Environment of Use Healthcare Facility / Hospital / Physician Office 
+Predicate Device 
+Proprietary Name Heartﬂow FFRct 
+Device Classiﬁcation Name Coronary vascular physiologic  simulation software device 
+Regulation Description Coronary vascular physiologic  simulation software device 
+510(k) Number DEN130045 
+Regulation  Number 870.1415 
+Device Class Class II 
+Product Code PJA 
+Device Characteristics Device is software as a service 
+Environment of Use Healthcare Facility / Hospital / Physician Office 
+K262015
+Page 1 of 5
+  Elucid FFR-IQ Traditional 510(k) 510(k) Summary 
+ELUCID BIOIMAGING, INC.  
+Intended Use 
+Elucid FFR -IQ is a coronary physiological simulation software for the clinical quantitative and 
+qualitative analysis of previously acquired Computed Tomography DICOM data for clinically stable 
+patients with known or suspected coronary artery disease. It provides FFR -CT (CT-derived FFR) 
+values estimated from coronary CTA images using AI -enabled algorithms.  FFR -IQ is intended to 
+support the functional evaluation of coronary artery disease.   
+The FFR -IQ results are provided to support qualified clinicians to aid in the evaluation and 
+assessment of coronary arteries. FFR -IQ results are intended to be used by qualified clinicians in 
+conjunction with the patient’s clinical history, symptoms, and other diagnostic tests, as well as the 
+clinician’s professional judgment. 
+Device Description 
+FFR-IQ is a BioIntegrated coronary physiological software for the clinical quantitative and 
+qualitative analysis of previously acquired Computed Tomography DICOM data for clinically stable 
+patients with known or suspected coronary artery disease. It integrates anatomy and biology (such 
+as plaque composition and amount which impacts vasodilation) to estimate FFR-CT values from 
+static coronary CTA images with extracted coronary tree structures using deep learning neural 
+networks. Elucid’s FFR-IQ analysis is intended to support the functional evaluation of Coronary 
+Artery Disease. Using the 3D segmentation results of Plaque-IQ, an AI-enabled algorithm assesses 
+FFR-CT (CT-derived FFR) values along the coronary tree.  
+Elucid’s FFR-IQ is deployed and controlled by Elucid.  FFR-IQ is AI-enabled. 
+Summary of Technological Characteristics 
+Comparison Criteria Subject Device Predicate Device Comparison 
+Assessment 
+Elucid FFR-IQ (B.1) HeartFlow FFRct v1.4 - 
+510(k) K262015 DEN130045 - 
+Manufacturer Elucid Bioimaging, Inc HeartFlow, Inc. - 
+Product Code PJA PJA Same as predicate 
+Regulation 870.1415 870.1415 Same as predicate 
+Device Classification 
+Name 
+Coronary vascular 
+physiologic simulation 
+software device 
+Coronary vascular 
+physiologic simulation 
+software device 
+Same as predicate 
+Device Class II II Same as predicate 
+Input / Data Source CT / K241524 (CT) CT Similar, however 
+Elucid FFR-CT 
+requires the output of 
+K241524 as input 
+Output Graphics and text 
+results of 
+noninvasively derived 
+FFR-CT that can be 
+Graphics and text 
+results of 
+noninvasively derived 
+FFR-CT that can be 
+Same as predicate 
+K262015
+Page 2 of 5
+  Elucid FFR-IQ Traditional 510(k) 510(k) Summary 
+ELUCID BIOIMAGING, INC.  
+Comparison Criteria Subject Device Predicate Device Comparison 
+Assessment 
+accessed by end 
+users/physicians 
+using a device with 
+internet connectivity 
+accessed by end 
+users/physicians 
+using a device with 
+internet connectivity 
+Ground Truth for 
+Model Training 
+Paired CT and invasive 
+FFR data 
+Paired CT and invasive 
+FFR data 
+Same 
+Summary of Nonclinical Performance Data 
+Software verification and validation testing was conducted and documentation provided as 
+recommended in FDA guidance Content of Premarket Submissions for Device Software Functions. 
+Cybersecurity testing was conducted and documentation provided as recommended in FDA 
+guidance document Cybersecurity in Medical Devices: Quality System Considerations and Content 
+of Premarket Submissions. 
+Human Factors and Usability testing was conducted and documentation provided as 
+recommended in FDA guidance document Applying Human Factors and Usability Engineering to 
+Medical Devices. 
+Results of all current and previously referenced testing concludes the device is acceptable for use. 
+Risk Management 
+Risk management was conducted and documentation provided as recommended in FDA guidance 
+Content of Premarket Submissions for Device Software Functions and in accordance with ISO 
+14971 Medical Devices – Applications of risk management to medical devices. 
+K262015
+Page 3 of 5
+  Elucid FFR-IQ Traditional 510(k) 510(k) Summary 
+ELUCID BIOIMAGING, INC.   
+Summary of Clinical Validation 
+Study Design 
+ELUCIDATE (NCT06018194) is a retrospective, multicenter study that included eleven study sites in 
+the US (9) and OUS (2), representative of a generalized population and real-world use conditions. 
+Elucid designed this retrospective study to reflect expected commercial performance, rather than 
+the performance of a prospective study where CT image acquisition and invasive FFR data 
+collection protocols are rigorously supervised, controlled, and unlikely to represent real-world 
+conditions.   
+The retrospective study design required paired CCTA and invasive FFR for validation purposes; 
+however, the population receiving invasive FFR is necessarily narrower than the population 
+receiving FFR-CT due to the referral pathway that produces both diagnostic tests on the same 
+patient. Under AHA/ACC guidance (Lawton et al. 2021) invasive FFR is performed only when non-
+invasive assessment cannot resolve the clinical question, predominantly intermediate 40-69% 
+diameter stenosis. The retrospective validation cohort requiring paired CCTA and invasive FFR is 
+therefore drawn from that referred subset and is enriched for borderline disease and significantly 
+weighted in the FFR gray zone of 0.75 - 0.85.  The US dataset reflects this enriched population; 
+therefore, the US dataset and subsequent performance reflect a more challenging intended use 
+population than the broader population expected commercially. 
+Elucid enrolled data from an OUS site which previously collected the data prospectively to 
+represent the portion of the population that is deferred from further invasive assessment. The 
+prospective study protocol under which the data was originally acquired encouraged invasive FFR 
+measurement in all territories regardless of disease state. Thus, clearly non-obstructive, non-
+ischemic vessels are supplemented where retrospective data is sparse. Differences in the 
+prospective data collection (as defined by the collection protocol for that study) drive differences in 
+the disease prevalence between the US and OUS sites, as well as between the retrospectively and 
+prospectively collected data.  To this end, the performance results are reported for the US cohort, 
+the OUS cohort, and the overall validation cohort respectively. 
+Subjects ages 18 and over with clinically indicated CCTA and invasive FFR performed within 60 days 
+of CCTA.  Study design ensured blinding of FFR-CT processing to invasive FFR.  The study analyzed 
+491 vessels across 347 patients. 
+Enrollment exclusion criteria for patients included: 
+• Prior coronary artery bypass graft (CABG) or percutaneous intervention (PCI)
+• History of myocardial infarction prior to CCTA and/or invasive FFR
+• Known complex congenital heart disease
+• Existing pacemaker or internal defibrillator lead implantation
+• Existing prosthetic heart valve
+• Interval clinical myocardial infarction, diagnosis of decompensated heart failure, stroke, or
+coronary revascularization between CCTA and invasive FFR
+K262015
+Page 4 of 5
+  Elucid FFR-IQ Traditional 510(k) 510(k) Summary 
+ELUCID BIOIMAGING, INC.  
+Additional exclusion criteria related to data necessary for analysis included: 
+• Missing CCTA for analysis
+• Missing invasive coronary angiography imaging or adequate description defining the
+position of the invasive FFR wire location
+• Non-diagnostic CCTA or invasive FFR
+• Poor CCTA image quality that does not meet Elucid image processing requirements for
+plaque and FFR-CT 
+• CCTA or invasive FFR performed prior to January 1, 2012
+• Absence of study date for CCTA or invasive FFR
+• Patients who had IFR or CFR, and not measured FFR
+FFR-IQ was used to simulate FFR-CT from the subject’s CT. The FFR-CT was then compared to the 
+invasively collected FFR to assess the device performance. 
+Primary Safety and Effectiveness Endpoints 
+The primary endpoints regarding this study were sensitivity and specificity to have the lower limits 
+of their 95% CI to be > 75%. These performance goals were not necessarily determined to be 
+sufficient for substantial equivalence, but the performance demonstrated by the results was. 
+Study Results 
+The ELUCIDATE overall study results as well as the separate US cohort met the primary endpoints. 
+Per vessel US cohort results Overall Results NXT Predicate results 
+Sensitivity 90.9 [85.1, 96.5] 92.2 [87.5, 96.5] 84 [75, 89] 
+Specificity 89.2 [83.9, 93.7] 93.1 [90.2, 95.6] 86 [82, 89] 
+Unadjusted PPV 84.1 [77.7, 90.5] 84.4 [79.2, 89.3] 61 [53, 69] 
+Unadjusted NPV 94.0 [90.0, 97.6] 96.7 [94.8, 98.5] 95 [93, 97] 
+Bland-Altman LoA 0.19 [-0.09 - 0.10] 0.23 [-0.10 - 0.13] 0.30 [-0.12 - 0.18] 
+Sample size N = 257 N = 491 N = 484 
+Due to the retrospective nature of the study, there were no adverse events or complications 
+observed in the study. 
+Conclusion 
+While there are differences noted in the technological characteristics of the proposed device and 
+the predicate device, namely that the predicate uses computational fluid dynamics and the subject 
+device does not, the differences do not raise different questions of safety or effectiveness.  Non-
+clinical verification and validation, along with clinical performance data, collectively support 
+substantial equivalence of the subject device to the predicate. 
+K262015
+Page 5 of 5

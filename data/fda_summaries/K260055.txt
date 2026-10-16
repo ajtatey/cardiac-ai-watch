@@ -1,0 +1,549 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+September 25, 2026 
+ 
+Siemens Medical Solutions USA, Inc. 
+Kenny Bello 
+Regulatory Affairs Professional 
+810 Innovation Dr. 
+Knoxville, Tennessee 37932 
+ 
+ 
+Re:  K260055 
+Trade/Device Name: syngo.CT Brain Quantification 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  August 27, 2026 
+Received:  August 28, 2026 
+ 
+Dear Kenny Bello: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K260055 - Kenny Bello Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+K260055 - Kenny Bello Page 
+ 
+3 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Jessica Lamb, Ph.D 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+ 
+K260055 - Siemens Medical Solutions USA, Inc.   1 
+K260055 
+510(k) Summary  
+for 
+syngo.CT Brain Quantification with software version SOMARIS/8 VB80 
+This 510(k) summary is being submitted in accordance with the requirements of SMDA 1990 and 21 CFR 
+§807.92”. 
+ 
+1. Identification of the Submitter  
+ 
+Submitter 
+SIEMENS MEDICAL SOLUTIONS USA, INC. 
+810 INNOVATION DR. 
+KNOXVILLE,  TN  37932 
+Registration Number: 1034973 
+ 
+Importer/Distributor 
+SIEMENS MEDICAL SOLUTIONS USA, INC. 
+40 Liberty Boulevard 
+Malvern,  PA  19355 
+Registration Number: 2240869 
+ 
+Location of Manufacturing Site   
+Siemens Healthineers AG 
+SIEMENSSTRASSE 1 -OR- 
+Rittigfeld 1 
+FORCHHEIM Bavaria,  DE  91301 
+Registration Number: 3004977335 
+ 
+Note: Descriptions in this submission use the short company name Siemens. It covers both manufacturing 
+locations and names as listed above. Brand name on all products is Siemens Healthineers. 
+ 
+Submitter Contact Person: 
+Kenny M Bello 
+Regulatory Affairs Professional 
+Siemens Medical Solutions USA, Inc. 
+Molecular Imaging 
+810 Innovation Drive 
+Knoxville, TN 37932 
+Phone: (205) 856-6099 
+monsuru.bello@siemens-healthineers.com 
+Backup Contact: 
+Alaine Medio 
+Regulatory Affairs Manager 
+Siemens Medical Solutions USA, Inc. 
+Molecular Imaging 
+810 Innovation Drive 
+Knoxville, TN 37932 
+Phone: +1 (865)206-0337 
+alaine.medio@siemens-healthineers.com 
+ 
+ 
+ 
+K260055 - Siemens Medical Solutions USA, Inc.   2 
+2. Device Name and Classification 
+Product Name: syngo.CT Brain Quantification 
+Propriety Trade Name:  syngo.CT Brain Quantification 
+Regulation Description:  Medical Image Management and Processing System 
+Classification Name:  Automated Radiological Image Processing Software 
+Classification Panel:  Radiology 
+CFR Section:  21 CFR §892.2050 
+Device Class:  Class II 
+Product Code:  QIH 
+ 
+3. Predicate Devices 
+Predicate Device: 
+Trade Name: qER-Quant 
+Manufacturer: Qure.Ai Technologies 
+510(k) Number:  K211222 
+Clearance Date:  07/30/2021 
+Regulation Description:  Medical Image Management and Processing System 
+Classification Name:  Automated Radiological Image Processing Software 
+Classification Panel:  Radiology 
+CFR Section:  21 CFR §892.2050 
+Device Class: Class II 
+Product Code: QIH 
+ 
+4. Device Description 
+syngo.CT Brain Quantification is a radiological post-processing application intended for the analysis of non-
+contrast head datasets acquired with computed tomography (CT) imaging systems. syngo.CT Brain 
+Quantification is intended for automatic labeling, visualization, and quantification of intracranial structures. 
+The subject device is intended to be used in the analysis of intracranial hyperdensities and in the 
+quantification of the midline shift. The device receives images from a hosting system and returns DICOM 
+images back to the hosting system, which can display the results within its user interface. 
+  
+ 
+K260055 - Siemens Medical Solutions USA, Inc.   3 
+5. Indications for Use 
+syngo.CT Brain Quantification is a radiological post-processing application for the analysis of non-contrast 
+head CT images. The device is intended for automatic labeling, visualization, and quantification of 
+intracranial structures.  
+The software is indicated for use in the analysis of: 
+• Intracranial Hyperdensities 
+• Midline Shift 
+The device is intended to be used in patients aged 18 years or above. No surgical signs must be present in 
+the images. 
+ 
+6. Indications for Use Comparison to the Predicate Device 
+Subject Device 
+ 
+Siemens syngo.CT Brain Quantification 
+Predicate Device 
+ 
+Qure.Ai Technologies qER-Quant 
+syngo.CT Brain Quantification is a radiological 
+post-processing application for the analysis of 
+non-contrast head CT images. The device is 
+intended for automatic labeling, visualization, 
+and quantification of intracranial structures.  
+ 
+The software is indicated for use in the analysis 
+of: 
+  • Intracranial Hyperdensities 
+  • Midline Shift 
+ 
+The device is intended to be used in patients 
+aged 18 years or above. No surgical signs must be 
+present in the images. 
+The qER-Quant device is intended for automatic 
+labeling, visualization and quantification of 
+segmentable brain structures from a set of Non-
+Contrast head CT (NCCT) images. The software is 
+intended to automate the current manual 
+process of identifying, labeling and quantifying 
+the volume of segmentable brain structures 
+identified on NCCT images. 
+ 
+qER-Quant provides volumes from NCCT images 
+acquired at a single time point and provides a 
+table with comparative analysis for two or more 
+images that were acquired on the same scanner 
+with the same image acquisition protocol for the 
+same individual at multiple time points. 
+ 
+The qER-Quant software is indicated for use in 
+the analysis of the following structures: 
+Intracranial Hyperdensities, Lateral Ventricles 
+and Midline Shift. 
+ 
+Both devices share the same fundamental intended use: post-processing of non-contrast head CT images for 
+automatic labeling, visualization, and quantification of brain structures.  
+ 
+Both devices are: 
+ 
+K260055 - Siemens Medical Solutions USA, Inc.   4 
+• Standalone post-processing software applications 
+• Using non-contrast head CT images as input 
+• Intended for automatic labeling, visualization and quantification of brain structures 
+• Indicated for use in the analysis of intracranial hyperdensities and midline shift 
+ 
+7. Comparison of Technological Characteristics with the Predicate Device 
+The differences and similarities between the above referenced predicate device are listed at a high-level in 
+the following table: 
+Feature Subject Device Predicate Device Comparison Table 
+syngo.CT Brain 
+Quantification 
+Qure.AI qER-Quant 
+Regulation 21 CFR 892.2050 21 CFR 892.2050 Same 
+Product Code QIH QIH Same 
+Regulation 
+Description 
+Medical Image 
+Management and 
+Processing System 
+Medical Image 
+Management and 
+Processing System 
+Same 
+Device type Automated Radiological 
+Image Processing 
+Software 
+Automated Radiological 
+Image Processing 
+Software 
+Same 
+Intended User Hospital networks and 
+qualified clinicians 
+Hospital networks and 
+qualified clinicians 
+Same 
+Input images Non-contrast CT Non-contrast CT Same 
+Body Part Head Head Same 
+Target 
+structures 
+analyzed on 
+NCCT scans 
+Intracranial 
+hyperdensities and 
+midline shift 
+Intracranial 
+hyperdensities, lateral 
+ventricles and midline 
+shift 
+Similar 
+Lateral ventricles are not 
+target structures for syngo.CT 
+Brain Quantifcation 
+Support of data 
+acquired at 
+multiple time 
+points 
+No Yes Different 
+Subject device operates on 
+data acquired at single time 
+point and does not provide 
+functionality for analysis of 
+images acquired at multiple 
+timepoints. 
+Artificial 
+Intelligence 
+algorithm 
+Segmentation by deep 
+learning (supervised 
+voxel classification with 
+Convolutional Neural 
+Networks) 
+Segmentation by deep 
+learning (supervised 
+voxel classification with 
+Convolutional Neural 
+Networks) 
+Same 
+ 
+K260055 - Siemens Medical Solutions USA, Inc.   5 
+Feature Subject Device Predicate Device Comparison Table 
+syngo.CT Brain 
+Quantification 
+Qure.AI qER-Quant 
+Segmentation 
+by deep learning 
+(supervised 
+voxel 
+classification 
+with 
+Convolutional 
+Neural 
+Networks) 
+Yes Yes Same 
+Limited to 
+analysis of 
+imaging data 
+Yes Yes Same 
+Scanner 
+Manufacturer of 
+Input Data 
+Multi-vendor Multi-vendor Same 
+Output • Annotated DICOM 
+Images with 
+volumetric 
+information of brain 
+structures and midline 
+shift 
+• Annotated DICOM 
+Images with 
+volumetric 
+information of 
+structures and midline 
+shift 
+• Multiple electronic 
+reports (PDF) 
+Similar 
+The subject device offers 
+annotated DICOM images only 
+without producing additional 
+PDF reports.  
+Communication DICOM Compatible DICOM Compatible Same 
+Reference 
+Standard for 
+Performance 
+testing 
+Accuracy 
+Manual labeled images 
+for all structures 
+Accuracy  
+Manually labeled images 
+for all structures 
+ 
+Reproducibility 
+Test-retest images 
+Similar 
+The subject device provides 
+tests for accuracy. 
+Deployment SOMARIS-X platform, 
+syngo.via platform 
+ 
+Proprietary qure.AI 
+Platform 
+Similar 
+The predicate device operates 
+on its proprietary platform 
+while the subject device 
+operates on the syngo 
+compatible host systems 
+SOMARIS-X and syngo.via 
+since this device is a part of 
+the Siemens application 
+universe.  
+ 
+K260055 - Siemens Medical Solutions USA, Inc.   6 
+8. Performance Data 
+The following performance data were provided in support of the substantial equivalence determination. 
+Software Verification and Validation 
+Software documentation at an Enhanced Documentation level per FDA’s Guidance Document “Content of 
+Premarket Submissions for Software Contained in Medical Devices” issued on June 14, 2023 is included as 
+part of this submission. The performance data demonstrates continued conformance with special controls 
+for medical devices containing software. The Risk Analysis was completed, and risk control implemented to 
+mitigate identified hazards. The testing supports that all software specifications have met the acceptance 
+criteria. Testing for verification and validation support the claim of substantial equivalence.  
+ 
+Non-Clinical Testing Summary 
+Non-clinical testing submitted in support of substantial equivalence included software verification and 
+validation testing, algorithm performance testing, cybersecurity testing, system integration testing, and risk 
+management activities. Testing was conducted to verify that the device performs as intended and meets 
+predefined acceptance criteria. All non-clinical test results supported the substantial equivalence of the 
+device. 
+ 
+Clinical Testing Summary 
+Clinical performance of the device was evaluated in a retrospective, stand-alone study using anonymized non-
+contrast head CT datasets collected from multiple clinical institutions in the United States and Europe. The 
+study assessed the performance of the M idline Shift Quantification module and the Brain Hyperdensity 
+Segmentation module by comparison to ground -truth measurements established by experienced board -
+certified neuroradiologists.  
+The Midline Shift Quantification m odule was evaluated using 300 head CT cases to assess the accuracy of 
+automated midline shift measurements. The data contains patients from 18 to 93 years of age (average 61.1 
++/-19.4 years) with 51% males and 42% females and an average ground-truth midline shift of 2.4 +/-2.6 mm.  
+The Brain Hyperdensity Segmentation module was evaluated using 200 head CT cases containing acute 
+intracranial hyperdensities. Algorithm-generated segmentation and volume measurements were compared 
+to expert-generated ground-truth segmentations. Performance was assessed using volumetric accuracy and 
+Dice Similarity Coefficient (DSC). The data contains patients from 18 to 98 years of age (average 62.4 +/-19.3 
+years) with 47% males and 40% females and an average ground -truth hyperdensity volume of 21.4 +/- 33.4 
+ml. 
+The clinical study demonstrated that the device met all predefined acceptance criteria. 
+ Absolute measurement difference Dice Similarity 
+Coefficient 
+Structure (Number of Series) Mean (standard 
+deviation) 
+Median (10th-90th 
+percentile) 
+Mean (95% 
+confidence interval) 
+Intracranial hyperdensities (200) 4.84 (6.85) ml 2.32 (0.16-12.60) ml 0.72 (0.68, 0.75) 
+Midline shift (300) 0.87 (1.04) mm 0.65 (0.16-1.78) mm Not applicable 
+ 
+ 
+K260055 - Siemens Medical Solutions USA, Inc.   7 
+In addition, subgroup performance analyses were performed across relevant patient demographics (i.e., age, 
+gender, origin), technical acquisition parameters  (i.e., scanner manufacturer, model, slice thickness, kernel, 
+etc.), clinical aspects (i.e. location, volume, confounders), and image quality parameters to demonstrate that 
+algorithm performance is consistent across the intended -use population. Additionally, truther variability 
+analyses and linear regression analyses were conducted. 
+ 
+Conclusion from non-clinical and clinical tests 
+The non-clinical testing submitted in support of substantial equivalence demonstrated that the device meets 
+its design specifications and performs as intended under the specified conditions of use. Software 
+verification and validation activities, performance testing, cybersecurity testing, and other applicable non-
+clinical evaluations provided evidence that the device is safe and effective for its intended use. 
+Clinical testing demonstrated that the subject device can perform effective labeling, visualization, and 
+quantification of intracranial hyperdensities and midline shift. 
+Collectively, the non-clinical and clinical test results support the conclusion that the subject device is as safe 
+and effective as the predicate device and does not raise different questions of safety and effectiveness. 
+Therefore, the data support a determination of substantial equivalence. 
+ 
+Risk Analysis 
+The risk analysis was completed, and risk control implemented to mitigate identified hazards. The testing 
+results support that all the software specifications have met the acceptance criteria. Testing for verification 
+and validation of the device was found acceptable to support the claims of substantial equivalence.  
+  
+ 
+K260055 - Siemens Medical Solutions USA, Inc.   8 
+Standards 
+Siemens hereby certifies that syngo.CT Brain Quantification meets the following FDA Recognized Consensus 
+standards listed below: 
+Standard Version Content FDA 
+Recognition 
+Number  
+(if applicable) 
+IEC 62304  62304 Edition 
+1.1 2015-06 
+CONSOLIDATED 
+VERSION 
+Medical device software - Software life cycle 
+processes [Including Amendment 1 (2016)] 
+13-79 
+NEMA PS 3.1 - 
+3.20 2023e 
+2023 Digital Imaging and Communications in 
+Medicine (DICOM) Set 
+12-352 
+ISO 14971 Third Edition 
+2019-12 
+Application of Risk Management to Medical 
+Devices 
+5-125 
+IEC 62366-1  Edition 1.1 
+2020-06 
+CONSOLIDATED 
+VERSION 
+Medical devices - Part 1: Application of usability 
+engineering to medical devices 
+5-129 
+ISO 15223-1 Fourth edition 
+2021-07 
+Medical devices - Symbols to be used with 
+information to be supplied by the manufacturer 
+- Part 1: General requirements 
+5-134 
+ISO 20417:2021 First edition 
+2021-04 
+Corrected 
+version 2021-12 
+Medical devices - Information to be supplied by 
+the manufacturer 
+5-135 
+ 
+9. Conclusion  
+syngo.CT Brain Quantification has the same intended use and similar indication for use as the predicate 
+device. The result of all testing conducted was found acceptable to support the claim of substantial 
+equivalence. The comparison of technological characteristics, clinical and non-clinical performance data, and 
+software validation demonstrates that the subject device is as safe and effective when compared to the 
+predicate device that is currently marketed for the same intended use. Siemens considers syngo.CT Brain 
+Quantification to be as safe, as effective and with performance substantially equivalent to the commercially 
+available predicate device. 

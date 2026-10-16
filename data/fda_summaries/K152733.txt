@@ -1,0 +1,557 @@
+
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES  Public Health Service
+Food and Drug Administration 
+10903 New Hampshire Avenue 
+Document Control Center - WO66-G609 
+Silver Spring, MD  20993-0002
+Heartflow, Inc. 
+Windi Hary 
+Director Quality And Regulatory 
+1400 Seaport Boulevard, Building B 
+Redwood City, California 94063  
+Re: K152733 
+Trade/Device Name: FFRct 
+Regulation Number:  21 CFR 870.1415 
+Regulation Name: Coronary Physiologic Simulation Software Device
+Regulatory Class:  Class II 
+Product Code:  PJA 
+Dated:  December 10, 2015 
+Received:  December 11, 2015 
+Dear Windi Hary: 
+We have reviewed your Section 510(k) premarket notification of intent to market the device 
+referenced above and have determined the device is substantially equivalent (for the indications 
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate 
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to 
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug, 
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). 
+You may, therefore, market the device, subject to the general controls provisions of the Act. The 
+general controls provisions of the Act include requirements for annual registration, listing of 
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability 
+warranties. We remind you, however, that device labeling must be truthful and not misleading. 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), 
+it may be subject to additional controls. Existing major regulations affecting your device can be 
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may 
+publish further announcements concerning your device in the Federal Register. 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean 
+that FDA has made a determination that your device complies with other requirements of the Act 
+or any Federal statutes and regulations administered by other Federal agencies. You must comply 
+with all the Act's requirements, including, but not limited to: registration and listing (21 CFR 
+Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-
+related adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in 
+January 13, 2016
+      - Windi Hary Page 2
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product 
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. 
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please 
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041 
+or (301) 796-7100 or at its Internet address 
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note 
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 
+CFR Part 803), please go to 
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office 
+of Surveillance and Biometrics/Division of Postmarket Surveillance. 
+You may obtain other general information on your responsibilities under the Act from the 
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) 
+796-7100 or at its Internet address 
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+Sincerely yours, 
+Bram D. Zuckerman, M.D. 
+Director 
+Division of Cardiovascular Devices 
+Office of Device Evaluation 
+Center for Devices and Radiological Health 
+Enclosure
+for
+ 
+ 
+Bram D Zuckerman
+B DZ k
+y y ,
+incerely yours,
+
+FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: January 31, 2017
+See PRA Statement below.
+510(k) Number (if known)
+K152733
+Device Name
+FFRct v2.0
+Indications for Use (Describe)
+HeartFlow FFRCT is a post-processing software for the clinical quantitative and qualitative analysis of previously 
+acquired Computed Tomography DICOM data for clinically stable symptomatic patients with coronary artery disease. It 
+provides FFRCT, a mathematically derived quantity, computed from simulated pressure, velocity and blood flow 
+information obtained from a 3D computer model generated from static coronary CT images. FFRCT analysis is intended 
+to support the functional evaluation of coronary artery disease.
+The results of this analysis are provided to support qualified clinicians to aid in the evaluation and assessment of coronary 
+arteries. The results of HeartFlow FFRCT are intended to be used by qualified clinicians in conjunction with the patient’s 
+clinical history, symptoms, and other diagnostic tests, as well as the clinician’s professional judgment. 
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.”
+VOL_002 Section 005 510(k) Summary page 5-1 of 11 
+ 
+HeartFlow, Inc. 
+1400 Seaport Blvd., Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1221 
+www.heartflow.com
+FFRct v 2.0 
+510(k) Submission 
+2015 
+ 
+5.0 510(K) SUMMARY 
+This 510(k) summary of safety and effectiveness information is submitted in accordance with the 
+requirements of 21 CFR Part 807.87(h). 
+ 
+5.1 Submitter Information 
+Submitter / 
+Manufacturer Name: 
+HeartFlow, Inc. 
+1400 Seaport Boulevard, Building B 
+Redwood City, CA 94063 
+ 
+Contact Person: Windi Hary, RAC 
+Director, Quality and Regulatory 
+HeartFlow, Inc. 
+1400 Seaport Boulevard, Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1250 
+F +1 (650) 368-2564 
+whary@heartflow.com 
+ 
+Date Prepared: September 21, 2015 
+ 
+5.2 Device Identification 
+Device Name: FFRCT v2.0 
+Device Trade Name: FFRCT v2.0 
+Common Name: HeartFlow FFRCT 
+Classification Name: Coronary Physiologic Simulation Software 
+Device   
+Product Code: PJA 
+Product Class: Class II (21 CFR 870.1415) 
+ 
+ 
+5.3 Predicates 
+HeartFlow FFRCT v1.4 (DEN130045) is the identified predicate for the HeartFlow FFR CT v2.0 product.  
+This is discussed further in VOL_002 SEC 013 Substantial Equivalence. 
+ 
+5.4 Device Description 
+FFRCT v2.0 is post-processing image analysis soft ware developed for the clinical quantitative and 
+qualitative analysis of CT DICOM data.  It is a to ol for the analysis of CT  DICOM-compliant cardiac 
+images and data, to assess the anatomy and function of the coronary arteries.  
+ 
+The software displays the anatomy combined with functional information using graphics and text, 
+including computed and derived quantities of blood flow, pressure and velocity, to aid the clinician in 
+the assessment of coronary artery disease. 
+ 
+FFRCT is independent of imaging equipment, imaging protocols and equipment vendors; the clinical 
+validation report ( VOL_003 FFR CT v2.0 Clinical Validation Report ) includes identification of vendors 
+and equipment used in the clinical validation of th e product.  This data is summarized in the product 
+labeling, and can be found in the Cl inical User Instructions for Use ( Attachment VOL_003 Instructions 
+for Use - Customers ).  HeartFlow FFRCT analyses are performed on previously physician-acquired 
+K152733 page 1 of 11
+VOL_002 Section 005 510(k) Summary page 5-2 of 11 
+ 
+HeartFlow, Inc. 
+1400 Seaport Blvd., Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1221 
+www.heartflow.com
+FFRct v 2.0 
+510(k) Submission 
+2015 
+ 
+image data and are unrelated to acquisition equipment and clinical workstations. 
+ 
+5.5 Intended Use 
+HeartFlow FFRCT is a post-processing software for the clinic al quantitative and qualitative analysis of 
+previously acquired Computed Tomography DICOM d ata for clinically stable symptomatic patients 
+with coronary artery disease. It provides FFR CT, a mathematically derived quantity, computed from 
+simulate pressure, velocity and blood flow information obtained from a 3D computer model 
+generated from static coronary CT images. FFR CT analysis is intended to support the functional 
+evaluation of coronary artery disease.  
+ 
+The results of this analysis are provided to suppor t qualified clinicians to aid in the evaluation and 
+assessment of coronary arteries.  The results of HeartFlow FFR CT are intended to be used by qualified 
+clinicians in conjunction with the patient’s clinical  history, symptoms, and other diagnostic tests, as 
+well as the clinician’s professional judgment. 
+ 
+5.5.1 Contraindications 
+The FFRCT v2.0 Customer Instructions for Use ( VOL_003 Instructions for Use – Customers ) clearly 
+identify for which patient populations and CT scanner manufacturers the product has been 
+clinically validated. 
+ 
+5.5.2 Warnings and Precautions 
+The warnings and precautions can be found in the FFR CT v2.0 product labeling ( VOL_003 
+Instructions for Use – Customers). 
+ 
+5.6 Technological Characteristics of Device 
+The HeartFlow FFR CT device is a software medical device  that allows for the quantitative and 
+qualitative analysis of Coronary Computed Tomography Angiography (cCTA).  FFR CT v2.0 is the next 
+generation of the predicate device FFRCT v1.4 and has the same technological characteristics. 
+ 
+5.7 Alternative Practices and Procedures 
+A wide variety of non-invasive card iac imaging modalities are available for the evaluation of patients 
+with stable known or suspected coronary artery disease (CAD).  These tests are aimed at (1) 
+detection of CAD; (2) determining the severity of disease and risk stratification; and (3) helping to 
+guide clinical decision-making.  These moda lities include electrocardiography (ECG), 
+echocardiography (ECHO), nuclear myocardial p erfusion imaging with single-photon emission 
+tomography (SPECT) and positron emission computed tomography (PET), cardiac magnetic resonance 
+imaging (MRI), and computed tomography coronary angiography (cCTA).  Each of these modalities 
+can be applied at rest or under stress conditions (exe rcise or pharmacologic stress).  Non-invasive 
+diagnosis of CAD can be accomplished by anato mic imaging of the coronary artery anatomy using 
+cCTA or MRI or functional testing using SPECT, PET, stress ECHO and stress MRI to evaluate 
+myocardial perfusion and/or wall motion abnormalit ies.  While cCTA has primarily been used to 
+detect the presence of anatomically obstructive co ronary lesions, hybrid imaging strategies are now 
+available which incorporate functional assessment with MPI stress testing and CT imaging.1   This is in 
+response to widespread recognition of the need fo r a non-invasive anatomic-functional test that can 
+identify obstructive atherosclerotic plaques and also determine their functional significance.2   
+ 
+5.7.1 Diagnostic Performance of Non-invasive Cardiac Imaging Modalities 
+The diagnostic performance of non-invasive cardiac imaging modalities for the diagnosis of CAD is 
+typically determined using invasive coronary angiography as the reference standard.  The 
+K152733 page 2 of 11
+VOL_002 Section 005 510(k) Summary page 5-3 of 11 
+ 
+HeartFlow, Inc. 
+1400 Seaport Blvd., Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1221 
+www.heartflow.com
+FFRct v 2.0 
+510(k) Submission 
+2015 
+ 
+determination of the presence or absence of sign ificant coronary obstruction is usually made on 
+the basis of visual estimates of angiographic  percent lumen narrowing using a 50% stenosis 
+threshold.   However, it is well known that visual estimates of lumen stenosis have limited value in 
+determining the hemodynamic or functional signif icance of coronary lesions, particularly for 
+moderate coronary stenoses. 6   The determination, prior to co ronary revascularization, of the 
+functional significance of observed coronary lesions has been demonstrated to be the most 
+important factor to influence clinical outcomes. 7, 8   Patients with hemodynamic or functionally 
+significant-causing stenoses benefit from revascularization 6, 9 whereas patients with 
+hemodynamically insignificant lesions require no intervention and experience favorable outcomes 
+on medical therapy alone, with myocardial in farction and mortality rates of <1% per year. 10, 11   
+Thus, the determination of the hemodynamic signific ance of a lesion is of paramount importance 
+in guiding treatment strategy, and this can be readily accomplished during ICA by measurement of 
+fractional flow reserve (FFR). 12  The accuracy of angiographic visual assessment to determine the 
+functional significance of a coronary stenosis wa s determined in 1,414 lesions in 509 patients in 
+the FAME study. 13  Only 35% of angiographic stenoses 50 -70% were functionally significant with 
+FFR<0.80 and 65% were not.  In the category of 71-90% stenosis by visual estimate, 80% were 
+functionally significant and 20% were not.  This inaccuracy of visual angiography as the reference 
+standard for evaluating non-invasive imaging moda lities tests has prompted calls for the use of 
+FFR as the reference standard.2     
+ 
+5.7.1.1 Diagnostic performance of no n-invasive cardiac imaging modalities vs visual angiography    
+The diagnostic performance of non-invasive cardiac imaging modalities using visual angiography as 
+the reference standard is shown in Table 5-1 (data from the 2013 ESC Guidelines).3   
+ 
+Table 5-1.  Diagnostic performance:  visual angiography as reference standard  
+ DIAGNOSIS OF CAD 
+ SENSITIVITY (%) SPECIFICITY (%) 
+Exercise ECGa 45 – 50 85 – 90 
+Exercise stress echocardiography 80 – 85 80 – 88 
+Exercise stress SPECT 73 – 92 63 – 87 
+Dobutamine stress echocardiography 72 – 79 82 – 86 
+Dobutamine stress MRIb 79 – 88 81 – 91 
+Vasodilator stress echocardiography 72 – 79 92 – 95 
+Vasodilator stress SPECT 90 – 91 75 – 84 
+Vasodilator stress MRI 67 – 94 61 – 85 
+Coronary CTAc 95 – 99 64 – 83 
+Vasodilator stress PET 81 – 97 74 – 91 
+a Results without/with minimal referral bias. 
+b Results obtained in populations with medium-to-hi gh prevalence of disease without compensation for 
+referral bias. 
+c Results obtained in populations with low-to-medium prevalence of disease. 
+ 
+The diagnostic performance (sensitivity and spec ificity) of a given diagnostic test may vary 
+depending on the disease prevalence in a given patient. Coronary CT is the most sensitive non-
+invasive test in identifying the presence of CAD, however CT has limited accuracy in determining 
+the functional significance of a lesion and freque ntly overestimates the severity of a lesion.  Even 
+among high-grade stenoses identified by CT and co nfirmed by angiography, less than half of the 
+lesions are ischemia-causing when compared to FFR.4, 5  
+  
+K152733 page 3 of 11
+VOL_002 Section 005 510(k) Summary page 5-4 of 11 
+ 
+HeartFlow, Inc. 
+1400 Seaport Blvd., Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1221 
+www.heartflow.com
+FFRct v 2.0 
+510(k) Submission 
+2015 
+ 
+5.7.1.2 Diagnostic performance of no n-invasive cardiac imaging modalities vs Fractional Flow Reserve 
+The diagnostic performance of the various non-invasive cardiac imaging modalities using fractional 
+flow reserve (FFR) as the reference standard is shown on Table 5-2 .  There is a significant 
+reduction in diagnostic performance when these modalities are compared to FFR rather than 
+visual angiography as the reference standard.    
+ 
+Table 5-2.  Diagnostic performance:  measured FFR as reference standard  
+DIAGNOSTIC PERFORMANCE vs mFFR SENSITIVITY (%) SPECIFICITY (%) 
+Stress ECHO – Jung 200814 46 77 
+MPI-SPECT – Melikian 201015 48 80 
+MPI-SPECT – Forster 200916 62 90 
+MPI-CT+cCTA – Ko 201217 68 98 
+cCTA – Meijboom 20084 94 48 
+cCTA – Koo 201118 91 40 
+cCTA – Min 201219 84 42 
+Coronary angiography, visual – Meijboom 2008 55 62 
+Coronary angiography, visual - Park 66 67 
+Coronary angiography, QCA - Christou meta-analysis 200720 78 51 
+Note:  the sensitivity and specificity for visual an giography vs FFR in this study were 55% and 62% 
+respectively; and for quantitative coronary angiography vs FFR were 57% and 69% respectively. 
+ 
+Summary of meta-analyses: A meta-analysis of 31  studies compared the results of quantitative 
+coronary angiography (QCA) and/or non-invasive im aging of the same lesions versus FFR for the 
+determination of the hemodynamic significance of coronary lesions. 20  Across 18 studies (1,522 
+lesions), QCA had a sensitivity of 78% (95% CI 67-86%) and specificity of 51% (95% CI 40-61%).  In 
+21 studies (1,249 lesions) with non-invasive imaging, the sensitivity was 76% (95% CR 69-82%) and 
+specificity was 76% (95%CI 71-81%).  In the 15 st udies with SPECT data (976 lesions), sensitivity 
+was 75% (95% CI 66-82%) and specificity was 77% (95% CI 70-83%).  In 6 studies with stress 
+dobutamine echocardiography (273 lesions) sensit ivity was 82% (95% CI 62-92%) and specificity 
+was 74% (95% CI 66-81%).   
+ 
+5.8 Marketing History 
+In July 2011, HeartFlow received CE marking for an earlier version of the FFR CT device and began 
+commercialization of FFRCT in several European countries and Australia. In November 2014, De Novo 
+request for FFR CT v1.4 (DEN130045) was granted by the U.S. Food and Drug Administration.   We 
+entered into Japan in 2014 prior to change of regulations and continue to market while the FFR CT 
+application is in process.  HeartFlow received Canadian Medical Device License in August 2015.  To 
+date, FFRCT has not been withdrawn from any foreign market for any reason relating to the safety and 
+effectiveness of the device.  
+ 
+5.9 Potential Adverse Effects of the Device on Health 
+FFRCT is a post-processing analysis of previously acquired CT images, such that there are no potential 
+adverse effects of the device on health to the pati ent or requesting clinician.  Risks related to the 
+accuracy of the results and clinician interpretatio n/inclusion in their diagnosis and treatment are 
+identified in the product labeling. 
+ 
+5.10 Summary of Studies 
+The software was designed, developed, tested and validated according to written procedures.  These 
+procedures specify individuals within the organi zation responsible for developing and approving 
+K152733 page 4 of 11
+VOL_002 Section 005 510(k) Summary page 5-5 of 11 
+ 
+HeartFlow, Inc. 
+1400 Seaport Blvd., Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1221 
+www.heartflow.com
+FFRct v 2.0 
+510(k) Submission 
+2015 
+ 
+product specifications, coding, testing, validating and maintenance.  
+ 
+Validation studies included stress testing, an d repeatability testing to ensure the safety and 
+effectiveness of the device. 
+ 
+Software and medical device design validation has been completed.  Medical device design included 
+testing and evaluation using previously acquired diagnostic images received through HeartFlow 
+sponsored clinical trials.  The results concluded the device was acceptable for use. 
+ 
+5.10.1 Summary of Pre-clinical Studies 
+Pre-clinical studies of the computatio nal methods underlying HeartFlow’s FFR CT technology were 
+conducted at Stanford University in Dr. Charles A. Taylor’s laboratory. The solver technology 
+developed at Stanford University was licensed to HeartFlow.  The pre-clinical studies performed at 
+Stanford include extensive bench top experiments and in-vivo animal model validations. The 
+results of these studies have been publ ished in 6 peer-reviewed journal papers 21-26  and are 
+summarized below.  Additional pre-clinical st udies have not been conducted at HeartFlow, since 
+bench and animal models do not permit evaluation of our technology in relevant anatomic or 
+physiologic models reflecting diseased human co ronary vessels.  Rather, we have validated our 
+technology against measured fractional flow reserve, the standard of care in-vivo measurement in 
+humans for the determination of hemodynamic significance of coronary lesions. 
+ 
+5.10.2 Summary of Clinical Studies 
+HeartFlow has conducted three primary clinical studies involving validation of FFRCT to date. These 
+studies were conducted with prior versions of the software. HeartFlowNXT provided the clinical 
+validation for the predicate device, FFR CT v1.4. The current version of software product 
+represented in this 510(k), version 2.0, was clinically validated using the sequestered 
+HeartFlowNXT dataset to evidence equivalence.   
+ 
+5.10.2.1 HeartFlowNXT 
+HeartFlow analysis of coronary blood flow us ing coronary CT angiography: NeXt sTeps (the 
+HeartFlowNXT or HFNXT study) was a prospective, multicenter, non-randomized study. The overall 
+objective of the HFNXT study was to dete rmine the diagnostic performance of FFRCT, as compared 
+to cCTA alone, for the non-invasive determin ation of the presence of a hemodynamically 
+significant coronary lesions using direct measurement of FFR ( ≤0.80) during cardiac 
+catheterization as the reference standard.  The r ationale and design of the study is in press 
+(Attachment VOL_004  SEC 013 Gaur_JCCT_2013 ) and the study reflects improvements in FFR CT 
+technology (software version v1.4) and a focus on quantitative image-quality analysis.   
+ 
+The study was conducted at 11 sites in 8 countries in Canada, Europe and Asia from September 
+2012 to August 2013, with 276 subjects enrolled.  A total of 254 adult subjects with known or 
+suspected coronary artery disease who were schedu led for clinically indicated invasive coronary 
+angiography comprised the intent ion-to-diagnose (ITD) population. Subjects had an overall mean 
+age of 63.7 years and 63.8% were men. A total of 22.8% had diabetes mellitus, 68.5% had 
+hypertension, 78.7% had hyperlipidemia, 57.1% were current or former smokers. Also, 77.6% 
+presented with angina in the 30 days prior to enrollment; 77.7% of subjects with angina had stable 
+angina and 22.3% had unstable angina. Only 2%  had documented prior history of myocardial 
+infarction and no patients had renal dysfunction,  defined as creatinine >1.5 mg/dL. The mean 
+body mass index for enrolled subjects was 25.6 ± 3.7 kg/m 2. Left ventricular ejection fraction was 
+reported for 76% of the enrolled subjects with a mean value of 61.8%. The time from the cCTA 
+K152733 page 5 of 11
+VOL_002 Section 005 510(k) Summary page 5-6 of 11 
+ 
+HeartFlow, Inc. 
+1400 Seaport Blvd., Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1221 
+www.heartflow.com
+FFRct v 2.0 
+510(k) Submission 
+2015 
+ 
+scan to the ICA procedure was between 1 to 30 days in 87% of the ITD patients with a mean of 
+18.1 days. Sublingual or intravenous nitrates were administered in 99.6% of subjects undergoing 
+coronary artery CT scanning. In 78% of the subj ects beta blockers were administered to reduce 
+heart rate prior to scan. The mean calcium score for ITD subjects was 302 (±468) Agatston units. A 
+calcium score was reported for 84.3% of subjects, and of these, 25.7% had a calcium score > 400 
+Agatston units. 
+ 
+Direct comparison of invasive FFR and FFR CT was performed in 484 vessels.  At least one invasive 
+FFR measurement was collected in all ITD subjects with an average of 1.9 measurements per 
+subject. All invasive FFR data was reviewed by an independent FFR/QCA core laboratory. 
+ 
+The primary endpoint was the per-vessel sensitivity and specificity of FFR CT to detect 
+hemodynamically significant obstruction when FF R was used as the reference standard.  The pre-
+specified target goals for sensitivity and specificity were 65% and 55%, respectively.  
+ 
+5.10.2.1.1 HeartFlow NXT study results 
+Primary endpoint success required both sensitivity and specificity hypotheses to be met.  The per-
+vessel sensitivity of FFRCT in the ITD population was 83.5% with a lower one-sided 95% CI of 75.3%.  
+The per-vessel specificity of FFR CT in the ITD population was 85.8% with a lower one-sided 95% CI 
+of 81.5%.  Both of the lower one-sided confidence  limits for sensitivity and specificity were above 
+the pre-specified target goals of 65% and 55%, respectively, therefore the primary endpoint was 
+met.  Results are shown in Table 5-3 below.  
+ 
+Table 5-3. HeartFlowNXT Primary Endpoint Result s:  Per-Vessel Sensitivity and Specificity of FFR CT  Intent To 
+Diagnose Population 
+ ESTIMATE, % LOWER ONE-SIDED 95% 
+CONFIDENCE BOUND 
+TARGET RATE MET1 
+NOT MET 
+Sensitivity 83.5% 75.3% 65% MET 
+Specificity 85.8% 81.5% 55% MET 
+FFR is used as the reference standard 
+FFRCT: Diseased if hemodynamically-significant obstruction is ≤ 0.80 
+FFR:  Diseased if hemodynamically-significant obstruction is ≤ 0.80 
+1MET if 95% LCL > Target Rate 
+ 
+Per-subject FFRCT specificity compared to site-read cCTA demonstrated superior diagnostic ability 
+(p<0.001) in the intent to diagnose (ITD) subjects in one or more major epicardial coronary artery 
+segments, using invasive FFR as the reference standard and defining hemodynamically-significant 
+obstruction of a coronary artery (positive result) as an FFR ≤ 0.80 for both FFR and FFR CT and as > 
+50% stenosis severity for site-read cCTA.  Diagnostic performance of FFR CT compared to site-read 
+cCTA on the subject level is shown in Table 5-4 below.   
+ 
+Table 5-4. HeartFlowNXT Per-Subject Di agnostic Performance Analysis with FFR ≤ 0.80 as the Reference 
+Standard.  Intent to Diagnose Population. 
+ FFRCT ≤ 0.80 
+ESTIMATE % (95% Wilson CI) 
+SITE-READ cCTA > 50% 
+ESTIMATE % (95% Wilson CI) 
+Diagnostic Accuracy 81.1% (95.8%-85.4%) 52.8% (46.6%-58.8%) 
+Sensitivity 86.3% (77.0%-92.1%) 93.8% (86.2%-97.3%) 
+Specificity 78.7% (72.1%-84.2%) 33.9% (27.3%-41.2%) 
+K152733 page 6 of 11
+VOL_002 Section 005 510(k) Summary page 5-7 of 11 
+ 
+HeartFlow, Inc. 
+1400 Seaport Blvd., Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1221 
+www.heartflow.com
+FFRct v 2.0 
+510(k) Submission 
+2015 
+ 
+PPV 65.1% (55.6%-73.5%) 39.5% (32.8%-46.6%) 
+NPV 92.6% (87.2%-95.8%) 92.2% (83.0%-96.6%) 
+ 
+The HeartFlowNXT study demonstrated good diagnostic performance for FFR CT when all vessels 
+were included, irrespective of size, location, or territory, and across a range of cCTA image quality 
+measures.  Further detail on the HeartFlowNXT study is provided in Attachment VOL_003 
+HeartFlowNXT Clinical Study Report. 
+  
+Select published articles and in process manuscripts may be found in VOL_004. 
+ 
+5.10.2.2 FFR CT v2.0 Clinical Validation 
+The sequestered HeartFlowNXT data was re-processed with FFR CT v2.0, and analyzed per the 
+HeartFlowNXT statistical analysis plan to de monstrate product equivalence through clinical 
+validation. A summary of the results is p resented below and in the Customer IFU ( Attachments 
+VOL_003 Instructions for Use – Customers); detailed results can be found in Attachments VOL_003 
+FFRCT v2.0 Clinical Validation Report. 
+ 
+5.10.2.2.1 FFR CT v2.0 Clinical Validation Results 
+Primary endpoint success required both sensitivity and specificity hypotheses to be met. The per-
+vessel sensitivity of FFRCT in the ITD population was 84.2% with a lower one-sided 95% CI of 75.8%. 
+As this was above the protocol specified target go al of 65%, the first null hypothesis was rejected 
+and FFRCT was considered to have met the sensitivity target goal. The per-vessel specificity of FFRCT 
+in the ITD population was 84.9%. The lower on e-sided 95% CI was 80.4% and was above the 
+protocol specified target goal of 55%, therefore the second null hypothesis was rejected and FFRCT 
+was considered to have met the specificity target goal. 
+ 
+Table 5-5. Primary Endpoint Analysis:  Per-Vessel Sensitivity and Specificity of FFR CT  v2.0.2 Intent To 
+Diagnose Population 
+ ESTIMATE, % LOWER ONE-SIDED 95% 
+CONFIDENCE BOUND 
+TARGET RATE MET1/ NOT MET 
+Sensitivity 84.2% 75.8% 65% MET 
+Specificity 84.9% 80.4% 55% MET 
+FFR is used as the reference standard 
+FFRCT: Diseased if hemodynamically-significant obstruction is ≤ 0.80 
+FFR:  Diseased if hemodynamically-significant obstruction is ≤ 0.80 
+1MET if 95% LCL > Target Rate 
+ 
+Per-subject FFRCT specificity compared to site-read cCTA demonstrated superior diagnostic ability 
+(p<0.001) in the intent to diagnose (ITD) subjects in one or more major epicardial coronary artery 
+segments, using invasive FFR as the reference standard and defining hemodynamically-significant 
+obstruction of a coronary artery (positive result) as an FFR ≤ 0.80 for both FFR and FFR CT and as > 
+50% stenosis severity for site-read cCTA.  Diagnostic performance of FFR CT compared to site-read 
+cCTA on the subject level is shown in Table 5-6.   
+ 
+ 
+ 
+ 
+ 
+ 
+K152733 page 7 of 11
+VOL_002 Section 005 510(k) Summary page 5-8 of 11 
+ 
+HeartFlow, Inc. 
+1400 Seaport Blvd., Bldg B 
+Redwood City, CA 94063 
+T +1 (650) 241-1221 
+www.heartflow.com
+FFRct v 2.0 
+510(k) Submission 
+2015 
+ 
+Table 5-6. HeartFlowNXT Per-Subject Di agnostic Performance Analysis with FFR ≤ 0.80 as the Reference 
+Standard.  Intent to Diagnose Population. 
+ FFRCT ≤ 0.80 
+ESTIM

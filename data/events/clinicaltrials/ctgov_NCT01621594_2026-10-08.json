@@ -1,0 +1,58 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "Coronary Disease"
+  ],
+  "interventions": [
+   "Cannon Aquilion ONE CT system"
+  ],
+  "nct_id": "NCT01621594",
+  "new_registration": false,
+  "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "status": "RECRUITING"
+ },
+ "id": "ctgov:NCT01621594:2026-10-08",
+ "prefilter": {
+  "ai": [
+   "\\bai\\b",
+   "software"
+  ],
+  "cardiac": [
+   "coronar",
+   "cardiac",
+   "\\bheart\\b",
+   "ccta",
+   "ct angiograph",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 14
+ },
+ "published": "2026-10-08",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status RECRUITING. Sponsor: National Heart, Lung, and Blood Institute (NHLBI). Conditions: Coronary Disease. Interventions: Cannon Aquilion ONE CT system. Type INTERVENTIONAL, enrollment 5000. Start 2012-06-21, primary completion 2027-04-01. Title: Evaluating New Radiation Techniques for Cardiovascular Imaging Background: Cardiac CT angiography is associated with radiation exposure. Different methods of creating CT pictures have been developed to reduce the radiation dose to the subject. The purpose of this research study is to learn whether these low dose research imagings are accurate or predict subject outcomes. Cardiac CT is also used for diagnostic imaging of coronary artery disease and identification of abnormal cardiac structures. An additional purpose of this study is to monitor the progression of cardiac disease. Cardiac imaging software and AI are constantly evolving and requires validation for accuracy. Using existing scan data, updated image software reconstruction can be applied and compared to previous existing standard of care images. Objectives: \\- To study new ways of taking pictures of the heart or blood vessels using computed tomography. Eligibility: \\- Adults at least 18 years of age who will be having imaging studies to help detect heart or blood vessel problems. Design: * Participants will be screened with a physical exam and medical history. Blood samples will be taken to check kidney function. * Participants will have a CT scan of the heart and blood vessels. A contrast agent may be used to improve the quality of the images. The scanning session may last up to 2 hours. * Timing of and the need for follow up contact will depend on results from the initial scan and may be repeated to assess for late events. Telephone, office contact, or other follow-up of subjects may be done after CCTA to evaluate if the subject had subsequent cardiovascular testing. Further follow up will be based on reported test results.",
+ "title": "Evaluating New Radiation Techniques for Cardiovascular Imaging (NCT01621594)",
+ "triage": {
+  "companies": [
+   "canon-medical"
+  ],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "NHLBI radiation-reduction CCTA study (Canon Aquilion ONE) updated; recruiting, 5,000 enrollment.",
+  "tags": [
+   "trial",
+   "ccta",
+   "radiation"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Routine update."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT01621594"
+}

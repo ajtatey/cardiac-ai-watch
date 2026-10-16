@@ -1,0 +1,325 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 22, 2026 
+ 
+Visiana ApS 
+℅ Janice Hogan 
+Partner 
+Hogan Lovells Cadwalader US LLP 
+1735 Market St., Floor 23 
+Philadelphia, Pennsylvania 19103 
+ 
+ 
+Re:  K262390 
+Trade/Device Name: BoneXpert 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  July 13, 2026 
+Received:  July 13, 2026 
+ 
+Dear Janice Hogan: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K262390 - Janice Hogan Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K262390 - Janice Hogan Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+Jessica Lamb, PhD 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+ 
+
+Indications for Use 
+Please type in the marketing application/submission number, if it is known. This 1<262390 ? textbox will be left blank for original applications /submissions . 
+Please provide the device trade name(s). ? 
+Bone Expert 
+Please provide your Indications for Use below. ? 
+BoneXpert is designed to view and quantify bone age from 20 Posterior Anterior (PA) hand radiographs 
+using machine learning techniques to aid in the analysis of bone age assessment of patients between 2-21 
+years old for pediatric radiologists. The results should not be relied upon alone to make diagnostic 
+decisions . The images shall be without any major bone deformity and without excessive image 
+postprocessing ( edge enhancement) . 
+Please select the types of uses (select one or both, as [g] Prescription Use (21 CFR 801 Subpart D) 
+applicable). D Over-The-Co unter Use (21 CFR 801 Subpart C) ? 
+Please select the age group(s) for which the device(s) is D Neonates/Newborns (Birth to < 29 days old) 
+to be used. D Infants (29 days old to < 2 years old) 
+[gl Children (2 years old to < 12 years old) ? 
+~ Adolescents (12 years old to< 22 years old) 
+D Adults (22 years old and greater ) 
+510(k) SUMMARY 
+Visiana ApS’s BoneXpert Software 
+Applicant Name and Contact Person 
+Visiana ApS 
+Fremtidsvej 1 
+2970 Hørsholm 
+Denmark 
+Phone: +45 2144 7087 
+Email: support@visiana.com 
+Contact Person: Hans Henrik Thodberg 
+Date Prepared: July 13, 2026 
+Name of Device  BoneXpert 
+Name/Address of Sponsor 
+V
+isiana ApS 
+Fremtidsvej 1 
+2970 Hørsholm 
+Denmark 
+Common Name: Automated Radiological Image Processing Software 
+Classification 
+Name: Medical image management and processing system
+Regulation Number: 21 CFR 892.2050 
+Product Code: QIH 
+Predicate Devices 
+EFAI Bonesuite XR Bone Age Pro Assessment System - K234042. 
+Intended Use / Indications for Use 
+BoneXpert is designed to view and quantify bone age from 2D Posterior Anterior (PA) hand 
+radiographs using machine learning techniques to aid in the analysis of bone age assessment of 
+patients 
+between 2-21 years old for pediatric radiologists. The results should not be relied upon alone 
+to 
+make diagnostic decisions. The images shall be without any major bone deformity and without 
+excessive image postprocessing (edge enhancement). 
+Device Description 
+BoneXpert 
+is DICOM image processing software that analyzes pediatric hand radiographs. The 
+software is installed on a Windows PC or Windows virtual machine within the hospital network and is 
+configured as a DICOM destination. Images may be sent from PACS or directly from the X-r ay 
+K262390
+Page 1
+modality. BoneXpert analyzes each image and returns an annotated DICOM image into the same 
+study in PACS for review by the radiologist. 
+BoneXpert determines bone age according to the Greulich- Pyle method and displays which bones 
+were used for the assessment. The result box includes chronological age, patient sex, Greulich-Pyle 
+bone age and carpal bone age ( for younger children). The result box may also include bone age 
+standard deviation scores, bone age standard deviation, and percent mature height. 
+Substantial Equivalence 
+Indications for Use Comparison 
+BoneXpert and the predicate device, EFAI Bonesuite XR Bone Age Pro Assessment System 
+(BAP-XR-100), have the same intended use and similar indications for use. Both devices 
+quantify bone age from 2D hand radiographs in pediatric patients and are intended to aid 
+radiologists in bone age assessment without replacing clinical judgment. 
+The differences in age range, algorithm type, and hand laterality do not change the intended 
+use. These differences reflect routine clinical use and device-specific implementation, and do 
+not raise different questions of safety or effectiveness. 
+Thus, BoneXpert has the same intended use as its predicate device. 
+Technological Comparison 
+BoneXpert and the predicate have similar technological characteristics. Both are software-only 
+devices that analyze pediatric posterior-anterior hand radiographs according to the Greulich-
+Pyle method to provide an estimated bone age. 
+• Predicate device uses deep learning -based algorithms, while the subject device uses
+machine learning-based algorithms to analyze the input images.
+• Predicate device accepts images of the left hand only, while the subject device can accept
+images of either left or right hands.
+• Subject device provides an annotated image that displays the contours of the bones and
+their individual scores that contributed to the primary average bone age estimation output,
+while the predicate provides a JSON message with structured information on estimated
+bone age.
+• Subject device provides secondary interpretative outputs, such as carpal bone age, bone
+age standard deviation, percent mature height, and bone age standard deviation scores.
+• Subject device includes an image validation step to ensure analyzed images are
+anatomically appropriate and of adequate image quality.
+The devices differ in certain technological characteristics, including the underlying algorithm 
+approach, accepted hand laterality, output format, availability of secondary outputs, and 
+BoneXpert’s image validation step. These differences do not alter the clinical workflow or the 
+fundamental information provided to the radiologist. 
+Page 2
+The secondary outputs and annotated image provide supplementary context for interpretation 
+of the primary bone age result. They do not introduce a new clinical application or replace 
+radiologist review. 
+Clinical and bench testing support that BoneXpert performs as intended and that these 
+differences do not raise different questions of safety or effectiveness. 
+Principles of Operation 
+Both devices operate within the standard radiology workflow, provide an estimated bone age 
+based on an established clinical standard, and require radiologist review of the device output. 
+Non-Clinical and/or Clinical Tests Summary 
+Clinical and bench testing was conducted to demonstrate BoneXpert performance. The 
+primary clinical evidence is the Stanford multicenter study, which evaluated 1,285 images from 
+five U.S. clinical sites and assessed BoneXpert performance using interchangeability and 
+model-based variance-decomposition analyses. 
+BoneXpert demonstrated a lower RMSE than a single manual rater when compared against a 
+three-rater reference, fewer large deviations, and estimated true accuracy comparable to or 
+better than human rater variability. 
+Although the subject and predicate performance studies used different statistical methods, 
+both demonstrate agreement between device output and expert radiologist ground truth 
+established using the Greulich-Pyle method. 
+Additional evidence provided includes: 
+• Supplementary Accuracy Studies: summary of independent, peer- reviewed studies
+comparing BoneXpert with at least one other automated bone age method.
+• Validation of carpal bone age.
+• Evaluation of whether the self -validation mechanism appropriately prevents bone age
+output when the input image is outside the device's valid scope.
+• Efficiency: evaluation of BoneXpert's self-validation rejection rate.
+• Precision Study: demonstration of high repeatability of BoneXpert's GP bone age output
+across longitudinal measurements.
+• Reference Curve Study: construction of bone age reference curves and bone age standard
+deviation score interpretation.
+• Additional bench studies evaluated BoneXpert’s robustness to image transformations,
+reproducibility under clinically relevant image- quality variation, performance with atypical
+image features or artifacts, and accuracy of bone localization.
+Page 3
+Together, these studies support the safety, effectiveness, and robustness of BoneXpert under 
+clinically representative conditions in relation to the predicate device. 
+Conclusion 
+BoneXpert and EFAI Bonesuite XR Bone Age Pro Assessment System (BAP -XR-100) have 
+the same intended use and similar indications, technological characteristics, and principles of 
+operation. The differences between the devices do not change the intended use or raise 
+different questions of safety or effectiveness. Clinical and bench testing demonstrate that 
+BoneXpert performs as intended and supports substantial equivalence to the predicate device.
+Page 4
+Visiana’s BoneXpert Device Substantial Equivalence Comparison Table 
+BoneXpert EFAI Bonesuite XR Bone Age Pro Assessment 
+System (BAP-XR-100) 
+Regulation Number and 
+Product Code 
+21 CFR 892.2050 
+QIH 
+21 CFR 892.2050 
+QIH 
+Intended Use/Indications 
+for Use 
+BoneXpert is designed to view and quantify bone age from 2D 
+Posterior Anterior (PA) hand radiographs using machine learning 
+techniques to aid in the analysis of bone age assessment of 
+patients between 2-21 years old for pediatric radiologists. The 
+results should not be relied upon alone to make diagnostic 
+decisions. The images shall be without any major bone deformity  
+and without excessive image postprocesing (edge enhancement).  
+ 
+EFAI BONESUITE XR BONE AGE PRO 
+ASSESSMENT SYSTEM (EFAI BAPXR) is 
+designed to view and quantify bone age from 2D 
+Posterior Anterior (PA) view of left-hand 
+radiographs using deep learning techniques to aid 
+in the analysis of bone age assessment of patients 
+between 2 to 16 years old for pediatric radiologists. 
+The results should not be relied upon alone by 
+pediatric radiologists to make diagnostic decisions. 
+The images shall be with left hand and wrist fully 
+visible within the field of view, and shall be without 
+any major bone destruction, deformity, fracture, 
+excessive motion, or other major artifacts. 
+User Population Pediatric Radiologist Pediatric Radiologist 
+Input Images X-ray of left or right hand X-ray of left hand
+Algorithm Machine-learning-based Deep-learning-based[H 
+Primary Output Annotated image with information on bone age estimation based 
+on Greulich-Pyle (GP) method 
+JSON message with structured information on 
+bone age estimation based on Greulich-Pyle (GP) 
+method 
+Secondary/Supplementary 
+Outputs 
+Carpal Bone Age 
+Reference Curve 
+Bone Age Standard Deviation 
+N/A 
+Image Quality Filtering Self-validation to ensure image processed is appropriate N/A 
+Primary Performance A lower RMSE (0.55 years) than a single manual rater (0.76 
+years) when compared against a three-rater reference, with 
+large deviations (≥1.5 years) occurring in only 1.7% of 
+BoneXpert assessments versus 6.4% of single manual ratings. 
+The model-based analysis estimated BoneXpert's true accuracy 
+at 0.41 years compared to overall human rater variability of 0.65 
+years, with BoneXpert providing more consistent performance 
+across age strata than individual manual raters. 
+In 600 cases, 88% of cases had a difference of 
+less than 0.5 years between the device output and 
+ground truth, with Deming regression results 
+showing an intercept of -0.07 (95% CI: [-0.13, -
+0.01]) and a slope of 1.00 (95% CI: [0.99, 1.00]). 
+Page 5

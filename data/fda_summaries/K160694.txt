@@ -1,0 +1,699 @@
+cuffDEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Center - WO66-G609
+Silver Spring, MD  20993-0002
+April 7, 2017
+Tianjin Medis Medical Device Co., Ltd.
+Ə0LNH*X
+Regulatory Affairs Manager
+Osmunda Medical Device Consulting Co., Ltd
+Level 7, Jin Gui Business Center, 982 Cunyun Road
+Baiyun District
+Guangzhou, 510420 
+CHINA
+Re: K160694
+Trade/Device Name: Disposable Endotr acheal Tube, Sterile and Accu CuffTM
+Regulation Number:  21 CFR 868.5730
+Regulation Name: Tracheal Tube
+Regulatory Class:  Class II
+Product Code:  BTR, BSK
+Dated:  March 8, 2017
+Received:  March 10, 2017
+Dear Mike Gu:
+We have reviewed your Section 510(k) premarket notification of intent to market the device 
+referenced above and have determined the device is substantially equivalent (for the indications 
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate 
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to 
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug, 
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). 
+You may, therefore, market the device, subject to the general controls provisions of the Act. The 
+general controls provisions of the Act include requirements for annual registration, listing of 
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability 
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), 
+it may be subject to additional controls. Existing major regulations affecting your device can be 
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may 
+publish further announcements concerning your device in the Federal Register.
+
+-M i k e  G uPage 2
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean 
+that FDA has made a determination that your device complies with other requirements of the Act 
+or any Federal statutes and regulations administered by other Federal agencies. You must comply 
+with all the Act's requirements, including, but not limited to: registration and listing (21 CFR 
+Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-
+related adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in 
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product 
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please 
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041
+or (301) 796-7100 or at its Internet address 
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note 
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 
+CFR Part 803), please go to 
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office 
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the 
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) 
+796-7100 or at its Internet address 
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+Sincerely yours,
+Tina Kiang, Ph.D.
+Acting Director
+Division of Anesthesiology,
+General Hospital, Respiratory,
+Infection Control, and Dental Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+Enclosure
+Tina 
+Kiang -S
+FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740       EF
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+Food and Drug Administration
+Indications for Use
+Form Approved: OMB No. 0910-0120
+Expiration Date: January 31, 2017
+See PRA Statement below.
+510(k) Number (if known)
+K160694
+Device Name
+Disposable Endotracheal tube, Sterile  
+ 
+Accu Cuff
+Indications for Use (Describe)
+The Sterile Disposable Endotracheal Tube device is intended for oral or nasal intubation and for airway management. 
+ 
+The Accu-Cuff device is intended to inflate cuffs and to monitor intra-cuff pressures of endotracheal, supraglottic airways, 
+or tracheostomy tubes.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) 
+CONTINUE ON A SEPARATE PAGE IF NEEDED. 
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the 
+time to review instructions, search existing data sources, gather and maintain the data needed and complete  
+and review the collection of information. Send comments regarding this burden estimate or any other aspect  
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB number.”
+                       510(k) Premarket Notification Submission    K160694    
+  1 / 11 
+ 
+ 
+510(k) Summary 
+Updated: April 07, 2017 
+ 
+In accordance with 21 CFR 807.87 the following summary of information is provided: 
+ 
+I. SUBMITTER 
+Tianjin Medis Medical Device Co., Ltd. 
+Address: 10‐A Tianzhi Industrial Center, No.12 HongYuan Road, Xiqing Economic 
+Development Area, 300385 Tianjin City, and PEOPLE’S REPUBLIC OF CHINA 
+Phone: +86‐022‐83988488 
+Fax: +86‐ 022—83988486  
+ 
+Primary Contact Person:  Mike Gu 
+Regulatory Affairs Manager 
+OSMUNDA Medical Device Consulting Co., Ltd 
+Tel: (+86) 20‐6231 6262 
+Fax: (+86) 20‐8633 0253 
+Secondary Contact Person:  Zhenchuang Yang 
+Technical Manager 
+Tianjin Medis Medical Device Co., Ltd. 
+Phone: +86‐022‐83988488 
+Fax: +86‐ 022—83988486 
+II. DEVICE   
+Name of Device:  Disposable Endotracheal Tube, Sterile 
+Accu CuffTM 
+Common/Usual Name:  Tracheal tube  
+Classification Panel:  Anesthesiology 
+Classification:  868.5730 (Tracheal tube)
+Class:  II 
+Product Code:  BTR, BSK
+                       510(k) Premarket Notification Submission    K160694    
+  2 / 11 
+ 
+ 
+III. PREDICATE DEVICES 
+ 
+Endotracheal Tubes 
+ 
+Well Lead Endotracheal Tube (K042683) 
+Well Lead Reinforced Endotracheal Tube( K073383)  
+TIGER ENDOTRACHEAL TUBES (VARIOUS MODELS AND SIZES)( K041311) 
+ 
+Inflatable Tracheal Tube Cuff  
+Cuff PilotTM (K142103) 
+ 
+This predicate has not been subject to a design‐related recall. 
+No reference devices were used in this submission. 
+ 
+ 
+IV. DEVICE DESCRIPTION 
+ 
+The tracheal tube is disposable and supplied as sterile. It is available in a number of 
+sizes/variants. The tracheal tube is primarily made of polyvinyl chloride. The device is 
+used  for  airway  management  by  connecting  to  oxygen  delivery  equipment  via  a 
+connector. Reinforced ETTs may be used to reduce the potential for kinking whenever 
+an  unusual  positioning  of  the  head  or  neck  is  required  following  intubation.  All 
+variants  have  a  radio‐opaque  line  embedded  into  the  tube  which  enables 
+identification the device when the patient is X‐rayed. All variants have a hole at the 
+tip called a Murphy’s eye and a standard connector.  
+Cuffed variants are composed of an inflatable cuff, a lumen and pilot balloon with a 
+one‐way  valve  or  pressure  indicator .  The  cuff  is  specified  with  high  volume  and 
+standard volume which is intended to be inflated in the trachea in order to seal the 
+device to prevent loss of gas bypassing the tube and the inhalation of vomit.  
+The  patient  end,  the  cuff  and  the  tubular  body  of  these  tracheal  tubes  have 
+short‐term contact (< 30 days) with mucous membrane of upper airway. 
+ 
+Separately, Accu‐cuffTM is used for pre‐use check and monitoring the cuff pressure in 
+intubation, treatment and extubation process. The user can Judge the change of 
+intra‐cuff pressure by observing the change of black line’s location. When the black 
+line point to the zone between the Minimum level of green zone and white line, it 
+means the intra‐cuff is too low and need to inflate to cuff. When the black line point 
+to the zone between the Maximum level of green zone and red line, it means the 
+intra‐cuff is over‐pressurizing and need to deflate. 
+                       510(k) Premarket Notification Submission    K160694    
+  3 / 11 
+ 
+V. INDICATION FOR USE 
+The  Sterile  Disposable  Endotracheal  Tube  device  is  intended  for  oral  or  nasal 
+intubation and for airway management. 
+The Accu‐Cuff device is intended to inflate cuffs and to monitor intra‐cuff pressures 
+of endotracheal, supraglottic airways, or tracheostomy tubes. 
+VI. SUBSTANTIAL EQUIVELENCE  
+Substantial equivalency is claimed against the following device: 
+ 
+Table 6.1 Substantial equivalency discussion 
+ 
+No.  Proposed Devices  Predicate Devices 
+1  Standard  Endotracheal  Tube,  cuffed  and 
+uncuffed series 
+k042683 
+2  Endotracheal  tube  Reinforced,  cuffed 
+and uncuffed 
+k073383 
+3  Endotracheal  tube  Nasal  Preformed, 
+cuffed and uncuffed 
+k041311 
+4  Endotracheal tube Oral Preformed cuffed 
+and uncuffed 
+5  Accu CuffTM  k142103 
+                       510(k) Premarket Notification Submission    K160694    
+  4 / 11 
+ 
+Table 6.2 Equivalency discussion of Standard Endotracheal Tube, cuffed and uncuffed series 
+Specification     Predicate Device  
+ 
+Proposed Device 
+ 
+Discussion  of 
+Differences 
+Device name     Well Lead Endotracheal Tube  Disposable  Endotracheal tube, sterile   
+K number   k042683  —   
+Intended use 
+The  device  is  intended  for 
+oral  or  nasal  intubation  and 
+for airway management. 
+The  device  is  intended  for 
+oral  or  nasal  intubation  and 
+for airway management. 
+Identical 
+Outer diameter  cuffed :3.3‐13.3mm 
+uncuffed :2.7‐13.3mm 
+cuffed :3.3‐13.3mm 
+uncuffed :2.7‐13.3mm 
+Identical 
+Tube length  cuffed :145‐330mm 
+uncuffed :140‐330mm 
+cuffed :145‐330mm 
+uncuffed :140‐330mm 
+Identical 
+Cuff inflated 
+diameter 
+Standard cuff:12‐27mm 
+High volume cuff:12‐27mm 
+Standard cuff:12‐27mm 
+High volume cuff:12‐27mm 
+Identical 
+Cuff pressure  
+(if applicable )  20 cmH20≦P <30 cmH20  20 cmH20≦P  ≦29 cmH20  Identical  
+Materials   Polyvinyl chloride,  
+polypropylene 
+Polyvinyl chloride,  
+polypropylene 
+Identical 
+Structure 
+composition  Connector,  inflating  tube, Check  valve  (include  Pilot 
+balloon), Airway Tube, Cuff (if 
+available). 
+Connector,  Inflation  tube, 
+pilot  balloon  and  valve 
+(cuffed), Airway Tube, Cuff (if 
+available),  Accu  CuffTM  (if 
+available) 
+Similar.  The 
+proposed  device 
+has  an  extra  Accu 
+CuffTM  component, 
+refer to table 6.5. 
+Anatomical Sites  The tubular body and the cuff 
+have  limited  or  prolonged 
+contact  with  mucous 
+membrane  of  oral/nasal 
+cavity and the tracheal. 
+The tubular body and the cuff 
+have  limited  or  prolonged 
+contact  with  mucous 
+membrane  of  oral/nasal 
+cavity and the tracheal. 
+Identical 
+Contact 
+duration  Less than 30 days  Less than 30 days  Identical 
+Biocompatibility  ISO 10993‐1 
+ISO 10993‐5 
+ISO 10993‐10 
+ISO 10993‐1 
+ISO 10993‐5 
+ISO 10993‐10 
+Identical 
+Shelf life  5 years  5 years  Identical 
+Packing  PE  /  PET  composite  film  and 
+dialysis paper 
+PE  /  PET  composite  film  and 
+dialysis paper 
+Identical 
+Sterilization  EO  EO  Identical 
+                       510(k) Premarket Notification Submission    K160694    
+  5 / 11 
+ 
+Table 6.3 Equivalency discussion of Endotracheal tube Reinforced, cuffed and uncuffed series 
+Specification 
+ 
+Predicate Device  Proposed Device 
+ 
+Discussion of 
+Differences 
+Device name     Well  Lead  Reinforced 
+Endotracheal Tube 
+ 
+Disposable  Endotracheal 
+tube, sterile 
+/ 
+K number   K 073383  ——  / 
+Intended use  The  Well  Lead  Reinforced 
+Endotracheal  Tubes  are 
+designed  for  oral  or  nasal 
+intubation  for  airway 
+management  during 
+anaesthesia.  The  product 
+may  be  used  where  the 
+patient's  neck  is  likely  to  be 
+moved  or  flexed  or  the 
+patient  is  in  the  prone 
+position  so  that  a 
+non‐reinforced  tracheal  tube 
+might become kinked. 
+The  device  is  intended  for 
+oral  or  nasal  intubation  and 
+for airway management. 
+Similar.  Two 
+devices are both 
+used  for  airway 
+management  
+Size   Cuffed:  in  0.5mm  ID 
+increments  from  size  5.0  to 
+9.5  inclusive,  totaling  10 
+sizes. 
+uncuffed:  in  0.5mm  ID 
+increments  from  size  3.0  to 
+9.5  inclusive,  totaling  14 
+sizes. 
+Cuffed:  in  0.5mm  ID 
+increments  from  size  5.0  to 
+9.0  inclusive,  totaling  10 
+sizes. 
+uncuffed:  in  0.5mm  ID 
+increments  from  size  3.0  to 
+9.5  inclusive,  totaling  14 
+sizes. 
+Similar.  The  size 
+of  proposed 
+device  meets 
+the 
+requirement of 
+section  5  of 
+ISO 5361. 
+Outer diameter  Cuffed:7.0‐13.0mm 
+Uncuffed: 4.3‐13.0mm 
+Cuffed:7.0‐13.0mm 
+Uncuffed: 4.3‐13.0mm 
+Identical 
+Tube length 
+Cuffed:245‐330mm 
+Uncuffed: 165‐330mm 
+Cuffed:245‐330mm 
+Uncuffed: 165‐330mm 
+Similar.  The  size 
+of  proposed 
+device  meets 
+the requirement 
+of  section  5  of 
+ISO 5361. 
+Cuff  inflated 
+diameter 
+Cuffed:17‐27mm 
+High volume cuff:12‐27mm 
+Cuffed:17‐27mm 
+High volume cuff:12‐27mm 
+Identical 
+Cuff pressure  
+(if applicable )  20 cmH20≦P <30 cmH20  20 cmH20≦P  ≦29 cmH20  Identical 
+                       510(k) Premarket Notification Submission    K160694    
+  6 / 11 
+ 
+Specification 
+ 
+Predicate Device  Proposed Device 
+ 
+Discussion of 
+Differences 
+Materials 
+Polyvinyl chloride,  
+polypropylene 
+Polyvinyl chloride,  
+polypropylene 
+Identical 
+Structure 
+composition  Connector,  Inflating  tube, 
+Check  valve  (include  pilot 
+balloon),  reinforced  metal, 
+Cuff (if available). 
+Connector,  Inflation  tube, 
+pilot  balloon  and  valve 
+(cuffed),  Airway  Tube, 
+reinforced  metal  ,   Cuff  (if 
+available),  Accu  CuffTM  (if 
+available) 
+Similar.  The 
+proposed device 
+has  an  extra 
+Accu  CuffTM 
+component, 
+refer  to  table 
+6.5. 
+Anatomical Sites  The tubular body and the cuff 
+have  limited  or  prolonged 
+contact  with  mucous 
+membrane  of  oral/nasal 
+cavity and the tracheal. 
+The tubular body and the cuff 
+have  limited  or  prolonged 
+contact  with  mucous 
+membrane  of  oral/nasal 
+cavity and the tracheal. 
+Identical 
+Contact 
+duration  Less than 30 days  Less than 30 days  Identical 
+Biocompatibility  ISO 10993‐1 
+ISO 10993‐5 
+ISO 10993‐10 
+ISO 10993‐1 
+ISO 10993‐5 
+ISO 10993‐10 
+Identical 
+Shelf life  5 years  5 years  Identical 
+Packing  PE  /  PET  composite  film  and 
+dialysis paper 
+PE  /  PET  composite  film  and 
+dialysis paper 
+Identical 
+Sterilization  EO  EO  Identical 
+ 
+Table 6.4 Equivalency discussion of Endotracheal tube Nasal and Oral Preformed cuffed and 
+uncuffed series 
+Specification  Predicate Device  Proposed Device 
+ 
+Discussion of 
+Differences 
+Device name     TIGER  ENDOTRACHEAL  TUBES 
+(VARIOUS MODELS AND SIZES) 
+Disposable  Endotracheal 
+tube, sterile 
+/ 
+K number   K041311  ——  / 
+                       510(k) Premarket Notification Submission    K160694    
+  7 / 11 
+ 
+Specification  Predicate Device  Proposed Device 
+ 
+Discussion of 
+Differences 
+Intended use  The  intended  use  for  all  the 
+product  variants  is  grouped 
+into different sections: 
+CATEGORY  2  (uncuffed.  nasal 
+only) and CATEGORY 5 (cuffed, 
+nasal only): 
+The intended use of this device 
+is  to  be  intubated  into  a 
+patient's  trachea  via  the  nose 
+for  airway  management, 
+specifically  for  use  in  surgical 
+procedures involving the head, 
+neck and face. 
+CATEGORY  3  (uncuffed,  oral 
+only) and CATEGORY 6 (cuffed, 
+oral only): 
+The intended use of this device 
+is  to  be  intubated  into  a 
+patient's  trachea  via  the 
+mouth  for  airway 
+management,  specifically  for 
+use  in  surgical  procedures 
+involving  the  head,  neck  and 
+face. 
+The  device  is  intended  for 
+oral  or  nasal  intubation  and 
+for airway management. 
+Similar.  Two 
+devices are both 
+used  for  airway 
+management 
+Size 
+Uncuffed  (nasal  only  and  oral 
+only):  provide  in  0.5mm  ID 
+increments  from  sizes  2.0  to 
+10.0 inclusive, totaling 17Sizes.
+Cuffed  (nasal  only  and  oral 
+only):  provide  in  0.5mm  ID 
+increments  from  sizes  4.0  to 
+10.0 inclusive, totaling 13 sizes.
+Nasal  only  (cuffed  and 
+uncuffed):  provide  in  0.5mm 
+ID  increments  from  sizes  3.0 
+to  10.0  inclusive,  totaling  15 
+Sizes. 
+Oral  only  (cuffed  and 
+uncuffed):  provide  in  0.5mm 
+ID  increments  from  sizes  3.0 
+to  10.0  inclusive,  totaling  15 
+Sizes. 
+Identical. The 
+size of proposed 
+device meets 
+the requirement 
+of section 5 of 
+ISO 5361. 
+Outer diameter 
+Not provided 
+Oral Preformed:4.0‐13.3mm 
+Nasal  Preformed: 
+4.0‐13.3mm 
+Similar  with  the 
+predicate 
+devices  in  table 
+12.2. 
+                       510(k) Premarket Notification Submission    K160694    
+  8 / 11 
+ 
+Specification  Predicate Device  Proposed Device 
+ 
+Discussion of 
+Differences 
+Tube length 
+Not provided  Oral Preformed:165‐330mm Nasal Preformed:290‐400mm 
+The  tube  length 
+of  proposed 
+device  meets 
+the  requirement 
+of  section  5  of 
+ISO 5361. 
+Cuff  inflated 
+diameter  Not provided  Standard cuff:12‐27mm High volume cuff:12‐27mm  / 
+Cuff pressure  
+(if applicable )  20 cmH20≦P <30 cmH20  20 cmH20≦P  ≦29 cmH20  Identical  
+Materials  Polyvinyl chloride,  
+polypropylene 
+Polyvinyl chloride,  
+polypropylene 
+Identical 
+Structure 
+composition  Connector,  inflating  tube, 
+Check  valve  (include  Pilot 
+balloon),  Airway  Tube,  Cuff  (if 
+available). 
+Connector,  Inflation  tube, 
+pilot  balloon  and  valve 
+(cuffed), Airway Tube, Cuff (if 
+available),  Accu  CuffTM  (if 
+available) 
+Similar.  The 
+proposed device 
+has  an  extra 
+Accu  CuffTM 
+component, 
+refer  to  table 
+6.5. 
+Anatomical Sites  The  tubular  body  and  the  cuff 
+have  limited  or  prolonged 
+contact  with  mucous 
+membrane of oral/nasal cavity 
+and the tracheal. 
+The tubular body and the cuff 
+have  limited  or  prolonged 
+contact  with  mucous 
+membrane  of  oral/nasal 
+cavity and the tracheal. 
+Identical 
+Contact 
+duration  Less than 30 days  Less than 30 days  Identical 
+Biocompatibility  ISO 10993‐1 
+ISO 10993‐5 
+ISO 10993‐10 
+ISO 10993‐1 
+ISO 10993‐5 
+ISO 10993‐10 
+Identical 
+Shelf life  5 years  5 years  Identical 
+Packing  PE  /  PET  composite  film  and 
+dialysis paper 
+PE  /  PET  composite  film  and 
+70g dialysis paper 
+Identical 
+Sterilization  EO  EO  Identical 
+ 
+  
+                       510(k) Premarket Notification Submission    K160694    
+  9 / 11 
+ 
+ 
+Table 6.5 Equivalent discussion of pressure indicator (Accu CuffTM) 
+ 
+Attribute  Predicate Device 
+Cuff PilotTM (K142103) 
+Proposed Device 
+Accu CuffTM 
+Discussion of Differences 
+Indications for 
+Use 
+To monitor intra‐cuff pressures of 
+supraglottic airways. 
+To  inflate  cuffs  and  to  monitor 
+intra‐cuff  pressures  of 
+endotracheal,  supraglottic 
+airways, or tracheostomy tubes. 
+Similar.  Two  devices  are 
+both  used  to  indicate  the 
+intra‐cuff  pressure  of 
+artificial airway tube. 
+Environment 
+of use 
+To  be  used  under  medical 
+supervision  in  hospitals, 
+pre‐hospital  (EMS),  extended 
+care  facilities  and  outpatient 
+clinics, where a patient may have 
+an artificial airway. It may also be 
+used in MRI suites when attached 
+to  airways  that  are  MR 
+conditional or MR Safe. 
+To  be  used  under  medical 
+supervision  in  hospitals, 
+pre‐hospital  (EMS),  extended 
+care  facilities  and  outpatient 
+clinics,  where  a  patient  may  be 
+intubated.  The  metal‐contained 
+models are MR unsafe. 
+  The  metal‐contained 
+models  of  proposed  device 
+are  MR  unsafe,  and  be 
+marked  with  MR  unsafe  in 
+labels. 
+Patient 
+population 
+ 
+Patients who have an artificial airway and for which the user would 
+like to monitor cuff pressure, pediatric to adult. 
+Identical 
+Working 
+principle 
+Use  the  pressure  difference  between  the  pressure  indicator  cavity 
+and the atmospheric pressure, the elastic piece will be concaved and 
+then  drive  the  black  line  on  the  joint  lever  move  and  indicate  the 
+intra‐cuff pressure. 
+Identical 
+Technology 
+ 
+Bellows  that  move  with  changes 
+in pressure 
+Contracts with higher pressures 
+Expands with lower pressures 
+Diaphragm/bellows   that 
+move with changes in pressure 
+Expands with higher pressures 
+Rebounds with lower pressures 
+Mechanisms are same. 
+Indication 
+method 
+The  Bottom  cover  have  Color 
+mark,  when  the  black  line  move 
+to  the  white  line  ,which  means 
+the  intra  –cuff  pressure  is 
+decreased,  move  to  the  red  line 
+show  the  intra‐cuff  pressure  is 
+increased.  When  the  black  line 
+site  in the  Green  zone,  the  intra‐ 
+cuff pressure is safe. 
+The  Outer  Cylinder  have  Color 
+mark,  the  yellow  zone,  green 
+zone  and  red  zone.  When  the 
+black  line  in  the  yellow  zone 
+means  the  pressure  is  too  low, 
+the  red  zone  indicate  the  intra 
+cuff  pressure  is  too  large,  that 
+need  to  deflate.  The  black  line 
+in  the  green  zone which  means 
+the intra cuff pressure is safe. 
+The mechanism is identical, 
+only  differ  in  color  of 
+indication line. 
+Method of 
+inflating cuff 
+Use an independent syringe (normal practice).  
+Manual 
+Identical  
+Component  Outer  Cylinder,  Valve,  plate, 
+Bellows, Black line, Bottom cover, 
+Top  cover,  PP  cap,  Cross, 
+Gasket,  Silicone  tube,  Bottom 
+Similar.  The  components  of 
+proposed  device  can 

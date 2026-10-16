@@ -1,0 +1,54 @@
+{
+ "alerted_at": null,
+ "category": "trial",
+ "collected_at": "2026-10-16T02:46:03+00:00",
+ "extra": {
+  "conditions": [
+   "Structural Heart Abnormality",
+   "Structural Heart Disease"
+  ],
+  "interventions": [
+   "ECHONEXT"
+  ],
+  "nct_id": "NCT06462989",
+  "new_registration": false,
+  "sponsor": "Montreal Heart Institute",
+  "status": "ENROLLING_BY_INVITATION"
+ },
+ "id": "ctgov:NCT06462989:2026-10-13",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b"
+  ],
+  "cardiac": [
+   "\\bheart\\b",
+   "echocardiog",
+   "structural heart",
+   "valve"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 10
+ },
+ "published": "2026-10-13",
+ "reported_in": "2026-10-15",
+ "source": "clinicaltrials",
+ "status": "triaged",
+ "summary": "UPDATED — status ENROLLING_BY_INVITATION. Sponsor: Montreal Heart Institute. Conditions: Structural Heart Abnormality, Structural Heart Disease. Interventions: ECHONEXT. Type INTERVENTIONAL, enrollment 5700. Start 2025-04-16, primary completion 2027-12. HEART-AI is a pragmatic randomized trial currently active at Montreal Heart Institute, with planned multicenter expansion testing whether an artificial intelligence (AI) score from a routine 12-lead electrocardiogram (ECG) helps clinicians identify structural heart disease sooner. Structural heart disease includes reduced heart pumping function, valve disease, pulmonary hypertension, thickened heart muscle and fluid around the heart. The study plans to enroll 5,700 adults seen in outpatient clinics or ambulatory emergency departments who have no known structural heart disease. Patients are assigned equally to standard care with or without the EchoNext AI risk score and echocardiography recommendation. For high-risk patients, EchoNext recommends a transthoracic echocardiogram (TTE, an ultrasound of the heart) within 2 to 4 weeks, no later than 30 days. Low-risk patients receive routine care, with TTE when clinically indicated. Clinicians retain responsibility for all care decisions. The score is calculated in both groups but shown only in the AI group. The main outcome is the proportion of patients with structural heart disease documented on a clinical TTE within 30 days of their first study ECG. Other outcomes include diagnoses within 12 months, time to TTE and diagnosis, imaging use, management changes and model performance.",
+ "title": "Harnessing ECG Artificial Intelligence for Rapid Treatment and Accurate Interpretation (NCT06462989)",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 2,
+  "summary": "HEART-AI pragmatic randomized trial of AI-ECG for structural heart disease (Montreal Heart Institute, 5,700) updated.",
+  "tags": [
+   "trial",
+   "ai-ecg"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "AI-ECG, not imaging; adjacent."
+ },
+ "url": "https://clinicaltrials.gov/study/NCT06462989"
+}

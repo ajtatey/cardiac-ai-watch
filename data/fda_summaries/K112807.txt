@@ -1,0 +1,148 @@
+5. 510(k) Summary of Safety and, Effectiveness FED 2 72012
+Submission in accordance with the requirements of 21 CFR Part 807.87(h).
+Submitter Medis medical imaging systems by
+Address :Schuttersveld 9
+2316 XG Leiden
+The Netherlands
+Contact Person J.H.C. Reiber, PhD, CEO
+Email hreiber@medis.nl
+Telephone +31 71 522 3244
+Fax +31715215617
+Prepared February 17, 2Q12
+Trade / Device Name X-RAY VVA
+Common Name :Radiological Image Processing Software
+Regulatory Class :11
+Regulation Description Picture Archiving and Communications System
+Regulation / Procode 21 CFR 892.2050 / LLZ
+Predicate Devices
+* The Medis medical imaging system by: QCA-CMS (K993763)
+" The Medis medical imaging system by: QLV-CMS (K(993765)
+* The Medis medical imaging system by: QVA-CM[S (1(023970)
+" The Medis medical imaging system by: UMS-VIEW (K(993761)
+" The Pie Medical Imaging by: CAAS (1(052988)
+Device Description
+X-RAY VVA (Vessel and Ventricular Analysis) is image post-processing software for the viewing and
+quantification of digital x-ray angiographic images of blood vessels and of the chambers of the heart.
+Semi-automatic contour detection forms the basis for the analyses. Its functionality is independent of
+the type of vendor acquisition equipment. The analysis results are available on screen, and can be
+exported in various electronic formats.
+X-RAY VVA has been developed as a standalone application to run on a Windows based operating
+system. The import of images and the export of analysis results are via CD / DVD, a PACs or network
+environment.
+X-RAY VVA has a modular structure that consists of its previously cleared predicate devices: QCA-
+CMS, QVA-CMS, QLV-CMS, and CMS-VIEW. X-RAY VVA comprises their respective
+functionalities for analyzing the blood vessels and the left ventricle. In addition, X-RAY VVA includes
+new functionality for the analysis of: the right ventricle, stent and sub-segments, coronary aneurysms,
+and bifurcations.
+Intended Use
+X-RAY VVA is software intended to be used for performing calculations in X-ray angiographic images
+of the chambers of the heart and of blood vessels. These calculations are based on contours that are
+either manually drawn by the clinician or trained medical technician who is operating the software, or
+automatically detected by the software and subsequently presented for review and manual editing.
+X-RAY VVA 510(k) Submission Addendum Document version: v~cO
+Date: February 17, 2012 4 Status: FINAL
+
+X-RAY VVA is also intended to be used for performing caliper measurements. The results obtained aredisplayed on top of the images and provided in reports.
+The analysis results obtained with X-RAY VVA are intended for use by cardiologists and radiologists:
+- to support clinical decisions concerning the heart and vessels
+- to support the evaluation of interventions or drug therapy applied for conditions of the heartand vessels.
+Indications for Use
+X-RAY VVA is indicated for use in clinical settings where validated and reprodlucible quantifiedresults are needed to support the calculations in X-ray angiographic images of the chambers of the heartand of blood vessels, for use on individual patients with cardiovascular disease.
+When the quantified results provided by X-RAY VVA are used in a clinical setting on X-ray images ofan individual patient, they can be used to support the clinical decisions making for the diagnosis of thepatient or the evaluation of the treatment applied. In this case, the results are explicitly not to beregarded as the sole, irrefutable basis for clinical diagnosis, and they are only intended for use by theresponsible clinicians.
+Substantial Equivalence Information
+Medis X-RAY VVA has technological features and characteristics similar to QCA-CMS, QVA-CMS,QLV-CMS, CMS-VIEW, and the CAAS product from Pie Medical Imaging.
+X-RAY VVA has the same intended uses as the predicate devices.
+Conclusions
+X-RAY VVA has the same intended uses as the predicate devices. X-RAY VVA also includes similartechnical features and characteristics as the predicate devices.
+Testing and validation have produced results consistent with design input requirements.
+During the development, potential hazards were controlled by a risk management plan, including riskanalysis, risk mitigation, verification and evaluation.
+Medis concludes that X-RAY VVA is a safe and effective medical device, and is at least as safe andeffective as its predicate devices. The use of X-RAY VVA does not change the intended use of X-rayimage scanners, nor does the use of this software result in any new potential hazards.
+X-RAY VVA 510(k) Submission Addendum Document version: v3cODate: February 17, 2012 5 Status: FINAL
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Room - W066-0609
+Silver Spring, MD 20993-0002
+Mr. Hans Reiber F EB 2 72012
+Chief Executive Officer
+Medis Medical Imaging Systems BV
+Schuttersveld 9
+2316 XG LEIDEN
+THE NETHERLANDS
+Re: K1 12807
+Trade/Device Name: X-RAY VVA
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: 11
+Product Code: LLZ
+Dated: February 17, 2012
+Received: February 23, 2012
+Dear Mr. Reiber:
+We have reviewed your Section 5 10(k) premarket notification of intent to market the device
+referenced above and have detenmined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premtarket approval application (PMIA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into class 11 (Special Controls), it may be subject to such
+additional controls. Existing major regulations affecting your device can be found in Title 21,
+Code of Federal Regulations (CFR), Parts 800 to 895. In addition, FDA may publish further
+announcements concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act's requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Parts 801 and 809); medical device reporting (reporting of
+
+Page 2
+medical device-related adverse events) (21 CFR 803); and good manufacturing practice
+requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820). This letter
+will allow you to begin marketing your device as described in your Section 5 10(k) premarket
+notification. The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Parts 801 and
+809), please contact the Office of In Vitro Diagnostic Device Evaluation and Safety at (301) 796-
+5450. Also, please note the regulation entitled, "Misbranding by reference to premarket
+notification" (21 CFR Part 807.97). For questions regarding the reporting of adverse events
+under the MDR regulation (21 CFR Part 803), please go to
+htp/ww~d~oieia~~cs/aeyRprarbe/eal~t for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 796-7100 or at its Internet address
+http://ww.fda.gov/cdrh/industry/support/index.html.
+cing Director
+Division of Radiological Devices
+Office of In Vitro Diagnostic Device
+Evaluation and Safety
+Center for Devices and Radiological Health
+Enclosure
+
+Indications for Use Form
+51 0(k) Number (if known): K1 12807
+Device Name: X-RAY WA
+Indications for Us e:
+X-RAY VVA is indicated for use in clinical settings where validated and reproducible quantified
+results are needed to support the calculations in X-ray angiographic images of the chambers of the heart
+and of blood vessels, for use on individual patients with cardiovascular disease.
+When the quantified results provided by X-RAY VVA are used in a clinical setting on X-ray images of
+an individual patient, they can be used to support the clinical decisions making for the diagnosis of the
+patient or the evaluation of the treatment applied. In this case, the results are explicitly not to be
+regarded as the sole, irrefutable basis for clinical diagnosis, and they are only intended for use by the
+responsible clinicians.
+Prescription Use X-__X AND/OR Over-The-Counter Use _ __
+(Part 21 CFR 801 Su~bpart 0) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER
+PAGE IF NEEDED)
+Concurrence of CDRH, Office of In Vitro Diagnostic Devices (OIVD)
+Division S(gn-Off
+Office of In Vitro Diagnostic Device
+Evaluation and Safety
+51 0(k) 1
+Page 1 of 1

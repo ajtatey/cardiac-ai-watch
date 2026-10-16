@@ -1,0 +1,75 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Radiology, Mayo Clinic Arizona, Phoenix, AZ, USA. Electronic address: naeem.muhammad@mayo.edu.",
+   "Department of Radiology, Mayo Clinic Arizona, Phoenix, AZ, USA.",
+   "Department of Radiology, Mayo Clinic Arizona, Phoenix, AZ, USA.",
+   "Department of Radiology, Mayo Clinic Arizona, Phoenix, AZ, USA.",
+   "Department of Radiology, Mayo Clinic Arizona, Phoenix, AZ, USA."
+  ],
+  "authors": [
+   "Naeem M",
+   "French RJ",
+   "Rojas CA",
+   "Stib MT",
+   "Gotway MB",
+   "Jokerst CE"
+  ],
+  "doi": "10.1016/j.jcct.2026.09.010",
+  "journal": "Journal of cardiovascular computed tomography",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42859062",
+ "prefilter": {
+  "ai": [
+   "\\bai\\b",
+   "quantif",
+   "cpt",
+   "medicare"
+  ],
+  "cardiac": [
+   "coronar",
+   "cardiac",
+   "ccta",
+   "ct angiograph",
+   "\\bffr",
+   "plaque",
+   "calcium scor",
+   "chest pain",
+   "cardiovascular"
+  ],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 27
+ },
+ "published": "2026-09-30",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Journal of cardiovascular computed tomography. Naeem M, French RJ, Rojas CA, Stib MT, Gotway MB, Jokerst CE. Coronary CT angiography (CCTA) received a Class 1 recommendation in the 2021 AHA/ACC chest pain guideline, yet the trajectory of Medicare payment for cardiac CT over the Category I era has not been systematically quantified. January-effective Physician Fee Schedule Relative Value Files were compiled for 2010 through 2026 for CPT 75571-75574, with FFR-CT (75580) and AI-based plaque analysis (75577) from their Category I dates, and CT angiography of the chest (71275) as a non-cardiac comparator. National unadjusted non-facility payment (all geographic indices 1.000) was calculated for global, professional, and technical components as total relative value units (RVUs) multiplied by the conversion factor, adjusted to 2026 dollars using the Consumer Price Index for All Urban Consumers (CPI-U), with the Medicare Economic Index (MEI) as a sensitivity analysis, and summarized as total real change and compound annual growth rate (CAGR). Claims volumes for 2013-2024 were obtained from CMS public use files, expressed per 1000 fee-for-service Part B enrollees, and the change in real allowed fee schedule spending was partitioned into unit revenue, volume, and interaction effects. Inflation-adjusted global payment declined for all four core codes between 2010 and 2026: -68.3% for CCTA (75574; CAGR -6.93%/y), -53.6% for congenital cardiac CT (75573), -50.2% for structural cardiac CT (75572), and -27.4% for coronary calcium scoring (75571). Declines concentrated in the technical component (-74.8% for 75574; RVU reductions of up to 58.7%), whereas professional payment fell 35.9%-37.5% with work RVUs unchanged until the 2.5% efficiency adjustment of 2026, attributable to a 38.8% real decline in the conversion factor. Results were unchanged under the MEI (-68.6% for CCTA) and modestly attenuated under the MEI net of productivity (-65.0%). Chest CT angiography fell 57.9%, with a professional decline close to the cardiac codes (-40.7%) but a smaller technical decline (-62.5% vs -74.8%). The largest single-year reduction occurred in 2011 (-36.4% for 75574). In the five years after the 2021 guideline, real global payment fell a further 24.2%-34.2%. Over 2013-2024, CCTA volume rose 408% while mean real allowed charge per service fell 45.9%, a decline that partly reflects migration of billing to facility settings. Real allowed fee schedule spending rose $22.0 million, comprising a $51.4 million volume effect offset by unit revenue (-$5.8 million) and interaction (-$23.6 million) effects; hospital technical payment is not captured. Medicare payment for cardiac CT has declined steeply in real terms since Category I code adoption, and the decline accelerated during the period of strongest guideline endorsement. It exceeded the decline of a non-cardiac comparator and was insensitive to the choice of deflator. This discordance has implications for access, service-line viability, and payment policy advocacy. Aggregate fee schedule spending nonetheless rose over 2013-2024, driven entirely by volume growth rather than by valuation.",
+ "title": "Guideline-endorsed but devalued: Fee schedule-wide and code-specific declines in Medicare payment for cardiac computed tomography, 2010-2026.",
+ "triage": {
+  "companies": [],
+  "priority": "P1",
+  "relevance": 5,
+  "summary": "JCCT paper quantifies fee-schedule-wide and code-specific declines in Medicare physician payment for cardiac CT from 2010 to 2026, despite CCTA's Class 1 guideline recommendation in 2021.",
+  "tags": [
+   "reimbursement",
+   "cpt",
+   "ccta",
+   "medicare",
+   "evidence"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Directly relevant to the economics of CCTA-based AI products: shrinking base payment for the scan squeezes the budget available for add-on analysis codes. Useful citation for payer and CMS advocacy."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42859062/"
+}

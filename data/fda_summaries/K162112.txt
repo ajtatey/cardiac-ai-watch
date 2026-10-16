@@ -1,0 +1,288 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+__________________________________________________________________________________________________________________________
+Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Center – WO66-G609
+Silver Spring, MD 20993-0002
+Pie Medical Imaging B.V.
+Ə0V$QQHPLHN%RXWV
+Regulatory Affairs Coordinator
+Philipsweg 1, 
+6227 AJ Maastricht, Limburg  
+NETHERLANDS
+Re: K162112
+Trade/Device Name: CAAS MRV
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiv ing and communications system
+Regulatory Class: II
+Product Code: LLZ
+Dated: July 13, 2016
+Received: July 29, 2016
+Dear Ms. Bouts:
+We have reviewed your Section 510(k) premarket notification of intent to market the device 
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate 
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to 
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug, 
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).  
+You may, therefore, market the device, subject to the general controls provisions of the Act.  The 
+general controls provisions of the Act include requirements for annual registration, listing of 
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration.  Please note:  CDRH does not evaluate information related to contract liability 
+warranties. We remind you, however, that device la beling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), 
+it may be subject to additional controls.  Existing major regulations affecting your device can be 
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898.  In addition, FDA may 
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean 
+that FDA has made a determination that your device complies with other requirements of the Act 
+or any Federal statutes and regulations administered by other Federal agencies.  You must 
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21 
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical 
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set 
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic 
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+September 21, 2016
+Page 2— Ms. Annemiek Bouts
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please 
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638 2041 
+or (301) 796-7100 or at its Internet address 
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note 
+the regulation entitled, “Misbranding by reference to premarket notification” (21 CFR Part 
+807.97).  For questions regarding the reporting of adverse events under the MDR regulation (21 
+CFR Part 803), please go to 
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office 
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the 
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) 
+796-7100 or at its Internet address 
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+Sincerely yours,
+Robert Ochs, Ph.D.
+Director
+Division of Radiological Health
+Office of In Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+Enclosure
+For
+ 
+ 
+
+
+ 
+Pie Medical Imaging BV Non Confidential Page 1 of 3 
+510(k) Summary CAAS MRV 4.2 [GEN2457]v2.0 
+ 
+Submitter/Owner Name Pie Medical Imaging BV 
+Address Philipsweg 1, 6227 AJ Maastricht, The Netherlands 
+Phone Number +31 43 32 81 328 
+Fax Number +31 43 32 81 329 
+Contact Person: Annemiek Bouts, Regulatory Affairs Coordinator 
+Email Address Annemiek.Bouts@pie.nl 
+Preparation Date 19-Sep-16 
+ 
+Trade Name CAAS MRV 
+ 
+Common Name CAAS MRV 
+ 
+Classification: Classification Name: Image Processing System 
+  Regulation Class: Class II  
+  Regulation number: 21 CFR 892.2050 
+Classification Product Code: LLZ 
+ 
+Predicate Devices - CAAS MRV (K060941, Image Processing Systems, 21 CFR 892.2050, LLZ) 
+- Medis MR-CT VVA (K140587, Image Processing Systems, 21 CFR 892.2050,      
+LLZ) 
+  
+Device Description CAAS MRV is designed as a stand-alone modular software package for viewing 
+and quantification of cardiovascular MR images intended to run on a PC with a 
+Windows operating system. The images for analysis can be read from CD, hard 
+disk or from a PACS system and CAAS MRV provides the functionality to scan 
+the contents of a specific directory and to organize the found DICOM MR images 
+into patients, studies and series.   
+ 
+  CAAS MRV contains several analysis workflows of the previously cleared 
+predicate device CAAS MRV (K060941) for quantification of the functional and 
+regional parameters of the heart ventricles. Contour detection performed 
+automatically, semi-automatically or manually forms the bases for the analyses.  
+ 
+Functionality to quantify T2 and T2* relaxation values is added by means of the 
+analysis module Tissue Mapping. For this specific feature, Medis MR-CT VVA 
+is used as a predicate device. This feature is implemented in MR-CT VVA and is 
+very similar in both control and presentation, to the CAAS MRV feature, and 
+yields the same results. 
+ 
+The quantitative results of CAAS MRV support diagnosis of cardiovascular 
+conditions.  
+The analysis results are available on screen and can be saved to hard-disk to 
+enable re-analysis of the data. Also, the analysis results can be exported in 
+various electronic formats. 
+The functionality is independent of the type of vendor acquisition equipment.  
+  
+Intended Use CAAS MRV is a modular software product intended to be used by or under 
+supervision of a cardiologist or radiologist in order to aid in reading and 
+interpreting cardiovascular MR images to support diagnosis of cardiovascular 
+conditions.  
+ 
+ 
+Pie Medical Imaging BV Non Confidential Page 2 of 3 
+Indications for Use CAAS MRV features segmentation of cardiovascular structures on different types 
+of MR images as well as measurement and reporting tools to facilitate the 
+following use; 
+ Quantitative functional and regional analyses of the heart ventricles; 
+ Quantification of T2 and T2* relaxation values 
+CAAS MRV is intended to be used by or under supervision of a cardiologist or 
+radiologist. When the results provided by CAAS MRV are used in a clinical 
+setting to support diagnoses of cardiovascular conditions, the results are explicitly 
+not to be regarded as the sole, irrefutable basis for clinical decision making. 
+ 
+Technological  A comparison of the technological characteristics of the predicate and subject 
+Comparison device is given the table below.  
+  
+ New Device Predicate Device Predicate Device 
+Device name CAAS MRV 4.2  CAAS MRV (3.0) MR-CT-VVA 
+Manufacturer Pie Medical Imaging Pie Medical Imaging Medis 
+510(k) number - K060941       K140587 
+    Images 
+supported 
+Vendor-independent DICOM MR 
+images (specific requirements depend 
+on type of analysis, but image viewing 
+is possible on all MR images) 
+ 
+Vendor-independent DICOM MR 
+images (specific requirements depend 
+on type of analysis, but image viewing 
+is possible on all MR images) 
+Vendor-independent DICOM MR 
+images (specific requirements depend 
+on type of analysis, but image viewing 
+is possible on all MR images) 
+Image 
+asssessment 
+ Manual and automatic contour 
+detection  
+ Functional and regional analysis 
+analysis of the heart ventricles 
+ Analysis of  T2 and T2* relaxation 
+values 
+ Manual and automatic contour 
+detection  
+ Functional analysis of LV and RV 
+  
+(other assessment features not relevant 
+for equivalence) 
+ 
+ Analysis of  T2 and T2* relaxation 
+values 
+Image display 
+and 
+manipulation 
+ 2D MR image 
+ Pan/zoom; magnify; maximize and 
+minimize, scroll through slice 
+stack; adjust window level, 
+contrast, brightness 
+ 2D MR image 
+ Pan/zoom; magnify; maximize 
+and minimize, scroll through slice 
+stack; adjust window level, 
+contrast, brightness 
+ 2D MR image 
+ 3D volume reconstruction 
+ Pan/zoom; magnify; maximize 
+and minimize, scroll through slice 
+stack; adjust window level, 
+contrast, brightness 
+Correction types   Manual contour 
+correction/propagation 
+ Manual contour 
+correction/propagation 
+ Manual contour 
+correction/propagation 
+Result 
+visualization 
+ Numerical 
+ Graph 
+ Bulls Eye View 
+ Numerical 
+ Graph 
+ Bulls Eye View 
+ Numerical 
+ Graph 
+ Bulls Eye View 
+ 3D view 
+Storage of 
+Results 
+ Printout 
+ PDF 
+ DICOM SC 
+ XML 
+ Images (PNG, JPEG) 
+ Session state (reanalysis) 
+ Printout 
+ DICOM SC 
+ CSV/spreadsheet 
+ Images (PNG, JPEG) 
+ Printout 
+ Images 
+ XML  
+ DICOM SC 
+ PDF 
+ HTML 
+Operating 
+System 
+ Windows  Windows  Windows 
+    
+Conformance Standards The device complies with the following conformance standards:  
+ ISO 14971:2007, Medical devices – Application of risk management to 
+medical devices 
+ NEMA PS 3.1 – 3.20 (2011), Digital Imaging and Communication in 
+Medicine (DICOM) Set. (Radiology) 
+ IEC 62304 First edition 2006-05, Medical device software – Software life 
+cycle processes 
+ IEC 62336:2007, Medical devices - Application of usability engineering to 
+medical devices 
+ 
+ 
+Pie Medical Imaging BV Non Confidential Page 3 of 3 
+Performance Data System requirements – derived from the intended use and indications for use – as 
+well as risk control measures are verified by system testing.  System testing 
+showed that the system requirements were implemented correctly. 
+For each analysis workflow a validation approach is created and the proper 
+functioning of the algorithms is validated. 
+For analysis workflows already implemented in earlier versions of  CAAS MRV 
+regression testing is performed to verify equivalence in numerical results. 
+The validation of the tissue mapping algorithms used in the new analysis 
+workflow Tissue Mapping demonstrated that the quantification of the tissue 
+relaxation values (T2 and T2*) meet the accuracy and reproducibility 
+requirements.   
+Usability testing is performed a according with IEC 62366 to validate all analysis 
+workflows of CAAS MRV and demonstrated that the user is able to use CAAS 
+MRV for the purpose it was developed for. 
+The test results demonstrate safety and effectiveness of CAAS MRV in relation 
+to its intended use and that CAAS MRV is considered as safe and effective as the 
+predicate devices. 
+ 
+Substantial Equivalence The analysis workflows Functional Analysis in the previously cleared device 
+CAAS MRV (K060941) is available in CAAS MRV and is similar in terms of 
+intended use and indications for use and have the same technological 
+characteristic and clinical use. The difference between these two devices is that 
+the analysis workflow ‘Tissue Mapping’ has been added in CAAS MRV. With 
+the addition of the Tissue Mapping workflow, the new CAAS MRV is, like the 
+predicate CAAS MRV (K060941), intended to support the interventional 
+cardiologist and radiologist with diagnoses. 
+ 
+The Tissue Mapping workflow has a similar intended use and indications for use 
+as the same functionality present in the MR-CT VVA System (K0140587). The 
+feature is very similar in both control and presentation and yields the same 
+results.  
+ 
+Conclusion From the comparison table and substantial quivalence analysis it can be           
+concluded that CAAS MRV is substantially equivalent to a combination of the 
+predicate devices. Based on the application of risk management and performance 
+testing inherent to PMI’s quality system (compliant with recognized standards) 
+CAAS MRV can be considered as safe and effective as its predicate devices and 
+does not raise any new issues related to safety and effectiveness as compared to 
+its predicate devices.  

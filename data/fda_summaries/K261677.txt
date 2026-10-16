@@ -1,0 +1,446 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+September 15, 2026 
+ 
+Aramis Global AI Consultancies, LLC 
+℅ John DeLucia 
+Consultant 
+John Delucia Consulting 
+34 Laurel Rd. 
+Guilford, Connecticut 06437 
+ 
+ 
+Re:  K261677 
+Trade/Device Name: Artificial Intelligence Renal Assessment (AIRA) Version 1 
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical image management and processing system 
+Regulatory Class:  Class II 
+Product Code:  QIH 
+Dated:  August 15, 2026 
+Received:  August 17, 2026 
+ 
+Dear John DeLucia: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+
+K261677 - John DeLucia Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+K261677 - John DeLucia Page 
+ 
+3 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+ 
+Jessica Lamb 
+Assistant Director 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+
+510(K) Summary 
+D
+ate Prepared: 
+A
+ugust 8, 2026 
+S
+ubmitter  
+Aramis Global AI Consultancies LLC 
+Rahet Albal Business Centre 
+Court Tower Building, Office #39 
+Dubai, UAE 
++91 9288045050
+C
+ontact Person 
+J
+ohn DeLucia  
+John DeLucia Consulting 
+34Laurel Rd.  
+Guilford, CT 06437 
+Email: johndelucia@comcast.net 
+Phone: (603) 566-0146 
+Sub
+mission Date:   
+M
+ay 21, 2026 
+T
+rade Name:   
+A
+rtificial Intelligence Renal Assessment (AIRA) Version 1 
+C
+ommon Name:   
+M
+edical Imaging Software 
+C
+lassification Name/Regulation  
+21 CFR 892.2050 Medical image management and processing system 
+P
+roduct Code 
+ 
+QIH 
+K261677
+       
+ 
+Device Classification   
+ 
+Class II 
+ 
+Legally Marketed Devices to Which Substantial Equivalence is Claimed 
+ 
+Artificial Intelligence Renal Assessment (AIRA) is substantially equivalent to the following 
+legally marketed predicate device.  
+ 
+ 
+Device Description 
+ 
+AIRA operates by using medical imaging data (CT scans) to analyze the size and shape of the 
+kidney. It utilizes a deep learning algorithm to accurately estimate the renal parenchymal volume 
+of the kidney.  
+ 
+The output of the algorithm is a NumPy array that is used to generate a NIfTI file format, which is 
+then used to calculate the kidney volumes. These values are then compiled into a PDF report that 
+can be easily downloaded from our AIRA tool. 
+ 
+The report provides the user with detailed information about their kidney size. Specifically, the 
+report includes the volume of the left and right kidneys. In addition, volume masks are produced, 
+that can be superimposed on the original DICOM gray scale image. An editor tool is also available, 
+which can be used to modify the outputs where necessary and recalculate the volumes (this is 
+optional). 
+ 
+This information is compared to baseline measurements to detect any changes that may indicate 
+early kidney swelling or volume loss. The tool is intended for use by medical professionals, such as 
+radiologists, nephrologists, and urologists, who are trained in the interpretation of medical imaging 
+data. 
+ 
+Indications for Use 
+Non-invasive processing of CT kidney images using automatic image segmentation and 
+measurement of anatomical structures utilizing artificial intelligence/machine-learning 
+algorithms. The system automatically calculates the renal parenchymal volume. 
+Device Name Manufacturer  510(k) # Decision Date 
+Ceevra Reveal 3  Ceevra Inc. K222676  
+  
+04/25/2023 
+ 
+       
+ 
+ 
+AIRA is intended for adult patients who require volumetric measurement of the kidneys for 
+further clinical assessment. 
+ 
+Summary of Indications for Use 
+AIRA and the predicate device have the same indication for use. Both devices are intended for 
+non-invasive processing of images using automatic image segmentation and measurement of 
+anatomical structures utilizing artificial intelligence/machine-learning algorithms.  
+AIRA is intended for adult patients who require volumetric measurement of the kidneys for 
+further clinical assessment. 
+Summary of Technological Characteristic 
+AIRA and the predicate device have similar technological characteristics. Both utilize artificial 
+intelligence/machine-learning algorithms to perform automatic image segmentation and 
+measurement of anatomical structures. AIRA is different from the predicate in that it uses images 
+from CT and MRI while the subject device utilizes CT images only. 
+General Safety and Effectiveness Concerns 
+ 
+The device labeling contains instructions for use and any necessary cautions and warnings to 
+provide for safe and effective use of this device.  Risk management is ensured via a risk analysis 
+which is used to identify and mitigate potential hazards.  Any potential hazards are controlled via 
+software development, verification and validation testing. In addition, general controls of the 
+FD&C Act, and special controls established for medical image management and processing 
+system per 21 CFR 892.2050 are in place to further mitigate any safety and or effectiveness 
+risks. 
+ 
+Assessment of Non-Clinical Performance Data 
+ 
+The AIRA Standalone Study was a retrospective study conducted to assess the performance of 
+AIRA. A total of 119 computed tomography (CT) cases were retrospectively collected for use in 
+this standalone study under the approved Aramis Protocol 66017 Data Collection Protocol. The 
+cases were collected from 3 US sites at distinct geographic locations. 
+ 
+The study analyses included 113 cases. The sample was enriched to have at least 25% of cases 
+with atrophied kidneys. Ground truth volume and segmentation were established by 2 
+radiologists; no adjudication was required. AIRA: Version 1.0 was used to process all cases and 
+provide segmentation and RPV for each kidney. Accuracy of AIRA was measured by the Dice 
+       
+ 
+similarity coefficient (DSC) and the Hausdorff distance between AIRA and ground truth 
+segmentation. 
+ 
+The mean Dice Similarity Coefficient (DSC) between the AIRA mask and the larger Ground 
+Truther mask was 0.9092 for the Right kidney (95% CI: 0.9032, 0.9148) and 0.9114 for the Left 
+kidney (95% CI: 0.9035, 0.9179). The mean Hausdorff Distance (HD) between the AIRA mask 
+and the larger Ground Truther mask was 9.9743 mm for the Right kidney (95% CI: 8.4073, 
+12.5967) and 9.9395 mm for the Left kidney (95% CI: 7.8926, 13.6073). Mean 95th Percentile 
+HDs (HD95s) were 3.7734 mm (95% CI: 3.5544, 4.0104) and 3.9151 mm (95% CI: 3.4522, 
+4.6661) for the Right and Left kidneys, respectively. 
+ 
+Conclusion: 
+ 
+Based upon the information presented in this submission, it is concluded that AIRA is substantially 
+equivalent to the named predicate device. 
+ 
+The Summary of Substantial Equivalence Table below details the similarities and differences 
+between the subject device and the predicate device Ceevra Reveal 3 (K222676 -Ceevra Inc.). 
+ 
+ 
+ 
+ 
+       
+  
+Table: Substantial Equivalence Table 
+ 
+Characteristics Subject Device Predicate Similarities / 
+Differences 
+Sponsor Aramis LLP Ceevra Inc.  
+Device Name AIRA Renal Assessment Ceevra Reveal 3 NA 
+510(k) K261677 K222676 NA 
+Regulation No. 21 CFR 892.2050 21 CFR 892.2050 Subject Device Same as Predicate 
+Regulation 
+Description 
+Medical image management and 
+processing system 
+Medical image management and 
+processing system 
+Subject Device Same as Predicate 
+Classification Class II Class II Subject Device Same as Predicate 
+Product Code QIH QIH Subject Device Same as Predicate 
+Indications for Use Non-invasive processing of CT 
+kidney images using automatic 
+image segmentation and 
+measurement of anatomical 
+structures utilizing artificial 
+intelligence/machine-learning 
+algorithms. 
+ 
+The system automatically 
+calculates the renal parenchymal 
+volume. 
+ 
+AIRA is intended for adult patients 
+who require volumetric 
+measurement of the kidneys for 
+further clinical assessment. 
+ 
+Ceevra Reveal 3 is intended as a medical 
+imaging system that allows the processing, 
+review, analysis, communication and media 
+interchange of multi-dimensional digital images 
+acquired from CT or MR imaging devices and 
+that such processing may include the generation 
+of preliminary segmentations of normal anatomy 
+using software that employs machine learning 
+and other computer vision algorithms. It is also 
+intended as software for preoperative surgical 
+planning, and as software for the intraoperative 
+display of the multi- dimensional digital images. 
+Ceevra Reveal 3 is designed for use by health 
+Subject Device Same as 
+Predicate 
+ 
+ 
+       
+  
+ 
+ Subject Device Predicate Similarities / 
+Differences 
+Characteristics Aramis LLP Ceevra Inc.  
+  care professionals and is intended to assist the 
+clinician who is responsible for making all final 
+patient management decisions. 
+ 
+The machine learning algorithms in use by 
+Ceevra Reveal 3 are only for adult patients (22 
+and over). Three- dimensional images for 
+patients under the age of 22 or of unknown 
+age will be generated without the use of any 
+machine 
+learning algorithms 
+ 
+Anatomical Site Kidney Prostate, bladder neurovascular bundles, kidney, 
+vein, arteries 
+Subject Device Same as 
+Predicate 
+ 
+       
+  
+ 
+ Subject Device Predicate Similarities / 
+Differences 
+Sponsor Aramis LLP Ceevra Inc.  
+Image Type and 
+input 
+Computed Tomography / 
+Complies with DICOM 
+Standard 
+ 
+CT Image 
+Computed Tomography / Ultrasound / Complies 
+with DICOM Standard 
+ 
+CT or MR Images 
+Subject Device Same as 
+Predicate 
+Principle of 
+Operation/ 
+Technology 
+CT image processing software 
+application implementing artificial 
+intelligence including non-adaptive 
+machine learning algorithms trained 
+with clinical and/or artificial data 
+intended for non-invasive 
+segmentation and measurements of 
+CT data. 
+CT or MR medical imaging system that allows 
+for generation of preliminary segmentations of 
+normal anatomy using software that employs 
+machine learning and other computer vision 
+algorithms. 
+Subject Device Same as 
+Predicate 
+Medical Device 
+Type 
+Software as a Medical Device 
+(SaMD) 
+Software as a Medical Device (SaMD) Subject Device Same as 
+Predicate 
+Operating System Windows / Linux Windows / MacOS /iOS/ Android Subject device is Similar to 
+Predicate. 
+       
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* The subject device’s performance testing dataset was different than the predicate’s performance testing dataset. 
+ Subject Device Predicate Similarities / 
+Differences 
+Sponsor Aramis LLP Ceevra, Inc.  
+Image 
+analysis 
+features 
+Interactive manipulation 
+and 2D visualization 
+Interactive manipulation and 3D visualization Subject Device Same as 
+Predicate 
+Quantitative 
+analysis 
+Kidney Volume Kidney Volume Subject Device Same as 
+Predicate 
+Operating System Web browser (Google Chrome) Web browser (Google Chrome) and Android Subject Device Same as 
+Predicate 
+Patient Population Adults Adults Subject Device Same as 
+Predicate 
+Performance 
+Testing* 
+ 
+(Software 
+measurement vs. 
+Ground Truth) 
+DCS: 
+Right kidney 0.9092  
+Left kidney 0.9114  
+ 
+ 
+Kidney (from CT abdomen imaging) 
+0.89 DSC 
+Kidney (from MR abdomen imaging) 
+0.87 DSC 
+(Copied from 510k summary of  K222676.) 
+Subject Device Similar as 
+Predicate  
+ 
+ 

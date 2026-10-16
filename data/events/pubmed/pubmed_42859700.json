@@ -1,0 +1,67 @@
+{
+ "alerted_at": null,
+ "category": "clinical",
+ "collected_at": "2026-10-16T02:46:02+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Radiology, Beijing Anzhen Hospital, Capital Medical University, 100029 Beijing, China.",
+   "School of Big Data and Statistics, Anhui University, 230601 Hefei, Anhui, China.",
+   "School of Computer Science and Technology, Anhui University, 230093 Hefei, Anhui, China.",
+   "Division of Cardiovascular Imaging, Department of Radiology and Radiological Science, Medical University of South Carolina, Charleston, SC 29425, USA.",
+   "Division of Cardiology, Department of Medicine, Medical University of South Carolina, Charleston, SC 29425, USA."
+  ],
+  "authors": [
+   "Shi C",
+   "Yu C",
+   "Zhang B",
+   "Ellison B",
+   "Gao Z",
+   "Fang Z"
+  ],
+  "doi": "10.31083/RCM49404",
+  "journal": "Reviews in cardiovascular medicine",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42859700",
+ "prefilter": {
+  "ai": [
+   "deep learning",
+   "algorithm"
+  ],
+  "cardiac": [
+   "coronar",
+   "ccta",
+   "plaque",
+   "stenos",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 12
+ },
+ "published": "2026-09-08",
+ "reported_in": "2026-10-15",
+ "source": "pubmed",
+ "status": "triaged",
+ "summary": "Reviews in cardiovascular medicine. Shi C, Yu C, Zhang B, Ellison B, Gao Z, Fang Z. Accurate evaluation of coronary luminal stenosis using coronary computed tomography angiography (CCTA) remains significantly impaired in the presence of severe coronary artery calcification. Calcification-related blooming artifacts frequently lead to overestimation of stenosis severity and reduced diagnostic specificity, representing a persistent and unresolved challenge in clinical practice. Thus, this study aimed to develop and validate a self-supervised deep learning (DL) algorithm to improve the diagnostic performance of CCTA for assessing luminal stenosis in patients with heavily calcified coronary plaques (Agatston score >300), using quantitative coronary angiography (QCA) as the reference standard. This multicenter retrospective study enrolled 786 patients with agatston score (AS) >300 who underwent both CCTA and QCA from four Chinese hospitals. The dataset was randomly divided into a training group (80%, n = 628) for algorithm development and a validation group (20%, n = 158). The diagnostic performance of the DL model and radiologists was compared using sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) for detecting ≥50% diameter stenosis at the lesion, vessel, and patient levels. Reporting time was also evaluated. In the validation cohort, 476 calcified lesions in 213 vessels from 93 patients were confirmed by QCA to have ≥50% diameter stenosis. The DL model demonstrated significantly higher specificity than radiologists at both the vessel level (52% vs. 30%) and patient level (74% vs. 57%) (all p < 0.05). In lesions with severe calcification (cross-sectional calcium arc 270°-360°), DL further improved lesion-level specificity and NPV by 27% and 36%, respectively (all p < 0.05). In addition, DL markedly reduced reporting time compared with radiologists (61.9 ± 2.56 s vs. 376.6 ± 127.2 s; p < 0.001). The proposed self-supervised DL model enables rapid and more accurate assessment of luminal stenosis in the presence of heavily calcified plaques, with improved diagnostic specificity and greater workflow efficiency.",
+ "title": "Deep Learning Optimizes the Diagnostic Performance of Coronary Computed Tomography Angiography in Heavily Calcified Coronary Plaques: A Chinese Multicenter Study.",
+ "triage": {
+  "companies": [],
+  "priority": "P2",
+  "relevance": 4,
+  "summary": "Chinese multicenter study showing deep learning improves CCTA diagnostic performance for luminal stenosis in heavily calcified coronary plaques (Reviews in Cardiovascular Medicine).",
+  "tags": [
+   "evidence",
+   "ccta",
+   "calcified-plaque",
+   "deep-learning",
+   "china"
+  ],
+  "triaged_at": "2026-10-16T02:50:40+00:00",
+  "triaged_by": "agent:claude-fable-5-1",
+  "why_it_matters": "Primary evidence behind the companion review; the Chinese AI coronary ecosystem (Shukun, Keya) is a longer-term competitive threat."
+ },
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42859700/"
+}

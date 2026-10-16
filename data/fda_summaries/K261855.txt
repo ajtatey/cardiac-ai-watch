@@ -1,0 +1,440 @@
+ 
+U.S. Food & Drug Administration 
+10903 New Hampshire Avenue         D o c  I D #  0 4 0 1 7 . 08 . 0 5  
+Silver Spring, MD 20993 
+www.fda.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+September 18, 2026 
+ 
+Elucid Bioimaging, Inc. 
+Hiral Vora 
+Lead Quality and Regulatory Affairs Specialist 
+399 Boylston St., Suite 400 
+Boston, Massachusetts 02116 
+ 
+ 
+Re:  K261855 
+Trade/Device Name: Elucid PlaqueIQ  
+Regulation Number:  21 CFR 892.2050 
+Regulation Name:  Medical Image Management And Processing System 
+Regulatory Class:  Class II 
+Product Code:  LLZ 
+Dated:  August 20, 2026 
+Received:  August 21, 2026 
+ 
+Dear Hiral Vora: 
+ 
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above 
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure) 
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment 
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the 
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket 
+approval application (PMA). You may, therefore, market the device, subject to the general controls 
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some 
+cleared products may instead be combination products. The 510(k) Premarket Notification Database 
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination 
+product submissions. The general controls provisions of the Act include requirements for annual registration, 
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and 
+adulteration. Please note:  CDRH does not evaluate information related to contract liability warranties. We 
+remind you, however, that device labeling must be truthful and not misleading. 
+ 
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be 
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of 
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements 
+concerning your device in the Federal Register. 
+ 
+ 
+ 
+
+K261855 - Hiral Vora Page 
+ 
+2 
+Additional information about changes that may require a new premarket notification are provided in the FDA 
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device" 
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software 
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).  
+ 
+Your device is also subject to, among other requirements, the Quality Management System Regulation 
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), 
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, 
+the QMSR requires device manufacturers to review and approve changes to device design and production 
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical 
+Device File (ISO 13485 clause 4.2.3).  
+ 
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA 
+has made a determination that your device complies with other requirements of the Act or any Federal 
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's 
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for 
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see 
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management 
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control 
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. 
+ 
+All medical devices, including Class I and unclassified devices and combination product device constituent 
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule"). 
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label 
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the 
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR 
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device 
+Identification Database (GUDID) (21 CFR Part 830 Subpart E).  For additional information on these 
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.  
+ 
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR 
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems. 
+ 
+For comprehensive regulatory information about medical devices and radiation-emitting products, including 
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn 
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the 
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See 
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K261855 - Hiral Vora Page 
+ 
+3 
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE 
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). 
+ 
+Sincerely, 
+ 
+ 
+     for 
+Jessica Lamb, Ph.D. 
+Assistant Director 
+Imaging Software Team 
+DHT8B: Division of Radiological Imaging 
+    Devices and Electronic Products 
+OHT8: Office of Radiological Health 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+ 
+Enclosure  
+ 
+ 
+ 
+
+x
+Elucid PlaqueIQ  510(k) Summary 
+ 
+ 
+Elucid BioImaging, Inc.  1 
+K261855 510(k) Summary  
+Submitter Information 
+Submitter / Manufacturer Name Elucid Bioimaging, Inc. 
+399 Boylston Street, Suite 400, Boston, MA 02116 
+Primary Correspondent & 
+Contact Information 
+Hiral Vora 
+Lead Quality and Regulatory Affairs Specialist 
+Email ID: hiral.vora@elucid.com 
+Secondary Correspondent & 
+Contact Information 
+Windi Hary 
+Chief Quality and Regulatory Officer 
+Email ID: windi.hary@elucid.com 
+Date Prepared 20 August 2026 
+ 
+Device Identiﬁcation 
+Proprietary Name:   Elucid PlaqueIQ  
+Device Classiﬁcation Name: System, Image Processing, Radiological 
+Regulation Description: Medical image management and processing system 
+Regulation Number:  892.2050 
+Device Class Class II 
+Product Code: LLZ 
+ 
+Predicate 
+Proprietary Name:   Autoplaque add-on ORS Visual 
+Device Classiﬁcation Name: System, Image Processing, Radiological 
+Regulation Description: Medical image management and processing system 
+510(k) Number:  K122429 
+Regulation Number:  892.2050 
+Device Class Class II 
+Product Code: LLZ 
+ 
+  
+Elucid PlaqueIQ  510(k) Summary 
+ 
+ 
+Elucid BioImaging, Inc.  2 
+Reference Device 
+Proprietary Name:   Elucid PlaqueIQ 
+Device Classiﬁcation Name: System, Image Processing, Radiological 
+Regulation Description: Medical image management and processing system 
+510(k) Number:  K241524 
+Regulation Number:  892.2050 
+Device Class Class II 
+Product Code: LLZ 
+ 
+Device Description 
+ 
+Elucid PlaqueIQ is an image analysis application for evaluating CT angiography images of arterial 
+vessels.  Elucid PlaqueIQ provides multi -dimensional visualization , plaque quantiﬁcation, and 
+stenosis characterization to aid clinicians in their analysis of plaque anatomy and pathology (e.g., 
+atherosclerosis).  Elucid PlaqueIQ supports physician review and interrogation of the Elucid 
+conducted segmentation to inform their clinical interpretation of the Elucid PlaqueIQ Analysis.  
+ 
+Indications of Use  
+ 
+Elucid PlaqueIQ is intended to support qualiﬁed clinicians in the non -invasive evaluation and 
+assessment of plaque quantiﬁcation and morphology (e.g., atherosclerosis) from previously 
+acquired CT angiography.  The results are intended to support qualiﬁed clinicians in conjunction with 
+the patient’s clinical history, symptoms, and other diagnostic tests, as well as the clinician’s 
+professional judgment.  
+Prescription use only.   
+ 
+Indications of Use comparison discussion  
+ 
+Autoplaque is an on -prem desktop plaque analysis application, where physicians generate 
+segmentations and apply plaque algorithms for quantification.  The results are then presented to the 
+physician. Elucid PlaqueIQ is a cloud- based application, where Elucid Analysts generate 
+segmentations (as a service) and apply plaque algorithms for quantification.  The results (plaque and 
+%stenosis) are then provided to the physician.  Elucid monitors their analyst/product performance 
+to ensure repeatability and reproducibility of the segmentations and plaque outputs.   Therefore, we 
+feel the differences in indications do not present any additional concerns of safety or effectiveness.  
+ 
+Technological Characteristic Comparison  
+ 
+Elucid PlaqueIQ is an image analysis software that is used to process, review, and analyze CT images. 
+It has the same technological characteristics as the predicate device. It does not come in contact 
+with the patient, nor does it control any life-sustaining devices. It provides physicians with a tool that 
+aids with interpretation of CT images and information displayed. Even though there are some 
+technological differences between subject device and predicat e device in terms of computer 
+operating system, and provision of product as stand -alone device; these differences do not impact 
+the safety and effectiveness of the product. Additionally, these differences are addressed through 
+software verification and validation.
+Elucid PlaqueIQ  510(k) Summary 
+ 
+ 
+Elucid BioImaging, Inc.  3 
+Predicate Device Comparison 
+Comparison 
+Criteria 
+Elucid PlaqueIQ B.1P  Autoplaque add-on ORS 
+Visual (Primary Predicate) 
+Elucid PlaqueIQ B.1P 
+(Reference Device) 
+Comparison 
+Assessment 
+510(k) K261855 K122429 K241524 - 
+Manufacturer Elucid Bioimaging, Inc. Object Research Systems 
+(ORS) inc. 
+Elucid Bioimaging, Inc. - 
+Product Code LLZ LLZ LLZ Same as predicate 
+Regulation 
+Number 
+892.2050 892.2050 892.2050 Same as predicate 
+Regulation 
+Description 
+Medical image 
+management and 
+processing system 
+Medical image 
+management and 
+processing system 
+Medical image 
+management and 
+processing system 
+Same as predicate 
+Device 
+Classiﬁcation 
+Name 
+System, Image 
+Processing, Radiological 
+System, Image Processing, 
+Radiological 
+System, Image Processing, 
+Radiological 
+Same as predicate 
+Device Class Class II Class II Class II Same as predicate 
+Intended Use See above discussion See above discussion 
+ 
+See above discussion 
+ 
+Similar to predicate 
+ 
+- Non-invasive application 
+that is used to process, 
+review and analyze CT 
+images using semi-
+automated tool that aid 
+in diagnosis of coronary 
+artery diseases 
+ 
+- Output plaque 
+identiﬁcation and 
+quantiﬁcation 
+Data Source 
+(input) 
+CT CT CT Same as predicate 
+Output Graphics and text results 
+of arterial anatomy that 
+Graphic and text results of 
+coronary anatomy that can 
+Graphics and text results of 
+arterial anatomy that can be 
+Similar to predicate 
+Elucid PlaqueIQ  510(k) Summary 
+ 
+ 
+Elucid BioImaging, Inc.  4 
+can be accessed by end 
+users/physicians using a 
+device with internet 
+connectivity. 
+ 
+Plaque Quantiﬁcation  
+ 
+Stenosis Characterization  
+be accessed by end 
+users/physicians using the 
+product. 
+ 
+ 
+Plaque Quantiﬁcation  
+ 
+Stenosis Characterization 
+accessed by end 
+users/physicians using a 
+device with internet 
+connectivity. 
+ 
+Plaque Quantiﬁcation 
+Physical 
+Characteristics 
+- Cloud-based 
+segmentation and 
+analysis as service 
+- DICOM compatible 
+- Software installed and 
+used by end-user 
+- DICOM compatible 
+- Cloud-based 
+segmentation and 
+analysis as service 
+- DICOM compatible 
+Similar to predicate  
+Safety Clinician review and 
+assessment of analysis 
+prior to use as 
+supplemental diagnostic 
+aid 
+Clinician editable, review, 
+and assessment of 
+analysis prior to use as 
+supplemental diagnostic 
+aid 
+Clinician review and 
+assessment of analysis 
+prior to use as 
+supplemental diagnostic 
+aid 
+Similar to predicate 
+except clinicians cannot 
+edit the analysis; 
+however, they can request 
+rework of the analysis.  
+Computer 
+Operating 
+System 
+Windows OS and Mac OS Windows OS Windows OS and Mac OS Similar to predicate 
+except subject device can 
+be operated on Mac OS 
+system as well 
+2D Imaging Review of arterial vessels 
+in 2D MPR, curved MPR, 
+and straightened view. 
+Review of coronary vessels 
+in 2D MPR, curved MPR, 
+and straightened view. 
+Review of arterial vessels in 
+2D MPR, curved MPR, and 
+straightened view. 
+Similar to predicate 
+3D Imaging Review of structures in 3D Review of structures in 3D Review of structures in 3D Same as predicate 
+Maximum 
+intensity 
+projection (MIP) 
+MIP with interactive 
+control 
+MIP with interactive control MIP with interactive control Same as predicate 
+Multiplanar 
+reformatting 
+(MPR) 
+MPR with oblique slicing 
+and variable slab 
+thickness 
+MPR with oblique slicing 
+and variable slab thickness 
+MPR with oblique slicing and 
+variable slab thickness 
+Same as predicate 
+Elucid PlaqueIQ  510(k) Summary 
+ 
+ 
+Elucid BioImaging, Inc.  5 
+Summary of Tests 
+ 
+The software was designed, developed, veriﬁed and validated for performance  per the written 
+procedures. Veriﬁcation, validation and usability testing data demonstrated that the device meets all 
+of its speciﬁcations demonstrating substantial equivalence to the predicate device.  
+Any risks identiﬁed during product development were controlled and mitigated by a risk management 
+plan including risk analysis, risk evaluation, risk control and evaluation of residual risks.  
+The following non-clinical tests were performed: 
+1. Veriﬁcation testing veriﬁed the overall functionality and repeatability conforming to the 
+software speciﬁcations. 
+2. Validation testing conﬁrmed that the performance of the software met the pre -deﬁned 
+acceptance criteria. 
+3. Usability testing was conducted with intended users of the device and  ensures the 
+acceptability of the device. 
+The nonclinical veriﬁcation and validation test results established that the device meets its design 
+requirements and intended use. 
+Histology Validation 
+ 
+Plaque-IQ algorithms were validated on histopathologic specimens, including calculations of 
+anatomic structure and calculations of tissue characteristics.  The histopathologic validation 
+demonstrated the following performance: 
+Histopathology Values (mm2) Plaque-IQ Results Pearson Correlation Coeﬃcient [95% CI] 
+CALC Area 0.95 
+0 - 22.73 mm2 [0.91, 0.97] 
+LRNC Area* 0.88 
+0 - 56.36 mm2 [0.80, 0.93] 
+Matrix Area 0.86 
+7.43 - 55.91 mm2 [0.76, 0.92] 
+*LRNC Area includes areas of LRNC and Intra-Plaque Hemorrhage as identiﬁed by pathologists 
+  
+Elucid PlaqueIQ  510(k) Summary 
+ 
+ 
+Elucid BioImaging, Inc.  6 
+Stenosis Reader Study 
+ 
+PlaqueIQ performance in identiﬁcation of obstructive or non-obstructive stenosis compared to ground 
+truth results produced by expert readers against CT are shown below. 
+ 
+Plaque-IQ Stenosis 
+Compared to 
+consensus L3 reader 
+performance  
+Sensitivity (95% CI) Speciﬁcity (95% CI) NPV 
+Patient level >50% 93.85% (85.2%, 97.6%) 91.5% (83.4%, 95.8%) 95% 
+Vessel level >50%  86.42% (79.1%, 93.6%) 93.97% (90.7%, 97.0%) 95% 
+ 
+Conclusion 
+ 
+Based on the intended  use, technological characteristic, summary of tests  and comparison to the 
+predicate, Elucid PlaqueIQ raises no new questions of safety and effectiveness as compared to the 
+predicate and is substantially equivalent to the predicate device in terms of safety, efficacy, and 
+performance. 
+ 
+ 
