@@ -1792,6 +1792,30 @@
   "status": "triaged",
   "title": "Curriculum-Based Deep Learning for Automated Segmental Left Ventricular Hypertrophy Classification Using Short-Axis Echocardiography."
  },
+ "pubmed:42885787": {
+  "first_seen": "2026-10-16T17:43:06+00:00",
+  "path": "data/events/pubmed/pubmed_42885787.json",
+  "priority": null,
+  "source": "pubmed",
+  "status": "new",
+  "title": "Residual Cardiovascular Risk Beyond Coronary Physiology: Complementary Prognostic Value of Trimethylamine N-Oxide in Patients Undergoing Coronary Computed Tomog"
+ },
+ "pubmed:42886144": {
+  "first_seen": "2026-10-16T17:43:06+00:00",
+  "path": "data/events/pubmed/pubmed_42886144.json",
+  "priority": null,
+  "source": "pubmed",
+  "status": "new",
+  "title": "Coronary Visual Intelligence System (CorVIS) Guided Complex Percutaneous Coronary Intervention."
+ },
+ "pubmed:42886152": {
+  "first_seen": "2026-10-16T17:43:06+00:00",
+  "path": "data/events/pubmed/pubmed_42886152.json",
+  "priority": null,
+  "source": "pubmed",
+  "status": "new",
+  "title": "Left Ventricular Filling Pressure Classification by Electrocardiogram, Echocardiography, and Catheterization: Prognostic Implications."
+ },
  "rss:0075e4b82f55c6ed": {
   "first_seen": "2026-10-16T02:46:07+00:00",
   "priority": null,
@@ -1820,12 +1844,26 @@
   "status": "dropped",
   "title": "Labcorp to buy BioReference assets for up to $872M"
  },
+ "rss:0be3ac0fee95a309": {
+  "first_seen": "2026-10-16T17:43:08+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "MRI shows features of scapular pain in patients"
+ },
  "rss:0e341cbba7833f93": {
   "first_seen": "2026-10-16T02:46:06+00:00",
   "priority": null,
   "source": "rss",
   "status": "dropped",
   "title": "J&J’s medtech business slows again in Q3"
+ },
+ "rss:11e50b356b97dca9": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Over $4 Million Raised to Brighten Patients' Futures at Nicklaus Children's Hospital's 19th Annual Diamond Ball"
  },
  "rss:16b6204abb6cd3d9": {
   "first_seen": "2026-10-16T13:14:57+00:00",
@@ -1920,6 +1958,13 @@
   "status": "dropped",
   "title": "On Global Cat Day® and National Feral Cat Day®, October 16, Alley Cat Allies Calls for Worldwide Action for Cats"
  },
+ "rss:2ba0032975a99a5d": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Human Longevity Expands Its $1 Million Cancer Prevention Pledge to Breast Cancer"
+ },
  "rss:2c131feed45234fd": {
   "first_seen": "2026-10-16T02:46:07+00:00",
   "priority": null,
@@ -1956,12 +2001,33 @@
   "status": "dropped",
   "title": "Workplace Benefits Article in HelloNation Explains Why Employees Overlook Valuable Workplace Benefits, Featuring Benefits Consulting Expert Stacia Robinson"
  },
+ "rss:3234f8c4bcb25d35": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Business Insurance Costs Explained in HelloNation Article Featuring Insurance Experts Jerry and Luke Yaekel"
+ },
  "rss:343952d95e47cf83": {
   "first_seen": "2026-10-16T02:46:05+00:00",
   "priority": null,
   "source": "rss",
   "status": "dropped",
   "title": "Meet the Minnies 2026 semifinalist candidates"
+ },
+ "rss:35baf29f360e361d": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Brazilian Fernanda Maciel Sets Salar de Uyuni Fastest Known Time of 19:50:08"
+ },
+ "rss:38f6e4b4d22be399": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "HelloNation Article Featuring Orthodontist Dr. Ben Thornton Explains How Long Patients Should Wear a Retainer After Braces or Clear Aligners"
  },
  "rss:3daf1e6a8ffd95e0": {
   "first_seen": "2026-10-16T13:14:57+00:00",
@@ -1977,6 +2043,20 @@
   "status": "dropped",
   "title": "Dr. Rod J. Rohrich Ranked Best Rhinoplasty Surgeon in the United States for Sixth Consecutive Year by Newsweek"
  },
+ "rss:3e8a675067dc7450": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Myosin Therapeutics Invited to Present at BioFuture 2026 in New York City"
+ },
+ "rss:41cfaf2514c68947": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Paris Court Ruling on Discontinued Feature Will Have Minimal Impact on Angelalign Customers"
+ },
  "rss:445b8439b19de247": {
   "first_seen": "2026-10-16T13:14:57+00:00",
   "priority": null,
@@ -1991,12 +2071,26 @@
   "status": "dropped",
   "title": "Disrupting Health Insurance: Larry Hightower Opens the Healthcare Pricing Black Box"
  },
+ "rss:4e6166f9c49f21ee": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Hims &amp; Hers Health (HIMS) Alert: Securities Class Action Filed, Investors with Losses Encouraged to Contact Hagens Berman Before November 2, 2026 Lead Plain"
+ },
  "rss:53da6112080d5c21": {
   "first_seen": "2026-10-16T13:14:57+00:00",
   "priority": null,
   "source": "rss",
   "status": "dropped",
   "title": "Crunch Franchise Expands in San Antonio, Texas with New Crunch 3.0 Gym"
+ },
+ "rss:54a097da07709bb1": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Aignostics lance HETA Clinical, une nouvelle gamme de produits d'IA qui accélèrent les flux de travail de pathologie et réduisent le nombre de tests moléculaire"
  },
  "rss:5736e92b4ba98d30": {
   "first_seen": "2026-10-16T02:46:17+00:00",
@@ -2027,6 +2121,13 @@
   "status": "dropped",
   "title": "Ascensia leads $36M funding round for glucose sensor startup"
  },
+ "rss:5beba4e55a95a3cd": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability"
+ },
  "rss:5d8c0ff273bfc439": {
   "first_seen": "2026-10-16T02:46:06+00:00",
   "path": "data/events/rss/rss_5d8c0ff273bfc439.json",
@@ -2042,12 +2143,26 @@
   "status": "dropped",
   "title": "U.S. Anesthesia Partners Celebrates World Anesthesia Day 2026"
  },
+ "rss:69a0348550805573": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Sam's Night Celebrates 21 Years of Fighting to End Duchenne, Raises $1.7 Million for Parent Project Muscular Dystrophy"
+ },
  "rss:6b938fca2bedb7a1": {
   "first_seen": "2026-10-16T02:46:06+00:00",
   "priority": null,
   "source": "rss",
   "status": "dropped",
   "title": "Agilent to buy Proscia for $240M"
+ },
+ "rss:72c417b976c6670c": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Bobby Garon: New 3.6% Social Security COLA for 2027 Will Feel Smaller Than It Looks for Most Retirees"
  },
  "rss:77bf8f364edb77d1": {
   "first_seen": "2026-10-16T02:46:22+00:00",
@@ -2070,6 +2185,13 @@
   "source": "rss",
   "status": "dropped",
   "title": "Lanoi Dermatology welcomes board-certified dermatologist and Mohs surgeon Hannah Berman, MD"
+ },
+ "rss:85cda6f3f14fcffa": {
+  "first_seen": "2026-10-16T17:43:31+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Safer, faster, more effective: Why cardiac PET should be the primary nuclear modality - Cardiovascular Business"
  },
  "rss:8d3e2d63c691c285": {
   "first_seen": "2026-10-16T02:46:05+00:00",
@@ -2120,6 +2242,13 @@
   "status": "dropped",
   "title": "Lu-177 PNT2002 before SBRT extends disease control in prostate cancer"
  },
+ "rss:a106341761bc9ff2": {
+  "first_seen": "2026-10-16T17:43:10+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "EndoQuest Robotics hires chief commercial officer"
+ },
  "rss:a11a5ea6c326fce3": {
   "first_seen": "2026-10-16T13:14:57+00:00",
   "priority": null,
@@ -2141,6 +2270,20 @@
   "status": "dropped",
   "title": "Steris inks $2.1B Xodus buyout to expand consumables portfolio"
  },
+ "rss:a73f896d7c4c5d13": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Two Women Hospitalized with E. coli O157:H7 Sue Trader Joe's Over Tarragon Chicken Salad Wraps; Complaint Names the Product and the Retailer that FDA and USDA H"
+ },
+ "rss:a97cbfa687f25705": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "U.S. Labor Secretary Highlights Advanced Manufacturing and Biotech Jobs During Visit to Niowave"
+ },
  "rss:b369dba862f66fb0": {
   "first_seen": "2026-10-16T02:46:06+00:00",
   "priority": null,
@@ -2154,6 +2297,13 @@
   "source": "rss",
   "status": "dropped",
   "title": "Dr. Wee Joo Chng to Receive Asian Myeloma Network Distinguished Service Award at the 10th AMN Summit in Shanghai"
+ },
+ "rss:bbb98dd9f6296b26": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "n6 Achieves ISO 13485:2016 Certification, Strengthening the Quality Foundation Behind iconPCR™ Instruments"
  },
  "rss:bc7b1337f59f6a69": {
   "first_seen": "2026-10-16T02:46:07+00:00",
@@ -2220,6 +2370,27 @@
   "status": "triaged",
   "title": "HeartFlow Inc (HTFL) CEO John Farquhar Sells 38,900 Shares - GuruFocus"
  },
+ "rss:dfba4564fa4245c8": {
+  "first_seen": "2026-10-16T17:43:10+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "AMA releases governance framework for agentic AI in healthcare"
+ },
+ "rss:e1bd311eb4b32dfb": {
+  "first_seen": "2026-10-16T17:43:10+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "MiniMed completes separation from Medtronic"
+ },
+ "rss:e1eddbef5f1b9234": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Purina and RedRover Mark Domestic Violence Awareness Month by Announcing 2026 Purple Leash Project Grant Recipients"
+ },
  "rss:e45cb2c669d44afe": {
   "first_seen": "2026-10-16T13:14:57+00:00",
   "priority": null,
@@ -2285,6 +2456,13 @@
   "status": "dropped",
   "title": "Harford Mutual Insurance Group Executive Vice President Jeff Rink Joins Upper Chesapeake Health Foundation Board"
  },
+ "rss:f120f4e165ed43b3": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Paris Court Ruling on Discontinued Feature Will Have Minimal Impact on Angelalign Customers"
+ },
  "rss:f40223dcfb41b630": {
   "first_seen": "2026-10-16T13:14:57+00:00",
   "priority": null,
@@ -2306,11 +2484,32 @@
   "status": "dropped",
   "title": "IEHP named a 'Best Workplace in Health Care' for fifth consecutive year"
  },
+ "rss:fac565563383c883": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Recognize Runs 'What's the Point?' Billboard Campaign in Times Square and Downtown LA"
+ },
  "rss:fbca968e955bd54f": {
   "first_seen": "2026-10-16T02:46:11+00:00",
   "priority": null,
   "source": "rss",
   "status": "dropped",
   "title": "Exploring major trends in cardiac MRI - Cardiovascular Business"
+ },
+ "rss:fc6af647a6270d96": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Brazilian Fernanda Maciel Sets Salar de Uyuni Fastest Known Time of 19:50:08"
+ },
+ "rss:ffb8fab12698aa7e": {
+  "first_seen": "2026-10-16T17:43:12+00:00",
+  "priority": null,
+  "source": "rss",
+  "status": "dropped",
+  "title": "Meant Highlights Care Coaching and Nutrition Support as Core Parts of Telehealth GLP-1 Weight Care"
  }
 }

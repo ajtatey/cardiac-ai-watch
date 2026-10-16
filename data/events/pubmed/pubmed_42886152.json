@@ -1,0 +1,50 @@
+{
+ "category": "clinical",
+ "collected_at": "2026-10-16T17:43:06+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA.",
+   "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA.",
+   "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA.",
+   "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA.",
+   "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota, USA."
+  ],
+  "authors": [
+   "Tsaban G",
+   "Lee E",
+   "Lopez-Jimenez F",
+   "Miranda WR",
+   "Kane GC",
+   "Chen HH"
+  ],
+  "doi": "10.1016/j.jcmg.2026.08.016",
+  "journal": "JACC. Cardiovascular imaging",
+  "pub_types": [
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42886152",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence",
+   "\\bai\\b",
+   "algorithm"
+  ],
+  "cardiac": [
+   "\\bheart\\b",
+   "myocard",
+   "echocardiog",
+   "ventric",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 13
+ },
+ "published": "2026-10-12",
+ "source": "pubmed",
+ "status": "new",
+ "summary": "JACC. Cardiovascular imaging. Tsaban G, Lee E, Lopez-Jimenez F, Miranda WR, Kane GC, Chen HH. Left ventricular diastolic filling pressure (LVFP) is a hallmark of heart failure. Although pulmonary artery wedge pressure (PAWP) measured during right heart catheterization (RHC) is the reference standard, echocardiography is more commonly used in practice. The authors previously developed an artificial intelligence-enabled electrocardiographic (AI-ECG) algorithm, trained on echocardiographic assessment, to classify LVFP. The aim of this study was to evaluate the prognostic implications of LVFP classification by AI-ECG, echocardiography, and PAWP among patients undergoing temporally proximate testing. Adults who underwent echocardiography with electrocardiography within 14 days and RHC within 30 days were included. Elevated LVFP was defined as PAWP ≥15 mm Hg, grade 2 or 3 diastolic dysfunction by echocardiography, or elevated LVFP as classified by AI-ECG. Associations with all-cause mortality and major adverse cardiovascular events were assessed. Among 4,168 patients (median age: 64 years; 47.7% women), elevated LVFP was classified by AI-ECG in 2,383 patients, by echocardiography in 1,643, and by PAWP in 1,841. AI-ECG showed good discrimination for echocardiographic LVFP (AUC: 0.879; 95% CI: 0.867-0.891) and moderate discrimination for PAWP (AUC: 0.711; 95% CI: 0.695-0.727). Over 7.7 years, 1,433 deaths occurred. Elevated LVFP classification by AI-ECG (adjusted HR [aHR]: 1.80; 95% CI: 1.55-2.09) and echocardiography (aHR: 1.74; 95% CI: 1.51-2.02) showed stronger associations with mortality than PAWP (aHR: 1.18; 95% CI: 1.05-1.31); in discordant cases, AI-ECG better predicted survival. Similar associations were observed for major adverse cardiovascular events. Despite moderate agreement with PAWP, echocardiography and AI-ECG showed stronger associations with clinical outcomes, suggesting they capture prognostically relevant myocardial information beyond resting hemodynamic status.",
+ "title": "Left Ventricular Filling Pressure Classification by Electrocardiogram, Echocardiography, and Catheterization: Prognostic Implications.",
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42886152/"
+}

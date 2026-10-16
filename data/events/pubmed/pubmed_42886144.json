@@ -1,0 +1,47 @@
+{
+ "category": "clinical",
+ "collected_at": "2026-10-16T17:43:06+00:00",
+ "extra": {
+  "affiliations": [
+   "Department of Cardiology, The First Affiliated Hospital, Harbin Medical University, Harbin, China.",
+   "Department of Cardiology, The First Affiliated Hospital, Harbin Medical University, Harbin, China.",
+   "Department of Cardiology, The First Affiliated Hospital, Harbin Medical University, Harbin, China.",
+   "Department of Cardiology, The Second Affiliated Hospital of Harbin Medical University, Harbin, China.",
+   "The First Affiliated Hospital of Harbin Medical University and Harbin Medical University Cancer Hospital, Harbin, China."
+  ],
+  "authors": [
+   "Wang D",
+   "Gao Q",
+   "Liu X",
+   "Tian J",
+   "Zhang Z",
+   "Li Y"
+  ],
+  "doi": "10.1016/j.jaccas.2026.110994",
+  "journal": "JACC. Case reports",
+  "pub_types": [
+   "Case Reports",
+   "Journal Article"
+  ]
+ },
+ "id": "pubmed:42886144",
+ "prefilter": {
+  "ai": [
+   "artificial intelligence"
+  ],
+  "cardiac": [
+   "coronar",
+   "ccta",
+   "plaque"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 7
+ },
+ "published": "2026-10-16",
+ "source": "pubmed",
+ "status": "new",
+ "summary": "JACC. Case reports. Wang D, Gao Q, Liu X, Tian J, Zhang Z, Li Y. Coronary computed tomography angiography (CCTA) is usually displayed in 2-dimensional planes with few fixed 3-dimensional (3D) views, which may limit appreciation of the spatial relationship between plaques and vessel. We describe initial clinical experience with CorVIS, an artificial intelligence-based coronary visualization system, in complex percutaneous coronary intervention (PCI). We present 3 cases-2 chronic total occlusions and 1 heavily calcified lesion-in which CorVIS provided freely rotatable 3D reconstructions with plaque characterization. In each case, the CorVIS corresponded to specific procedural decisions, including the chosen crossing approach and calcium-modification strategy. All 3 procedures were completed successfully. These cases suggest that artificial intelligence-based 3D CCTA reconstruction may complement conventional imaging for preprocedural planning of complex PCI. The efficacy of CorVIS in facilitating complex PCI remains to be verified in further prospective studies. In this initial case series, CorVIS delivered freely rotatable 3D CCTA reconstructions and plaque characterization, informing key procedural decisions for complex PCI.",
+ "title": "Coronary Visual Intelligence System (CorVIS) Guided Complex Percutaneous Coronary Intervention.",
+ "url": "https://pubmed.ncbi.nlm.nih.gov/42886144/"
+}
