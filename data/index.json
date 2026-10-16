@@ -31,10 +31,9 @@
  },
  "ctgov:NCT02911103:2026-10-16": {
   "first_seen": "2026-10-16T13:14:53+00:00",
-  "path": "data/events/clinicaltrials/ctgov_NCT02911103_2026-10-16.json",
   "priority": null,
   "source": "clinicaltrials",
-  "status": "new",
+  "status": "dropped",
   "title": "Deep Brain Stimulation Surgery for Focal Hand Dystonia (NCT02911103)"
  },
  "ctgov:NCT06172296:2026-10-14": {
@@ -46,10 +45,9 @@
  },
  "ctgov:NCT06172296:2026-10-16": {
   "first_seen": "2026-10-16T13:14:53+00:00",
-  "path": "data/events/clinicaltrials/ctgov_NCT06172296_2026-10-16.json",
   "priority": null,
   "source": "clinicaltrials",
-  "status": "new",
+  "status": "dropped",
   "title": "Dinutuximab With Chemotherapy, Surgery and Stem Cell Transplantation for the Treatment of Children With Newly Diagnosed High Risk Neuroblastoma (NCT06172296)"
  },
  "ctgov:NCT06462989:2026-10-13": {
@@ -79,9 +77,9 @@
  "ctgov:NCT06894095:2026-10-16": {
   "first_seen": "2026-10-16T13:14:53+00:00",
   "path": "data/events/clinicaltrials/ctgov_NCT06894095_2026-10-16.json",
-  "priority": null,
+  "priority": "P3",
   "source": "clinicaltrials",
-  "status": "new",
+  "status": "triaged",
   "title": "Dongzong Cardiovascular Bio-imaging Registry Study (NCT06894095)"
  },
  "ctgov:NCT07057466:2026-10-08": {
@@ -102,18 +100,17 @@
  },
  "ctgov:NCT07531966:2026-10-16": {
   "first_seen": "2026-10-16T13:14:53+00:00",
-  "path": "data/events/clinicaltrials/ctgov_NCT07531966_2026-10-16.json",
   "priority": null,
   "source": "clinicaltrials",
-  "status": "new",
+  "status": "dropped",
   "title": "Vascular Complications After Kidney Transplantation (NCT07531966)"
  },
  "ctgov:NCT07599956:2026-10-16": {
   "first_seen": "2026-10-16T13:14:53+00:00",
   "path": "data/events/clinicaltrials/ctgov_NCT07599956_2026-10-16.json",
-  "priority": null,
+  "priority": "P2",
   "source": "clinicaltrials",
-  "status": "new",
+  "status": "triaged",
   "title": "Artificial Intelligence to Scale Early Rheumatic Heart Disease Detection (NCT07599956)"
  },
  "ctgov:NCT07613294:2026-10-08": {
@@ -159,17 +156,17 @@
  "ctgov:NCT07877324:2026-10-16": {
   "first_seen": "2026-10-16T13:14:53+00:00",
   "path": "data/events/clinicaltrials/ctgov_NCT07877324_2026-10-16.json",
-  "priority": null,
+  "priority": "P2",
   "source": "clinicaltrials",
-  "status": "new",
+  "status": "triaged",
   "title": "Vascular Inflammation in Atherosclerosis - Whole Body Molecular PET/CT Imaging Using Folate Receptor β (NCT07877324)"
  },
  "ctgov:NCT07878325:2026-10-16": {
   "first_seen": "2026-10-16T13:14:53+00:00",
   "path": "data/events/clinicaltrials/ctgov_NCT07878325_2026-10-16.json",
-  "priority": null,
+  "priority": "P3",
   "source": "clinicaltrials",
-  "status": "new",
+  "status": "triaged",
   "title": "Effects of a Specialized Diabetes and Heart Clinic and Detection of Unrecognized Heart Failure in People With Type 2 Diabetes and Cardiovascular Disease (NCT078"
  },
  "edgar:0001464521-26-000154": {
@@ -1782,17 +1779,17 @@
  "pubmed:42882102": {
   "first_seen": "2026-10-16T13:14:53+00:00",
   "path": "data/events/pubmed/pubmed_42882102.json",
-  "priority": null,
+  "priority": "P2",
   "source": "pubmed",
-  "status": "new",
+  "status": "triaged",
   "title": "A Parsimonious Machine Learning Model for Predicting Invasive Coronary Angiography Referral After Coronary Computed Tomography Angiography: Development and Mult"
  },
  "pubmed:42882311": {
   "first_seen": "2026-10-16T13:14:53+00:00",
   "path": "data/events/pubmed/pubmed_42882311.json",
-  "priority": null,
+  "priority": "P3",
   "source": "pubmed",
-  "status": "new",
+  "status": "triaged",
   "title": "Curriculum-Based Deep Learning for Automated Segmental Left Ventricular Hypertrophy Classification Using Short-Axis Echocardiography."
  },
  "rss:0075e4b82f55c6ed": {
