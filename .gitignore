@@ -5,3 +5,6 @@ __pycache__/
 # Summary PDFs are re-downloadable from the URL stored on each event; keep only extracted text in git.
 data/fda_summaries/*.pdf
 data/briefs/outbox/
+# agent scratch files
+pending.json
+results.json

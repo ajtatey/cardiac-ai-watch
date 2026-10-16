@@ -8,7 +8,7 @@ store stays consistent, and commit everything you change.
 Setup in every session:
 
 ```sh
-pip install -r requirements.txt
+python -m pip install -q -r requirements.txt
 python -m watch status
 ```
 
