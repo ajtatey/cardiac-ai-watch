@@ -1,4 +1,5 @@
 {
+ "alerted_at": null,
  "category": "news",
  "collected_at": "2026-10-17T17:03:03+00:00",
  "extra": {
@@ -17,9 +18,26 @@
   "score": 5
  },
  "published": "2026-10-17",
+ "reported_in": null,
  "source": "rss",
- "status": "new",
+ "status": "triaged",
  "summary": "Form 144 Heartflow For: 17 October By Investing.com &nbsp;&nbsp; Investing.com Australia",
  "title": "Form 144 Heartflow For: 17 October By Investing.com - Investing.com Australia",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P2",
+  "relevance": 2,
+  "summary": "An Investing.com item reports a Form 144 filing for Heartflow dated 17 October, a notice of a proposed sale of restricted shares by an insider. The headline does not give the filer or share count.",
+  "tags": [
+   "financing",
+   "insider-sale",
+   "public-company"
+  ],
+  "triaged_at": "2026-10-17T17:51:23+00:00",
+  "triaged_by": "agent:claude-sonnet-5-5",
+  "why_it_matters": "Insider sale notices are a routine signal on Heartflow, Cleerly's closest competitor in coronary CT, and are worth tracking alongside its stock and lockup dynamics, but are not material by themselves."
+ },
  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0g3MWF2ckRFYWxobm1PZlI2RUFMc09NN2h2MnhMemlTYS1UNjhWUzJ5VnJOZ1VnLXNTOGhoOWtXVnNYWmhVbFpLTy10a25DMC1IOFBudE9hRXRlTW5pUTBrV05iYlMybzg4dmhPVFloSnJNdU5lbHVvWGRBbXFPeDVoZ2dQZldqRW4zdENjaUFFNWVkVGJuZDdB?oc=5"
 }

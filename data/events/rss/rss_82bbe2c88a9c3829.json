@@ -1,4 +1,5 @@
 {
+ "alerted_at": null,
  "category": "news",
  "collected_at": "2026-10-17T17:03:10+00:00",
  "extra": {
@@ -19,9 +20,23 @@
   "score": 3
  },
  "published": "2026-10-16",
+ "reported_in": null,
  "source": "rss",
- "status": "new",
+ "status": "triaged",
  "summary": "AI gaining ground in electrophysiology, but clinicians still run the show &nbsp;&nbsp; Cardiovascular Business",
  "title": "AI gaining ground in electrophysiology, but clinicians still run the show - Cardiovascular Business",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 1,
+  "summary": "Cardiovascular Business reports on AI adoption in cardiac electrophysiology, noting clinicians remain in control of decisions. Only the headline was available; no article text was reviewed.",
+  "tags": [
+   "news",
+   "electrophysiology"
+  ],
+  "triaged_at": "2026-10-17T17:51:23+00:00",
+  "triaged_by": "agent:claude-sonnet-5-5",
+  "why_it_matters": "Adjacent to cardiac imaging but concerns EP rather than coronary CT or plaque analysis, so no direct implication for Cleerly."
+ },
  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNajRndTRlRXlxRG5wWlhIZlgwOWVtZlN0SVRmZWdDU3JNUnRfS3daMW4zVjdjT1FXRVd3SW9Hc3QzeW14Y2c2b2NBZ25GbWROZGo1MVA3bTFtdmhDSFVIRldBV3M4cmNYZjAwRlZBTGhIZFRsdEN6Z3lzTFExZG55aHQycnF3LVFSMThkdnN2TjdmaHR4ZlBuVmZ5U1FJa1Q1NDJSODBIaEloUHBTaTI0N29WUWo2NWxxRXdwbTc0Z3p0Tk4xNUsyb1BKZVJYTzVvMTJRMTJlWWZ3MnpHZ3Bka1hB?oc=5"
 }

@@ -2302,9 +2302,9 @@
  "rss:82bbe2c88a9c3829": {
   "first_seen": "2026-10-17T17:03:10+00:00",
   "path": "data/events/rss/rss_82bbe2c88a9c3829.json",
-  "priority": null,
+  "priority": "P3",
   "source": "rss",
-  "status": "new",
+  "status": "triaged",
   "title": "AI gaining ground in electrophysiology, but clinicians still run the show - Cardiovascular Business"
  },
  "rss:83181b5ed5a60b98": {
@@ -2345,9 +2345,9 @@
  "rss:8e8df0df406a298d": {
   "first_seen": "2026-10-17T17:03:03+00:00",
   "path": "data/events/rss/rss_8e8df0df406a298d.json",
-  "priority": null,
+  "priority": "P2",
   "source": "rss",
-  "status": "new",
+  "status": "triaged",
   "title": "Form 144 Heartflow For: 17 October By Investing.com - Investing.com Australia"
  },
  "rss:94cda5debfa4c5f9": {
