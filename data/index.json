@@ -2102,9 +2102,9 @@
  "rss:4676cbe0853eab94": {
   "first_seen": "2026-10-17T10:35:44+00:00",
   "path": "data/events/rss/rss_4676cbe0853eab94.json",
-  "priority": null,
+  "priority": "P3",
   "source": "rss",
-  "status": "new",
+  "status": "triaged",
   "title": "Clinicians from all specialties use AI to answer cardiology questions - Cardiovascular Business"
  },
  "rss:4c251271df6ed003": {

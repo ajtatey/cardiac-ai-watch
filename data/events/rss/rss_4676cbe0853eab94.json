@@ -1,4 +1,5 @@
 {
+ "alerted_at": null,
  "category": "news",
  "collected_at": "2026-10-17T10:35:44+00:00",
  "extra": {
@@ -20,9 +21,23 @@
   "score": 5
  },
  "published": "2026-10-16",
+ "reported_in": null,
  "source": "rss",
- "status": "new",
+ "status": "triaged",
  "summary": "Clinicians from all specialties use AI to answer cardiology questions &nbsp;&nbsp; Cardiovascular Business",
  "title": "Clinicians from all specialties use AI to answer cardiology questions - Cardiovascular Business",
+ "triage": {
+  "companies": [],
+  "priority": "P3",
+  "relevance": 1,
+  "summary": "Cardiovascular Business reports on clinicians across specialties using AI tools to answer cardiology questions. No specific imaging product, company or regulatory action is named in the feed excerpt.",
+  "tags": [
+   "llm",
+   "clinician-ai-use"
+  ],
+  "triaged_at": "2026-10-17T10:51:28+00:00",
+  "triaged_by": "agent:claude-sonnet-5-5",
+  "why_it_matters": "General background on clinician AI adoption; no direct implication for Cleerly or AI-QCT."
+ },
  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDdiZlRkUGp4YkNseEVkUWNDVUt3RE5WWFNLMHpGUmpOSkpoUDI0VllfTjg0ZVhxV3p1bTVQbnlJNUNhVThoSURMRGEzYWJKZWhOaC1yS01HTGRLQm5KWDVJTGxGd2M0XzNQeHNTVXRxWVZtbUhsdW4tQzNnanBBdGVvRVZWTWJTbmpfcEp4RXZ4Um0weGJZU1JHNVJDd3l3LV84R1dOVGZmNEdoZUE5elpRcEcweDRkcFJiZks3VDc1NG1NUVE?oc=5"
 }
