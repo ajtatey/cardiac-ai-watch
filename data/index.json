@@ -2060,9 +2060,9 @@
  "rss:3692c5dd612713af": {
   "first_seen": "2026-10-17T19:15:35+00:00",
   "path": "data/events/rss/rss_3692c5dd612713af.json",
-  "priority": null,
+  "priority": "P2",
   "source": "rss",
-  "status": "new",
+  "status": "triaged",
   "title": "Form 144 Heartflow For: 17 October By Investing.com - Investing.com Nigeria"
  },
  "rss:38f6e4b4d22be399": {

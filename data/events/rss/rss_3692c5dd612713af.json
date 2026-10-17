@@ -1,4 +1,5 @@
 {
+ "alerted_at": null,
  "category": "news",
  "collected_at": "2026-10-17T19:15:35+00:00",
  "extra": {
@@ -17,9 +18,26 @@
   "score": 5
  },
  "published": "2026-10-17",
+ "reported_in": null,
  "source": "rss",
- "status": "new",
+ "status": "triaged",
  "summary": "Form 144 Heartflow For: 17 October By Investing.com &nbsp;&nbsp; Investing.com Nigeria",
  "title": "Form 144 Heartflow For: 17 October By Investing.com - Investing.com Nigeria",
+ "triage": {
+  "companies": [
+   "heartflow"
+  ],
+  "priority": "P2",
+  "relevance": 2,
+  "summary": "Investing.com reports a Form 144 filing for Heartflow dated 17 October, a notice of a proposed sale of restricted shares by an insider. The headline gives no share count, seller or value.",
+  "tags": [
+   "filing",
+   "insider-sale",
+   "public-company"
+  ],
+  "triaged_at": "2026-10-17T19:51:48+00:00",
+  "triaged_by": "agent:claude-sonnet-5-5",
+  "why_it_matters": "Routine insider-sale notice that mentions a tracked competitor and signals nothing about products, trials or regulation; worth noting only as a Heartflow public-equity data point."
+ },
  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWw0R19ZLW1tZGVIMlB6WjgyaENDcGRCclRNMFhuS2ZHd0hadmdMcFQ3VEZGa1hPMzRNeFJTNF9iUWxjbExTNjZhTGoxWURqVW5pMVg4VFdoLWhnOW1NWDE3VFpHaFh0WFRielUyX1IyeS02ZDRhTlhGbWRLZERSclF4NGZ6Z0txZnBuZkU1Y2NBaHRGNnBGeGFB?oc=5"
 }
