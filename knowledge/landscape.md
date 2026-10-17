@@ -1,6 +1,6 @@
 # Landscape: AI coronary CT in the US
 
-_One-page view, agent-maintained. Last reviewed 2026-10-16. Every row cites its source; details live in `knowledge/companies/`._
+_One-page view, agent-maintained. Last reviewed 2026-10-17. Every row cites its source; details live in `knowledge/companies/`._
 
 ## Who has what cleared (CCTA plaque, physiology, prognosis)
 
