@@ -1,0 +1,28 @@
+{
+ "category": "news",
+ "collected_at": "2026-10-17T10:35:44+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "Cardiovascular Business",
+  "query": "site:cardiovascularbusiness.com AI"
+ },
+ "id": "rss:4676cbe0853eab94",
+ "prefilter": {
+  "ai": [
+   "\\bai\\b"
+  ],
+  "cardiac": [
+   "cardiolog",
+   "cardiovascular"
+  ],
+  "companies": [],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-16",
+ "source": "rss",
+ "status": "new",
+ "summary": "Clinicians from all specialties use AI to answer cardiology questions &nbsp;&nbsp; Cardiovascular Business",
+ "title": "Clinicians from all specialties use AI to answer cardiology questions - Cardiovascular Business",
+ "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDdiZlRkUGp4YkNseEVkUWNDVUt3RE5WWFNLMHpGUmpOSkpoUDI0VllfTjg0ZVhxV3p1bTVQbnlJNUNhVThoSURMRGEzYWJKZWhOaC1yS01HTGRLQm5KWDVJTGxGd2M0XzNQeHNTVXRxWVZtbUhsdW4tQzNnanBBdGVvRVZWTWJTbmpfcEp4RXZ4Um0weGJZU1JHNVJDd3l3LV84R1dOVGZmNEdoZUE5elpRcEcweDRkcFJiZks3VDc1NG1NUVE?oc=5"
+}
