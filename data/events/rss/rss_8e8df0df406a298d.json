@@ -1,0 +1,25 @@
+{
+ "category": "news",
+ "collected_at": "2026-10-17T17:03:03+00:00",
+ "extra": {
+  "feed": "Google News",
+  "publisher": "Investing.com Australia",
+  "query": "HeartFlow"
+ },
+ "id": "rss:8e8df0df406a298d",
+ "prefilter": {
+  "ai": [],
+  "cardiac": [],
+  "companies": [
+   "heartflow"
+  ],
+  "keep": true,
+  "score": 5
+ },
+ "published": "2026-10-17",
+ "source": "rss",
+ "status": "new",
+ "summary": "Form 144 Heartflow For: 17 October By Investing.com &nbsp;&nbsp; Investing.com Australia",
+ "title": "Form 144 Heartflow For: 17 October By Investing.com - Investing.com Australia",
+ "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0g3MWF2ckRFYWxobm1PZlI2RUFMc09NN2h2MnhMemlTYS1UNjhWUzJ5VnJOZ1VnLXNTOGhoOWtXVnNYWmhVbFpLTy10a25DMC1IOFBudE9hRXRlTW5pUTBrV05iYlMybzg4dmhPVFloSnJNdU5lbHVvWGRBbXFPeDVoZ2dQZldqRW4zdENjaUFFNWVkVGJuZDdB?oc=5"
+}

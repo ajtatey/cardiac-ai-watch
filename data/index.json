@@ -2299,6 +2299,14 @@
   "status": "dropped",
   "title": "AI matches radiologists at prostate cancer detection via MRI - Radiology Business"
  },
+ "rss:82bbe2c88a9c3829": {
+  "first_seen": "2026-10-17T17:03:10+00:00",
+  "path": "data/events/rss/rss_82bbe2c88a9c3829.json",
+  "priority": null,
+  "source": "rss",
+  "status": "new",
+  "title": "AI gaining ground in electrophysiology, but clinicians still run the show - Cardiovascular Business"
+ },
  "rss:83181b5ed5a60b98": {
   "first_seen": "2026-10-16T20:58:30+00:00",
   "priority": null,
@@ -2333,6 +2341,14 @@
   "source": "rss",
   "status": "dropped",
   "title": "Manual, DL-generated segmentations differ in radiomic features"
+ },
+ "rss:8e8df0df406a298d": {
+  "first_seen": "2026-10-17T17:03:03+00:00",
+  "path": "data/events/rss/rss_8e8df0df406a298d.json",
+  "priority": null,
+  "source": "rss",
+  "status": "new",
+  "title": "Form 144 Heartflow For: 17 October By Investing.com - Investing.com Australia"
  },
  "rss:94cda5debfa4c5f9": {
   "first_seen": "2026-10-16T02:46:07+00:00",
